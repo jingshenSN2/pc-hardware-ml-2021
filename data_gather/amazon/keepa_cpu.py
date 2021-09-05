@@ -4,6 +4,12 @@ access_key = 'cju3topabp5hdq28hn3jhod62fb7noiitniam32kd71f76v9nta6t4or5qms00gv'
 
 
 def get_cpu(manufacturer, product, ASIN_list):
+    """
+    :param manufacturer: 'intel' or 'amd',  manufacturer of cpu, as part of save path
+    :param product: cpu product name
+    :param ASIN_list: single ASIN or list of ASINs
+    :return:
+    """
     if isinstance(ASIN_list, str):
         ASIN_list = [ASIN_list]
     for ASIN in ASIN_list:

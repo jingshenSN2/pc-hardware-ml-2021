@@ -4,6 +4,12 @@ access_key = 'cju3topabp5hdq28hn3jhod62fb7noiitniam32kd71f76v9nta6t4or5qms00gv'
 
 
 def get_gpu(manufacturer, product, ASIN_list):
+    """
+    :param manufacturer: manufacturer of gpu, as part of save path
+    :param product: gpu product name
+    :param ASIN_list: list of ASINs
+    :return:
+    """
     for ASIN in ASIN_list:
         print(f'Requesting information of manufacturer: {manufacturer}, product: {product}, ASIN: {ASIN}')
         url = f'https://api.keepa.com/product?key={access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
