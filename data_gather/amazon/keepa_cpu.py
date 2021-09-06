@@ -133,10 +133,3 @@ def get_cpu(manufacturer, product, ASIN_list):
 # get_cpu('amd', 'ryzen 5 2600', 'B07B41WS48')
 # get_cpu('amd', 'ryzen 5 3400G', 'B07SXNDKNM')
 # get_cpu('amd', 'ryzen 3 3200G', 'B07STGHZK8')
-
-
-
-
-
-
-
