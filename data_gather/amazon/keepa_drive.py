@@ -3,6 +3,23 @@ import requests
 access_key = 'cju3topabp5hdq28hn3jhod62fb7noiitniam32kd71f76v9nta6t4or5qms00gv'
 
 
+def get_drive(manufacturer, drive_type, sub_type, product, ASIN_dict):
+    """
+    :param manufacturer: manufacturer of ssd, as part of save path
+    :param product: ssd product name
+    :param drive_type: type of drive, 'hdd' or 'ssd'
+    :param sub_type: subtype of drive, 'nvme', 'm2' or 'sata' for ssd, '25' or '35' for hdd
+    :param ASIN_dict: dict of ASIN, key is capacity and value is ASIN
+    :return:
+    """
+    for capacity, ASIN in ASIN_dict.items():
+        print(f'Requesting ssd information of manufacturer: {manufacturer}, type: {drive_type}, sub_type: {sub_type}, product: {product}, capacity: {capacity}, ASIN: {ASIN}')
+        url = f'https://api.keepa.com/product?key={access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
+        req = requests.get(url)
+        with open(f'{drive_type}/{manufacturer}/{sub_type}-{product}-{capacity}-{ASIN}.json', 'wb') as f:
+            f.write(req.content)
+
+
 def get_ssd(manufacturer, ssd_type, product, ASIN_dict):
     """
     :param manufacturer: manufacturer of ssd, as part of save path
@@ -11,12 +28,7 @@ def get_ssd(manufacturer, ssd_type, product, ASIN_dict):
     :param ASIN_dict: dict of ASIN, key is capacity and value is ASIN, capacity should be multiple of 128gb
     :return:
     """
-    for capacity, ASIN in ASIN_dict.items():
-        print(f'Requesting ssd information of manufacturer: {manufacturer}, type: {ssd_type}, product: {product}, capacity: {capacity}, ASIN: {ASIN}')
-        url = f'https://api.keepa.com/product?key={access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
-        req = requests.get(url)
-        with open(f'ssd/{manufacturer}/{ssd_type}-{product}-{capacity}-{ASIN}.json', 'wb') as f:
-            f.write(req.content)
+    get_drive(manufacturer, 'ssd', ssd_type, product, ASIN_dict)
 
 
 def get_hdd(manufacturer, hdd_size, product, ASIN_dict):
@@ -24,15 +36,10 @@ def get_hdd(manufacturer, hdd_size, product, ASIN_dict):
     :param manufacturer: manufacturer of hdd, as part of save path
     :param hdd_size: disk size, '25' or '35'
     :param product: hdd product name
-    :param ASIN_dict: key is capacity and value is ASIN, capacity should be multiple of 500gb
+    :param ASIN_dict: dict of ASIN, key is capacity and value is ASIN, capacity should be multiple of 500gb
     :return:
     """
-    for capacity, ASIN in ASIN_dict.items():
-        print(f'Requesting hdd information of manufacturer: {manufacturer}, size: {hdd_size}, product: {product}, capacity: {capacity}, ASIN: {ASIN}')
-        url = f'https://api.keepa.com/product?key={access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
-        req = requests.get(url)
-        with open(f'hdd/{manufacturer}/{hdd_size}-{product}-{capacity}-{ASIN}.json', 'wb') as f:
-            f.write(req.content)
+    get_drive(manufacturer, 'hdd', hdd_size, product, ASIN_dict)
 
 
 # SSD dict_template: {'128gb': '', '256gb': '', '512gb': '', '1tb': '', '2tb': ''}
