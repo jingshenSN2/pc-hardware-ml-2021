@@ -11,5 +11,5 @@ def get_crypto_price(crypto):
         f.write(req.content)
 
 
-for crypto in ['BTC', 'ETH', 'Doge', 'LTC', 'BCH', 'ETC', 'XMR', 'Dash']:
+for crypto in ['BTC', 'ETH', 'Doge', 'LTC', 'BCH', 'ETC', 'XMR', 'Dash', 'XCH']:
     get_crypto_price(crypto)
