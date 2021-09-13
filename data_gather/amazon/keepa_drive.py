@@ -1,6 +1,5 @@
 import requests
-# subscribe on https://keepa.com/#!api to get access key
-access_key = 'cju3topabp5hdq28hn3jhod62fb7noiitniam32kd71f76v9nta6t4or5qms00gv'
+from data_gather.api_key import *
 
 
 def get_drive(manufacturer, drive_type, sub_type, product, ASIN_dict):
@@ -14,7 +13,7 @@ def get_drive(manufacturer, drive_type, sub_type, product, ASIN_dict):
     """
     for capacity, ASIN in ASIN_dict.items():
         print(f'Requesting ssd information of manufacturer: {manufacturer}, type: {drive_type}, sub_type: {sub_type}, product: {product}, capacity: {capacity}, ASIN: {ASIN}')
-        url = f'https://api.keepa.com/product?key={access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
+        url = f'https://api.keepa.com/product?key={keepa_access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
         req = requests.get(url)
         with open(f'{drive_type}/{manufacturer}/{sub_type}-{product}-{capacity}-{ASIN}.json', 'wb') as f:
             f.write(req.content)

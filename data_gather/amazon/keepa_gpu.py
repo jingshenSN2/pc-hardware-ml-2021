@@ -1,6 +1,5 @@
 import requests
-# subscribe on https://keepa.com/#!api to get access key
-access_key = 'cju3topabp5hdq28hn3jhod62fb7noiitniam32kd71f76v9nta6t4or5qms00gv'
+from data_gather.api_key import *
 
 
 def get_gpu(manufacturer, product, ASIN_list):
@@ -12,7 +11,7 @@ def get_gpu(manufacturer, product, ASIN_list):
     """
     for ASIN in ASIN_list:
         print(f'Requesting information of manufacturer: {manufacturer}, product: {product}, ASIN: {ASIN}')
-        url = f'https://api.keepa.com/product?key={access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
+        url = f'https://api.keepa.com/product?key={keepa_access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
         req = requests.get(url)
         with open(f'gpu/{manufacturer}/{product}-{ASIN}.json', 'wb') as f:
             f.write(req.content)

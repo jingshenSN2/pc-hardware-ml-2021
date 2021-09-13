@@ -1,10 +1,13 @@
 # install api package
 # install.packages("Quandl")
+# install.packages("reticulate")
+library(reticulate)
+library(Quandl)
 
 # import library and set api_key
-my_api_key = "8n7Kv1Q46yvHbp9z9k23"
-library(Quandl)
-Quandl.api_key(my_api_key)
+setwd("D:/PycharmProjects/GU-ANLY-501-FALL-2021/data_gather")
+source_python('api_key.py')
+Quandl.api_key(quandl_access_key)
 
 setwd("D:/PycharmProjects/GU-ANLY-501-FALL-2021/data_gather/commodity/data")
 
