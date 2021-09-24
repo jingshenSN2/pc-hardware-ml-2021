@@ -14,4 +14,13 @@ for i in range(1, 11):
 
 
 video_df = pd.DataFrame(video_list)
+for idx, row in video_df.iterrows():
+    desc = row['description']
+    segment = desc.split('\n')
+    for idx, content in enumerate(segment):
+        if str(content).startswith('FOLLOW US ELSEWHERE'):
+            segment = segment[:idx]
+            break
+    row['description'] = '\n'.join(segment)
+
 video_df.to_csv('../../data/channel_videos.csv', index=False)
