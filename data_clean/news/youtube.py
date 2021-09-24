@@ -18,9 +18,16 @@ for idx, row in video_df.iterrows():
     desc = row['description']
     segment = desc.split('\n')
     for idx, content in enumerate(segment):
+        # clean some promotion description
         if str(content).startswith('FOLLOW US ELSEWHERE'):
             segment = segment[:idx]
             break
     row['description'] = '\n'.join(segment)
 
 video_df.to_csv('../../data/channel_videos.csv', index=False)
+
+with open('../../data/video_tags.csv', 'w') as f:
+    for idx, row in video_df.iterrows():
+        f.write(row['video_id'] + ',')
+        f.write(row['tags'])
+        f.write('\n')
