@@ -53,3 +53,6 @@ oil = na.omit(oil)
 
 # join all commodities
 commodity = Reduce(function(df1, df2) inner_join(df1, df2, by="Date"), list(al, cu, au, ag, oil))
+
+setwd("D:/PycharmProjects/GU-ANLY-501-FALL-2021/data")
+write.csv(commodity, "commodity.csv", row.names = FALSE)
