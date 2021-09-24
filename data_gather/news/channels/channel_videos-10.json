@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "YH-oI6ziTooGESA84tlMuJAXMx4",
+  "prevPageToken": "CMIDEAE",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 548,
+    "resultsPerPage": 10
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5SgYCuntEUnNlgaEIYdOZ5qkCHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZGYzEqaOrG8"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H9VAsG6Plk8AZO3Zv9u9wqByaDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MfI9QDxvyAU"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DWjm-t-zK8hqQ8B91WKicduXeuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-bjCeWG4YCg"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ab-GA3zy1asH5aMe5c1eRcmyDRQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XRxbhF8Xm3s"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ucZ5yLJCWkB3UwNkiLbtx6CNxR0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zfEuoh2G838"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XHelRN8N4_TI_WYPRBPuun99tS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1S5xhuH2DWE"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GOo4e8IbHCbUkCZGKz6XkJZFzVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D6-sqJi9lL8"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i2wRffQCFnIHB2YQzru0amQBMLw",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL3zIYvF1XjLkK2zbqBtN-eYwxG-bH_yWs"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r4TH5RbvGhvnCUuYRW79WkUfbDg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kulPdl27Ubc"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5n_gUR7KshWHvVJs0NkqGBPXlyU",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCeeFfhMcJa1kjtfZAGskOCA"
+      }
+    }
+  ]
+}
