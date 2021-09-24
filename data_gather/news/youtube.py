@@ -43,30 +43,27 @@ video_list = ['lEwZTNQCxYQ', '0vz-pTclTiI', 'qlKubWocKkg', 'zF2KF-SVIXc', 'u1Qn_
 # for vid in video_list:
 #     get_youtube_comment(vid)
 
+
 def get_youtube_channel(channel, file_name):
     print(f'Request channel: {channel}')
-    video_ids = []
     page = 1
     url = f'https://www.googleapis.com/youtube/v3/search?key={youtube_access_key}&part=id&channelId={channel}&order=date&maxResults=50'
+    video_ids = []
     resp = requests.get(url)
     for video in resp.json()['items']:
         video_ids.append(video['id']['videoId'])
-    with open(f'channels/{file_name}-{page}.json', 'wb') as f:
-        f.write(resp.content)
-        print(f'Save to channels/{file_name}-{page}.json')
+    get_youtube_info(video_ids, f'{file_name}_info-{page}')
     while 'nextPageToken' in resp.json():
         page += 1
+        video_ids = []
         next_page_token = resp.json()['nextPageToken']
         resp = requests.get(url + f'&pageToken={next_page_token}')
         for video in resp.json()['items']:
             if 'id' in video and 'videoId' in video['id']:
                 video_ids.append(video['id']['videoId'])
-        with open(f'channels/{file_name}-{page}.json', 'wb') as f:
-            f.write(resp.content)
-        print(f'Save to channels/{file_name}-{page}.json')
-    return video_ids
+        if video_ids:
+            get_youtube_info(video_ids, f'{file_name}_info-{page}')
 
 
-video_ids = get_youtube_channel('UCeeFfhMcJa1kjtfZAGskOCA', 'channel_videos_id')
-get_youtube_info(video_ids, 'channel_videos_info')
+get_youtube_channel('UCeeFfhMcJa1kjtfZAGskOCA', 'channel_videos')
 
