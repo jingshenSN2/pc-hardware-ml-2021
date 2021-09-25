@@ -25,7 +25,7 @@ for idx, row in video_df.iterrows():
         if str(content).startswith('FOLLOW US ELSEWHERE'):
             segment = segment[:idx]
             break
-    row['description'] = '\n'.join(segment)
+    row['description'] = ' '.join(segment)
 
 video_df.to_csv('../../data/channel_videos.csv', index=False)
 
