@@ -1,43 +1,11 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "mOUZUuZ-nnD7fiMUggvji2jdX5Q",
+  "etag": "e5OVt9LaBIOcykyVbfd2niwiqfA",
   "pageInfo": {
-    "totalResults": 54,
+    "totalResults": 53,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "WpFqA2fbcFvCQ69fdV3LcsgzJnI",
-      "id": "Ugy7-n-MRhVJ7GXBlXl4AaABAg",
-      "snippet": {
-        "videoId": "l1B-xsSeoCM",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "kQGUnw5Y8ev5wdeaJjWiDU7LFvw",
-          "id": "Ugy7-n-MRhVJ7GXBlXl4AaABAg",
-          "snippet": {
-            "videoId": "l1B-xsSeoCM",
-            "textDisplay": "All this and we still can't get 3080's",
-            "textOriginal": "All this and we still can't get 3080's",
-            "authorDisplayName": "Starwreck",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTa32NUf73p_IC_EzBnYj5CSMA0644ZFqdXVJ8MoQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCm7MJDZ2YzfuEJtLrVxpQPA",
-            "authorChannelId": {
-              "value": "UCm7MJDZ2YzfuEJtLrVxpQPA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-12-31T03:11:05Z",
-            "updatedAt": "2020-12-31T03:11:05Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "PrdaCgTrx5No_IY7rq0ayQglPkM",
@@ -1320,13 +1288,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "9Dh-sZ8zNcMLh7XQcCZpagwKymc",
+      "etag": "5dxEdAblEaBe5YP4dqo0uZzfFlA",
       "id": "Ugy2S_D2ikHqDZBi90N4AaABAg",
       "snippet": {
         "videoId": "l1B-xsSeoCM",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "tEoGdNSaW-nt3Ma9oEhH1tC7EUo",
+          "etag": "4593IGCZQkat6kczJJae1rP93e0",
           "id": "Ugy2S_D2ikHqDZBi90N4AaABAg",
           "snippet": {
             "videoId": "l1B-xsSeoCM",
@@ -1340,7 +1308,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 13,
+            "likeCount": 12,
             "publishedAt": "2020-12-31T03:09:50Z",
             "updatedAt": "2020-12-31T03:09:50Z"
           }

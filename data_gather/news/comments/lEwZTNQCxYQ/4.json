@@ -1,12 +1,172 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "GdjApl3ivTBsoVry7MLeOoK7KqA",
-  "nextPageToken": "QURTSl9pMmNGX0RZZHJXMWxWdlMzeG1xbkdwUVQxNFFJcDNscVluanZQOUthdFRfWEJZUG0yTkpueVhTcEIyTTJ2LWQ2eU5OMUpKeDBYZw==",
+  "etag": "m9bSVs81DfQpXDIZDIYd1EVOWsk",
+  "nextPageToken": "QURTSl9pMS1kZG4tNTBxdmNrczhmNTBtTTZodTdvdUJuX1IxT05KaTZiQW1wUWRITFE0SFpTeXItbXptZGNsRXNDR3BfcEduNk90N2l0Yw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EzM7iE0XOAzjZ_GwfrD9kaaIEoQ",
+      "id": "Ugwt8NwK9Wat3SaU5AF4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "08gp_0OXBuD4MJgnk7O4fsL8mQY",
+          "id": "Ugwt8NwK9Wat3SaU5AF4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Yea, Jake need to eat less and exercise. Doesn't look healthy..",
+            "textOriginal": "Yea, Jake need to eat less and exercise. Doesn't look healthy..",
+            "authorDisplayName": "Wadde",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSi_lxcGFMjnOVV8QqbX48SRy0f2hdyEcYHvqht7A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqOsqRhbHChdb2xUypqyHJw",
+            "authorChannelId": {
+              "value": "UCqOsqRhbHChdb2xUypqyHJw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T14:46:41Z",
+            "updatedAt": "2021-09-14T14:46:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LCyZ9JeNjEvWaIOvuTG59vEyI3I",
+      "id": "UgxkVjgTfFwjkbA0Vu14AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "taSU6p_00JoKJY84yEKv9-Z81Ak",
+          "id": "UgxkVjgTfFwjkbA0Vu14AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Is that a Finnegan Speed and Marine shirt???",
+            "textOriginal": "Is that a Finnegan Speed and Marine shirt???",
+            "authorDisplayName": "Grant Wadley",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVCcWk6JsK6JjWtJ9ARKo1ItAM-0Vm1sPTf-Vu=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCce0fk3gb3jbqcaQmZtnGrg",
+            "authorChannelId": {
+              "value": "UCce0fk3gb3jbqcaQmZtnGrg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T14:45:30Z",
+            "updatedAt": "2021-09-14T14:45:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5x9RZvz_pSxoy0-TZI_oLrwoJPU",
+      "id": "UgzBe0cMFYFSmaArETV4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mM-GH3FLLPScYfIKF-rAQ_wC3Kk",
+          "id": "UgzBe0cMFYFSmaArETV4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Silliest tech news yet. I still loved it though 😂",
+            "textOriginal": "Silliest tech news yet. I still loved it though 😂",
+            "authorDisplayName": "Robert Williams",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSK9mz6lFxdxbvSLHnE9Yr51dWqC1xkUJBaiRRCcw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1aYfNgkj4g5MC_h0RsJTDA",
+            "authorChannelId": {
+              "value": "UC1aYfNgkj4g5MC_h0RsJTDA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T14:44:55Z",
+            "updatedAt": "2021-09-14T14:44:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "srBo9Uy5FHd-w14LqJYrM1Vch7Q",
+      "id": "UgxSxrcyDwiWD4yTO2N4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Lycd6CHCie32t0wQ246SzTJ4e6Q",
+          "id": "UgxSxrcyDwiWD4yTO2N4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "not sure if I should concentrate and listen to TechNews or dance, when watching Jake",
+            "textOriginal": "not sure if I should concentrate and listen to TechNews or dance, when watching Jake",
+            "authorDisplayName": "JUMOWA GAMES",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwb6rmYZNL2iG_la48Aq2x-FzcSqriTWk-YYkTGQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCl1zWt2rLV8lh089rR_28Rg",
+            "authorChannelId": {
+              "value": "UCl1zWt2rLV8lh089rR_28Rg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T14:43:22Z",
+            "updatedAt": "2021-09-14T14:43:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ZmMOuCLNjg5l0oBg5NYaQu7P2Z0",
+      "id": "UgyUncJISbX7ZGvfNWh4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OhvR4qc52qEOMmxzaJ8VAPhRL4M",
+          "id": "UgyUncJISbX7ZGvfNWh4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Please stop being so elitist over hardware, you don't need the latest cards and 8gb is all you would every need, 4gb is decent, and one 1gb is minimum (Linux + Some light desktop enviorment)",
+            "textOriginal": "Please stop being so elitist over hardware, you don't need the latest cards and 8gb is all you would every need, 4gb is decent, and one 1gb is minimum (Linux + Some light desktop enviorment)",
+            "authorDisplayName": "That Guy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTetK5cs90GTgIWgOjxJNX3Lx5BL-q6HbXH9X2VCQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMIIt4rEffrp79Q3az4GCiQ",
+            "authorChannelId": {
+              "value": "UCMIIt4rEffrp79Q3az4GCiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T14:43:03Z",
+            "updatedAt": "2021-09-14T14:43:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "rfW_-gX5chuoMJDJVBJKX9L_pSI",
@@ -1353,20 +1513,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "ONC8SMHtVphLHJpcdejJL3Ho0uk",
+      "etag": "kWKbcRvq7nF2bOVrPGAEDQigNL4",
       "id": "UgyzUBrKXmLDSCwM3ql4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "rIZauzLuVI_IGht_rMBkZ1WivQU",
+          "etag": "WiZZA8z-3wk_2Gx9YsNzP50EWfw",
           "id": "UgyzUBrKXmLDSCwM3ql4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "i do...actually",
             "textOriginal": "i do...actually",
             "authorDisplayName": "Niu chajianfa",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwwUswjIqIhON84V2M_8KWBlvdDf4dZpl_6g=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQqdiNeR4pSCk0e7xSPgdtYUrEB6L5SZCJg2eZVjsy82u37QIk_wtxnUmLu0aRu=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UC7S2hu5_oXIcV3lgau4nX7g",
             "authorChannelId": {
               "value": "UC7S2hu5_oXIcV3lgau4nX7g"
@@ -3040,166 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-09-14T10:52:37Z",
             "updatedAt": "2021-09-14T10:52:37Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "zeUA4yoycOWhDO3t10VGufebS-g",
-      "id": "UgxavgLIHBdcbTyGk8V4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "qqWQriRJ2QorFuVD0wekJl9rOfg",
-          "id": "UgxavgLIHBdcbTyGk8V4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Firefox rules",
-            "textOriginal": "Firefox rules",
-            "authorDisplayName": "Francesco Varrato",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVWETNDq60btQkK1c2sAEknQwx_KD2XY1j90Qap_Y=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC_BefUmtUOJ_S3HO3z-iOSA",
-            "authorChannelId": {
-              "value": "UC_BefUmtUOJ_S3HO3z-iOSA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T10:52:14Z",
-            "updatedAt": "2021-09-14T10:52:14Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "VJHg8oTSLj7eEGGjAGNq_lWQ6ps",
-      "id": "Ugwvd9FKLAx3Fp7ED0B4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "yx2AGOVQj1CFGkFsqRkZ6a0Uto0",
-          "id": "Ugwvd9FKLAx3Fp7ED0B4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "MSI scalping their own cards so nvidia releases more 20 series cards... Problem solved.",
-            "textOriginal": "MSI scalping their own cards so nvidia releases more 20 series cards... Problem solved.",
-            "authorDisplayName": "Tony T",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnEsBQpYod0kgCJzuNklFlYslo1kzdPSnB=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCscr-cw2Kw12EYTASX_p5Gw",
-            "authorChannelId": {
-              "value": "UCscr-cw2Kw12EYTASX_p5Gw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T10:50:38Z",
-            "updatedAt": "2021-09-14T10:50:38Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "T0YRDIX1w6lwyXN9424pcV9YgTg",
-      "id": "UgyGm4IEI0m-vdQ7DaR4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "1IxTJq_IaYdM9RdQVTHWFjjmRtg",
-          "id": "UgyGm4IEI0m-vdQ7DaR4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Hello, peter.",
-            "textOriginal": "Hello, peter.",
-            "authorDisplayName": "- RMZ -",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpU-SiEEszxL_5_KWRacwq8sXeTZ3tVxraRq_qOg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCWeDXyAz9wGfgEz_HlPhCDQ",
-            "authorChannelId": {
-              "value": "UCWeDXyAz9wGfgEz_HlPhCDQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T10:48:57Z",
-            "updatedAt": "2021-09-14T10:48:57Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "a3bi88E8kFJKJvGCDFoHra9v_cU",
-      "id": "UgxEFTwrlLLNz4GMHPx4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "HAe4Xy37ToMipHkWSsMP7fOBS2A",
-          "id": "UgxEFTwrlLLNz4GMHPx4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "RtX 2060 ??? Are they for real ?",
-            "textOriginal": "RtX 2060 ??? Are they for real ?",
-            "authorDisplayName": "The Shadow Man",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSzP1sSiReHpfTg3_tNHZXobR9Ko1s-hcoQSVk=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCqIv0_dV3_pjvruObJcukOw",
-            "authorChannelId": {
-              "value": "UCqIv0_dV3_pjvruObJcukOw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T10:48:31Z",
-            "updatedAt": "2021-09-14T10:48:31Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "NuVr4P3jsUXIy820z_3_WNXbg8E",
-      "id": "UgxiFuNkAUoxpUsxMIV4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "tZb5z2OiGkMJiuNJIguIabHnN1Q",
-          "id": "UgxiFuNkAUoxpUsxMIV4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "I come, to these videos for Tech news. Not to be attacked in the intro.....",
-            "textOriginal": "I come, to these videos for Tech news. Not to be attacked in the intro.....",
-            "authorDisplayName": "itastain",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8bJN40FaNPiZj4GS2kxWgHVWz8k0horqt13Qp=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC8v5qNk4vdfKD_QUeiwqL3g",
-            "authorChannelId": {
-              "value": "UC8v5qNk4vdfKD_QUeiwqL3g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T10:44:38Z",
-            "updatedAt": "2021-09-14T10:44:38Z"
           }
         },
         "canReply": true,

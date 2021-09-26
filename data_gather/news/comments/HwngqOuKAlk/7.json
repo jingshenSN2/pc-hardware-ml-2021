@@ -1,0 +1,42 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "-oqFmp3i_ihH0Exdqu86LuOwK8k",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xnopjVFHyGn-Pc80bXKkO5tSCVA",
+      "id": "UgziW_KF8jRtLRn5gPF4AaABAg",
+      "snippet": {
+        "videoId": "HwngqOuKAlk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "194fJyPG17tNmyEgPLrh3L7kUWY",
+          "id": "UgziW_KF8jRtLRn5gPF4AaABAg",
+          "snippet": {
+            "videoId": "HwngqOuKAlk",
+            "textDisplay": "First",
+            "textOriginal": "First",
+            "authorDisplayName": "Николай Тарасенков",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTPenD5VW_L9Ns6dQb6GeJt3TiyjJxp_VgjhVMoYg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0pKz4mrXtAsQr8k8LN0NWA",
+            "authorChannelId": {
+              "value": "UC0pKz4mrXtAsQr8k8LN0NWA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2019-10-08T01:50:55Z",
+            "updatedAt": "2019-10-08T01:50:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    }
+  ]
+}

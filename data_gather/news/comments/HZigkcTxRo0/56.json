@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "31Aw2cJEvbO5WqsIaxWIYMFijdQ",
-  "nextPageToken": "QURTSl9pMXNmZlVocFhzcjRjcTZ0MWRBQ0RpVGVBOGh5Ni01RW1jb2szZEF2SnEwUFVzX3FzWU5Rd0VlY1c0aHRaYkRSaWdyMzNxS3NHVQ==",
+  "etag": "NSbWzHhju-GTHuG7KHrGSPpaBVE",
+  "nextPageToken": "QURTSl9pMjRTdDNPYUZsTXcwdzdjdDd3VlZMTnFJS1ZpMjVNWFZEUGZ3c3poNWctNGpNVHNKanNsUlR2MGVsajAwRWgyR0VodTRrUEFoZw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "Ns07aRA5NOd_Z50lJ2qskhqWZxA",
-      "id": "Ugwt2zkm-cKlFsINeEF4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "fPdPXDzR3JlL5saR8tyRyWafIys",
-          "id": "Ugwt2zkm-cKlFsINeEF4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Yes Finally!",
-            "textOriginal": "Yes Finally!",
-            "authorDisplayName": "Mason",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPOiaPLwBqgKI2udxVfe_ydrgLCtXjHqF0lbhdPg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC8RMO-U_1YXLvxb3NrEPHRQ",
-            "authorChannelId": {
-              "value": "UC8RMO-U_1YXLvxb3NrEPHRQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T13:28:24Z",
-            "updatedAt": "2021-02-25T13:28:24Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "L4HaS6NbRe9lO7Pn9b50EmJtQ_w",
@@ -1568,38 +1536,6 @@
             "likeCount": 1,
             "publishedAt": "2021-02-25T13:21:49Z",
             "updatedAt": "2021-02-25T13:21:49Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "PPBu-MiEhUNmbFp5R-VI6Il8jvs",
-      "id": "UgwJtO7a5xkhZd-0NsZ4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "szt3ylIt_L7kIQ35Sr-TU_bETOg",
-          "id": "UgwJtO7a5xkhZd-0NsZ4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Tryna get a 3060 to play league",
-            "textOriginal": "Tryna get a 3060 to play league",
-            "authorDisplayName": "R T",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJs9mlsbCl5hH5JhjxMF8OoGM6HRBN543mljmcEE4=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCe-k_ajjhrwsXUAbkukco4g",
-            "authorChannelId": {
-              "value": "UCe-k_ajjhrwsXUAbkukco4g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T13:21:48Z",
-            "updatedAt": "2021-02-25T13:21:48Z"
           }
         },
         "canReply": true,
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T13:13:26Z",
             "updatedAt": "2021-02-25T13:29:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ziQeNBUPRSEzM2Wi3SgGAUZdh-g",
+      "id": "UgzGE2lCldsuq42s2rt4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UM0pr6QaVsC-7Tg4oZWYvzdGWjI",
+          "id": "UgzGE2lCldsuq42s2rt4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "She did great! Keep up the good work guys.",
+            "textOriginal": "She did great! Keep up the good work guys.",
+            "authorDisplayName": "Joseph Trent",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZgURHRzyKgODG6hsqAiz7IvaHaUdAOqlL2A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeMwrO6x5qm-PJXHmcDaBdA",
+            "authorChannelId": {
+              "value": "UCeMwrO6x5qm-PJXHmcDaBdA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T13:13:17Z",
+            "updatedAt": "2021-02-25T13:13:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4fzl_V9MnDstJ9CduFep8wn2b94",
+      "id": "UgzzNKdQtWVVZu_32P94AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8x_L4OkcfKo8oLLGL6az5xhsLeU",
+          "id": "UgzzNKdQtWVVZu_32P94AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Madison has replaced Riley and my favorite techlinked host. Sorry Riley",
+            "textOriginal": "Madison has replaced Riley and my favorite techlinked host. Sorry Riley",
+            "authorDisplayName": "wilsonthesphere",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScihIWNP8iVchEgy6ohQwMvcW_m0dUGEESKA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyqkyNoilSY_lIoCgau8s0A",
+            "authorChannelId": {
+              "value": "UCyqkyNoilSY_lIoCgau8s0A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T13:13:09Z",
+            "updatedAt": "2021-02-25T13:13:09Z"
           }
         },
         "canReply": true,

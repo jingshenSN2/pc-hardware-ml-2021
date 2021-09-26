@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "qH_0K9QpEfZyzJOqsWxLI1iT3Rc",
-  "nextPageToken": "QURTSl9pM3M0aVlfV3NrV2FmWWh1X2IxeUVHYWhVSjRoczJqT09mc2xsYUZSdDhyUEMzTUh2SUMtaEJLaW5kRGFVN0E0dUVwckpEMVNsNA==",
+  "etag": "r9HEZjnbCTGEO1RseHcftr2xjYg",
+  "nextPageToken": "QURTSl9pM0ZianpvMzBINGljOW1mV0lUYS1LWVByX1BNcVZGTHdrLWdhVDRmNVpxRTd6TUJIZ0JYQXpCYWdOVnZaMGo3a0xMZnZHZ3dVYw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "Qzsf-z8QpMbIieAojo_rAuO0t60",
-      "id": "UgyOXdzcM6Q2VFQ8vDZ4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "LVOX2OwYeHd86WJf7_DPxjUl2zI",
-          "id": "UgyOXdzcM6Q2VFQ8vDZ4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "At this point if I ever design a computing device with a screen I'm just gonna go ahead and install the shareware DOOM on it before ever sending it out, so people don't have to hack the things.",
-            "textOriginal": "At this point if I ever design a computing device with a screen I'm just gonna go ahead and install the shareware DOOM on it before ever sending it out, so people don't have to hack the things.",
-            "authorDisplayName": "Guerilla Grue Plays",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgu3jcZRX3ZSi_P3AOoTs5n-r3qa_sGSSV2C5d=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC9Qmn4e5gxtpVKUmtPngnvg",
-            "authorChannelId": {
-              "value": "UC9Qmn4e5gxtpVKUmtPngnvg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T11:04:29Z",
-            "updatedAt": "2020-11-28T11:04:29Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "NxWr4z4J3LKwzBg7DbvFfeet0WY",
@@ -3200,6 +3168,38 @@
             "likeCount": 1,
             "publishedAt": "2020-11-28T09:38:28Z",
             "updatedAt": "2020-11-28T09:38:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eqRCrArL8gdGvwVoFvShrz9wNOo",
+      "id": "UgyjZVnETlKdp0RVcyt4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZI1yVnkerBzT6mU-EZyw71xz-WE",
+          "id": "UgyjZVnETlKdp0RVcyt4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "The way he pronounced \"Deutsche Bahn\" XD",
+            "textOriginal": "The way he pronounced \"Deutsche Bahn\" XD",
+            "authorDisplayName": "Gerasius",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRF752myO1xYLtB981LMuY_FTDP96LTF8IGwg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-WeIry61xoD_6ZIYgtdnaw",
+            "authorChannelId": {
+              "value": "UC-WeIry61xoD_6ZIYgtdnaw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-28T09:37:52Z",
+            "updatedAt": "2020-11-28T09:37:52Z"
           }
         },
         "canReply": true,

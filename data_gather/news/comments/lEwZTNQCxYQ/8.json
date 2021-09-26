@@ -1,12 +1,140 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "-e_rBj7OJ-XqCq9-rizfUnQuGv8",
-  "nextPageToken": "QURTSl9pMXdrR19iNjc3d2pDVWdwZFlqZUxXYUNZWDFsWTZ4YXlTTC1zWUZBd2YwaEE0WjNxWXNzdUEweUdBQnVvT3VxMzFtZld0aHRfWQ==",
+  "etag": "XaneQ_e_6p88rmGnqJ5CD8ASqM4",
+  "nextPageToken": "QURTSl9pM0xqQVppYjV5cUZtRFRtU0hGcllPdkl6NW9VUDg3YWNvb2k3ZnJrTlc4Qm9rdGFEMGZJczEzcVRDR2dLNHdwdWpaSUFvbjhhaw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "56t5GKLU5DVdo5XUnEtSzrO3Lw4",
+      "id": "UgwxQ1KtyO8b28KVkMF4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IZHf5sqYrpMID46gkUNwIWKzD_4",
+          "id": "UgwxQ1KtyO8b28KVkMF4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Only 15 more years until fusion power...",
+            "textOriginal": "Only 15 more years until fusion power...",
+            "authorDisplayName": "༒Gorm Auslander༒",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7qGBoFUkLR7LN5YXsEjgvvUOHeitk6AOcJOOlGA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBHduFhNT6cDTb3tNE4YB6Q",
+            "authorChannelId": {
+              "value": "UCBHduFhNT6cDTb3tNE4YB6Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T03:46:25Z",
+            "updatedAt": "2021-09-14T03:46:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "K69PtrPZ4L91PVcKiKZYpUBSqeo",
+      "id": "UgxgDbOMtJcZv5zPPnZ4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "G8p6HfQd1NtuSEuDqBVi_NPf37k",
+          "id": "UgxgDbOMtJcZv5zPPnZ4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "For the record, Edge is better.",
+            "textOriginal": "For the record, Edge is better.",
+            "authorDisplayName": "CYERON",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR6f5swP-0viQ60gM-egDDHB0KMUmxFAWln0QVp=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5FR_l_3r-IZxZ4N39WslGg",
+            "authorChannelId": {
+              "value": "UC5FR_l_3r-IZxZ4N39WslGg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T03:45:15Z",
+            "updatedAt": "2021-09-14T03:45:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yJzFmvB7sQ3yUvf4G8topn8KRr4",
+      "id": "UgzaEzuH-BmKReta15p4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "P5m5F_dXQ4C4c2hTubGiyZjLJ6o",
+          "id": "UgzaEzuH-BmKReta15p4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Edge clearly has more features .\nI can't understand why they hate Edge and other Microsoft products so much.",
+            "textOriginal": "Edge clearly has more features .\nI can't understand why they hate Edge and other Microsoft products so much.",
+            "authorDisplayName": "Aromal V K",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuyl1v6ktLvUQAicffYvmHp4GxBAkH74T52XPI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxyvcvUZbe9UsuhgQHnbTxQ",
+            "authorChannelId": {
+              "value": "UCxyvcvUZbe9UsuhgQHnbTxQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T03:44:34Z",
+            "updatedAt": "2021-09-14T03:44:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XsoB7Uq2009-Fxqcg_bAOIMMo5M",
+      "id": "UgwwmiXhk3XDSnr4jkV4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_X8gV-NKLyqhr6oE9_ONSTRk6F4",
+          "id": "UgwwmiXhk3XDSnr4jkV4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "I do not understand VIDIA point of view. there is a CHIP SHORTAGE  to fix it put MORE CHIPS got a old out of date 2060  that only got 6GB GDDR6 then ad more CHIPS to make it 12GB the match dose not work  like 4+4+12",
+            "textOriginal": "I do not understand VIDIA point of view. there is a CHIP SHORTAGE  to fix it put MORE CHIPS got a old out of date 2060  that only got 6GB GDDR6 then ad more CHIPS to make it 12GB the match dose not work  like 4+4+12",
+            "authorDisplayName": "Zzzz Zzz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbVcBx15441C7Dxrn9Vtj3Zv4cEKGHYcgbvQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwtwHsiLDtwgSnS1dQ_yHjQ",
+            "authorChannelId": {
+              "value": "UCwtwHsiLDtwgSnS1dQ_yHjQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-09-14T03:44:31Z",
+            "updatedAt": "2021-09-14T03:45:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "pYsaZmKSHDqAbnZo6R8Mhs6H_hg",
@@ -585,13 +713,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "hEHIwV5gVq2C4GlBRhUmR-KIVps",
+      "etag": "C7ak_BiMm6KtSkBE1xsWYqj5xP4",
       "id": "UgytkyrJmAwa-kn6UHp4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "cbqpPKZQv39SHTQpRBE21wdWqyY",
+          "etag": "GU3t3ZPCJmioS1NT_ckds_YZc1s",
           "id": "UgytkyrJmAwa-kn6UHp4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
@@ -605,7 +733,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 465,
+            "likeCount": 470,
             "publishedAt": "2021-09-14T03:29:24Z",
             "updatedAt": "2021-09-14T03:29:24Z"
           }
@@ -1289,20 +1417,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "y5gu2J4PSkv2EGiFz8TMehCfijw",
+      "etag": "luvZvxcZaIFYOEZXlQqVtlweQlc",
       "id": "UgwpoHbl9vmidndqr614AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "7fMogg_MBIdghX8yMETddSKTgoQ",
+          "etag": "gPHIaAk3LjFdIRjqTWN1QNG3VEI",
           "id": "UgwpoHbl9vmidndqr614AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "THE SEXY GIRLS ARE  BIGTITITS.UNO\nTHREE IN ONE\nYOUTUBE: THIS IS FINE.\nSOMEONE: SAYS ''HECK''.\nYOUTUBE: BE GONE\nLife's story is a short journey so have fun before sleeping forever\n#Чо #эт #делает #на #2 #месте #в #тренде\n#однако #я #люблю #таких #рыбаков .#垃圾.",
             "textOriginal": "THE SEXY GIRLS ARE  BIGTITITS.UNO\nTHREE IN ONE\nYOUTUBE: THIS IS FINE.\nSOMEONE: SAYS ''HECK''.\nYOUTUBE: BE GONE\nLife's story is a short journey so have fun before sleeping forever\n#Чо #эт #делает #на #2 #месте #в #тренде\n#однако #я #люблю #таких #рыбаков .#垃圾.",
             "authorDisplayName": "MARGARITA ROSA",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTfup345NX0T9C6WoWQe5aTZKYJc8sYKE7kVxey=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS61ig2qyHfrsiY-hCq6HhgY8kl7YssM3OyImlH=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCtAAnk5QGAuTnKiv8safIMg",
             "authorChannelId": {
               "value": "UCtAAnk5QGAuTnKiv8safIMg"
@@ -3076,134 +3204,6 @@
         },
         "canReply": true,
         "totalReplyCount": 4,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "qrSeJnd58F4OhwjWit9MQVbG4ls",
-      "id": "UgxARjvGioPBA7RCX7h4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "GRcahbldG91CFH4hLunHpg4IA_s",
-          "id": "UgxARjvGioPBA7RCX7h4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "I can’t wait to upgrade from my RTX2070. I don’t like it. Not fantastic for 2K resolution AAA gaming.",
-            "textOriginal": "I can’t wait to upgrade from my RTX2070. I don’t like it. Not fantastic for 2K resolution AAA gaming.",
-            "authorDisplayName": "Cristian Moore",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSz6P7BXTroIwIX2P7y3vo7M8d20qkN_VmFrxRL8g=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCPAO8ibIB7pn2zI66iAA0Yg",
-            "authorChannelId": {
-              "value": "UCPAO8ibIB7pn2zI66iAA0Yg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T02:36:22Z",
-            "updatedAt": "2021-09-14T02:36:22Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "x5udF9T7iajlTwEmlNMSc3_tnV0",
-      "id": "UgwKCgS2OTtwdSbej154AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "RzuS8-FHrJYd_OmGKoADIAM-sSk",
-          "id": "UgwKCgS2OTtwdSbej154AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "I want it, sorry lmg.",
-            "textOriginal": "I want it, sorry lmg.",
-            "authorDisplayName": "Joee Becht",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbpEh0lbS7Ajip7bUk48uHksLIMLq4-m04diBIUw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCFp9IM_sWbtkLIfUW9Od32g",
-            "authorChannelId": {
-              "value": "UCFp9IM_sWbtkLIfUW9Od32g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T02:36:02Z",
-            "updatedAt": "2021-09-14T02:36:02Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "YXBIw0pIhJtrgcCSf_jRYLhvLQA",
-      "id": "UgzRa1X4OoyecjKf4jt4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Q1IUN6IOR5P8xNbNTGSP1glMSiw",
-          "id": "UgzRa1X4OoyecjKf4jt4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Finnegan speed and marine shirt Jake?",
-            "textOriginal": "Finnegan speed and marine shirt Jake?",
-            "authorDisplayName": "Rodney Solar-Circuits",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiMduhFL_lV4TsHM7aVoydv9qk4XIZX464cHDUyQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCyJwQZ-TNlprrdJUYs2ckDg",
-            "authorChannelId": {
-              "value": "UCyJwQZ-TNlprrdJUYs2ckDg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T02:34:45Z",
-            "updatedAt": "2021-09-14T02:34:45Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "CyAz4VGvWVWlgMlErlOoNLRnxm8",
-      "id": "UgzTe-1IXaiqO0oIBIR4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "m35nR_K0osDiJBuvpz5cu_-CpgA",
-          "id": "UgzTe-1IXaiqO0oIBIR4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "An iphone will have more space than a ps5",
-            "textOriginal": "An iphone will have more space than a ps5",
-            "authorDisplayName": "Dark_Night",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_MCOF0mwYixHwW-MdOoTBK5bacxehR3IIdOggew=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCpB4uUexpNa0okMBtkyeVzQ",
-            "authorChannelId": {
-              "value": "UCpB4uUexpNa0okMBtkyeVzQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T02:33:56Z",
-            "updatedAt": "2021-09-14T02:33:56Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
         "isPublic": true
       }
     }

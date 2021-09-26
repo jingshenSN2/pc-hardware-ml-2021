@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "LLheQMMhqaJYTsEmkzGrpJrkufA",
-  "nextPageToken": "QURTSl9pMWZBRjEtZFJTQ0VlcE5DeVNXREtEdERWTHVjWlJZMFFKNF9KWFcwUWt2OVRwTlhDVTVjQVFoQ3FleG1MY2otSVFrQkRYRXE2VQ==",
+  "etag": "m6mP2UhPmY7AudEwV2gClgcm7Ek",
+  "nextPageToken": "QURTSl9pMGlNR1E1VnpNdEFhX1VuYnlUQXdhT05EbDNFUVFzd0hmNV9sUWxwanRxSTVkWWpiRTVJV05TejFFTmtNaVhfR00zczFINk9FZw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -1289,24 +1289,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "fEHLi4VYAeffV7_gHuqu4AhXP8I",
+      "etag": "pz1qj6AFttje_YzNP9QGY3izAbI",
       "id": "UgyzuHLaRVdVIxDizMt4AaABAg",
       "snippet": {
         "videoId": "u2UGqLvq0_k",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "eAWNIlace2ckym4OaNK9dV5_aDQ",
+          "etag": "WkBFH6bIiLUdMwGgdhb7YAk_Nas",
           "id": "UgyzuHLaRVdVIxDizMt4AaABAg",
           "snippet": {
             "videoId": "u2UGqLvq0_k",
             "textDisplay": "When the 3050 Ti has more cuda cores than a 2080 super 0_o",
             "textOriginal": "When the 3050 Ti has more cuda cores than a 2080 super 0_o",
-            "authorDisplayName": "Jordan (saven't the turtles, i like plastic straws) Hershberg",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyxn1w2k6poChZ9DbLKB5KNDfuL_jOsG7OKVqsuQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCYG6boGYgOT1hN_pPSfKh4g",
-            "authorChannelId": {
-              "value": "UCYG6boGYgOT1hN_pPSfKh4g"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,

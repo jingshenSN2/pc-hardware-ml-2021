@@ -1,108 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "aAQ5Y4WTp8lU1HI99cS0TJ4fpTQ",
-  "nextPageToken": "QURTSl9pMFNBdXJVQl9GYk51UGpwQndjdktCR0JIRlJ3X0N2a3VTNG5TVGhMWXFCTzhHMHZBVWlhcVgwVmtXTFhwZHRaQjNCTEhtNHJYNA==",
+  "etag": "PhBMiY5JP1wTsnH7AVLgHICW6_s",
+  "nextPageToken": "QURTSl9pMHl3b21MNmxmODc1Znhoclgta1ZfM1VyYVo0STRWVmU5RHZCRVRLbVFtUkhIWWltaEdEVUgzdVNHVng4b1FSb0hlM0ZBRlRkYw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "Wn_TEhFm-bBI-zZTr1UpGsx7T3U",
-      "id": "UgxtUSBRzWpZr8Ezp0l4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "BJZpr6yV1R-Byns8d92Z0xt0pPE",
-          "id": "UgxtUSBRzWpZr8Ezp0l4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Madison Tech Tips",
-            "textOriginal": "Madison Tech Tips",
-            "authorDisplayName": "Brandon Pina",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_5F1Ms218cPGJNLAaL6Xut4ecr4kgZ-CbNRbl=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCtPnh0r12knXCFCsZw2MZ1A",
-            "authorChannelId": {
-              "value": "UCtPnh0r12knXCFCsZw2MZ1A"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:46:27Z",
-            "updatedAt": "2021-02-25T03:46:27Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "0-ixcksFQUnTM1S7n0WGacqg8zY",
-      "id": "UgzEGmmM0RPEpAX9Djx4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "tefk3jZ_cS2YUHJCn4mTCDhvtIE",
-          "id": "UgzEGmmM0RPEpAX9Djx4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "no fucking way.. shes back! heck yes!",
-            "textOriginal": "no fucking way.. shes back! heck yes!",
-            "authorDisplayName": "Gibbsy Goodness",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBVWUsfEvtz2hPmx_V0ikiS4v1gp6Z15-Lug-6AQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCGjYyxfGU0_NfCLBcsuSWng",
-            "authorChannelId": {
-              "value": "UCGjYyxfGU0_NfCLBcsuSWng"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:46:24Z",
-            "updatedAt": "2021-02-25T03:46:24Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "9b4SkjF5Mhd-E6_rfsuFFlQzcgY",
-      "id": "Ugy3NL7Flt701Nh8bep4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "r3-7o57jlc1AGNfVyRb-d-yge9c",
-          "id": "Ugy3NL7Flt701Nh8bep4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Maaaaan Riley AND Madison???? I need MOAR",
-            "textOriginal": "Maaaaan Riley AND Madison???? I need MOAR",
-            "authorDisplayName": "Luis Alberto Reyes Avilés",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4NPbzmG6fLOFXulc1ctCW87-UMvxgrkhwlzuNVA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCvflzavNxO2oeKyL_RsPFWA",
-            "authorChannelId": {
-              "value": "UCvflzavNxO2oeKyL_RsPFWA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 4,
-            "publishedAt": "2021-02-25T03:46:20Z",
-            "updatedAt": "2021-02-25T03:46:20Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "xEthmnxAULAxZBNpFrN5fpqfXeo",
@@ -649,24 +553,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "eMVf5vPmRrhPLPubCO6fQex9MQ0",
+      "etag": "u6rV6m4lPSli50WaQsTEzhSfTXk",
       "id": "UgyffKbHzCOvC23E47R4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "oNjMPmA3jDKteDLFkJgwQWxQUiI",
+          "etag": "jjDtlmzYQPPVtdknRnzpWw8HLcA",
           "id": "UgyffKbHzCOvC23E47R4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
             "textDisplay": "Big Oof Linus",
             "textOriginal": "Big Oof Linus",
-            "authorDisplayName": "Stephen WIDJAJA",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQd8mcoj4O6yRTQ7eIL067-W2YFNMx5Mx2Bb-Fh=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC0z3k88fdKAURM8mYCToW9w",
-            "authorChannelId": {
-              "value": "UC0z3k88fdKAURM8mYCToW9w"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,
@@ -1449,20 +1350,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "-KPGcbiiykU5uXt1YoMeNlYl8OU",
+      "etag": "I8F9DTNsgywYyYBoQb7fEa9X3p8",
       "id": "UgxjsmcuyjWQjmc1Xfl4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "BlQp06FslI31IqlKFvdrEpBvs9U",
+          "etag": "81LzcqWDD0Fm3nWvdBlZ2cqjWLg",
           "id": "UgxjsmcuyjWQjmc1Xfl4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
             "textDisplay": "From Rog reboot to being an employee \nThis gal Killin it",
             "textOriginal": "From Rog reboot to being an employee \nThis gal Killin it",
             "authorDisplayName": "Ujjwal Singh Baral",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSW8Gq0pXlD084i2nmsoAUGUDfq0Z9Wvg8f23XRAg=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6ft5pO3dEY6aaLPiI-GkmSc0-NQ9Ulv7UYGyS9A=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCi3JUV4qZs28kdb7mB5Z_6g",
             "authorChannelId": {
               "value": "UCi3JUV4qZs28kdb7mB5Z_6g"
@@ -3200,6 +3101,102 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T03:42:32Z",
             "updatedAt": "2021-02-25T03:42:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "u_BVeXbcdP99RhHrGCiCamzhvOE",
+      "id": "UgwhP-rqD1aXh2hL3mh4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YMdJBVpjM5_81u0M4YD9Lcq0vU4",
+          "id": "UgwhP-rqD1aXh2hL3mh4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "I'm happy they hired her!! I want to see her make fun of linus more often.",
+            "textOriginal": "I'm happy they hired her!! I want to see her make fun of linus more often.",
+            "authorDisplayName": "Ma5onic Music Productions",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0lQsVj8rb9o756ZVsU55mCB52Eu6QazuLJ3Yf=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2MPdivrXXEiSzV0PU1bixw",
+            "authorChannelId": {
+              "value": "UC2MPdivrXXEiSzV0PU1bixw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:42:31Z",
+            "updatedAt": "2021-02-25T03:42:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zsbpdKNQEadYtM7plG2aTQ4AGqc",
+      "id": "UgxWi_fuSVRTt5sEJXB4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rFeUrLyAiuRCPHK9FeBLjhOqDcc",
+          "id": "UgxWi_fuSVRTt5sEJXB4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "This was a great episode",
+            "textOriginal": "This was a great episode",
+            "authorDisplayName": "Jacob",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo22Fv3n_jzorVFqsgix5hMPiuk02a3h3DVV-J=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCK2ye0GS8dttdiiVIkijYkg",
+            "authorChannelId": {
+              "value": "UCK2ye0GS8dttdiiVIkijYkg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:42:30Z",
+            "updatedAt": "2021-02-25T03:42:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YoGx5qeWeBxaKioUE1Kl3sIcGGc",
+      "id": "UgzoHz9JYc4Ln31JZUN4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "VNERX58CNBccAKDLpgnQMiQAtBc",
+          "id": "UgzoHz9JYc4Ln31JZUN4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "#MadisonTechTips",
+            "textOriginal": "#MadisonTechTips",
+            "authorDisplayName": "xSil3nt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNBbJKe625NYUR_VeughXK8E7027wtzQZU4fyuWA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMeWOv-qNX2QbWUmwqPrvgw",
+            "authorChannelId": {
+              "value": "UCMeWOv-qNX2QbWUmwqPrvgw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:42:29Z",
+            "updatedAt": "2021-02-25T03:42:29Z"
           }
         },
         "canReply": true,

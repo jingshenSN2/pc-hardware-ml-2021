@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "7267HGqubOp9XyhY5nk67fHf2ag",
-  "nextPageToken": "QURTSl9pMHpSNnhpX3c3ZV9TZUxmXzBxdTFsajA2WFZHZk5UUzZ3bTYwWEhUa3FYalR5V0lfWnpRbWV3azAxOWhVNEZXSzNycXBxZW5CVQ==",
+  "etag": "DqU0JTETE-E4JQ8rAezrNdAUHl4",
+  "nextPageToken": "QURTSl9pMEFfQS1fTjBtVmhMRENRVDdkSGZ4a0NVR2F0N3pYX2NtaUNqMUd6VkhMWmdYQkkwbWVNdDdjMUt5d2lDa2FONUxYQk9WTWFtMA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ge2uuvubZjdSWZKyi6PHceh3tx0",
-      "id": "UgwnzioAD8HtFuXqpzd4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "kA6GP8GkCW7Uy7V_RfcuAxLllhU",
-          "id": "UgwnzioAD8HtFuXqpzd4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I actively choose Bing over Google. Also. Nobody should buy a chromebook.",
-            "textOriginal": "I actively choose Bing over Google. Also. Nobody should buy a chromebook.",
-            "authorDisplayName": "Raxcental Ruthenta",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQygTYJ_Hjgk2hATjkmtbuqLWyC0r-C9I5Vbxww=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCvK07GCk_L-zKpyG1sjMOQw",
-            "authorChannelId": {
-              "value": "UCvK07GCk_L-zKpyG1sjMOQw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T16:12:32Z",
-            "updatedAt": "2021-02-25T16:15:35Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "bAz8HyVXsKSXiQpauNY8wiil7Q0",
@@ -2377,20 +2345,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "-ttd_GNfc-ckbL1ROJ0tKb4Fids",
+      "etag": "TDwVHPFKLv8lC0r3N9B-7vlKHzA",
       "id": "Ugztazn40wdvC9tB3c94AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "hcluRFEz5x6cIipS4ZeEyPM-DRI",
+          "etag": "4_dRqe6S1Cb2KYvi8adSVyx7H7Q",
           "id": "Ugztazn40wdvC9tB3c94AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
             "textDisplay": "Lol just make more GPU's.\nNo need for fancy mining lock.",
             "textOriginal": "Lol just make more GPU's.\nNo need for fancy mining lock.",
             "authorDisplayName": "Abdurrahman Çetinkaya",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTZjDA2jfX8KQnVElrYDW7jg0yHcfDb3wTAqkaT5w=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/GSa0Kbn-LejrERD1QlVfXLVBSzyNHVqSyuzf92ZOSOhVtGK_ivSCZYFS_QiTXbQ5rnn2hbPFHA=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCJYNIdUBsPiuLj8Fx70uWLw",
             "authorChannelId": {
               "value": "UCJYNIdUBsPiuLj8Fx70uWLw"
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T15:49:23Z",
             "updatedAt": "2021-02-25T15:49:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lHi67fJYxTjt1d23-XjaP1FuqAw",
+      "id": "UgwW6-5mLF1jR67VZ_V4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "S7sIquD1Su2izo1W14pfVpyrFdU",
+          "id": "UgwW6-5mLF1jR67VZ_V4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "these videos would be so much better without that guy yelling in the background, he is genuinely not funny",
+            "textOriginal": "these videos would be so much better without that guy yelling in the background, he is genuinely not funny",
+            "authorDisplayName": "Expert Opinion",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQaFIgnKbNANgwG4OZJygbyaHOH-y0Ba9Gr_A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCp0we-AO3zzXIPOmaNrBfbg",
+            "authorChannelId": {
+              "value": "UCp0we-AO3zzXIPOmaNrBfbg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T15:49:09Z",
+            "updatedAt": "2021-02-25T15:49:09Z"
           }
         },
         "canReply": true,

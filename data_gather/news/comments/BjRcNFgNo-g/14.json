@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "moanG-z0Uzag75iElMI4Mf_eXBY",
-  "nextPageToken": "QURTSl9pMVZVTk9Ec25pTlRkMXh2RkVNMnVqWnpHU2xQRUVFZmV1OUVFS255MEdvM2w0dEp1MFNmckh3S095aXVFRkZxYWt4QkVwTVUzRQ==",
+  "etag": "HG4yEyKR7Dxj_w6f4u1D_4JQxOw",
+  "nextPageToken": "QURTSl9pM0FpV19MNm5pcDU2UFg4U0h2QUhpT1BiQVFNbmRoX1c4Q2xnWldmZ1VuYjlzTmhFb19jeWlqOXQxcFREaDV6c3RRN3h6a0RITQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "qfujduX60r9whuOonHLvanXrXrs",
-      "id": "UgxpymiMfxSeEW3DIOl4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "BkzhDI0BZYv1xhWDrKd4iecH-XE",
-          "id": "UgxpymiMfxSeEW3DIOl4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "Let ne tell you a hint: gtx 1070 8gb us great value at around 200 bucks now",
-            "textOriginal": "Let ne tell you a hint: gtx 1070 8gb us great value at around 200 bucks now",
-            "authorDisplayName": "Amer Huba",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTaClH6Tli_gSy3M6jfsrGBxjFSgkm_AfzrPDKDg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCrz0J4vWUcBBGppFNHfun-g",
-            "authorChannelId": {
-              "value": "UCrz0J4vWUcBBGppFNHfun-g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T05:56:27Z",
-            "updatedAt": "2020-11-28T05:56:27Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "4raKHZ5mkPH57x9krAG611mXW3M",
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2020-11-28T05:01:49Z",
             "updatedAt": "2020-11-28T05:01:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-OIyuHuTJMG6ZImVTtId-z7EhcM",
+      "id": "Ugxj85swuEdtKeIU_LN4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8KxYBCFgDc56E35XJNESytoGKTg",
+          "id": "Ugxj85swuEdtKeIU_LN4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "Hydrogen powered🤔",
+            "textOriginal": "Hydrogen powered🤔",
+            "authorDisplayName": "Jeff 222",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjFtZESDabovxVGbKZ9reso-8dezsNF3Jh09a7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCofBD7OQqj4YqdZe7ReX-bA",
+            "authorChannelId": {
+              "value": "UCofBD7OQqj4YqdZe7ReX-bA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-28T05:01:27Z",
+            "updatedAt": "2020-11-28T05:01:27Z"
           }
         },
         "canReply": true,

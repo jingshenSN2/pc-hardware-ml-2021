@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "TBvIEspwJnjgjVPB2CqA_i64eBU",
-  "nextPageToken": "QURTSl9pMk9jWDBGQWhramprOE9SWTVoeXUxaWxOYlVGT2piT1RjdTNRUzRZYzZNbzFDOVQzbVhPdEM0MTU1SllaZll0bVZFR2RDdElJMA==",
+  "etag": "6v4b4JYOlWNhWaJAGONUW3Gm_Y0",
+  "nextPageToken": "QURTSl9pMVc0MmIwNlNBQVdTWTJFVlVHeDdKdS1zb29oT0UzUGFaY1hzN1pEc3VjS2VZa3pKZVFCRktxQWV2amlMSkFGTFRGdENCRDluWQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -265,24 +265,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "HGDJ25AS1hZBZG7Ar9FGi3z4-nU",
+      "etag": "kDCYdIYD4wofkvSLcuo1zqyTNSc",
       "id": "UgxVmQlmNl4iXaWKPZt4AaABAg",
       "snippet": {
         "videoId": "pZo0r45xxC0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "uSgF8OKmuQ8G2Kgk9ux-XGb2wfM",
+          "etag": "w3ec1-VlAQAhC_Gl5h9H-SYvfRg",
           "id": "UgxVmQlmNl4iXaWKPZt4AaABAg",
           "snippet": {
             "videoId": "pZo0r45xxC0",
             "textDisplay": "Welp it’s one expensive card",
             "textOriginal": "Welp it’s one expensive card",
-            "authorDisplayName": "Mannie Illescas",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgL2BIU-Jcay0KltJE95YjIP9-2r9lYBB6sQ6_JA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCMaY6hX34SeAWp2RlqUhAsw",
-            "authorChannelId": {
-              "value": "UCMaY6hX34SeAWp2RlqUhAsw"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,

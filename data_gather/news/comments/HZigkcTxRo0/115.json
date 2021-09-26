@@ -1,140 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "GmXpbVG_D3SOSsmzRhj5rpGktVE",
-  "nextPageToken": "QURTSl9pMVhqYUhzeTg4eF9QZkRwOVB0b0ZPeC1JOE1iNFRNdnVFbXBHR2hWWmxBZ0NaQm9BTXR1bDgtNldVSTJUTXhoS19vRF8xbm10OA==",
+  "etag": "_qtkaQGMgxsY0upDNCMj4Bs0WJo",
+  "nextPageToken": "QURTSl9pMC1VV0VoU3I1RkxKWEc5ZjJWX0tCNTAtZkFUbmN2dHgtdmxPTmI0OEZlQkZ4WnFfdm0yZUU0bDRzdGdfU21ZNlNLem03YjJnNA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "jcXoIorpJwsnTilnjo4tmug8ZPY",
-      "id": "UgxnPPRj-wppi914sHN4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "1-fzRhGGba-9YdP5sKRDJAF6q68",
-          "id": "UgxnPPRj-wppi914sHN4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "No probation for Madison. LoL",
-            "textOriginal": "No probation for Madison. LoL",
-            "authorDisplayName": "Abdul Soleh",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROXRwzJ_nRwPuA50c5HlxhOlm8DSuTqtdoqbT_zQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCTUsMEzH8CS6CYw41xlxNZA",
-            "authorChannelId": {
-              "value": "UCTUsMEzH8CS6CYw41xlxNZA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:32:33Z",
-            "updatedAt": "2021-02-25T03:32:33Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "cAti-nBlSQ7PZbTvkYlkclEXGFM",
-      "id": "Ugy4A99P3-aeGX4v7Bt4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "HrT9zrLanj_mgk8C4z6mUzhTrpI",
-          "id": "Ugy4A99P3-aeGX4v7Bt4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Hey look, A Zoomer!",
-            "textOriginal": "Hey look, A Zoomer!",
-            "authorDisplayName": "Tommy Wan",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTQYnGq2YOSI7-dkjIMSd7n36lc5EP4EovomKz=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC6q6P1v0PhB7KbK__zpUpMA",
-            "authorChannelId": {
-              "value": "UC6q6P1v0PhB7KbK__zpUpMA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:32:29Z",
-            "updatedAt": "2021-02-25T03:32:29Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "T1ht5HalFNW5Ct3Um01RMgqmp7I",
-      "id": "UgzFkaj_48A9lnOFcjx4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "hMFyamsjrVMXgP6aYAXTu2km34Y",
-          "id": "UgzFkaj_48A9lnOFcjx4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Nvidia's plan isn't working, also Nvidia's work isn't planning.",
-            "textOriginal": "Nvidia's plan isn't working, also Nvidia's work isn't planning.",
-            "authorDisplayName": "Joshua K",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDG4A5O--pSIG6vLbi-c_D-x9FCLabum4H3Q=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCgkvoU_BejSl7r-hyJus1Mg",
-            "authorChannelId": {
-              "value": "UCgkvoU_BejSl7r-hyJus1Mg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-02-25T03:32:29Z",
-            "updatedAt": "2021-02-25T03:32:29Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "hBxRlm8M1Ev7EDb5hVNTAeOjjIo",
-      "id": "UgyT4gzXIz4Bk_JsTm14AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "tiNRu_v04XJ33BRDvMDjKiShoWk",
-          "id": "UgyT4gzXIz4Bk_JsTm14AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I didn’t know Linus wore glasses, lookin smart bro.",
-            "textOriginal": "I didn’t know Linus wore glasses, lookin smart bro.",
-            "authorDisplayName": "Seth Larson",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3Sze1zk9_NtrrIq7HGxjKk0n_PNEYcQxmc1jn=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCSndCmMOaQ6e0FX_kuoSGIA",
-            "authorChannelId": {
-              "value": "UCSndCmMOaQ6e0FX_kuoSGIA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 5,
-            "publishedAt": "2021-02-25T03:32:29Z",
-            "updatedAt": "2021-02-25T03:32:29Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "oiPhZtaO8JEY9CLeA6M4sZpY_l8",
@@ -937,13 +809,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "aMUg8S9a7iGsgttnWMC6F8ndJkA",
+      "etag": "0HOCXPZ1DQEo0l4hufmrbHVZn7Q",
       "id": "UgwQ2jRrfOBgB9W8VZF4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "k7_nlwHJmv4SdpsL5ANY9b-LAyY",
+          "etag": "P-feXqhEOJoTkU76wmBGzrUk650",
           "id": "UgwQ2jRrfOBgB9W8VZF4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
@@ -957,7 +829,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 3653,
+            "likeCount": 3651,
             "publishedAt": "2021-02-25T03:31:43Z",
             "updatedAt": "2021-02-25T03:31:43Z"
           }
@@ -3200,6 +3072,134 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T03:29:28Z",
             "updatedAt": "2021-02-25T03:29:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LqxjK2Cn0vDwnZDtS2J7CVAZzlg",
+      "id": "UgwC7vHvH1-URlO4cc94AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9cWdpP6im-RnybpWQdUeMARU80c",
+          "id": "UgwC7vHvH1-URlO4cc94AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Back the French off okay!",
+            "textOriginal": "Back the French off okay!",
+            "authorDisplayName": "Kris Vandiest",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ5lj4HaCCNxUGpkZHWnOPeDZa3_OXS7VhjmEhn6w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC34RGcKFsDR1lP7HgWAfd8w",
+            "authorChannelId": {
+              "value": "UC34RGcKFsDR1lP7HgWAfd8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:29:26Z",
+            "updatedAt": "2021-02-25T03:29:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oCaOJigrHQFkREet7OxU8747jO0",
+      "id": "UgxnmNkIFyMdONy9x1Z4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vISc6svrL7ZDbopigxYutSu68cA",
+          "id": "UgxnmNkIFyMdONy9x1Z4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Did she get a job at LMG?",
+            "textOriginal": "Did she get a job at LMG?",
+            "authorDisplayName": "d1amond0re52",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/XctBUNZzkh9oWIto6ndlR2_59DEPLUC-VbFocz-7SS3RtCxtwOvq09WnX-xNSHRixe-u3yEUPQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCw6kmMpY84Ed1sdHtBgwdsg",
+            "authorChannelId": {
+              "value": "UCw6kmMpY84Ed1sdHtBgwdsg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-02-25T03:29:25Z",
+            "updatedAt": "2021-02-25T03:29:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3_QiyglH2G0Fo2mrDB3c4LFVjkI",
+      "id": "Ugy6m_AgmjKLtGIfq4N4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Cfc-vDwScOHbVgXMM6gIUusU5sI",
+          "id": "Ugy6m_AgmjKLtGIfq4N4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Nice video",
+            "textOriginal": "Nice video",
+            "authorDisplayName": "mickhick95",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_0PNM8HsjouAl71nGo8vV8uSIDxeD_ylEzaKM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWHhm_tLawkU_uCTldKFYNQ",
+            "authorChannelId": {
+              "value": "UCWHhm_tLawkU_uCTldKFYNQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:29:24Z",
+            "updatedAt": "2021-02-25T03:29:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xP00MW8PnYxqvYBh_1qhoybzClY",
+      "id": "UgwnOkUNIG8uflfP5iF4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6jwfArJjNYbwJrR2lN_H2zQNIXw",
+          "id": "UgwnOkUNIG8uflfP5iF4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "why the star citizen hate bro it hurts because it is actually getting good rn so sad.",
+            "textOriginal": "why the star citizen hate bro it hurts because it is actually getting good rn so sad.",
+            "authorDisplayName": "Harry Johnson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFlPDBFxRF9mGSUMQrh5OPwbwEgQfMPCiBZ1V-Uw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJzp1Pky9JUSq4ShPoJFSEw",
+            "authorChannelId": {
+              "value": "UCJzp1Pky9JUSq4ShPoJFSEw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-02-25T03:29:24Z",
+            "updatedAt": "2021-02-25T03:29:24Z"
           }
         },
         "canReply": true,

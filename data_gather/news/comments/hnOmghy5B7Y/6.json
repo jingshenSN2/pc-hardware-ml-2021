@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "ojPxlrjtWmTz8lYa8jiS-ytLSy4",
-  "nextPageToken": "QURTSl9pMG83bDUwQzg4dnFYNmRYWkVCMHNoRjd0bnZ4WnBUZHU4WlRrajhQNHEteUFNU1NpYXN4aEo0dVFCbnR2SlJoWDFpdkdoRGN4RQ==",
+  "etag": "VUTtfqRhJEzZE8QHJpOwVoqXBjc",
+  "nextPageToken": "QURTSl9pMldJN3BrYkRWUURIWkR4WE5QbmFDTG13UDIzUHdjX1l4RXF0T3RfdG9EczFqQk5ieHh6UUVRQV9JX0NBdzVsT09fb2M1RkotRQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -457,24 +457,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "g4Oj4tif5AubGI-u-wk3FF_QxPU",
+      "etag": "gqDMW63X9t3djspLRw8zs7hui8k",
       "id": "UgzKVWaW4OHpe-Ac1-14AaABAg",
       "snippet": {
         "videoId": "hnOmghy5B7Y",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "ajCGDQJsRuvWAiPMXbK3Rr7nThI",
+          "etag": "sxn0Jr3qboWypR4s3v4uzFJLsUk",
           "id": "UgzKVWaW4OHpe-Ac1-14AaABAg",
           "snippet": {
             "videoId": "hnOmghy5B7Y",
             "textDisplay": "Wait, its all tencent?\nAlways has been",
             "textOriginal": "Wait, its all tencent?\nAlways has been",
-            "authorDisplayName": "Anthony Abbass",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQa8-FX2NmXVHVQxP9GOP7nZw17ier8iBMrx-fLrA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCMLmoqEOC5zkXHZbeZ75s2w",
-            "authorChannelId": {
-              "value": "UCMLmoqEOC5zkXHZbeZ75s2w"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 1,

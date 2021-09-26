@@ -1,140 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "XpF3hTLujidSmqHpyqUL3bNXMoE",
-  "nextPageToken": "QURTSl9pMWV6cGRpNkdSWW9WNjhqLXBTX0o3b25nbkxoUlNFbWVMWi1lQ0RZOXVoZ3JHbzVNRWR2WUJWbVU0Qnk5VWlpTlR1NUxFVGFBSQ==",
+  "etag": "p2neZvDPIQDMzSbDoy1LCTT9ydM",
+  "nextPageToken": "QURTSl9pMG1NX3J5dXRhcWtkeXFYaWo2TFREX0FwNXBXV2N2aGVUQ0ZZb3VIaHpRTDVUWEFzLVVKRmktS21ENzdreEpDTjJhSTZVNnpXNA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "14cbSI-qAxugaPfAcwL5sHRNi6s",
-      "id": "UgzwJF7S3YIEB5hKzZ94AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Kh0aQZejDwi3q13lBXbEd3jDQms",
-          "id": "UgzwJF7S3YIEB5hKzZ94AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Finally a new face in 2021 TechLinked.",
-            "textOriginal": "Finally a new face in 2021 TechLinked.",
-            "authorDisplayName": "Aditya Perdana",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQAPgjeUl0cbCy6KHQxOgfdcw96fJLdypUKzwx2Ww=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCUy4MIjESu5zgaZsNoGAj7A",
-            "authorChannelId": {
-              "value": "UCUy4MIjESu5zgaZsNoGAj7A"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:36:00Z",
-            "updatedAt": "2021-02-25T03:36:00Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "TSuJN1y2dePendTWRdOJfu3lcgw",
-      "id": "UgyzdgtCLdQ2zHglKm54AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "QNqXjwncI2uCMf4p-5S6GKh-EvE",
-          "id": "UgyzdgtCLdQ2zHglKm54AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "YESSS THIS IS THE MOMENT WEVE ALL BEEN WAITING FOR",
-            "textOriginal": "YESSS THIS IS THE MOMENT WEVE ALL BEEN WAITING FOR",
-            "authorDisplayName": "mizuu",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/dSlEGM4-CGdIGLVD3p0R9lMrPWwARkQaEOkuwKx9SDlFtEEPKRnxXDqLNGLxEa8fwrWn1cJgGnU=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCSgGxwmmedZpVR2lgiY28ZA",
-            "authorChannelId": {
-              "value": "UCSgGxwmmedZpVR2lgiY28ZA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:35:58Z",
-            "updatedAt": "2021-02-25T03:35:58Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "Qs7gQITRPZB0Hvb9jVk30H9FstY",
-      "id": "UgyxTG9Pgnhs6GyyX9d4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "QupsH1nLbbFEs2NZZ4iC6x1crbw",
-          "id": "UgyxTG9Pgnhs6GyyX9d4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "oh nooo ... mdog technews rockk!!",
-            "textOriginal": "oh nooo ... mdog technews rockk!!",
-            "authorDisplayName": "Minna San",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRSDM9_8SzBPxdHtCPj6qdtiDTPwSZVNFih_CeWug=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCnwYTlWGc6eHclMjvXpEOIQ",
-            "authorChannelId": {
-              "value": "UCnwYTlWGc6eHclMjvXpEOIQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:35:57Z",
-            "updatedAt": "2021-02-25T03:35:57Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "FNKHN2DniLaxDNRf5yXaDx6h4gc",
-      "id": "UgyLTpfFhKORkVhQ7Yt4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "iIiP-_oQuYvsKdoONCTNVqPJEKU",
-          "id": "UgyLTpfFhKORkVhQ7Yt4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Madison is a great host for techlinked",
-            "textOriginal": "Madison is a great host for techlinked",
-            "authorDisplayName": "Zeke After Dark",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTeapoifxx_MhIdDZe9vUJ7tzswg8ATcYuOUQNR=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCxlfTiveI0u3XCb0RumiDPg",
-            "authorChannelId": {
-              "value": "UCxlfTiveI0u3XCb0RumiDPg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:35:54Z",
-            "updatedAt": "2021-02-25T03:35:54Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "3s27rgiSsaAUlAReqc5HnkQQIag",
@@ -329,13 +201,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "1j_NY9G6spCsC18ptWYpVBpYRvI",
+      "etag": "D2_uVbOTPKmiXmq3Bxe3S4wlpSQ",
       "id": "Ugyrj9pwKWFAIhIDz6V4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "RGX-ysmD_Fle9nVFc4WDwp15cqg",
+          "etag": "YEKozupD2ZE_gKjfuzundSmFPc0",
           "id": "Ugyrj9pwKWFAIhIDz6V4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
@@ -349,7 +221,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2972,
+            "likeCount": 2975,
             "publishedAt": "2021-02-25T03:35:43Z",
             "updatedAt": "2021-02-25T03:35:43Z"
           }
@@ -3017,13 +2889,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "p85M3zF1vfL_B3iYGywNTCrul94",
+      "etag": "tc0zaHqKs1sqEQWBMxaEvyPqHFs",
       "id": "Ugxg5HI-VRRq6_e5AdN4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "6vMB99m1jzbckzJ-_YGHLUXniG4",
+          "etag": "UFtsrVQhHmkQ1JYqJ-L141FFmzU",
           "id": "Ugxg5HI-VRRq6_e5AdN4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
@@ -3037,7 +2909,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 232,
+            "likeCount": 231,
             "publishedAt": "2021-02-25T03:32:47Z",
             "updatedAt": "2021-02-25T03:32:47Z"
           }
@@ -3200,6 +3072,134 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T03:32:35Z",
             "updatedAt": "2021-02-25T03:32:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jcXoIorpJwsnTilnjo4tmug8ZPY",
+      "id": "UgxnPPRj-wppi914sHN4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1-fzRhGGba-9YdP5sKRDJAF6q68",
+          "id": "UgxnPPRj-wppi914sHN4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "No probation for Madison. LoL",
+            "textOriginal": "No probation for Madison. LoL",
+            "authorDisplayName": "Abdul Soleh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROXRwzJ_nRwPuA50c5HlxhOlm8DSuTqtdoqbT_zQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTUsMEzH8CS6CYw41xlxNZA",
+            "authorChannelId": {
+              "value": "UCTUsMEzH8CS6CYw41xlxNZA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:32:33Z",
+            "updatedAt": "2021-02-25T03:32:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cAti-nBlSQ7PZbTvkYlkclEXGFM",
+      "id": "Ugy4A99P3-aeGX4v7Bt4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HrT9zrLanj_mgk8C4z6mUzhTrpI",
+          "id": "Ugy4A99P3-aeGX4v7Bt4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Hey look, A Zoomer!",
+            "textOriginal": "Hey look, A Zoomer!",
+            "authorDisplayName": "Tommy Wan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQTQYnGq2YOSI7-dkjIMSd7n36lc5EP4EovomKz=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6q6P1v0PhB7KbK__zpUpMA",
+            "authorChannelId": {
+              "value": "UC6q6P1v0PhB7KbK__zpUpMA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:32:29Z",
+            "updatedAt": "2021-02-25T03:32:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "T1ht5HalFNW5Ct3Um01RMgqmp7I",
+      "id": "UgzFkaj_48A9lnOFcjx4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hMFyamsjrVMXgP6aYAXTu2km34Y",
+          "id": "UgzFkaj_48A9lnOFcjx4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Nvidia's plan isn't working, also Nvidia's work isn't planning.",
+            "textOriginal": "Nvidia's plan isn't working, also Nvidia's work isn't planning.",
+            "authorDisplayName": "Joshua K",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDG4A5O--pSIG6vLbi-c_D-x9FCLabum4H3Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgkvoU_BejSl7r-hyJus1Mg",
+            "authorChannelId": {
+              "value": "UCgkvoU_BejSl7r-hyJus1Mg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-02-25T03:32:29Z",
+            "updatedAt": "2021-02-25T03:32:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hBxRlm8M1Ev7EDb5hVNTAeOjjIo",
+      "id": "UgyT4gzXIz4Bk_JsTm14AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tiNRu_v04XJ33BRDvMDjKiShoWk",
+          "id": "UgyT4gzXIz4Bk_JsTm14AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "I didn’t know Linus wore glasses, lookin smart bro.",
+            "textOriginal": "I didn’t know Linus wore glasses, lookin smart bro.",
+            "authorDisplayName": "Seth Larson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3Sze1zk9_NtrrIq7HGxjKk0n_PNEYcQxmc1jn=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSndCmMOaQ6e0FX_kuoSGIA",
+            "authorChannelId": {
+              "value": "UCSndCmMOaQ6e0FX_kuoSGIA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2021-02-25T03:32:29Z",
+            "updatedAt": "2021-02-25T03:32:29Z"
           }
         },
         "canReply": true,

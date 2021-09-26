@@ -1,108 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "awP3i8lfoHrINDrCqLK78AcBfOY",
-  "nextPageToken": "QURTSl9pME1VdFlKWDlNZGFqUG16OGU0bjUwNGNCeHVFUjJoMEZnZlQ0WFJIOF9UTGhndGtyLTN1RTZYb0RTVG1iY2c2R2MyMTYyU2VzMA==",
+  "etag": "8i0bOvRPWy83XtGySnEY3uZnITM",
+  "nextPageToken": "QURTSl9pMkY1SndEQ1ktcUtzeXVKLUZjSURqOEdoZHBXb1NQR2xMaEdCanVvbTJ5NEVSNFNfb1hnNldXcnFUVEdSV3FyWEQtZlhKUWtubw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "u_BVeXbcdP99RhHrGCiCamzhvOE",
-      "id": "UgwhP-rqD1aXh2hL3mh4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "YMdJBVpjM5_81u0M4YD9Lcq0vU4",
-          "id": "UgwhP-rqD1aXh2hL3mh4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I'm happy they hired her!! I want to see her make fun of linus more often.",
-            "textOriginal": "I'm happy they hired her!! I want to see her make fun of linus more often.",
-            "authorDisplayName": "Ma5onic Music Productions",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR0lQsVj8rb9o756ZVsU55mCB52Eu6QazuLJ3Yf=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC2MPdivrXXEiSzV0PU1bixw",
-            "authorChannelId": {
-              "value": "UC2MPdivrXXEiSzV0PU1bixw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:42:31Z",
-            "updatedAt": "2021-02-25T03:42:31Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "zsbpdKNQEadYtM7plG2aTQ4AGqc",
-      "id": "UgxWi_fuSVRTt5sEJXB4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "rFeUrLyAiuRCPHK9FeBLjhOqDcc",
-          "id": "UgxWi_fuSVRTt5sEJXB4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "This was a great episode",
-            "textOriginal": "This was a great episode",
-            "authorDisplayName": "Jacob",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQo22Fv3n_jzorVFqsgix5hMPiuk02a3h3DVV-J=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCK2ye0GS8dttdiiVIkijYkg",
-            "authorChannelId": {
-              "value": "UCK2ye0GS8dttdiiVIkijYkg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:42:30Z",
-            "updatedAt": "2021-02-25T03:42:30Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "YoGx5qeWeBxaKioUE1Kl3sIcGGc",
-      "id": "UgzoHz9JYc4Ln31JZUN4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "VNERX58CNBccAKDLpgnQMiQAtBc",
-          "id": "UgzoHz9JYc4Ln31JZUN4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "#MadisonTechTips",
-            "textOriginal": "#MadisonTechTips",
-            "authorDisplayName": "xSil3nt",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNBbJKe625NYUR_VeughXK8E7027wtzQZU4fyuWA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCMeWOv-qNX2QbWUmwqPrvgw",
-            "authorChannelId": {
-              "value": "UCMeWOv-qNX2QbWUmwqPrvgw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:42:29Z",
-            "updatedAt": "2021-02-25T03:42:29Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "AZGMmOlnhVexuTCccnMQgzcclBw",
@@ -2153,19 +2057,19 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "aMq6Y1MIUlwRUVEqeXLXvVyhQ7Y",
+      "etag": "4WWv_NUUjv0FtRKjWRfUweM3jA4",
       "id": "UgxzKYXqWpKEINQH_dJ4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "mAHfEsSNxaE9IlPeGb2SIdCnt5s",
+          "etag": "6ihXw-IepfYtKtawjISbrHDM_aU",
           "id": "UgxzKYXqWpKEINQH_dJ4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
             "textDisplay": "lol who does this girl look like. whose cousin or sister is this. im thinking riley.",
             "textOriginal": "lol who does this girl look like. whose cousin or sister is this. im thinking riley.",
-            "authorDisplayName": "important: Cory Barbee YT ch.",
+            "authorDisplayName": "earthLARPdumpsterFire",
             "authorProfileImageUrl": "https://yt3.ggpht.com/1-3XfPfzshK8V8ZdkMGrllNmE6AtKEE9TpuyVkdNwfP0zVYWiMMKON546Z3phoYVXeQfDHiUv_A=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UC50WYc34bVVdNqILWhuTibQ",
             "authorChannelId": {
@@ -3200,6 +3104,102 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T03:39:15Z",
             "updatedAt": "2021-02-25T03:39:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Oxc_PHukK_Um84Rn6fmLSolSwAI",
+      "id": "UgxfGKdjJtjiV9LpcoR4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6jPPDPK5wnn_FsGQjaOdzMWFHEY",
+          "id": "UgxfGKdjJtjiV9LpcoR4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "I commented months ago Linus! Keep the dang beard you look more like a man with kids that a teen YouTuber and I can take you more seriously. If Yvonne says no.....tell her to deal. What’s she gonna do leave? You guys got 3 kids basically cemented together am I right? 😌",
+            "textOriginal": "I commented months ago Linus! Keep the dang beard you look more like a man with kids that a teen YouTuber and I can take you more seriously. If Yvonne says no.....tell her to deal. What’s she gonna do leave? You guys got 3 kids basically cemented together am I right? 😌",
+            "authorDisplayName": "tech",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrM5wsb0OsFoAH7TfFHtkNBZd4dHavpXXxcg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdwTVOTL0tR23wIU0MOYOFg",
+            "authorChannelId": {
+              "value": "UCdwTVOTL0tR23wIU0MOYOFg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:39:11Z",
+            "updatedAt": "2021-02-25T03:39:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "F_Njj-dBVtqiIoOgqMNPP-JFCVM",
+      "id": "UgwEZoRZnshejHpTWS94AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3EK091ly2NQ2zk6bPqji30yq0Yw",
+          "id": "UgwEZoRZnshejHpTWS94AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Honestly I go for old CPanel all the time because a) i know where stuff is b) you can actually accomplish stuff with it",
+            "textOriginal": "Honestly I go for old CPanel all the time because a) i know where stuff is b) you can actually accomplish stuff with it",
+            "authorDisplayName": "minj4ever",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLScTGM3OnzMEDF0_HuPxUcscQ3MiKya9vcQ5g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkreDHhNso31KtYKwYVpwAQ",
+            "authorChannelId": {
+              "value": "UCkreDHhNso31KtYKwYVpwAQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:39:06Z",
+            "updatedAt": "2021-02-25T03:39:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kYkmnaTzmZMmSSw2-XpmBp5j0aw",
+      "id": "Ugxo5vfOj0mjLQfj2UF4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FYiu_TUKTCcsno-i05ZyXkC2ioA",
+          "id": "Ugxo5vfOj0mjLQfj2UF4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "NOO NOT HYPERX ),:",
+            "textOriginal": "NOO NOT HYPERX ),:",
+            "authorDisplayName": "Computery",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlXCKnjYBHa-ovXL4zdkOYM3O2kfq823JkvaCqSg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWqpHDdNcLn59SWAOR0pdGg",
+            "authorChannelId": {
+              "value": "UCWqpHDdNcLn59SWAOR0pdGg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:39:05Z",
+            "updatedAt": "2021-02-25T03:39:05Z"
           }
         },
         "canReply": true,

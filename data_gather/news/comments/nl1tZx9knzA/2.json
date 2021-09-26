@@ -1,12 +1,44 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "3yULoF7vYg2YolLzHqb24pSYa3k",
-  "nextPageToken": "QURTSl9pMnhEVmY2aWtsR2c4b3hkWEFyaXExa2xOTjNqSjFlbUVrVktyQ2VrYVBaVnR5VDFUUXNXTm9IcEpxUDg1M09kRU8wbzRodDJJNA==",
+  "etag": "ljKIxkNbCjs2iHHMhKv3l4j5R1I",
+  "nextPageToken": "QURTSl9pMl90U0NzaHBxdWV0cms3WHBPdGlRcGVZeTFwbTdhUlBPVUZQV0Y3ak1yVlpxcVJPTlJNbk16cnl4bXk3MXpYZ3hmTURKVEUzVQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YqLBeJlJlhmX89QpenGqZmer0yo",
+      "id": "UgyfivJ1AnH1hVbjX-x4AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "v_BqETUK3b6UU1vLfcUSGR1vEZk",
+          "id": "UgyfivJ1AnH1hVbjX-x4AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "I really wish that nvidia would stop trying to gimp the devices that they want people to buy.  They should be working to improve the performance, usability, and reliability for their products for whatever their customers want to use them for.  the workload should be completely up to the customer.  no company should have a \"limiter\" for what their hardware can do... this is just BS.",
+            "textOriginal": "I really wish that nvidia would stop trying to gimp the devices that they want people to buy.  They should be working to improve the performance, usability, and reliability for their products for whatever their customers want to use them for.  the workload should be completely up to the customer.  no company should have a \"limiter\" for what their hardware can do... this is just BS.",
+            "authorDisplayName": "Josh Hardin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR03FgwJdtA2w_WxBZu4aa_4VhubkhGDp5h3O5Z5g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeltk2CihqkDqDbCLYBwdZg",
+            "authorChannelId": {
+              "value": "UCeltk2CihqkDqDbCLYBwdZg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-05-02T03:26:29Z",
+            "updatedAt": "2021-05-02T03:26:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "Rw1kj_M_0oi3pm1v-DRsQZ0_6B8",
@@ -3168,38 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-05-01T16:23:41Z",
             "updatedAt": "2021-05-01T16:23:41Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "AQxcGmdJkTudtpnNJiLtp2o39eE",
-      "id": "UgwkksopwgSI7sInftl4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "bPt1t3hHfkLA-s_q-OSQzqzHQJE",
-          "id": "UgwkksopwgSI7sInftl4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "spotify? the money laundry platform? haha",
-            "textOriginal": "spotify? the money laundry platform? haha",
-            "authorDisplayName": "wabachi",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTx-u_psWGO8TuaEppjW6vIWJB1kKVZSEm-J7N=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCsdQHtBPsYjxMhF3micrQGA",
-            "authorChannelId": {
-              "value": "UCsdQHtBPsYjxMhF3micrQGA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-01T16:13:33Z",
-            "updatedAt": "2021-05-01T16:13:33Z"
           }
         },
         "canReply": true,

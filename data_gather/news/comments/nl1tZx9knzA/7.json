@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "Tc9zkMfdsSXTVyrgoNwYihqeQww",
-  "nextPageToken": "QURTSl9pMm5CNjA5NDA1NzZfZ211LTg1VDV5T04wT29kUU81Y0NsNnV1dmczLU4wdV9NdEU5OFg1bGJZZkhwOEZsR1FSbUFIMGNDUU9DRQ==",
+  "etag": "u2FUfPUWlWumfqU0En6IIGqe-JU",
+  "nextPageToken": "QURTSl9pM1NGWTJKTDVuSmJ0a3ZreUtPSlhSMkY1T1dLUU9zMXBFa281UHJOSWhGN1F3ZFBnVHpTM3A5Rmt5SmpQN3ZIbTROTVo2X0VScw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -873,38 +873,6 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "Bpo7ISGJhBKnpfMH3ybEVzxVqBc",
-      "id": "UgwUCt-HovxCftxH7Hd4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "HNYM9ISoVLSa6NqgS8Pgc0Ov_iI",
-          "id": "UgwUCt-HovxCftxH7Hd4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "Epic gpus make me want you more.",
-            "textOriginal": "Epic gpus make me want you more.",
-            "authorDisplayName": "Epicly Casted",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkySfA4BVMjD5VTXqrbMUA3fTvE4tAjtgQAAaG=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCPhYURtDIA7F9XitCy-9orA",
-            "authorChannelId": {
-              "value": "UCPhYURtDIA7F9XitCy-9orA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-01T02:10:37Z",
-            "updatedAt": "2021-05-01T02:10:37Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
       "etag": "XedffPJE1SRlU6KUe1gxrwzi2Io",
       "id": "UgyNQRlGxkQSzJyRnGh4AaABAg",
       "snippet": {
@@ -1449,7 +1417,7 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "G3FMEF97hnvFFe9UoYoKMTs3ix4",
+      "etag": "wtQTfVFAHKAocqdjqB56bstjieI",
       "id": "UgywAVeIe1gNM_jLUeN4AaABAg",
       "snippet": {
         "videoId": "nl1tZx9knzA",
@@ -1475,7 +1443,7 @@
           }
         },
         "canReply": true,
-        "totalReplyCount": 1,
+        "totalReplyCount": 0,
         "isPublic": true
       }
     },
@@ -2537,20 +2505,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "m_fdgkxJoZ4T7dN3iWZn4XfJUC8",
+      "etag": "8OhjRP-6JyjefypTkjaQ5KINhK0",
       "id": "Ugz35SWjb0e8l3acu5h4AaABAg",
       "snippet": {
         "videoId": "nl1tZx9knzA",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "4NpQLAM-juCErlCiHRlt3xF9X-s",
+          "etag": "ZPPOhWPFuj9kyObiP8WJgqw-DRs",
           "id": "Ugz35SWjb0e8l3acu5h4AaABAg",
           "snippet": {
             "videoId": "nl1tZx9knzA",
             "textDisplay": "APPLE WILL WIN, ITS TIME TO KILL EPIC GAMES",
             "textOriginal": "APPLE WILL WIN, ITS TIME TO KILL EPIC GAMES",
             "authorDisplayName": "Joe",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/9GaCHWY5brV5SHNicjTAHm2upy18aGny88ffQgm1CgzYrAFMUcWgI47THy2on5IGz2V9EAuEbQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/dQIFi_6fajyG1t6WmVsTY7b4mHHzzTLXWAdQZBeoNB7umKqopmlFVojdpHbucKD-ZX9S2NivXw=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UChGF7CVYKedFmbMrM6sqDfw",
             "authorChannelId": {
               "value": "UChGF7CVYKedFmbMrM6sqDfw"
@@ -3204,6 +3172,38 @@
         },
         "canReply": true,
         "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UyVou8DO3dNdJb0YteWk6emVOaE",
+      "id": "Ugyoft33ztyzqZsEaj14AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "51MDZGpLdwATeqiDOM23gb3j0AM",
+          "id": "Ugyoft33ztyzqZsEaj14AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "dang bro I remember watching youtube on my grandmother's roku TV 😥😥😥 so nostalgiac bro",
+            "textOriginal": "dang bro I remember watching youtube on my grandmother's roku TV 😥😥😥 so nostalgiac bro",
+            "authorDisplayName": "Mdominic",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiyGswgqKIHmTbX5SIUMADf6m3Sk8f5Txfn2wgbA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVJX9rPbrYEsEZaX0BpnFSg",
+            "authorChannelId": {
+              "value": "UCVJX9rPbrYEsEZaX0BpnFSg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 20,
+            "publishedAt": "2021-05-01T01:29:48Z",
+            "updatedAt": "2021-05-01T01:29:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
         "isPublic": true
       }
     }

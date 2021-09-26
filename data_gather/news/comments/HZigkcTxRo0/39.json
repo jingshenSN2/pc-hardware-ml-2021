@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "itk2H1tj-QeX0mcxotq1zmilZ0Y",
-  "nextPageToken": "QURTSl9pMjQ3bDRVRnlaVDJxaEpKdTZUTjR6eUtSbkQtUXlFMmM1aFZYOWtsUEppazdjdHdVZXJMNTZiVnhnMjhucDJmOWZEU2FCdEZzMA==",
+  "etag": "n8eASOOCBHEXxtCddvfqvh_Yr-w",
+  "nextPageToken": "QURTSl9pMUFDb20xWHdxQ1JrUjFKLU1aR0l0YmFVOFEwRnZjZUl6LUtMb0t5cVJSa0RETjNvODlhYVBKd1ZEVHNBLVlmN1RrTU5RRlVHRQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "RF1DdZKvu8OTKAG7A80rcPKyFtw",
-      "id": "UgxQH-NQrmbmMEBRXqx4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "zu_ou0noCed_7wVjfVanrWHV9g4",
-          "id": "UgxQH-NQrmbmMEBRXqx4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "You finally hired her",
-            "textOriginal": "You finally hired her",
-            "authorDisplayName": "DoubleIrish DutchSandwich",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQFQrJQjatyXBbT2Edn_ipTRmwCLFLLdnTvObsiIw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCvvJAsjOvEYmDBI9ImoKDDg",
-            "authorChannelId": {
-              "value": "UCvvJAsjOvEYmDBI9ImoKDDg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T23:00:15Z",
-            "updatedAt": "2021-02-25T23:00:15Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "W8XQUgK2Y_ONP3v_uEGk4y-Zl5U",
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T21:57:20Z",
             "updatedAt": "2021-02-25T21:57:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pHDo_V5_hIBw9VlM2VtfndxHh4s",
+      "id": "UgxgmPQJgrPiOB3F_2h4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Af1wHIoF9ns7ykaaXbnVqfGpyq8",
+          "id": "UgxgmPQJgrPiOB3F_2h4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "I've never seen a geekier girl than this one, impressive. You guys finally nailed it, she is right at home. The opposite of that bland blue-haired girl, \"Max\" I think.",
+            "textOriginal": "I've never seen a geekier girl than this one, impressive. You guys finally nailed it, she is right at home. The opposite of that bland blue-haired girl, \"Max\" I think.",
+            "authorDisplayName": "Waldiney Torres",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRj_HuaqdU8YHXRdbIN52gczrJeo643HacQsA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrjGAtxbLW4YCCV8i0_3ePQ",
+            "authorChannelId": {
+              "value": "UCrjGAtxbLW4YCCV8i0_3ePQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T21:55:18Z",
+            "updatedAt": "2021-02-25T21:55:18Z"
           }
         },
         "canReply": true,

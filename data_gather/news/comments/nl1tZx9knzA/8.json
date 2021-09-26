@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "xfPxMkw3Z-Tg-ZRAjcLvVTir8lo",
-  "nextPageToken": "QURTSl9pM1JLQ1pVZzhsNUN3NTBxVWNtWkJPZlNPeGkyTHRuRm1uc2FnUHc1N3o1SDRyelBtWm14MnVEeHczMDlnTWVfTVUzbDlXNmNqSQ==",
+  "etag": "Pw8fUys9zurixoXZxjngoNvgew4",
+  "nextPageToken": "QURTSl9pMjdWYkNTV2dlYmdyeGU5Q0pmdEtJVXVWaGFUZU8xNFB1M2djeTc2Zkx1VUJ5ekhnMEN2SlVWOFlydVh4T1g0cDJPZFBfSVg0Yw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "UyVou8DO3dNdJb0YteWk6emVOaE",
-      "id": "Ugyoft33ztyzqZsEaj14AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "51MDZGpLdwATeqiDOM23gb3j0AM",
-          "id": "Ugyoft33ztyzqZsEaj14AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "dang bro I remember watching youtube on my grandmother's roku TV 😥😥😥 so nostalgiac bro",
-            "textOriginal": "dang bro I remember watching youtube on my grandmother's roku TV 😥😥😥 so nostalgiac bro",
-            "authorDisplayName": "Mdominic",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiyGswgqKIHmTbX5SIUMADf6m3Sk8f5Txfn2wgbA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCVJX9rPbrYEsEZaX0BpnFSg",
-            "authorChannelId": {
-              "value": "UCVJX9rPbrYEsEZaX0BpnFSg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 20,
-            "publishedAt": "2021-05-01T01:29:48Z",
-            "updatedAt": "2021-05-01T01:29:48Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 2,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "wGqIqSzRZxUYmZDYhMECVxhhsIM",
@@ -1897,38 +1865,6 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "DS8D8PKaQfPLQcOOujIbRvqvEiE",
-      "id": "Ugw2Qd14dcXo60X8hk94AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "5VUpOXzxfHWqoqeVSAlIZ_QyEf8",
-          "id": "Ugw2Qd14dcXo60X8hk94AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "Nvidia should just quit on the unhackable update.",
-            "textOriginal": "Nvidia should just quit on the unhackable update.",
-            "authorDisplayName": "Quantum",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTnxIFJOEJMAEQ8QL4AnSccwBrXFXdnpakaApXG9g=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCNYuzSPOC9yfoSdgNqNbIUA",
-            "authorChannelId": {
-              "value": "UCNYuzSPOC9yfoSdgNqNbIUA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-05-01T01:15:01Z",
-            "updatedAt": "2021-05-01T01:15:01Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
       "etag": "jbN8fX8yuWrXUNJ50sTAEDjl8g8",
       "id": "Ugwjy2fkDCAxVWbsk9t4AaABAg",
       "snippet": {
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-05-01T01:04:58Z",
             "updatedAt": "2021-05-01T01:04:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8AxI-NqyuJ-Upwq9v9wKYfYFxfI",
+      "id": "Ugy-XaeZk204ciMx6Sl4AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dx9dzsq-2nYvcgTRaTKZ7v_9Ghs",
+          "id": "Ugy-XaeZk204ciMx6Sl4AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "Nvidia's driver was completely hack proof; by any reasonable definition of hacking they were never hacked. People just used an official Nvidia driver to get around it completely. No hacking required!",
+            "textOriginal": "Nvidia's driver was completely hack proof; by any reasonable definition of hacking they were never hacked. People just used an official Nvidia driver to get around it completely. No hacking required!",
+            "authorDisplayName": "c0horst",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8BAWg9dSJO8xbVktNXWF5zkBVpMW9xlzDmneh0g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChg-UlZCDAqnb9unwKcdNTw",
+            "authorChannelId": {
+              "value": "UChg-UlZCDAqnb9unwKcdNTw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-05-01T01:04:45Z",
+            "updatedAt": "2021-05-01T01:04:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "c05RI9VtMMQR7W-5Ck9u0EzjqZY",
+      "id": "UgwT7Um_XUQyqpBtLCJ4AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "l56jViGZyuu4JqIiRxiJD9OaKJE",
+          "id": "UgwT7Um_XUQyqpBtLCJ4AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "J",
+            "textOriginal": "J",
+            "authorDisplayName": "Chicken Dynamite the suicide bomber",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmmLms725HrPwTjRh6TR0R-kUNi1ZV1PyExg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzwN45jSDGWtTfJTLEkkIgQ",
+            "authorChannelId": {
+              "value": "UCzwN45jSDGWtTfJTLEkkIgQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-05-01T01:04:45Z",
+            "updatedAt": "2021-05-01T01:04:45Z"
           }
         },
         "canReply": true,

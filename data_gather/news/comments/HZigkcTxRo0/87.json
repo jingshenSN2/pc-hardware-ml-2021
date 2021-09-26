@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "HASU8u6XWM4rxdvz0eE2C97PR5Y",
-  "nextPageToken": "QURTSl9pM2lHc01jX19XWXZaMVpWZktNbk5VNDRjaklpUnRhLUFzYzNDdF9NOW5NRzBvUkFsTlRrbzF5Nl81UVQtVW5kbFVWVFMzN3NzUQ==",
+  "etag": "gvBpwVuOTZ54Lu_M2FJrvnf6LU4",
+  "nextPageToken": "QURTSl9pM1ZnRXhfTS05VF83YTh0X2M3Y0Q0blBFcDdVdGZlWGNKSm5aRjhwa0JFU1lSdjZ3VEZNR0dRaWdGUWtWVUY4YmY3MG9UeXdnVQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "pemL1mirWf5Wgt23SH2UJpi9fKo",
-      "id": "UgzhreG40EAPGBcY8ud4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "dvtvujvJ7auSVZcYWWGDSHRGVOY",
-          "id": "UgzhreG40EAPGBcY8ud4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "MA DI SON! MA DI SON! MA DI SON!",
-            "textOriginal": "MA DI SON! MA DI SON! MA DI SON!",
-            "authorDisplayName": "Kev Smith",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQE1nt9TtrSOlhwRzaAnEzKJG7LSDic2XEAALzVLg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCkXOvls1yGZ7h0RfNKtDv0g",
-            "authorChannelId": {
-              "value": "UCkXOvls1yGZ7h0RfNKtDv0g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T06:17:35Z",
-            "updatedAt": "2021-02-25T06:17:35Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "okhZUaQEoDtBkgtUfH4LnF0-WW8",
-      "id": "UgwpzXz2mQbumls-oux4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "K1Z0kO-oDH6zgAcKvRzIZgxKNzQ",
-          "id": "UgwpzXz2mQbumls-oux4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Shes a keeper!",
-            "textOriginal": "Shes a keeper!",
-            "authorDisplayName": "Dillon Turner",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQJqIMLlfsbSNnZX_HG9OCc1b8c5k-oMp4qBloL=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCPvghwSodJY4hg7AO7T5wbA",
-            "authorChannelId": {
-              "value": "UCPvghwSodJY4hg7AO7T5wbA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T06:17:32Z",
-            "updatedAt": "2021-02-25T06:17:32Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "v6poeQ4oaXXcRlV3JgHsBnCTOJM",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T06:08:51Z",
             "updatedAt": "2021-02-25T06:08:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "py9Ir5v25NVrHEM3INWyEyvNp-w",
+      "id": "UgyDiBYlMmHXl4FyQxt4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MifuKGfv5GegafarSzgkE3CJj4M",
+          "id": "UgyDiBYlMmHXl4FyQxt4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Ive been trying to buy a 3060 ti",
+            "textOriginal": "Ive been trying to buy a 3060 ti",
+            "authorDisplayName": "Tobster",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6dyqfuLxNojZoYGcZQQ3dfKrJkav0xubOg7vEAg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpa3GHuJisd690zUWklh_iw",
+            "authorChannelId": {
+              "value": "UCpa3GHuJisd690zUWklh_iw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T06:08:47Z",
+            "updatedAt": "2021-02-25T06:08:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GrFg7Qz1Vn4D-8BrCMxSsxGJGiE",
+      "id": "Ugw-wa9ch4Bf5nrpGUR4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nJIKw8hD8awq7XiTUaDNsDF-gaQ",
+          "id": "Ugw-wa9ch4Bf5nrpGUR4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "She's Riley's sister or something?",
+            "textOriginal": "She's Riley's sister or something?",
+            "authorDisplayName": "Moses Onyango",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJCNGwvPaOlIygZxgysdFKwtK_Fi1d-TScFNjj2Ug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuLtBWqW4ywr4DJRkWmYOAw",
+            "authorChannelId": {
+              "value": "UCuLtBWqW4ywr4DJRkWmYOAw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T06:08:40Z",
+            "updatedAt": "2021-02-25T06:08:40Z"
           }
         },
         "canReply": true,

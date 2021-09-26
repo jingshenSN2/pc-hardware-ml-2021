@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "LvaM637rwzuRMuPZXgxNP_kv1iQ",
-  "nextPageToken": "QURTSl9pM0JIVklPVHhwUTM5VkpUdXVWYzgyc3BOTFNScnNsOUxlUTNrNE5zWmdPb3BWajFaWmlIOUl1eGhZUGNDNWFUSGNENy05NTdBQQ==",
+  "etag": "2-zZXFa-cNqXoKzK5ePV8cwBNUo",
+  "nextPageToken": "QURTSl9pMmhfMXFERFVaek12X3VGOGEyOFdYSmp4S0dHNFlNbFVvem5NRjZ1Q3NPRzZvcEFZdFZDSldsUEMwVlVHNk41S0VDSko0S01aNA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -9,13 +9,13 @@
   "items": [
     {
       "kind": "youtube#commentThread",
-      "etag": "7wJgrEZPvU4mrO2NOY2Fn0X5Cvw",
+      "etag": "R9KJZNYm0z9TXeExQNOHSQErkYQ",
       "id": "UgwNlm__yGs6V1SxIhh4AaABAg",
       "snippet": {
         "videoId": "u2UGqLvq0_k",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "x3xFaPb-QnZ9wrTF26KJMyD_Aos",
+          "etag": "XcldyBnZcY0cyc4QlWbxthayfbc",
           "id": "UgwNlm__yGs6V1SxIhh4AaABAg",
           "snippet": {
             "videoId": "u2UGqLvq0_k",
@@ -29,7 +29,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 563,
+            "likeCount": 562,
             "publishedAt": "2020-11-05T03:18:53Z",
             "updatedAt": "2020-11-05T03:18:53Z"
           }
@@ -297,20 +297,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "juqOSErv-UXdmG39k0gtPDOp0aY",
+      "etag": "zTRHq-yW6AI17c-olgTuPaDu6To",
       "id": "UgzR5m0SuKDHADt2vwt4AaABAg",
       "snippet": {
         "videoId": "u2UGqLvq0_k",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "k6lbuDWnukGOhaHQFYU5nvSR5A0",
+          "etag": "Tutp7Mq5MZ24TTi0AkVYGw2sym0",
           "id": "UgzR5m0SuKDHADt2vwt4AaABAg",
           "snippet": {
             "videoId": "u2UGqLvq0_k",
             "textDisplay": "e",
             "textOriginal": "e",
             "authorDisplayName": "Endshade",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_LFw0mUTAyDv0BXpWYcwduAJXP3Q_teVO8Th_pw=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLShfQshH3hF1vRheCQVLBplXTzeU0-AXl_05krSPw=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCejlOe3TIOIr3YexJaiCGGg",
             "authorChannelId": {
               "value": "UCejlOe3TIOIr3YexJaiCGGg"

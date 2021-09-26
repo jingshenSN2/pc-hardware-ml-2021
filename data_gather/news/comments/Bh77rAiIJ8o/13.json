@@ -1,0 +1,3211 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "ll-p1Nn3JbeJdsnFE8MDCGdu2TM",
+  "nextPageToken": "QURTSl9pMVlKMXdVcGpzTHFFNzNMQ25ma3I0M3NEV2RDWWxScHRhUTZweGpHNjlubUdFa05uMXA1cjlvc05WQUd4b0NrX1c0VlJEN0lNaw==",
+  "pageInfo": {
+    "totalResults": 100,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5lEjk5EgWqZMUd5lpUMEWCIsP_w",
+      "id": "UgyneOva7z8_pezwvWt4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vHGGQ6QMzfwvRM1tld46VTdrwL4",
+          "id": "UgyneOva7z8_pezwvWt4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Please never do that Aussie accent again... Good news though.",
+            "textOriginal": "Please never do that Aussie accent again... Good news though.",
+            "authorDisplayName": "Douglas Pianta",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRw_8e_t02ApaT_5Az19ZVMeMo_hFoPELb_jbJl8Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8D_OE4WUtE8A_5IcKb30eQ",
+            "authorChannelId": {
+              "value": "UC8D_OE4WUtE8A_5IcKb30eQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:53:15Z",
+            "updatedAt": "2020-11-19T03:53:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "I09CNbepVoOUHRTxCNp907lmscc",
+      "id": "UgzUEAhglOEgAgFSath4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "F67JcQXzdUIKcyVp8znOQ7EAPzU",
+          "id": "UgzUEAhglOEgAgFSath4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "So we're just not going to talk about how THERE'S NO INTRO?!",
+            "textOriginal": "So we're just not going to talk about how THERE'S NO INTRO?!",
+            "authorDisplayName": "ZeniQ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQGwn0gtZCmctLLy2COhwysHGMarhZNHnMKNwLG_xE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvZfpa70DjHmnrcwf_Q8WXA",
+            "authorChannelId": {
+              "value": "UCvZfpa70DjHmnrcwf_Q8WXA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2020-11-19T03:53:07Z",
+            "updatedAt": "2020-11-19T03:53:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0J7QI48SnA769Sfq10-UsgxGoXM",
+      "id": "UgxLrOCx4Rr6cHRLqFt4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MRnXzFr9Q8zY7c1QuTvJF92zmjo",
+          "id": "UgxLrOCx4Rr6cHRLqFt4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Wait, no intro??",
+            "textOriginal": "Wait, no intro??",
+            "authorDisplayName": "AyeNash",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/iiycTUfa7d_Ng--X8Wb-WMarXGZTUjqHBk5eBrQ6vDyDtKyoWjq3ho_Vfw0y-tVMbEkzqswG8hA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6fJzjev8yMzUjniLjIhUaw",
+            "authorChannelId": {
+              "value": "UC6fJzjev8yMzUjniLjIhUaw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:52:52Z",
+            "updatedAt": "2020-11-19T03:52:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VILCJqs16XaFsUXFfh6V9dw8hRM",
+      "id": "UgxFOi_ZtgDV5Xp8D0J4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uuAhLDa83wDAdnQP5y3NX8I-U3I",
+          "id": "UgxFOi_ZtgDV5Xp8D0J4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "They were never there.",
+            "textOriginal": "They were never there.",
+            "authorDisplayName": "bob bob",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyW_a681-Vd20FVa1MyhgP78DV0Yo1IDVfPkkr=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqaAZ8nQrLVuiNlV0hGO0dA",
+            "authorChannelId": {
+              "value": "UCqaAZ8nQrLVuiNlV0hGO0dA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:52:50Z",
+            "updatedAt": "2020-11-19T03:52:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UHKvrABuU54zU6TKaf---h2McM4",
+      "id": "UgyGaHNjO7ckuuh6X6R4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JHs2ryHbDJYI_P4ni5UAeex5Zmo",
+          "id": "UgyGaHNjO7ckuuh6X6R4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "V card went all in teach reviewers",
+            "textOriginal": "V card went all in teach reviewers",
+            "authorDisplayName": "Kill Roy Was Her",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSx1D1zZDDEKHHWLimwr1d8-9oM9mW0f3HFcHb_Cw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzGVYUx6JVKlKV9mkSkP7aA",
+            "authorChannelId": {
+              "value": "UCzGVYUx6JVKlKV9mkSkP7aA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:52:37Z",
+            "updatedAt": "2020-11-19T03:52:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zXCTbGmNwJFU5QnIBoANHkf1k40",
+      "id": "UgxF_bGvcb7K-Yd1il54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fl5lgvUIO0kIfPpvaHNwUfZGH-c",
+          "id": "UgxF_bGvcb7K-Yd1il54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "wait riley did not finish his song smh :(",
+            "textOriginal": "wait riley did not finish his song smh :(",
+            "authorDisplayName": "GED-Zeus",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkejMJFxkBDP0-c8JlCNvPonLfWSkbKonBZTCVEg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCea_fNrlI4Zwu7WHpJoiruQ",
+            "authorChannelId": {
+              "value": "UCea_fNrlI4Zwu7WHpJoiruQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:52:20Z",
+            "updatedAt": "2020-11-19T03:52:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Z1Eioqav3sxGbd_sJJg04qsOjSQ",
+      "id": "UgxdYRplYatDwlA03qF4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FD2ZkOGtkarbt8nA-6rYSzy8i1o",
+          "id": "UgxdYRplYatDwlA03qF4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "So....where are all the new products?",
+            "textOriginal": "So....where are all the new products?",
+            "authorDisplayName": "wtfpancak3s",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwegCzEsBeXEEgoanBZua1BcXwZS6g-MkI7_tP=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzip6Z-C8WqnKfmZOSsccTQ",
+            "authorChannelId": {
+              "value": "UCzip6Z-C8WqnKfmZOSsccTQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:52:09Z",
+            "updatedAt": "2020-11-19T03:52:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9J1_HU4vEB_xScz0i_lUVQ1n33A",
+      "id": "UgxIydjez8M24ceuk3V4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_jsFKly0w7aDtRbN8e9BNU7t0CY",
+          "id": "UgxIydjez8M24ceuk3V4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "thank god scalpers got robbed",
+            "textOriginal": "thank god scalpers got robbed",
+            "authorDisplayName": "GED-Zeus",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkejMJFxkBDP0-c8JlCNvPonLfWSkbKonBZTCVEg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCea_fNrlI4Zwu7WHpJoiruQ",
+            "authorChannelId": {
+              "value": "UCea_fNrlI4Zwu7WHpJoiruQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:51:43Z",
+            "updatedAt": "2020-11-19T03:51:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PGvXY2FDNFMmVZyMCqbUM1ofA1o",
+      "id": "UgxhCwdn4HwnFRKX4kp4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KDqEX_j_HvPnseOnx6s-_xNlV-M",
+          "id": "UgxhCwdn4HwnFRKX4kp4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "lol the worst Aussie Impression I can say.. jesus..",
+            "textOriginal": "lol the worst Aussie Impression I can say.. jesus..",
+            "authorDisplayName": "Timothy J",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4OZ67UseKUAHPKrn9ifkN1iP7-ba2spNTFfh0T3M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCq2aykTC7BdSrxXgJT8EkIQ",
+            "authorChannelId": {
+              "value": "UCq2aykTC7BdSrxXgJT8EkIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:51:29Z",
+            "updatedAt": "2020-11-19T03:51:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UAc6FwpqyckzZ179XfWJn8sidsc",
+      "id": "Ugy1Cp2f_c1U5fyYLgl4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zqf1zkmj-fU7l2ZKVoE0sY6ZoVI",
+          "id": "Ugy1Cp2f_c1U5fyYLgl4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Never do an Aussie accent again",
+            "textOriginal": "Never do an Aussie accent again",
+            "authorDisplayName": "Timtams",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTajD-_6-AF8A84re0B3cdSCUID2Jv_qDU8SVFB=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvNIWEhQWDJNhksoLmHP4yQ",
+            "authorChannelId": {
+              "value": "UCvNIWEhQWDJNhksoLmHP4yQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:51:26Z",
+            "updatedAt": "2020-11-19T03:51:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mcYeck-dNF4n-EL1ZqFNRAJc8-A",
+      "id": "Ugz_RWYOUs6jB1-3ePF4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7209ZNSNno5zx-LqISh9MF3H3SE",
+          "id": "Ugz_RWYOUs6jB1-3ePF4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "now we just need to allow porn on ios",
+            "textOriginal": "now we just need to allow porn on ios",
+            "authorDisplayName": "Abiy BattleSpell",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpssmjae0ZvDNRKItm1zZ3rWy5mHUYMZq3ajsbkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCs0DrzPTwbkhZ4jSMi9I5WA",
+            "authorChannelId": {
+              "value": "UCs0DrzPTwbkhZ4jSMi9I5WA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:51:21Z",
+            "updatedAt": "2020-11-19T03:55:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "56bMELZ7tN_Sp0Dj9fIQgpdem34",
+      "id": "UgyBCyBtwNmaOPuHWYJ4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "M6r81SpaDcn0fPWACxIPdyXDTZo",
+          "id": "UgyBCyBtwNmaOPuHWYJ4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "WHERE THE F*CK IS RILEY!?!",
+            "textOriginal": "WHERE THE F*CK IS RILEY!?!",
+            "authorDisplayName": "Generic Montoya :P",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTAgMGu2k_Jo8hK134pnfdyk_RfytlFVK7YJA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtfp_EWEFTNiCOxL3aeS-xA",
+            "authorChannelId": {
+              "value": "UCtfp_EWEFTNiCOxL3aeS-xA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:51:17Z",
+            "updatedAt": "2020-11-19T03:51:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zK3vUvEXtFBiy_py2GdGuw3u70M",
+      "id": "UgxTABFMkTG24oQsbE54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IyQZLFTSR5Db2QzPZiFegzglBig",
+          "id": "UgxTABFMkTG24oQsbE54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "\"Posted 6 minutes ago\"\nI got here right before the episode ended!",
+            "textOriginal": "\"Posted 6 minutes ago\"\nI got here right before the episode ended!",
+            "authorDisplayName": "AWildGamerAppeared",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNUqNqLKzxoeGlnSNZESdXXIEN66LihdCcun5c=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYPPTlFxHeok7Kgj8cf_apw",
+            "authorChannelId": {
+              "value": "UCYPPTlFxHeok7Kgj8cf_apw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2020-11-19T03:51:15Z",
+            "updatedAt": "2020-11-19T03:51:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CWtNrUqRUjoRskVPuiviV8Vohgg",
+      "id": "UgwZsFPxR09Wu3TY0pl4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oBhk8pRBqQ7j42Vagl7SUif0ikY",
+          "id": "UgwZsFPxR09Wu3TY0pl4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Is it just me or the video seems lower contrast 🤔 and SOTR runs fine on m1",
+            "textOriginal": "Is it just me or the video seems lower contrast 🤔 and SOTR runs fine on m1",
+            "authorDisplayName": "Stormbreaker 82",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQFkUrVWsZ39hXTNZpLvzE6gkD3NhpQg6AqFqc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1jh-JOzVDO9I3GGqNzLM6w",
+            "authorChannelId": {
+              "value": "UC1jh-JOzVDO9I3GGqNzLM6w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2020-11-19T03:51:12Z",
+            "updatedAt": "2020-11-19T03:52:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ZLPipTcVaL7ZIzVOzN9fgQPsFKM",
+      "id": "UgwHfEUnwHsimuLfDs94AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0AdP4tCUdv3KmyvoFP0bUt_GOO4",
+          "id": "UgwHfEUnwHsimuLfDs94AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "north americans are SOOO BAD at doing aussie accents",
+            "textOriginal": "north americans are SOOO BAD at doing aussie accents",
+            "authorDisplayName": "p1ngers",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS4U_AYeNCXWR7Hh3C6Sc5l6bB2KBKi8ulGkLbA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOwpo4z58bS1wtsGmqhtLcA",
+            "authorChannelId": {
+              "value": "UCOwpo4z58bS1wtsGmqhtLcA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:51:01Z",
+            "updatedAt": "2020-11-19T03:51:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tkEylpilf5yS-CLegzWEHeSpZY4",
+      "id": "Ugz2B_c1C8HAKSV1jax4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "B6wLbyhaKN0_hN9J5uidkQh5LI4",
+          "id": "Ugz2B_c1C8HAKSV1jax4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Why no Vs the 3090 😂👌🏻\n\nstick to Nvidia 😉",
+            "textOriginal": "Why no Vs the 3090 😂👌🏻\n\nstick to Nvidia 😉",
+            "authorDisplayName": "Lusty_85",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/mtujNvh_dksw9M_Ui4CMqQtUFX_yPpzO5y3uvvF-D2gkTlqJIaE_VBIhiGtwoosl1xPQxHEh=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9JtMw0_Wi3V7jdGx1vcagA",
+            "authorChannelId": {
+              "value": "UC9JtMw0_Wi3V7jdGx1vcagA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:51:00Z",
+            "updatedAt": "2020-11-19T03:51:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "k1ToDwLxbzXPdHgvqG6_d7ZMIGE",
+      "id": "UgxsZKqJmhydBq3cIkF4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sUvRXQx3Zf7LwxTeMp6zkkVmaQg",
+          "id": "UgxsZKqJmhydBq3cIkF4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Scalpers are robbing people, sooo... karma. All I’m saying.",
+            "textOriginal": "Scalpers are robbing people, sooo... karma. All I’m saying.",
+            "authorDisplayName": "dr0nzer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpXWyHtj1S-kfOOpQgmhSz4jBvjI_zV2Quehhe=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBAdvoKJDbyYJ32C8efYkCQ",
+            "authorChannelId": {
+              "value": "UCBAdvoKJDbyYJ32C8efYkCQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:50:56Z",
+            "updatedAt": "2020-11-19T03:50:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uX4c6TXRto_MIwTdDzceyRUUbtQ",
+      "id": "UgxHDdBfwbRlqNc72BV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5868J4ndmlcGSyhoMF8AY77Z1tU",
+          "id": "UgxHDdBfwbRlqNc72BV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Two 6800XTs at the Minneapolis Microcenter.",
+            "textOriginal": "Two 6800XTs at the Minneapolis Microcenter.",
+            "authorDisplayName": "sFfalenn al Tier",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDGIooccPoksLgiuKTowdPYQhoxMMNgG4dm3Lz=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC46leVK1ioQe5eQpxYoz9CQ",
+            "authorChannelId": {
+              "value": "UC46leVK1ioQe5eQpxYoz9CQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:50:44Z",
+            "updatedAt": "2020-11-19T03:50:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fKo1GyGI1XVompqr6i4oglAU1tk",
+      "id": "Ugy8IsrCtMSu-YPw3mp4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zIXDVxYCpWz8L6u50L_aMtM4OPE",
+          "id": "Ugy8IsrCtMSu-YPw3mp4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "There is no Cyberpunk without 4k quality RTX.",
+            "textOriginal": "There is no Cyberpunk without 4k quality RTX.",
+            "authorDisplayName": "ROCKSWOT",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRvG0z-BCKMcJ9f5sjqv1kmUcQgeUtu3HoIvB4z8g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCet_5QM2gstCZQT55SLfVHg",
+            "authorChannelId": {
+              "value": "UCet_5QM2gstCZQT55SLfVHg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-19T03:50:41Z",
+            "updatedAt": "2020-11-19T03:50:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9KgV0ZihsEYv25B397FW6Q2dQjs",
+      "id": "Ugy3MlhqezVf4y81HV94AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9QTHDYnOraYi0_hxjdBrOqxakKM",
+          "id": "Ugy3MlhqezVf4y81HV94AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "well wow classic can be run on a patatoe so im sure there are some mac wow players",
+            "textOriginal": "well wow classic can be run on a patatoe so im sure there are some mac wow players",
+            "authorDisplayName": "Abiy BattleSpell",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRpssmjae0ZvDNRKItm1zZ3rWy5mHUYMZq3ajsbkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCs0DrzPTwbkhZ4jSMi9I5WA",
+            "authorChannelId": {
+              "value": "UCs0DrzPTwbkhZ4jSMi9I5WA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:50:34Z",
+            "updatedAt": "2020-11-19T03:50:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BC7GmyzUJhyYbVYlA7FnwbJJloc",
+      "id": "UgycYTSlr8rWHsub2t14AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tP7VoFVhQB4VlOpcX9qFO9TSEw0",
+          "id": "UgycYTSlr8rWHsub2t14AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "who care about ray tracing Linus",
+            "textOriginal": "who care about ray tracing Linus",
+            "authorDisplayName": "Mightyunit",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRASKJwdzO6wkEJ-77f2O7e2PTJn6FIRcG1iA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiiAVTP8BKMR1jvwmhHkcQA",
+            "authorChannelId": {
+              "value": "UCiiAVTP8BKMR1jvwmhHkcQA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:50:31Z",
+            "updatedAt": "2020-11-19T03:50:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "huRIaSQHy7haj-069fMLFHthS6Y",
+      "id": "UgwdH8gXt3gxLEEvHTh4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ve_3Q7QU0SuJZLHkS9qbMb1HQ_4",
+          "id": "UgwdH8gXt3gxLEEvHTh4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Caocom hack 😂",
+            "textOriginal": "Caocom hack 😂",
+            "authorDisplayName": "Luka Dugonjic",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRulIzRue6vjqcRCjAO11IcKoGjX0qE8ZdMEQHw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpicxFGjmIwZ5UllQ9nvypQ",
+            "authorChannelId": {
+              "value": "UCpicxFGjmIwZ5UllQ9nvypQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:50:26Z",
+            "updatedAt": "2020-11-19T03:50:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LFf5vlq2p4uoCj96hvgdQGf0zE4",
+      "id": "UgzHM6PQaXChppgHzzN4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xpfLc7lb_YpZny29HrsyDNkiBSI",
+          "id": "UgzHM6PQaXChppgHzzN4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Disliked bc no improv tech news opening.",
+            "textOriginal": "Disliked bc no improv tech news opening.",
+            "authorDisplayName": "Amean Abdelfattah",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdhSg8G9uHJ26hl1d9-66YTt_2-lI4LCXl3SNuGA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCKi-EUm10jl2t2sylP3JTw",
+            "authorChannelId": {
+              "value": "UCCKi-EUm10jl2t2sylP3JTw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:50:10Z",
+            "updatedAt": "2020-11-19T03:50:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XcU8Bm_E0fTRtTWAToDZK6MUh1w",
+      "id": "Ugzigdti4ULliTo9mnV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9wH17bHjZaSeQrv5MyNUUzQ71pw",
+          "id": "Ugzigdti4ULliTo9mnV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "HEY NOW!  kevin costner robin hood was pretty respectable.  not like princess bride respectable, but infinitely better than the jamie foxx one.",
+            "textOriginal": "HEY NOW!  kevin costner robin hood was pretty respectable.  not like princess bride respectable, but infinitely better than the jamie foxx one.",
+            "authorDisplayName": "jazz03",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBWRBMgWlHHGc7R1HmEc7FBZ4CBpMWi5y6E_jx=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiBdnlZWV46rVzvzsyQ_LKw",
+            "authorChannelId": {
+              "value": "UCiBdnlZWV46rVzvzsyQ_LKw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:49:52Z",
+            "updatedAt": "2020-11-19T03:50:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5JI0X1HMDtBrep17A6pv7ahvYdg",
+      "id": "Ugw9Trx8nRDP4oKs_qx4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lvT_DDYyoJ45iw0HmrM8Le-YzlI",
+          "id": "Ugw9Trx8nRDP4oKs_qx4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Am I the only one who thinks Linus with a beard looks like Solomon lane from mission impossible fallout? The guy who made the syndicate",
+            "textOriginal": "Am I the only one who thinks Linus with a beard looks like Solomon lane from mission impossible fallout? The guy who made the syndicate",
+            "authorDisplayName": "Apexed",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSC8E-SbId-a0LW4wI6SNHfINF3mHp1McDfaKc5YA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdCmoMyVSuPcteZueG-X_Ng",
+            "authorChannelId": {
+              "value": "UCdCmoMyVSuPcteZueG-X_Ng"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:49:50Z",
+            "updatedAt": "2020-11-19T03:49:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9nIRAgGRvryT6sS6pR31wd_keFs",
+      "id": "Ugxc6anOVikiRpBMdKF4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MKsw8HUrcZo_GUkv76pcxtZPJz8",
+          "id": "Ugxc6anOVikiRpBMdKF4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Tiktok is cringe",
+            "textOriginal": "Tiktok is cringe",
+            "authorDisplayName": "Greatrat",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSNi7Sm4Y4RPGjHQsB9gf4aMn1y1HkuF3pbmo-UlA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbhTGj-PNDHaN4BqC-95fow",
+            "authorChannelId": {
+              "value": "UCbhTGj-PNDHaN4BqC-95fow"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:49:43Z",
+            "updatedAt": "2020-11-19T03:49:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XnF-8aqxQnaTXsTwCeoo7-RjyAg",
+      "id": "UgzdJlTxsCe5SjqWyhh4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "o13OF8ZHdCXOZT8D8lRWnRyQDYk",
+          "id": "UgzdJlTxsCe5SjqWyhh4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "If it makes anyone feel better, the bots also bought and sold out all the remaining 6800 GT. Yes,  the 6800 GT that was released 16 years ago back in 2004.",
+            "textOriginal": "If it makes anyone feel better, the bots also bought and sold out all the remaining 6800 GT. Yes,  the 6800 GT that was released 16 years ago back in 2004.",
+            "authorDisplayName": "Kzarka",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTjx26vhYWJBlSldZkTjZxGd8wNZF2SwqO2_A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRfySfeHBvNsYMTeVoJabSQ",
+            "authorChannelId": {
+              "value": "UCRfySfeHBvNsYMTeVoJabSQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4286,
+            "publishedAt": "2020-11-19T03:49:36Z",
+            "updatedAt": "2020-11-19T03:49:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 59,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "U31fi643bhf3is4bjqyhlZzTs-k",
+      "id": "Ugy7YVIaAWtDvF01Drx4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "jbcnEXiyDLcQVeoLT70_S9LA5zM",
+          "id": "Ugy7YVIaAWtDvF01Drx4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "here at '4 views' and 52 seconds ago...\n\nGet it right, Youtube.",
+            "textOriginal": "here at '4 views' and 52 seconds ago...\n\nGet it right, Youtube.",
+            "authorDisplayName": "Imperium Commenting Network",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8E1j2c63y4-IDYLFBqwbA8IDssTaUyb8o=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIL0PxQg4AtOLRSjXc9WDIg",
+            "authorChannelId": {
+              "value": "UCIL0PxQg4AtOLRSjXc9WDIg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:49:28Z",
+            "updatedAt": "2020-11-19T03:49:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ruqlJSbWVhaBkFKkOJxTkJDMxvk",
+      "id": "UgwYwInLn-gs7h1O6kR4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NzXFdOucVsQ50PwcQdcnyTeq7N4",
+          "id": "UgwYwInLn-gs7h1O6kR4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "You didn't see that coming?",
+            "textOriginal": "You didn't see that coming?",
+            "authorDisplayName": "Daniel Cunha",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRyrAL9zVALG92a5B_4iIkyEFDYCZnPyQDJVGlNxQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKPhn9GPYfWardDOR6mKFNg",
+            "authorChannelId": {
+              "value": "UCKPhn9GPYfWardDOR6mKFNg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:49:26Z",
+            "updatedAt": "2020-11-19T03:49:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9_90UENx-incb75TS9PEHWr3K3k",
+      "id": "UgyBZs2oolH5POcC6Bx4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "st7mPoiLf6dRlxjg55-14wasp_Q",
+          "id": "UgyBZs2oolH5POcC6Bx4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "I think they actually forgot to insert the intro... the video starts with Linus's hand raised up as if he'd just finished saying something....",
+            "textOriginal": "I think they actually forgot to insert the intro... the video starts with Linus's hand raised up as if he'd just finished saying something....",
+            "authorDisplayName": "Tobias Park",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWZdntzriAAdcdxCV6ekcC_jQ_CSkfxHd00TjATUo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTmtRYI0O3qadTbj15OXYcQ",
+            "authorChannelId": {
+              "value": "UCTmtRYI0O3qadTbj15OXYcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 68,
+            "publishedAt": "2020-11-19T03:49:22Z",
+            "updatedAt": "2020-11-19T03:49:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "x9DPKPHiYkGe_DnADWxvEeOQQzM",
+      "id": "Ugz8AbJvJOxKjj8g-fh4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bAfwVJNgThXvbiuE2jAHMmwWS18",
+          "id": "Ugz8AbJvJOxKjj8g-fh4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "We can all agree Scalping is bad. but at the same time, they are still within their legal right. the only way to stop them is to just not buy it or give them attention. so that people stop thinking it’s okay. the more people talk about it, the more it’s encouraged. if you just ignore it and don’t buy into it, then they’ll give up because they’ll realise they’re losing more money than gaining. just my two cents tho.",
+            "textOriginal": "We can all agree Scalping is bad. but at the same time, they are still within their legal right. the only way to stop them is to just not buy it or give them attention. so that people stop thinking it’s okay. the more people talk about it, the more it’s encouraged. if you just ignore it and don’t buy into it, then they’ll give up because they’ll realise they’re losing more money than gaining. just my two cents tho.",
+            "authorDisplayName": "Rewind Official",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCDMX4X8F9dcnbYIKwmVK5r2YDxm9U4hSGgze5Mw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC52Oom7rAK2gElmuMZDAOVw",
+            "authorChannelId": {
+              "value": "UC52Oom7rAK2gElmuMZDAOVw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:49:18Z",
+            "updatedAt": "2020-11-19T03:49:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XyO7JT3Vgobo3mTLKo_wtBcbjmY",
+      "id": "UgzVLBwgTT8eW1dhTbt4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qHEbXllJrirUjZ-Fv64mlHhuFGo",
+          "id": "UgzVLBwgTT8eW1dhTbt4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "buil a budget wayer cool pc",
+            "textOriginal": "buil a budget wayer cool pc",
+            "authorDisplayName": "Richelle Mae Pineda",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvY4KrJVZydH9GllsSIVOeWNsGmBB5nclL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3PUXL3x0dsV0_uKGfD3hHw",
+            "authorChannelId": {
+              "value": "UC3PUXL3x0dsV0_uKGfD3hHw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:49:17Z",
+            "updatedAt": "2020-11-19T03:49:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "h7E_SVtvWqLRAeqPouW2E7oOiOU",
+      "id": "UgxRgpt0wWUytTsr0yd4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4C_F8xfje1yLpNspEu2bFvqM_pY",
+          "id": "UgxRgpt0wWUytTsr0yd4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Is this all a giant plan to push people toward cloud gaming?",
+            "textOriginal": "Is this all a giant plan to push people toward cloud gaming?",
+            "authorDisplayName": "Tomorrow Xu",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQgoU2N_NtHj9R7QvwCZE_1WBAAMG0NiKk5zd4eVQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCe2a0B1xKcOqpCy_KmHNI5w",
+            "authorChannelId": {
+              "value": "UCe2a0B1xKcOqpCy_KmHNI5w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:52Z",
+            "updatedAt": "2020-11-19T03:48:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PASVXi96S52TX4O0pW26Jo0l-xw",
+      "id": "UgxNq4s88oTKIosBIiR4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TetaQvWdb5PNbFdue0qj_x2xmu8",
+          "id": "UgxNq4s88oTKIosBIiR4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Its almost like we didnt expect that coming...",
+            "textOriginal": "Its almost like we didnt expect that coming...",
+            "authorDisplayName": "Shadow_Craft",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHu8UQzAYESQ8wyBNhy6CkMLPUTEAlnIipyQ92iQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6sg6pGpP8JJF2EIWVx8qEg",
+            "authorChannelId": {
+              "value": "UC6sg6pGpP8JJF2EIWVx8qEg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2020-11-19T03:48:49Z",
+            "updatedAt": "2020-11-19T03:48:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UxT21xZjcXlF5Y-P_Q83vZiaUeM",
+      "id": "UgzLutG4GAnhLrTgfat4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LRXtHg6WllRPeO-aHo59HAIRRek",
+          "id": "UgzLutG4GAnhLrTgfat4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Ah 2020 gaming products... the year of the \"out of stock\" on websites, scalpers with 50 items selling them for x3 the price, bots, and frustration.",
+            "textOriginal": "Ah 2020 gaming products... the year of the \"out of stock\" on websites, scalpers with 50 items selling them for x3 the price, bots, and frustration.",
+            "authorDisplayName": "S1D3winder017",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnhO9GW0YyrfMskJ0VW-EweBp4FAw806V4g1X3=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCU2DdxNlFyi_HW1gGA3XreQ",
+            "authorChannelId": {
+              "value": "UCU2DdxNlFyi_HW1gGA3XreQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:31Z",
+            "updatedAt": "2020-11-19T03:48:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XyLxG72xEcV2_8v2wOQSxnd0_yI",
+      "id": "UgzzkJvkOEOvtYBghpt4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fF-rAF7kWvZhjokfgd1HDe02hrE",
+          "id": "UgzzkJvkOEOvtYBghpt4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "GIMME DAT RX 6800",
+            "textOriginal": "GIMME DAT RX 6800",
+            "authorDisplayName": "Eviannatural",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrGhE-MTv4anDMmSlvF59NRP1dgX1HAy3xiSWARg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8CIlavAFLKG9B5J6FrB8VQ",
+            "authorChannelId": {
+              "value": "UC8CIlavAFLKG9B5J6FrB8VQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:31Z",
+            "updatedAt": "2020-11-19T03:48:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uMpXqfI7xur6s5Q4a2lNP-aeTmU",
+      "id": "Ugzr9y01aE-pyCAF_ul4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nNx7G9cXgHNANRMWrvuQ4IfAOW4",
+          "id": "Ugzr9y01aE-pyCAF_ul4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Amd..The Hyundai of pc hardware",
+            "textOriginal": "Amd..The Hyundai of pc hardware",
+            "authorDisplayName": "8133 Micro",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJ9cVpkHRKSL3lQB8A8X0sDjXK39jldc1EvjgRkQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiejJp-ewPKBxb7LpmaEFjQ",
+            "authorChannelId": {
+              "value": "UCiejJp-ewPKBxb7LpmaEFjQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:24Z",
+            "updatedAt": "2020-11-19T03:48:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iKS44LtoXPr6s9nVp5XMwJy_NCk",
+      "id": "UgxsY9FzHAzodzEjvwN4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Qnh5ImF6e8_nldMQT_bhhEkuQBo",
+          "id": "UgxsY9FzHAzodzEjvwN4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Who would have thought",
+            "textOriginal": "Who would have thought",
+            "authorDisplayName": "Shungrite",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/0uNSTRQHGVFNhvQKoo3Tznr3JGVLpdjM25NFM1P2Iz-fuMrBT8DRdzVKsVPi5j8Hz090wh2M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJyxFmDdg88D5vKETydV6Ag",
+            "authorChannelId": {
+              "value": "UCJyxFmDdg88D5vKETydV6Ag"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:19Z",
+            "updatedAt": "2020-11-19T03:48:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AXv_dE04_uK043fq_kIi0ZZjSOA",
+      "id": "Ugw95kU0uNToMzxrE7V4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LeG7phUsJsvGqCsMwROYaRwE1FE",
+          "id": "Ugw95kU0uNToMzxrE7V4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Lol robin hood prince of thieves was a great movie.",
+            "textOriginal": "Lol robin hood prince of thieves was a great movie.",
+            "authorDisplayName": "Ross Brimmer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3jyKW8OpcSWADS5p68PUKN9X_HAoFxEDuwmatUQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC33XwuY8-9M7Vnb7lo6Pytg",
+            "authorChannelId": {
+              "value": "UC33XwuY8-9M7Vnb7lo6Pytg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:16Z",
+            "updatedAt": "2020-11-19T03:48:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wu4b77g2E56m1edY5PbRdpVvqp0",
+      "id": "UgywxCtCBfL5Zxj5dw94AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bTH_hsFV9HkrzWdKGpHTAMfg4uY",
+          "id": "UgywxCtCBfL5Zxj5dw94AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Hey, happy with the competition. Plus not everyone is not keen on Raytracing and would mostly prefer to lower settings of games anyway to get a competitive edge. At 50 dollars less that is a decent trade-off",
+            "textOriginal": "Hey, happy with the competition. Plus not everyone is not keen on Raytracing and would mostly prefer to lower settings of games anyway to get a competitive edge. At 50 dollars less that is a decent trade-off",
+            "authorDisplayName": "Eugene Monotilla",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9efqssQP5xgFzyuZwSWA38r8arLD2bCNPjIAg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClCyJ8UQzw3at_kt_iHtJ7g",
+            "authorChannelId": {
+              "value": "UClCyJ8UQzw3at_kt_iHtJ7g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:10Z",
+            "updatedAt": "2020-11-19T03:48:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "54VRBySBFAj1N66tirodfT3sq58",
+      "id": "Ugz2txPGK3fjloSHy-Z4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "G37CiXv6iI0D7pm6gHfGcYmS7iw",
+          "id": "Ugz2txPGK3fjloSHy-Z4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "M1 ARM chips are really just ps3 chips confirmed. 🤣🤣🤣",
+            "textOriginal": "M1 ARM chips are really just ps3 chips confirmed. 🤣🤣🤣",
+            "authorDisplayName": "Price Cloud",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSSsn_thm3dxzPx5Xx7s9aEP9CgE6EFlZjuRwgyGA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjnZFJbuogt9JAfnsB7FWUg",
+            "authorChannelId": {
+              "value": "UCjnZFJbuogt9JAfnsB7FWUg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:09Z",
+            "updatedAt": "2020-11-19T03:48:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RMTsTTTGXi9_l53D8yqHszZ-2rE",
+      "id": "UgxYjua7RK5K4xC6Iid4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Zn1XI02Nz6x70BGPkmZsYMluMEU",
+          "id": "UgxYjua7RK5K4xC6Iid4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Is Riley not here to sing the rest of his song? :c",
+            "textOriginal": "Is Riley not here to sing the rest of his song? :c",
+            "authorDisplayName": "Ben Hensley",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSBy2QZ-4C4aLX4CwT9Cbg3N5-u4mILFOpwxzkG=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4sBhoq--YtOKN9ParkAAPA",
+            "authorChannelId": {
+              "value": "UC4sBhoq--YtOKN9ParkAAPA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:05Z",
+            "updatedAt": "2020-11-19T03:48:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ElcTWN1nxJFGxPCAfTqCmpuzdUw",
+      "id": "UgyynQ00g_P0Ds0ume54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "obx_JgdTtCzYh9OFLiOW0AVW3kQ",
+          "id": "UgyynQ00g_P0Ds0ume54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Amazon is also now a pharmacy",
+            "textOriginal": "Amazon is also now a pharmacy",
+            "authorDisplayName": "Sandy Boi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3CkRkrrsmblRmKQ2PgZiqXeqwHuII3Yx3XYxr=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCd5oJwNN3WwoXQdkdWvIUVg",
+            "authorChannelId": {
+              "value": "UCd5oJwNN3WwoXQdkdWvIUVg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:48:02Z",
+            "updatedAt": "2020-11-19T03:48:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_bsh36Ie7uWpEysVbmrZtS9bC4A",
+      "id": "UgzJXv8YBvcJzAtM5ah4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "b3ZqbUtqF8ljGvC7AjHC77jTvlo",
+          "id": "UgzJXv8YBvcJzAtM5ah4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Oh wow, only literally everyone saw that coming.",
+            "textOriginal": "Oh wow, only literally everyone saw that coming.",
+            "authorDisplayName": "Malachai Carter",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxJL8c5birECe-Jjq3tTbYRJ2Ds2vOwYIyAqGkDg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFsbnNeBtu3_2n2yX4Gj5Qg",
+            "authorChannelId": {
+              "value": "UCFsbnNeBtu3_2n2yX4Gj5Qg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 902,
+            "publishedAt": "2020-11-19T03:48:01Z",
+            "updatedAt": "2020-11-19T03:48:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 33,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qAdkW1VXI8PzGoWGpvu08n8zzq4",
+      "id": "Ugzyzacw2CpM_SKnRYp4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UUERTT-xRdtiAyXlIPNA51hhxI8",
+          "id": "Ugzyzacw2CpM_SKnRYp4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "this is scarcity by desi..... oh wait, it's amd.. accusing amd is not allowed 😂",
+            "textOriginal": "this is scarcity by desi..... oh wait, it's amd.. accusing amd is not allowed 😂",
+            "authorDisplayName": "HaaS-19",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSQg7ip4LhLmR9cbY2O1-Nf0KIP2tKJtJzE7A5Qcg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCefCG0euG1J5S1Cp3a2xw0g",
+            "authorChannelId": {
+              "value": "UCefCG0euG1J5S1Cp3a2xw0g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:47:59Z",
+            "updatedAt": "2020-11-19T03:47:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Q0GS78b5termugh8FZSHb0yhP2Q",
+      "id": "Ugz4xFbGMbzhTdB9tUx4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Wvj0q8geqv2Q0nV5BJXIQ38whVk",
+          "id": "Ugz4xFbGMbzhTdB9tUx4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "This guy looks like the one who reviews 6800xt on the linus tech tips channel",
+            "textOriginal": "This guy looks like the one who reviews 6800xt on the linus tech tips channel",
+            "authorDisplayName": "C",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRxK7y1_p8qu1Xm4OPRN7RtBN1zrGSqVYbOl5o1Fg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOnbUuy1Nk5Hl5qUS7kDpQg",
+            "authorChannelId": {
+              "value": "UCOnbUuy1Nk5Hl5qUS7kDpQg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:47:43Z",
+            "updatedAt": "2020-11-19T03:47:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sKi4LjiXJXHoNSEvWzij4IS7kb8",
+      "id": "Ugz0XIGpn46eCH9BOKB4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "euDwEysloGVRFRA2DboI1pPUb18",
+          "id": "Ugz0XIGpn46eCH9BOKB4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "\"Scalpers are being robbed\"\nAh, so those scumbags found out what happens when you lock down stock of anything artificially? Serves them right.",
+            "textOriginal": "\"Scalpers are being robbed\"\nAh, so those scumbags found out what happens when you lock down stock of anything artificially? Serves them right.",
+            "authorDisplayName": "BlunderingFool",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTybG3WNIwmxb1I6lWGmW3YoEhrOjWNU66iYME6=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJXSKwDSEY3-djsE1ulEcdg",
+            "authorChannelId": {
+              "value": "UCJXSKwDSEY3-djsE1ulEcdg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 224,
+            "publishedAt": "2020-11-19T03:47:35Z",
+            "updatedAt": "2020-11-19T03:47:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 20,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "q5g5sgeundnwch7rxV_NPSmDbew",
+      "id": "Ugw5lGjveaqAVTt9bB54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YPltpih7LxGwfVUe7SR9pGZdifg",
+          "id": "Ugw5lGjveaqAVTt9bB54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "*so the next videos will be JAMES huh.*",
+            "textOriginal": "*so the next videos will be JAMES huh.*",
+            "authorDisplayName": "Orange Range",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQeZ1GZc5vlMS6IKkJenOI6wEia5vQrsANRE2S8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDcPLGR8qBYh43Lsua2ZOkg",
+            "authorChannelId": {
+              "value": "UCDcPLGR8qBYh43Lsua2ZOkg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:47:30Z",
+            "updatedAt": "2020-11-19T03:47:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3cWrWXo1NBQc24XvdYPJbqQ5URg",
+      "id": "UgymU5SzrobCXEn5a5t4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "muSbzO5PR5B9UppnJCtg8YaspAE",
+          "id": "UgymU5SzrobCXEn5a5t4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "linus, you just stated stealing wifi. is ok. yet is also a crime. \n\nyou just promoted a crime. just like you said killing animals is ok",
+            "textOriginal": "linus, you just stated stealing wifi. is ok. yet is also a crime. \n\nyou just promoted a crime. just like you said killing animals is ok",
+            "authorDisplayName": "Kelrune",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHyA2SclR_IumKPUj3Mr5BB9eISszZHlfQO-rwJlU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4y1BKS-Ew6daL6jMeXjc3g",
+            "authorChannelId": {
+              "value": "UC4y1BKS-Ew6daL6jMeXjc3g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:47:29Z",
+            "updatedAt": "2020-11-19T03:47:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Mt3d1ZpaA_ba8WCqDMupR7ly-c0",
+      "id": "Ugw8B_SsYb669JO6O7N4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iYc7F_jUWQ_3hXnQAGZMGblVRgE",
+          "id": "Ugw8B_SsYb669JO6O7N4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "GUYS THERE CAN'T BE 10 PEOPLE TO GETTING HERE FIRST!",
+            "textOriginal": "GUYS THERE CAN'T BE 10 PEOPLE TO GETTING HERE FIRST!",
+            "authorDisplayName": "Hridex",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTsV1Hl5AVl8II6asA_NCM0ezgoaAj0BJ5bWv1pw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEmivW4lTl8Ny8pw3_Byw9g",
+            "authorChannelId": {
+              "value": "UCEmivW4lTl8Ny8pw3_Byw9g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:47:26Z",
+            "updatedAt": "2020-11-19T03:47:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "b7HSCqCLD1l3_mQOtO3eIgV3_cU",
+      "id": "UgzBMrZ1ApsiSWO4sfR4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_K15kC5R2u9kmci9Jnjt3tYtaB0",
+          "id": "UgzBMrZ1ApsiSWO4sfR4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "I am sick of graphics cards releases with no cards. Time to go save some money and game on!!!",
+            "textOriginal": "I am sick of graphics cards releases with no cards. Time to go save some money and game on!!!",
+            "authorDisplayName": "Charles Benson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTOTLeTCowAbSmigTOjeTrqOPNej1FEgtsaOQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCE0-eAnMKonhq0THgqWcFRQ",
+            "authorChannelId": {
+              "value": "UCE0-eAnMKonhq0THgqWcFRQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:47:14Z",
+            "updatedAt": "2020-11-19T03:47:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6VNMqCfZwZYoVt7PSwxpL35x2JA",
+      "id": "UgwfDHg7_fcjDZOQsv54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BWZ9og4c6zvpACWcBcrAWQuuQrM",
+          "id": "UgwfDHg7_fcjDZOQsv54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Well ya didnt know but Google Pay has been in India for a quiet while....",
+            "textOriginal": "Well ya didnt know but Google Pay has been in India for a quiet while....",
+            "authorDisplayName": "TheMightyWolfie",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSjezu6fbfmF5jS3dy70be3vS49VytMCyMMMwJq=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkZjPZ_70RFQcTKeHhNZWLA",
+            "authorChannelId": {
+              "value": "UCkZjPZ_70RFQcTKeHhNZWLA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:47:11Z",
+            "updatedAt": "2020-11-19T03:47:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VIK7634IBhsdpFhTb5ti4KX4oFA",
+      "id": "UgzTKINiji_vSqmo98h4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q33rmcMBMPzD0HeKHji7N2L6EGY",
+          "id": "UgzTKINiji_vSqmo98h4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "I thought they delayed the release, since I couldn't find them anywhere... well, then. I lost interest.",
+            "textOriginal": "I thought they delayed the release, since I couldn't find them anywhere... well, then. I lost interest.",
+            "authorDisplayName": "The Late One",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7gd8HvQ2oZNT7nI1MvAWZZAnlMt6MvYbzKMkY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCar1bGs8NByvOiHBl-M5H5w",
+            "authorChannelId": {
+              "value": "UCar1bGs8NByvOiHBl-M5H5w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2020-11-19T03:47:03Z",
+            "updatedAt": "2020-11-19T03:47:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "THw5l3fLEdpD8X8hxxF74ysxJzQ",
+      "id": "UgyfXMnyoTWPj37EFm54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "d0fliubAxY5_7y9reyZWDkUiow0",
+          "id": "UgyfXMnyoTWPj37EFm54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "404: intro not found",
+            "textOriginal": "404: intro not found",
+            "authorDisplayName": "King Dragonhoff",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTc1uasrQ9Ekczj-wd6Lwtmskztj7zd8mZToMue=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4gHmShiyV-HOU6vrS6h-Gg",
+            "authorChannelId": {
+              "value": "UC4gHmShiyV-HOU6vrS6h-Gg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:46:50Z",
+            "updatedAt": "2020-11-19T03:46:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "thoXDejtotCfux-dgB2BxaY4wUc",
+      "id": "UgzBR2dIHVSERQ0PXz54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1euSD0RniPOc2OPsEqwafATX_UY",
+          "id": "UgzBR2dIHVSERQ0PXz54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "4:36 Caocom Hack",
+            "textOriginal": "4:36 Caocom Hack",
+            "authorDisplayName": "Constantine",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwjTNMxIBCc912OA0mFJ7UhVpXsCyHS7dcyOZ6=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRQBbwnMZeSiEfcnM_O2UKg",
+            "authorChannelId": {
+              "value": "UCRQBbwnMZeSiEfcnM_O2UKg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:46:49Z",
+            "updatedAt": "2020-11-19T03:46:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aszXV-RZYjMZ-o8R3PyIKdUgdf8",
+      "id": "Ugwl_awJ4NpUiXkMqrJ4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lr4PI4WOEH_aahgHbQmBKzQk6YA",
+          "id": "Ugwl_awJ4NpUiXkMqrJ4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "i know linus is white. but he is blending into the white of the background. \n\ncolor correction? white balance?",
+            "textOriginal": "i know linus is white. but he is blending into the white of the background. \n\ncolor correction? white balance?",
+            "authorDisplayName": "Kelrune",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHyA2SclR_IumKPUj3Mr5BB9eISszZHlfQO-rwJlU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4y1BKS-Ew6daL6jMeXjc3g",
+            "authorChannelId": {
+              "value": "UC4y1BKS-Ew6daL6jMeXjc3g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-19T03:46:44Z",
+            "updatedAt": "2020-11-19T03:46:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CYY7NUyMbV6O-Ru4OH6mVSwR-O0",
+      "id": "Ugyq6ccBSyXhOywJVxB4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JKRzxG3IehKxuWvnp-YW8ezxccw",
+          "id": "Ugyq6ccBSyXhOywJVxB4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "It's official, they ran out of tech news jokes",
+            "textOriginal": "It's official, they ran out of tech news jokes",
+            "authorDisplayName": "Hans5958",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTZEidS6YEExPntcmPHZuFDCeCtZvDV8DwqvjTP=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC88S_00DC-oKyOT3o_AsgYQ",
+            "authorChannelId": {
+              "value": "UC88S_00DC-oKyOT3o_AsgYQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 422,
+            "publishedAt": "2020-11-19T03:46:43Z",
+            "updatedAt": "2020-11-19T03:46:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "d5yxsapFe_VmRpCWNsLiHLXWCOs",
+      "id": "UgznR769JXwAknJodnF4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mvt6QA4eUIekUiSbF_d8eaF-4EQ",
+          "id": "UgznR769JXwAknJodnF4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "caocom",
+            "textOriginal": "caocom",
+            "authorDisplayName": "Lostpass",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkyUKsoUK12PXI24Vhl4VuY4omT4A4ZzB3yiwtUA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUMpE-jhaiLIfdDJnRNlhgQ",
+            "authorChannelId": {
+              "value": "UCUMpE-jhaiLIfdDJnRNlhgQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:46:38Z",
+            "updatedAt": "2020-11-19T03:46:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4Inek7mGOK_svLgHJDerPaSB2rQ",
+      "id": "UgygTrYi8v6gP0EJww54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vlqtF4-QTEvntn5hobrHr301G7w",
+          "id": "UgygTrYi8v6gP0EJww54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "2:18 Yes! Can't wait for Anthony's Review",
+            "textOriginal": "2:18 Yes! Can't wait for Anthony's Review",
+            "authorDisplayName": "Eric Hawkins",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSiOk8TjFvUQRvu8DoxN8KNF0VvWMa96135ru1P=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkj9U_XCm4SO7CCmK1Cyzjw",
+            "authorChannelId": {
+              "value": "UCkj9U_XCm4SO7CCmK1Cyzjw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:46:33Z",
+            "updatedAt": "2020-11-19T03:46:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0QZji9pvE-AuSXe8pzgkTuXzwKE",
+      "id": "Ugw7MyrCNmwpxhXPLZN4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3svAXqZcY-2pFgRzmOyHZ4NtrOs",
+          "id": "Ugw7MyrCNmwpxhXPLZN4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "They filmed this 2 weeks ago.",
+            "textOriginal": "They filmed this 2 weeks ago.",
+            "authorDisplayName": "Forest",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQBb0yaSgvwMf1wOOcRDl0x8VEEgItJAJCylQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcEphQv0YOg-MDvdfbosAVw",
+            "authorChannelId": {
+              "value": "UCcEphQv0YOg-MDvdfbosAVw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:46:30Z",
+            "updatedAt": "2020-11-19T03:46:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jgGtHXdnWXl-SH258xhudDn00zA",
+      "id": "UgyxtXA-8StIvirrYrV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vmLHghEV95xABbUqTj2432gfhOw",
+          "id": "UgyxtXA-8StIvirrYrV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "I play WoW on a Mac... I have to put a pillow on it because it hurts my ass tho.",
+            "textOriginal": "I play WoW on a Mac... I have to put a pillow on it because it hurts my ass tho.",
+            "authorDisplayName": "Chris H",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTC11BBX40EJxh3LJXHJDQ1QX3MiBZWi9RI8g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCekbtlvy0or1pSRdyOXCYdw",
+            "authorChannelId": {
+              "value": "UCekbtlvy0or1pSRdyOXCYdw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 744,
+            "publishedAt": "2020-11-19T03:46:15Z",
+            "updatedAt": "2020-11-19T03:46:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 19,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uVlL6I8lXBVDjyvOcfoBl4MwEWU",
+      "id": "UgzQmhtWqVQzLRv69JV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YKuAVCrF03TRtgmRokXCOFkBYR8",
+          "id": "UgzQmhtWqVQzLRv69JV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "You would think these tech companies would learn from the old saying, \"know your history or be doomed to repeat it\"",
+            "textOriginal": "You would think these tech companies would learn from the old saying, \"know your history or be doomed to repeat it\"",
+            "authorDisplayName": "Juan Avila",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSUEjzsfEETxqzysdU8dHT9ympzV_p129T7dmwa=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkmbtofCxZVzEy2knToIqKw",
+            "authorChannelId": {
+              "value": "UCkmbtofCxZVzEy2knToIqKw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 37,
+            "publishedAt": "2020-11-19T03:46:14Z",
+            "updatedAt": "2020-11-19T03:46:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oFmvyGRDS72KRqceJ53CnBaIFbQ",
+      "id": "UgzokhR1QO7n5WJdlRl4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "G6XAaN8WqbsWQbTqMyIL_M57oOI",
+          "id": "UgzokhR1QO7n5WJdlRl4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "well I'm watching this in a new MacBook Air, works just fine\nfun fact, charging with my 91w adapter generates more heat than maxing out the chip itself",
+            "textOriginal": "well I'm watching this in a new MacBook Air, works just fine\nfun fact, charging with my 91w adapter generates more heat than maxing out the chip itself",
+            "authorDisplayName": "askopte zero",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTt-y1_0cl95RkZQ5krcNZ_beUumbT-qtmtAA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCq3t_7Zq3m7m41rFCyhqBDg",
+            "authorChannelId": {
+              "value": "UCq3t_7Zq3m7m41rFCyhqBDg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:46:03Z",
+            "updatedAt": "2020-11-19T03:46:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oJSmR1rV4gzu8pNKok5bWQ0m3HE",
+      "id": "UgyZ6FauWAwtm7U2sJV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "t524_iz2de6T3KcaXcYPoDXhZkQ",
+          "id": "UgyZ6FauWAwtm7U2sJV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "We have to see whether it's out of stock for a few months, or whether it'll get stock back within the coming months.",
+            "textOriginal": "We have to see whether it's out of stock for a few months, or whether it'll get stock back within the coming months.",
+            "authorDisplayName": "Ra awesome",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkntxVB8I0fzF9bx5QOrOJ2Vtuv1rTeaPXHd30=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAzlGXw-06Kkx3EE0pV9lvA",
+            "authorChannelId": {
+              "value": "UCAzlGXw-06Kkx3EE0pV9lvA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:45:45Z",
+            "updatedAt": "2020-11-19T03:45:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VaBOVk5aKZkxove4D0m-EYKr0QY",
+      "id": "Ugymnds97Xw-TClbV4N4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-6ounTHagMpSBf401pizFgtGvkU",
+          "id": "Ugymnds97Xw-TClbV4N4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "That Linus guy looks like this dude...",
+            "textOriginal": "That Linus guy looks like this dude...",
+            "authorDisplayName": "Thomas The Tank Engine",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfPD2z9zgCh8jsQ5MMO7Mp2UnflrW2DnvThm5h=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQFWP751ndestWmNv-udLsg",
+            "authorChannelId": {
+              "value": "UCQFWP751ndestWmNv-udLsg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 40,
+            "publishedAt": "2020-11-19T03:45:43Z",
+            "updatedAt": "2020-11-19T03:45:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-ZWshcB7hmuG9fuoeJZi2eIdPJ4",
+      "id": "UgwEDCHHQAjEHDYrdPV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Zn56_4XkwqFNKiV8cdJSobmRw30",
+          "id": "UgwEDCHHQAjEHDYrdPV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "This early",
+            "textOriginal": "This early",
+            "authorDisplayName": "Lampeater",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRCzrmTVrxZfAGjb8a7UU98DjWX4q33A9jWlPtt=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0oX6hmbRW3vBU_AWiYTdCg",
+            "authorChannelId": {
+              "value": "UC0oX6hmbRW3vBU_AWiYTdCg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:45:36Z",
+            "updatedAt": "2020-11-19T03:45:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "izMyDQ1D-gohQHtyTllmO6U1lI0",
+      "id": "Ugy0fDQ5C7A9-6V-HaJ4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NEaQlbwdgJgUPUShkRjydmrF1To",
+          "id": "Ugy0fDQ5C7A9-6V-HaJ4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Every gamer:I fear no price but that word\n*Points to out of stack sign* it scares me",
+            "textOriginal": "Every gamer:I fear no price but that word\n*Points to out of stack sign* it scares me",
+            "authorDisplayName": "187_code",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/RhQaw81Vo6WzZ1HR3kXFNZNORIj-Fk12_p5_engO7hxd3ejlXSllbq89ESBM4KEeNjR8jBRK4bM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCleGwXKgH2F0Xh8YQ-0qG6A",
+            "authorChannelId": {
+              "value": "UCleGwXKgH2F0Xh8YQ-0qG6A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12,
+            "publishedAt": "2020-11-19T03:45:36Z",
+            "updatedAt": "2020-11-19T03:45:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8uoJW6Day5DCFSOSRNLpQbxmKDI",
+      "id": "UgyapP4CPjDYLXPNZPB4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "t3oJdi_GR9ibgWagpkObxpNtkhs",
+          "id": "UgyapP4CPjDYLXPNZPB4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "WoW player on a Mac very rare to see.",
+            "textOriginal": "WoW player on a Mac very rare to see.",
+            "authorDisplayName": "Lomkey",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTe-mbwz_POD4LjBtQpJQO1qyXDYa4t-Tw8prx87g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1MaYm6isKpQyeeb9VN1Teg",
+            "authorChannelId": {
+              "value": "UC1MaYm6isKpQyeeb9VN1Teg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:45:35Z",
+            "updatedAt": "2020-11-19T03:45:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sRhDtW8ZgG98jEBxGtI9gzvV5eM",
+      "id": "UgzhApUFA5ndhozc5CJ4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "toj4EZYixKwmoi8cT2DYoLWPYiw",
+          "id": "UgzhApUFA5ndhozc5CJ4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "MMmmMMmmMmMMMmMmmMmMmmMmMMMMmmmmm, Can't miss the tech news",
+            "textOriginal": "MMmmMMmmMmMMMmMmmMmMmmMmMMMMmmmmm, Can't miss the tech news",
+            "authorDisplayName": "DespressoD",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRS2oyjpMnvEFcss801hpFYsnOzIZg3Ri1F9c1N=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuVkGFGPfMN0E5yeKKPg5yw",
+            "authorChannelId": {
+              "value": "UCuVkGFGPfMN0E5yeKKPg5yw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:45:35Z",
+            "updatedAt": "2020-11-19T03:45:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dXTLPSECov1hqT6hYdD2h_K--BY",
+      "id": "UgzV6IpSFeI9mEI5BON4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TejEx-iiGDMv2r020dh6mIdxLlc",
+          "id": "UgzV6IpSFeI9mEI5BON4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Where's Reiley and his song????? Broken Promises!",
+            "textOriginal": "Where's Reiley and his song????? Broken Promises!",
+            "authorDisplayName": "Travel with Ivan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSxTLghjFrCbNOZP9sVMe07RJUA0douLusd2fPV0Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7NnLDgDg4yxXxPYm-kHBWg",
+            "authorChannelId": {
+              "value": "UC7NnLDgDg4yxXxPYm-kHBWg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:45:23Z",
+            "updatedAt": "2020-11-19T03:45:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Kz2rfscfaspjKGSQr6-Ko56-Ojk",
+      "id": "UgzghsyBHfyzOiLlttl4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6kx73SlyN8Nv5cjx-k-3wiHABUw",
+          "id": "UgzghsyBHfyzOiLlttl4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Why was Linus's Australian accent so good",
+            "textOriginal": "Why was Linus's Australian accent so good",
+            "authorDisplayName": "Revenos",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQbaIQWetQPehn3h7ojgN5DbKj6F-Hs3QrDlDpHBQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmWAQ59sVd4onjeRVxm82EQ",
+            "authorChannelId": {
+              "value": "UCmWAQ59sVd4onjeRVxm82EQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 65,
+            "publishedAt": "2020-11-19T03:45:18Z",
+            "updatedAt": "2020-11-19T03:45:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 8,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kmyilJD3UJ-jZ23qvD3UwObtla4",
+      "id": "UgyD2_Xd_syIzFLitj14AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iTVx34H1fZWJkyihSeJL_LyRR4E",
+          "id": "UgyD2_Xd_syIzFLitj14AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "\"LaSt TiMe I wAs ThIs EaRlY i GoT aN rTx 3080 At LaUnCh\"",
+            "textOriginal": "\"LaSt TiMe I wAs ThIs EaRlY i GoT aN rTx 3080 At LaUnCh\"",
+            "authorDisplayName": "Mani _",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQXXuxQbs7b8OKaJb5MyKvOZAtvJyoGVl3LrscrjA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_4M-e3Ysy8n9j2XPShdYjg",
+            "authorChannelId": {
+              "value": "UC_4M-e3Ysy8n9j2XPShdYjg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2020-11-19T03:44:58Z",
+            "updatedAt": "2020-11-19T03:44:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6DgPU1ayLtW8BP1_BxnxQ3HTEdE",
+      "id": "UgwBcJmBTrqqHQLuqol4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BotG63nDRFhLb17rlKDmIg9rd-8",
+          "id": "UgwBcJmBTrqqHQLuqol4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "rx 6000 series solds out in seconds\n\n*wow thats insane*",
+            "textOriginal": "rx 6000 series solds out in seconds\n\n*wow thats insane*",
+            "authorDisplayName": "Mdominic",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTiyGswgqKIHmTbX5SIUMADf6m3Sk8f5Txfn2wgbA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVJX9rPbrYEsEZaX0BpnFSg",
+            "authorChannelId": {
+              "value": "UCVJX9rPbrYEsEZaX0BpnFSg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 16,
+            "publishedAt": "2020-11-19T03:44:44Z",
+            "updatedAt": "2020-11-19T03:44:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vIsZ4sTdsIeirH-sWY2WeZjaRxM",
+      "id": "UgzTMP_vyQk5_J63L9N4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CRG9hG0GeSdcmMmy-V1i4Udbs6s",
+          "id": "UgzTMP_vyQk5_J63L9N4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "So early",
+            "textOriginal": "So early",
+            "authorDisplayName": "TheDragonfriday",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_VAXs9u-4sKNN7DBQr9MDvsLxu1B1v9U4Cda1Rw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiwGYH-U6mf3SSshJgSuiBQ",
+            "authorChannelId": {
+              "value": "UCiwGYH-U6mf3SSshJgSuiBQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:44:39Z",
+            "updatedAt": "2020-11-19T03:44:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CTrUfS1mPzsXBlamOTBxm5VN2Cc",
+      "id": "UgyIr7nNpjq3yGXEFNF4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EUve2VPnFQfBknAqQQOzhb4wqSs",
+          "id": "UgyIr7nNpjq3yGXEFNF4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "I have seen more AMD cards with tech youtubers than in my local store..",
+            "textOriginal": "I have seen more AMD cards with tech youtubers than in my local store..",
+            "authorDisplayName": "logirex",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQZhJEaCVrlaJxgWii17Y_rzXedIsvbrUZ4ZA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCifB-_SqoCuhkUfo_xEoW2w",
+            "authorChannelId": {
+              "value": "UCifB-_SqoCuhkUfo_xEoW2w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:44:31Z",
+            "updatedAt": "2020-11-19T03:44:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EH9muPx_KFzEitNFxfusbsAm9J8",
+      "id": "Ugyh-jlo7HKXRUEC1r14AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2vrtXh2Fu8rE5EWpx1Y4-10-F1w",
+          "id": "Ugyh-jlo7HKXRUEC1r14AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "where's the wierd intros wth??",
+            "textOriginal": "where's the wierd intros wth??",
+            "authorDisplayName": "Arul7",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTT11ZtZ3gLxj7hPM8DERpMhrwZbIsWO9Qt-JL9ig=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCIPATcpp1quPWjVdHJh_aA",
+            "authorChannelId": {
+              "value": "UCCIPATcpp1quPWjVdHJh_aA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:44:15Z",
+            "updatedAt": "2020-11-19T03:44:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Cf7HgYL8ZxnrPUjnGBa6ceP9OJ0",
+      "id": "UgwXHO5h7VMhxyRnp-N4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5t5KSsIMOiE-MMwkkaTz9tIi0D4",
+          "id": "UgwXHO5h7VMhxyRnp-N4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "No intro?",
+            "textOriginal": "No intro?",
+            "authorDisplayName": "joy Ray",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRx8qhKRSpj2SoT0BMTRccpe1p7eQnxYnnD8g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCW1CsML7SrL2QY1zusOJLwg",
+            "authorChannelId": {
+              "value": "UCW1CsML7SrL2QY1zusOJLwg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:44:10Z",
+            "updatedAt": "2020-11-19T03:44:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-f4DBv1sCLnfKkJTW9JmoMUEC-I",
+      "id": "Ugwax7C4bz4xfvKAIVV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kXNUkLzRItyYef9u1DCY63SVSZE",
+          "id": "Ugwax7C4bz4xfvKAIVV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "1:05 but is robbing robbers okay?",
+            "textOriginal": "1:05 but is robbing robbers okay?",
+            "authorDisplayName": "Jimmy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT3HNolnqebtxsii4PK8c02NGCkO-OvYG413APZjg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClYYMP6WlfssTcWeGJIzm3w",
+            "authorChannelId": {
+              "value": "UClYYMP6WlfssTcWeGJIzm3w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:47Z",
+            "updatedAt": "2020-11-19T03:43:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_86tS0LdtRKNJW0kL2ap-jd4dl8",
+      "id": "UgwPzDGaW98WxaohdaN4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_C_VJfKMBcKrCn-kutgushXMr3M",
+          "id": "UgwPzDGaW98WxaohdaN4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "60 Seconds ago and 4 views, 70 comments and 130 likes.",
+            "textOriginal": "60 Seconds ago and 4 views, 70 comments and 130 likes.",
+            "authorDisplayName": "Henry Sciberras",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdaMFYVK9PG6LolOEnEiAEZfB9LjEXoqu2HuF-ww=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEMqidJ19CELV57YvKP-DEw",
+            "authorChannelId": {
+              "value": "UCEMqidJ19CELV57YvKP-DEw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:42Z",
+            "updatedAt": "2020-11-19T03:43:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IOO0UVarr4XaSiTqNwwIZ6Xm_Fo",
+      "id": "Ugyvq2aCfB7i3k3R8Ad4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pV5M0a7ntdhVP8HjcBUvuIayK20",
+          "id": "Ugyvq2aCfB7i3k3R8Ad4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Given M1 offers compelling performace to compareable pcs, i wont be surprised pcs also start to have M1-like everything on soc and have serious power in the future",
+            "textOriginal": "Given M1 offers compelling performace to compareable pcs, i wont be surprised pcs also start to have M1-like everything on soc and have serious power in the future",
+            "authorDisplayName": "Kaku",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQo_qEjTTyvs70mz7w04dBHRYwYzDNAe85Dio48Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6r05m0VJk6RWOooUcRHteg",
+            "authorChannelId": {
+              "value": "UC6r05m0VJk6RWOooUcRHteg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:42Z",
+            "updatedAt": "2020-11-19T03:43:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bZvMUOhwrV2h21c01GqzMo6Lh_o",
+      "id": "UgxXWuCOCkGG_6dEAkB4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RjDwIxWUY_Kdp9SyM-GmdYlvu5k",
+          "id": "UgxXWuCOCkGG_6dEAkB4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Notification Gang!!!",
+            "textOriginal": "Notification Gang!!!",
+            "authorDisplayName": "Count Dain",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZXC0n1hD1UNzn8aRdHZGMZMaSO8Coe2PjsmBY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjijVYuzWbnbejkJ3uVYTXA",
+            "authorChannelId": {
+              "value": "UCjijVYuzWbnbejkJ3uVYTXA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:40Z",
+            "updatedAt": "2020-11-19T03:43:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xdnOJwtPCa4KOS_S7OBZj5-D99E",
+      "id": "Ugwtgo-d2Lvc7WwuNZN4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KA7c7tgPsTZvn_2-PwFYQedag24",
+          "id": "Ugwtgo-d2Lvc7WwuNZN4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "They're all gone, including the intro?",
+            "textOriginal": "They're all gone, including the intro?",
+            "authorDisplayName": "Jyro10",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4qUe0Rf4mtwFPKkpPXiwPGXoGoH5gq9Med5wp8Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC20OVP6ODCRxWfVGcsdh9ZA",
+            "authorChannelId": {
+              "value": "UC20OVP6ODCRxWfVGcsdh9ZA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:40Z",
+            "updatedAt": "2020-11-19T03:43:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DNwE385jqQ_fAdXHPJ4hpoOzPV0",
+      "id": "UgzVZ3l4QUTXPl_8JI94AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EbjD9avzSjuc6hoSJcnhfqRnfCU",
+          "id": "UgzVZ3l4QUTXPl_8JI94AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "86th",
+            "textOriginal": "86th",
+            "authorDisplayName": "Oh Exodus",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRfYvT0ikSEL9LJJ6oLzgJmPiU5qld4sU_yMwj0kw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCB6969nD1PhODdTwLyB2Ftg",
+            "authorChannelId": {
+              "value": "UCB6969nD1PhODdTwLyB2Ftg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-19T03:43:38Z",
+            "updatedAt": "2020-11-19T03:43:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kSTPMgnNyqZMyVROOLPZ5ZgR6OM",
+      "id": "Ugx6whtFGp0w4UMY_-x4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "quN4tNvL7ycZW-tmhVNwrQW8oKk",
+          "id": "Ugx6whtFGp0w4UMY_-x4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "I don't know how to react with scalpers getting robbed.... I\nPart of me says like \"AHA YOU DESERVED IT\" while another part of me is like \"robbing is bad too......\"",
+            "textOriginal": "I don't know how to react with scalpers getting robbed.... I\nPart of me says like \"AHA YOU DESERVED IT\" while another part of me is like \"robbing is bad too......\"",
+            "authorDisplayName": "Endomou",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWbZDS6wepUPaTFCPAvOSiExB42RJqdibSjvw7MA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyEGMViXuYpONZcCv0Gryeg",
+            "authorChannelId": {
+              "value": "UCyEGMViXuYpONZcCv0Gryeg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:33Z",
+            "updatedAt": "2020-11-19T03:43:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vWIGyrQhl_RMy3byN8s-Fcf8k2s",
+      "id": "UgzDEjeYxkXgjyzVDzB4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "haNsDRiad-4LO4TJxa7iVO1iU88",
+          "id": "UgzDEjeYxkXgjyzVDzB4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "When is rig reboot 2020",
+            "textOriginal": "When is rig reboot 2020",
+            "authorDisplayName": "Mcneds",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2mTg2oOSAkiZUT1YY37YMFlZIWnsAUNnWGEmA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9BjN7lXimTp72mp_gzh2IQ",
+            "authorChannelId": {
+              "value": "UC9BjN7lXimTp72mp_gzh2IQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-19T03:43:31Z",
+            "updatedAt": "2020-11-19T03:43:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oc2FcCGoOpeeUC2jQCXuHZZQVt0",
+      "id": "UgwfIn2LbSxZv81piI54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RQAPmxvnfQhZs9MmCdA1ts0Li2U",
+          "id": "UgwfIn2LbSxZv81piI54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "This is a big hmmm....",
+            "textOriginal": "This is a big hmmm....",
+            "authorDisplayName": "Tank Destroyer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSS_ZObl8hwscebVmPRGoNdmEua_ymrxSkuP5xKFQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5bqWfnFYcghQspoWLYo4qQ",
+            "authorChannelId": {
+              "value": "UC5bqWfnFYcghQspoWLYo4qQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-19T03:43:20Z",
+            "updatedAt": "2020-11-19T03:43:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_PECUz8P8bynL8ngeudFL2yCtpo",
+      "id": "UgzTL-wX3B5DAClRHVB4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "38VtrUePu7BXKWVokWwlwjyVQAw",
+          "id": "UgzTL-wX3B5DAClRHVB4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Think get a card is hard in usa? Try Australia",
+            "textOriginal": "Think get a card is hard in usa? Try Australia",
+            "authorDisplayName": "Tacomancer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8yoO9qHXgHBQpjOI5ekQiBMl8NonFb71IU7yf2w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcJ-gDhRXcAZsa_qWWPLQiQ",
+            "authorChannelId": {
+              "value": "UCcJ-gDhRXcAZsa_qWWPLQiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:19Z",
+            "updatedAt": "2020-11-19T03:43:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pOBrDOv_KAOJM9MLD5nAXPFQR0U",
+      "id": "UgyDaX06_OQJsSUIz2l4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bxAotavzDFOTgkEHhxhhQ7al5tU",
+          "id": "UgyDaX06_OQJsSUIz2l4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Techlinked?!? NANI?!",
+            "textOriginal": "Techlinked?!? NANI?!",
+            "authorDisplayName": "GB Gblanx",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvRbrSFawqafQLUOrz3wLXI3RWLDeb5GdGgG-Y6g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHJoUSWmLuHSdSLXEOBL9pQ",
+            "authorChannelId": {
+              "value": "UCHJoUSWmLuHSdSLXEOBL9pQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:16Z",
+            "updatedAt": "2020-11-19T03:43:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SQuDq7M-TctFWifHMK8xCihl-wk",
+      "id": "UgwMVpUaclovaL69vfl4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "G1qnwRuEAIySADlNyoxdOa4edt8",
+          "id": "UgwMVpUaclovaL69vfl4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Any Free Fire Player Here+",
+            "textOriginal": "Any Free Fire Player Here+",
+            "authorDisplayName": "MusiTech Creations",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlTbphb8-GMi3duu5KRAalko14682qalKHlH3otA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMTUzVD3CR5nqXBOsauoYQg",
+            "authorChannelId": {
+              "value": "UCMTUzVD3CR5nqXBOsauoYQg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:14Z",
+            "updatedAt": "2020-11-19T03:43:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aBMJlWOivyr65ReaMhnfSjXkQnE",
+      "id": "UgwlqnO0xFDeb3in2-p4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nQ0hBBymavDgQFpEk_T3-ESprXY",
+          "id": "UgwlqnO0xFDeb3in2-p4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Clicked so fast I beat the bots😂😎",
+            "textOriginal": "Clicked so fast I beat the bots😂😎",
+            "authorDisplayName": "lyrical criminal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQK0W8qH3P79o0bpsJIVefdKoMktsaAIG_TYViz=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNhF-epmF_3XWT-NfkV1uVA",
+            "authorChannelId": {
+              "value": "UCNhF-epmF_3XWT-NfkV1uVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-19T03:43:10Z",
+            "updatedAt": "2020-11-19T03:43:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Bacs0i5xPgUqmkyK5BwMCjH3oJA",
+      "id": "UgzDTMgL0OT98C0APbV4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Fx0mxBRqQrG6YzmGridJvSi3cU0",
+          "id": "UgzDTMgL0OT98C0APbV4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Will you do a video on which graphics card is better for a Linux operating system?",
+            "textOriginal": "Will you do a video on which graphics card is better for a Linux operating system?",
+            "authorDisplayName": "Lenin Martinez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQrfm7EcDZxxQ6uUlpavZccyWC-HNu3n6Wb1A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2dN0wBod22Pl9Xr4hlrNVA",
+            "authorChannelId": {
+              "value": "UC2dN0wBod22Pl9Xr4hlrNVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:06Z",
+            "updatedAt": "2020-11-19T03:43:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "21Yv3XN37hzC0XcLNnSoeFULt_I",
+      "id": "Ugybx-_NKhuVbNqesJ54AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "W83prJjciRCBpbKwbd1fGCKE8Dw",
+          "id": "Ugybx-_NKhuVbNqesJ54AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "where's the intro linus...? WHERE'S THE INTRO LINUS I NEED IT IN MY LIFE LINUS PLEASE DON'T DO THIS TO ME",
+            "textOriginal": "where's the intro linus...? WHERE'S THE INTRO LINUS I NEED IT IN MY LIFE LINUS PLEASE DON'T DO THIS TO ME",
+            "authorDisplayName": "Simon Mayrand",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWEHKpT0WLk6hBdiAEZ2GCIsB6Ua9gjMxO1w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCm0okx6riuPgvm_dVSn-WFw",
+            "authorChannelId": {
+              "value": "UCm0okx6riuPgvm_dVSn-WFw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 77,
+            "publishedAt": "2020-11-19T03:43:00Z",
+            "updatedAt": "2020-11-19T03:43:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UONoY-GWriOsRgS_QWYUvR2rHzU",
+      "id": "UgzuhzMXoBOmTUCoJUt4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6z1mGc9NV20ZuBOvAybtT8nGBpM",
+          "id": "UgzuhzMXoBOmTUCoJUt4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Techlinked: posted 1 minute ago. \nMe: Nice.",
+            "textOriginal": "Techlinked: posted 1 minute ago. \nMe: Nice.",
+            "authorDisplayName": "Zach Colgrove",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSlfYpzyFuzAl4_VPVZplva1QxLVnu9wQYq0o3T=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyVZoSVAoRCKEMR8N_yoZIg",
+            "authorChannelId": {
+              "value": "UCyVZoSVAoRCKEMR8N_yoZIg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:43:00Z",
+            "updatedAt": "2020-11-19T03:43:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ASBSDobVursgiFNa0tDsULkCwis",
+      "id": "UgzBk7b5PpHIMUD8k2F4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ygjt0Dzc0SLUUyVw_MSNM68FVrw",
+          "id": "UgzBk7b5PpHIMUD8k2F4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "What's gone? My money??",
+            "textOriginal": "What's gone? My money??",
+            "authorDisplayName": "Dazed:3",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQoVz2nojn5F1GxSFaxAzOmVHTYhkG9pJ2-toQ8Lg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCr0BWd4PVLEvnZGwK-gakPQ",
+            "authorChannelId": {
+              "value": "UCr0BWd4PVLEvnZGwK-gakPQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:42:52Z",
+            "updatedAt": "2020-11-19T03:42:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "45XyxBpG3qfJS3uTEjtVMs8Iia8",
+      "id": "UgzPmyj0GgYdk5xKnbZ4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Kpal1G4Tffjc-dvjUM5xk-cUCHI",
+          "id": "UgzPmyj0GgYdk5xKnbZ4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "1:11 Rude",
+            "textOriginal": "1:11 Rude",
+            "authorDisplayName": "Xzylo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTuYTxUy72yOweoVZGYr0HqV9crtDt33k22j94K=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTAByQXpNs0vdq9RcIrGPfg",
+            "authorChannelId": {
+              "value": "UCTAByQXpNs0vdq9RcIrGPfg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:42:50Z",
+            "updatedAt": "2020-11-19T03:42:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9enmxBud7VbSmCn_Y-CmuQ0l2FA",
+      "id": "UgzZjs0scKa5j1YgAx94AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6d0D33DZNOglTKQzTC0UTUVId0Q",
+          "id": "UgzZjs0scKa5j1YgAx94AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "AMD and NVIDIA are doing a good job with their graphics cards. But which one is better?",
+            "textOriginal": "AMD and NVIDIA are doing a good job with their graphics cards. But which one is better?",
+            "authorDisplayName": "Antoine Charles de Gaulle",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS5kyPMUKS_lM96rKqdyJmk1UIFP7DqRD803e9uxw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLqcUvIprR674UuOsOO2iCg",
+            "authorChannelId": {
+              "value": "UCLqcUvIprR674UuOsOO2iCg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:42:48Z",
+            "updatedAt": "2020-11-19T03:42:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qhZ_hHpSyVPWmPjEDJjcZdZVrUo",
+      "id": "Ugwz_cIqTSBUVp_G-aF4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5F05aOXLgQrUf76Sbr_nUFryUw8",
+          "id": "Ugwz_cIqTSBUVp_G-aF4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "119 views with 159 like, ok youtube.",
+            "textOriginal": "119 views with 159 like, ok youtube.",
+            "authorDisplayName": "Yuki",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJQBEhQ7ikEFAlaCueT_qebTrQYDfuDP30xcJ4Ug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgFOmKUMMeOhJ06xSbKrXqQ",
+            "authorChannelId": {
+              "value": "UCgFOmKUMMeOhJ06xSbKrXqQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:42:45Z",
+            "updatedAt": "2020-11-19T03:42:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BUIrrBMDVPX4lECyD9INE5x46hs",
+      "id": "UgwGzhiiOWwNC5pJAdt4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3zv3KAWklBpSmXeVNpXoqBKgOGA",
+          "id": "UgwGzhiiOWwNC5pJAdt4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "They are reduced  to atoms",
+            "textOriginal": "They are reduced  to atoms",
+            "authorDisplayName": "FantasticRaidz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQyHV3GKulgaO64oBmftTnDULH_4JeVf0n_vA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCj-u0gCc_qcYljlFpoMmeOA",
+            "authorChannelId": {
+              "value": "UCj-u0gCc_qcYljlFpoMmeOA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:42:40Z",
+            "updatedAt": "2020-11-19T03:42:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Eguf8h0CVPsCfORjSz7_FBi37Hs",
+      "id": "UgzsuhumIeWwaBa2LAJ4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "exXJszABqhFzV568tQTlgbbCUqE",
+          "id": "UgzsuhumIeWwaBa2LAJ4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "Nice keep them vids up!!!",
+            "textOriginal": "Nice keep them vids up!!!",
+            "authorDisplayName": "Mr. B Singh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQMHVIB28Y4I7Ixsra7V07bHzTDrAnfJ2TDb_Ao9g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUmPcjVawp9iUOFXdkjLX-g",
+            "authorChannelId": {
+              "value": "UCUmPcjVawp9iUOFXdkjLX-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-19T03:42:38Z",
+            "updatedAt": "2020-11-19T03:42:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JhIUMS8q0-6ZlkWKvMmWpDoxIS8",
+      "id": "Ugyt3yosaUlTWkG5Fpp4AaABAg",
+      "snippet": {
+        "videoId": "Bh77rAiIJ8o",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XOrKXRpboSZ4RW73NHVIPl21Eqs",
+          "id": "Ugyt3yosaUlTWkG5Fpp4AaABAg",
+          "snippet": {
+            "videoId": "Bh77rAiIJ8o",
+            "textDisplay": "im just one youtube, thinking: I really should be studying, then I see this video and I'm like, I should watch this",
+            "textOriginal": "im just one youtube, thinking: I really should be studying, then I see this video and I'm like, I should watch this",
+            "authorDisplayName": "Zymph",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQb-y3NJnFCrMsGkZRTtyOWDGgtH4-AOAQaWdn_bQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYKsdHKOXijrJw-6JxGHyWA",
+            "authorChannelId": {
+              "value": "UCYKsdHKOXijrJw-6JxGHyWA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2020-11-19T03:42:36Z",
+            "updatedAt": "2020-11-19T03:42:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    }
+  ]
+}

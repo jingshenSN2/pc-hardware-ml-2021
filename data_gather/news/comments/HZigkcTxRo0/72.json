@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "N3fScqUtJ77L26Kdg_Ze7revmOU",
-  "nextPageToken": "QURTSl9pMmszS19sdjZveU1lWXZXa1pIXzZXOVE1WUV1VXI5eVo5bTAtN2pQaDR2MU83aUFLN0dMeGM2eVdUSGFfVXExOURyTVhUdU1VQQ==",
+  "etag": "LziZ29dCJSptAvRjiwnkQlKfpmY",
+  "nextPageToken": "QURTSl9pMjBMTENtMDh0N1I5cC1PbEEySjRnaTZqb1NnQ1RESnFwSnhMNldwYzgxZENVbDVMY2J1Vi1xeFlZTG5nTWxFOF8wUWhqMlFhTQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "6s_47g7Y_mjP904XjuKBKBUAUY8",
-      "id": "UgyXEkrdOqclmkPrIn14AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "-tZMrBsOOcquqMFEDLzYjz6bpSU",
-          "id": "UgyXEkrdOqclmkPrIn14AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Madison rules! 😄",
-            "textOriginal": "Madison rules! 😄",
-            "authorDisplayName": "Marek Holub",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4IhKjPsA3TZpH9oGzQ8NMEE19noJngl1BtKMVlhg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCHzk-OmG3J1h7Bov3qeu6kg",
-            "authorChannelId": {
-              "value": "UCHzk-OmG3J1h7Bov3qeu6kg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T09:02:33Z",
-            "updatedAt": "2021-02-25T09:02:33Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "l2mJ0xpkPYqt4lB9U6SGLPsxSRQ",
-      "id": "UgxqmAPMkaFVR13Vy8p4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "r2NxjRyI9ciGY98bT0nUZI5LrFA",
-          "id": "UgxqmAPMkaFVR13Vy8p4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Wait, you hired the annoying peanut butter teeth chick?",
-            "textOriginal": "Wait, you hired the annoying peanut butter teeth chick?",
-            "authorDisplayName": "Oliver Dixon",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQLLNRyDE3GVP3KcBR7Rzswf5I57GGu2gLVeKhX3w=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCwh97fA0CLYajiW_Obo36wA",
-            "authorChannelId": {
-              "value": "UCwh97fA0CLYajiW_Obo36wA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T09:02:19Z",
-            "updatedAt": "2021-02-25T09:02:19Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "CBUFGazAuGXx0krjQE6AeVmhh_g",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T08:48:04Z",
             "updatedAt": "2021-02-25T08:48:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4bytlV5Fzveyl-tzUPTm0jR46os",
+      "id": "UgwajukCXU-7IoXuj2R4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "S6B02ZquzEdSPjzKx-2pEopl1js",
+          "id": "UgwajukCXU-7IoXuj2R4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "At least Star Citizen is not declared as \"released\". It will come out when it's ready, not Like \"Cyberpunk&Anthem ready\".",
+            "textOriginal": "At least Star Citizen is not declared as \"released\". It will come out when it's ready, not Like \"Cyberpunk&Anthem ready\".",
+            "authorDisplayName": "Oneath",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQHaYXW0ZwJz4adr194rQHYYD06YFVIQtYrUw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCM992z0xhjqC1pJyVdsO1Tw",
+            "authorChannelId": {
+              "value": "UCM992z0xhjqC1pJyVdsO1Tw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-02-25T08:47:58Z",
+            "updatedAt": "2021-02-25T08:47:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EQiPzr69NB44BhqEkIB6aaXRHAw",
+      "id": "UgwyySEqlACC6DUEYuF4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-Lik-MWLdidqsiDie2wQxFcmO2U",
+          "id": "UgwyySEqlACC6DUEYuF4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "i still only have a 1050 cant even afford a 2080 or even a 3060 yet",
+            "textOriginal": "i still only have a 1050 cant even afford a 2080 or even a 3060 yet",
+            "authorDisplayName": "Tea Tea",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS27ivlLaLDqKVyK7fB2BfNGcl3m2sO8K6W4w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCE2rO3y7e89lD5RBxgl_ZHA",
+            "authorChannelId": {
+              "value": "UCE2rO3y7e89lD5RBxgl_ZHA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T08:47:57Z",
+            "updatedAt": "2021-02-25T08:47:57Z"
           }
         },
         "canReply": true,

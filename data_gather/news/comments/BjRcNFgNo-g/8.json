@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "jHndlfzM0jLmJ3Q87Xu2BJazG4M",
-  "nextPageToken": "QURTSl9pM00yT3M3Vkl6aEZ2dS02NC1NSVJ2UE9pNWk2aWhibU1GZWdUV2VNUk1GRlpyVHBYSUdzWTRtWlprekJRMXBfUjJuRUpOZ1Nobw==",
+  "etag": "GfUgDdf_D8BwG3ds6b2Y33ceHhA",
+  "nextPageToken": "QURTSl9pMGdKVG95a0JKZEhTWlJwYlRGZ2JTUHhvai02MFE5d0FCMmZJWF9DcDlpdWFjNkVSemJiMklHSUZobDZZamdwZWk3MDl3SkJzQQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "mS8c2IV-wJ3WAsmWbv-ODB-qwX8",
-      "id": "UgwteC5ZI03lHnNCN1h4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "qjIivLFKXv2qYg3yKtogvGaNh_4",
-          "id": "UgwteC5ZI03lHnNCN1h4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "Yea, fuck Nvida on this one",
-            "textOriginal": "Yea, fuck Nvida on this one",
-            "authorDisplayName": "BR",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPtR4IWT-770sUdNqzyNcxQ0YSA10Wtb5gFP-QCw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCcPAsOPQrzZ_VnC2KfwI4yA",
-            "authorChannelId": {
-              "value": "UCcPAsOPQrzZ_VnC2KfwI4yA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T15:24:01Z",
-            "updatedAt": "2020-11-28T15:24:01Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "dX4owStyUsMsZeeCnuFBpVK_x1E",
@@ -1097,13 +1065,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "gjoIDgMA6cStpNRQyCXF_2xQGkg",
+      "etag": "UAwxdvBYrONlnOAZlSVhp4lzCho",
       "id": "UgwbJJCcHsQ1s6ei4jZ4AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "pLIMzIvwaGWD7XLBo6-wr2gb9uA",
+          "etag": "nYHbS4uIix-dZADm7gJ9mCqK1xw",
           "id": "UgwbJJCcHsQ1s6ei4jZ4AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
@@ -1117,7 +1085,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 694,
+            "likeCount": 695,
             "publishedAt": "2020-11-28T14:23:15Z",
             "updatedAt": "2020-11-28T14:23:15Z"
           }
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2020-11-28T13:10:45Z",
             "updatedAt": "2020-11-28T13:10:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ngjDi1jQjSfuYEDtcbIuK6EKvjw",
+      "id": "UgzlFBJ-MzK2UoturHF4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BoJ50ClTPJ1TGD8LcwP8LeW4F8E",
+          "id": "UgzlFBJ-MzK2UoturHF4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "Android apps on windows, so they are just bringing back project Astoria  that was in some preview versions of windows 10 mobile (alllowing some android aps to run on some windows phones and was the basis for windows subsystem for linux (windows kernel  with linux syscalls).",
+            "textOriginal": "Android apps on windows, so they are just bringing back project Astoria  that was in some preview versions of windows 10 mobile (alllowing some android aps to run on some windows phones and was the basis for windows subsystem for linux (windows kernel  with linux syscalls).",
+            "authorDisplayName": "MonochromeWench",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNKgUknDCC3MQ8KJ5G0LKuwXpKIoU8Weok8g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRDkkzTRkFvGYAs8wxSuyAQ",
+            "authorChannelId": {
+              "value": "UCRDkkzTRkFvGYAs8wxSuyAQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-28T13:09:05Z",
+            "updatedAt": "2020-11-28T13:09:05Z"
           }
         },
         "canReply": true,

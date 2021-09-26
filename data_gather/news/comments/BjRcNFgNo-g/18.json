@@ -1,43 +1,11 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "cRM2cSJCgMlXZ8-DVTdSYFC36AQ",
+  "etag": "hiopjzIoeK6CeGIUmWivbI7R3Kc",
   "pageInfo": {
-    "totalResults": 44,
+    "totalResults": 43,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ba8vEVC8cuApwGusOr0bnGgiDPQ",
-      "id": "UgzxRQQ_tRly0GmV7Fd4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "9u0CpsWSpRFRY3CjBotcIbcsjFk",
-          "id": "UgzxRQQ_tRly0GmV7Fd4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "RTX 3060 and 3070 good deal",
-            "textOriginal": "RTX 3060 and 3070 good deal",
-            "authorDisplayName": "Godzila Gamer",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLROZHRAd9vDe92JgzSDdsz0HSRJW_N3oijSYPfmNg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCsGhBq5WNhTyZrZOxURVlaA",
-            "authorChannelId": {
-              "value": "UCsGhBq5WNhTyZrZOxURVlaA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2020-11-28T03:43:28Z",
-            "updatedAt": "2020-11-28T03:43:28Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "lLeVjj_ljH2hewtXCIk9mLhSQ1I",
@@ -392,13 +360,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "Z1UC0yJ5nScCKRMJCZ3Jzwwmp8M",
+      "etag": "UbvY8vhyeLmWofe1CRGGqQeO3Hg",
       "id": "UgzM9KydDuijsLt-yT14AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "7HxqfOxmv0AFjJDcaNOcLtD7pqw",
+          "etag": "pvZC3shCdxwUmE-xS14fyDbHE1w",
           "id": "UgzM9KydDuijsLt-yT14AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
@@ -412,7 +380,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2953,
+            "likeCount": 2954,
             "publishedAt": "2020-11-28T03:42:45Z",
             "updatedAt": "2020-11-28T03:42:45Z"
           }
@@ -1320,13 +1288,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "vC4QEolSk6zneY9hGphtuB0r0gk",
+      "etag": "MmyU_UDRPESHmvctP0R3xXEApF4",
       "id": "UgwQuNEe_U7m-VpJGW94AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "8WgX2_p7JkwfbL2NNgGBDgZNhGU",
+          "etag": "9A2cBRqC0ZI0MztUiiRAkMnTrms",
           "id": "UgwQuNEe_U7m-VpJGW94AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
@@ -1340,7 +1308,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2118,
+            "likeCount": 2119,
             "publishedAt": "2020-11-28T03:41:57Z",
             "updatedAt": "2020-11-28T03:42:24Z"
           }

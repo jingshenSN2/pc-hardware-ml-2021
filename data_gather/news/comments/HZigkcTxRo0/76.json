@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "KmheV963J_jWiAPLdZyC6vIuFCA",
-  "nextPageToken": "QURTSl9pMlJyZTgwRkhNYmEyXzdfSDJmRTBOWEQtQ3VaMFZIbmQ5bENWSFlZemJpNUNBZjRlWUptMXBzZ2Z2UmtFZmpVSzZaSjl4RVl0SQ==",
+  "etag": "8Rf5uBzll40F517PHirAjv1fui4",
+  "nextPageToken": "QURTSl9pMEF1Z08za01EYkMxeXZDbHBKb1Q0d2ExLUpLaDhBQnhIUGpSZzJrdlZNUkdoQ2wyMXlxdGZoYnAtRUpsRkU1RHVFTFhsVm0ybw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "niX4MFXLLUhyycyyvQsfx8kjH88",
-      "id": "Ugz03mdc0FkPGLXBG-p4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Kin5RtkIHJJLStK-m5uLHPRk-e8",
-          "id": "Ugz03mdc0FkPGLXBG-p4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Did Linus finally shave himself?",
-            "textOriginal": "Did Linus finally shave himself?",
-            "authorDisplayName": "Fabilord",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTc11brR1xiPiz4GJjDmZKMOP03ztbl-ByDctUm=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC9b_gi9J-F5LcII_PJMK6Cg",
-            "authorChannelId": {
-              "value": "UC9b_gi9J-F5LcII_PJMK6Cg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T08:11:39Z",
-            "updatedAt": "2021-02-25T08:11:39Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "aNt0FIOJkVu9g7Mvk_8tc_9jRPE",
-      "id": "UgzWSkdedkU0741orYp4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "iim1TgZvJcr4dReZ7021HN5XVDg",
-          "id": "UgzWSkdedkU0741orYp4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I scrolled down just to read all the simping. Not disappointed",
-            "textOriginal": "I scrolled down just to read all the simping. Not disappointed",
-            "authorDisplayName": "obliviontb",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ9z7dY8-U6irkFlcSzPmQ94EdV3Ot7zw8Wgg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC5hFm5ysy6CvbNjtig9NmnA",
-            "authorChannelId": {
-              "value": "UC5hFm5ysy6CvbNjtig9NmnA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T08:11:29Z",
-            "updatedAt": "2021-02-25T08:11:29Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "qya0s7jDlzA0cmnt8RTxEexEFeY",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T07:59:37Z",
             "updatedAt": "2021-02-25T07:59:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8NO5WojoMQY_DAL_9VVUiOB7zlo",
+      "id": "UgzvUtJYCRdNr7K8C6N4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zUNsqfWMXPw0H20JYtqD1JwgCOo",
+          "id": "UgzvUtJYCRdNr7K8C6N4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "So madison never left after rig reboot",
+            "textOriginal": "So madison never left after rig reboot",
+            "authorDisplayName": "Existential Glitch",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRHcyftBSUlPMXyUL4M9rjC5Z5sKdloo5eTNu42Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6GksBTA_KWyE0EjwATpzXA",
+            "authorChannelId": {
+              "value": "UC6GksBTA_KWyE0EjwATpzXA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T07:59:35Z",
+            "updatedAt": "2021-02-25T07:59:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ak4b6N_qCHGaPTEC-HsLjgpXYqM",
+      "id": "UgzMSkYGrxbeILKkNzV4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UwwL-Rh0pVdAAcqSDC0-7MFfNdc",
+          "id": "UgzMSkYGrxbeILKkNzV4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "this. . . .. . . \n\n\n\n\n\nthis makes me happy..",
+            "textOriginal": "this. . . .. . . \n\n\n\n\n\nthis makes me happy..",
+            "authorDisplayName": "J Smith",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRrj83JQ8cHvMtgkD7FLYkgJVpcO8a3fkieloVk6g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdg9hPmbtYlcpkrf9Ajv09A",
+            "authorChannelId": {
+              "value": "UCdg9hPmbtYlcpkrf9Ajv09A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T07:59:33Z",
+            "updatedAt": "2021-02-25T07:59:33Z"
           }
         },
         "canReply": true,

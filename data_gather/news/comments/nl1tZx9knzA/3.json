@@ -1,12 +1,44 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "gulMPemJySQvXbTPUBnq0QUfXhY",
-  "nextPageToken": "QURTSl9pMXZLYXd0cm5RbTd6ZGp6ZkV0VndZeFkzVHMwaV9FUE9zUXdQQlA0My1Eb3hWbUYxLVgtVzI4cXdhTm9ub1BaV1FLdlBkdGFvcw==",
+  "etag": "E-5BqCdy_1zOslYXoMAZ3sLbGo0",
+  "nextPageToken": "QURTSl9pM3ZaQnk0NllxX25RdUlaUVR4Sy1wM1h3djB2ZDBRcGtVRzloSzhfRnctNU1wTEN1SnRLUFdYaVNiSVJqNVVxQTNIVVpPRFZLTQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AQxcGmdJkTudtpnNJiLtp2o39eE",
+      "id": "UgwkksopwgSI7sInftl4AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bPt1t3hHfkLA-s_q-OSQzqzHQJE",
+          "id": "UgwkksopwgSI7sInftl4AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "spotify? the money laundry platform? haha",
+            "textOriginal": "spotify? the money laundry platform? haha",
+            "authorDisplayName": "wabachi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTx-u_psWGO8TuaEppjW6vIWJB1kKVZSEm-J7N=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsdQHtBPsYjxMhF3micrQGA",
+            "authorChannelId": {
+              "value": "UCsdQHtBPsYjxMhF3micrQGA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-05-01T16:13:33Z",
+            "updatedAt": "2021-05-01T16:13:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "N7J7xzq_eU9R0DgFTHuF23HIq54",
@@ -3168,38 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-05-01T10:37:08Z",
             "updatedAt": "2021-05-01T10:37:08Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "9U0bVUQR1c4CfJ823NfWIYNaaXw",
-      "id": "UgwtFHMxDW2X_U0hw914AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "olFVRjo19sDQ0EiirtZmXabJR8U",
-          "id": "UgwtFHMxDW2X_U0hw914AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "can this guy articulate his words ? i cannot understand half of what he is saying with his dry mouth",
-            "textOriginal": "can this guy articulate his words ? i cannot understand half of what he is saying with his dry mouth",
-            "authorDisplayName": "Moi Juste",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTALded2bo2E1iQ4uv3fMd0OZr08PPInSBujw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC3Io8_b_kGM8JpdTgkrtzJA",
-            "authorChannelId": {
-              "value": "UC3Io8_b_kGM8JpdTgkrtzJA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-01T10:34:03Z",
-            "updatedAt": "2021-05-01T10:34:03Z"
           }
         },
         "canReply": true,

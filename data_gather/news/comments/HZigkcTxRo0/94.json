@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "fcA85AHYeZFouGXX72rWKlB9OEc",
-  "nextPageToken": "QURTSl9pMUZuaHVVX2YxWm4zTHBTSXNNZHBfRU14eFBqZGxrRVJaQTZ6U1R3eUdYLW45TmZFeWtaQm5udDdQd2Y3QjZlQ2FJYVh0N1ZsRQ==",
+  "etag": "XdYS67mN9x4DOBfvy7_Yj1oNO-U",
+  "nextPageToken": "QURTSl9pMnIwOG9FekxwYXhqU2Z4X0ZfYjhhS2s5WjRrMXNGRW5tc2xPYzdhX1AxR0daZ0hPOW1pZUplVTlxZEpfc0MtOFE3UExUY2thTQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "6t9eGyko_qg3DS5l6NDgU9JPfnI",
-      "id": "UgxYVH5WAjrWdZYoqbh4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "f2pVOCl1LlKwJ7KW_R2CnYa5yq0",
-          "id": "UgxYVH5WAjrWdZYoqbh4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Love Madi!",
-            "textOriginal": "Love Madi!",
-            "authorDisplayName": "Gerardo Morales",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCMEj-FQMhLO4rxVZAwgwP_IqWZqW7JVKcwM-45w=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC898MzVzJJi2_G3jx-izgDQ",
-            "authorChannelId": {
-              "value": "UC898MzVzJJi2_G3jx-izgDQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T05:22:56Z",
-            "updatedAt": "2021-02-25T05:22:56Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "XxjoB6WvxqRqIiF0Mu10VJBYes4",
-      "id": "UgyGAXptDCB6oCo7ZzR4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "kuwEnEH5w8njPvUwL8X1jf8ZwOA",
-          "id": "UgyGAXptDCB6oCo7ZzR4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Please add More Smartphone Tech News Sister 🙂",
-            "textOriginal": "Please add More Smartphone Tech News Sister 🙂",
-            "authorDisplayName": "Vaja Rakesh!",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/0XO1FF6typIU9PC6i1dZhAr_cfZYldjzNjMcM0Oqikc382_ZjkM7VyU9DEWZBmSgaN8NJVKerA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCMw1PmWO8anXie1SRBwO3Zg",
-            "authorChannelId": {
-              "value": "UCMw1PmWO8anXie1SRBwO3Zg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T05:22:47Z",
-            "updatedAt": "2021-02-25T05:22:47Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "Ul1G1MOaaBtISwGrRr4qL3R6n1U",
@@ -2121,13 +2057,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "eQKEokQ3wRZtuLmZLAncT7H5iYY",
+      "etag": "3wd5es0_nOcUhBSwwlYXrvMqvTc",
       "id": "UgxVn4l1C6f-UQXvFzV4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "GaGawE3Vr9E3OIggnNcNcvuPS0g",
+          "etag": "C4g2Yd0erkWlFiS5RRgQRJSFW1M",
           "id": "UgxVn4l1C6f-UQXvFzV4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
@@ -2141,7 +2077,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 24721,
+            "likeCount": 24726,
             "publishedAt": "2021-02-25T05:18:33Z",
             "updatedAt": "2021-02-25T05:18:33Z"
           }
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T05:15:40Z",
             "updatedAt": "2021-02-25T05:15:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "E5Yo6PTu_69rQTHCZH3uz-A0850",
+      "id": "UgydmUSP-j5pLEy4eC94AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "395BXuYEcwq47IcvAC3U-ouJKpo",
+          "id": "UgydmUSP-j5pLEy4eC94AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Riley and Madison combo actually works really damn well... damn. I think we've finally broken LTT 😂",
+            "textOriginal": "Riley and Madison combo actually works really damn well... damn. I think we've finally broken LTT 😂",
+            "authorDisplayName": "Mark Hannelly",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYdEm6mReU3Ht0hLom3fUp4gC0R26EoR6AHL8puC4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNynBFja9RnGCjn1qg0nZUQ",
+            "authorChannelId": {
+              "value": "UCNynBFja9RnGCjn1qg0nZUQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T05:15:39Z",
+            "updatedAt": "2021-02-25T05:15:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PaImYrlqA3zj-jR_PCwkIxFxJHE",
+      "id": "UgwQalQFjce99r8zW-h4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EFUeCyEyblM5dCRoaN2WkA7XD5U",
+          "id": "UgwQalQFjce99r8zW-h4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Wow still can't believe how easy it is to look like a tech enthusiast",
+            "textOriginal": "Wow still can't believe how easy it is to look like a tech enthusiast",
+            "authorDisplayName": "SAI TEJA",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBY7_1jE7uDkVb12xiVsKqh_XJYo2s6yv3U2f5tQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmFrNtBppTQ3Ia8gCVgGjVQ",
+            "authorChannelId": {
+              "value": "UCmFrNtBppTQ3Ia8gCVgGjVQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T05:15:38Z",
+            "updatedAt": "2021-02-25T05:15:38Z"
           }
         },
         "canReply": true,

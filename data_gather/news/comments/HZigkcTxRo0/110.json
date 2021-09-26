@@ -1,108 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "_zIqqdXzD1YXLp8jeJNyvEVuiIQ",
-  "nextPageToken": "QURTSl9pMjZ6UktYLWsyZkZ2T3BPazU4Ti1hWUhOTTNVZWJuaEIycUx5VUtaeUIxbkZmSHFoTUZVRUY3M2Jmd2tMem9XTEpIdWE3anpvSQ==",
+  "etag": "iDXtswqyVoBBOpelticLJhOJXrw",
+  "nextPageToken": "QURTSl9pMVBXTWx0TVVtZEVnRGVHeV9lNU83dkZvcEVzbklMa2l0Q0RsRVh4cUFZcy1SRE5XYmpxWjMxNUpVMEFjMlUwM2lKY21UYUh2OA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "uQXVsJgPEKkjYIDBD-P_t9PGiTQ",
-      "id": "UgwmA5wfvNMVfTdxTPx4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "set9oVN0EUaWXUp9r5TeUHZLpbA",
-          "id": "UgwmA5wfvNMVfTdxTPx4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "#Madisontechtips",
-            "textOriginal": "#Madisontechtips",
-            "authorDisplayName": "Joe Jackman",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ8HIEFo_Y7Xk96BzeZzkal5SWPGu_vmRm1-JLepw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCi2HVcVYMhRLuTnt-BJYyzQ",
-            "authorChannelId": {
-              "value": "UCi2HVcVYMhRLuTnt-BJYyzQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:50:42Z",
-            "updatedAt": "2021-02-25T03:50:42Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "jiEj0oHQPuklCG6FNJHzSFXk_4M",
-      "id": "Ugxqd8ZlmNPHYa3TUYR4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "dtj0GiFgpivAAv2SLu7HoIDcu80",
-          "id": "Ugxqd8ZlmNPHYa3TUYR4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "MADISON BB AAAAAAAAAAA-",
-            "textOriginal": "MADISON BB AAAAAAAAAAA-",
-            "authorDisplayName": "BloodOfTartaros",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3TiKTLRu2jjwUskLA31xCdWgtIJH5CH2coH-C=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCHzPil1Z8Bay0rAT6UK6oHw",
-            "authorChannelId": {
-              "value": "UCHzPil1Z8Bay0rAT6UK6oHw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:50:40Z",
-            "updatedAt": "2021-02-25T03:50:40Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "tprzudWVplTZ-rNsdIdNSyb7Awg",
-      "id": "UgwOblqyb0YowSMssNp4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "kVxv6wkdnqbC0XbPmWqblQlX4hE",
-          "id": "UgwOblqyb0YowSMssNp4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "This is the first time I have watched the tech news TWICE. 😂",
-            "textOriginal": "This is the first time I have watched the tech news TWICE. 😂",
-            "authorDisplayName": "John John",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfQjpbWQkvM0CEl3nH7qjPLPFZGYlHGUe9ozID=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCkWoMpEnkzhDjdYdzWYdprA",
-            "authorChannelId": {
-              "value": "UCkWoMpEnkzhDjdYdzWYdprA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:50:34Z",
-            "updatedAt": "2021-02-25T03:51:05Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "QlYYKvwE3DsEYe7EAp6r0-mQC9o",
@@ -3200,6 +3104,102 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T03:46:27Z",
             "updatedAt": "2021-02-25T03:46:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Wn_TEhFm-bBI-zZTr1UpGsx7T3U",
+      "id": "UgxtUSBRzWpZr8Ezp0l4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BJZpr6yV1R-Byns8d92Z0xt0pPE",
+          "id": "UgxtUSBRzWpZr8Ezp0l4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Madison Tech Tips",
+            "textOriginal": "Madison Tech Tips",
+            "authorDisplayName": "Brandon Pina",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_5F1Ms218cPGJNLAaL6Xut4ecr4kgZ-CbNRbl=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtPnh0r12knXCFCsZw2MZ1A",
+            "authorChannelId": {
+              "value": "UCtPnh0r12knXCFCsZw2MZ1A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:46:27Z",
+            "updatedAt": "2021-02-25T03:46:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0-ixcksFQUnTM1S7n0WGacqg8zY",
+      "id": "UgzEGmmM0RPEpAX9Djx4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tefk3jZ_cS2YUHJCn4mTCDhvtIE",
+          "id": "UgzEGmmM0RPEpAX9Djx4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "no fucking way.. shes back! heck yes!",
+            "textOriginal": "no fucking way.. shes back! heck yes!",
+            "authorDisplayName": "Gibbsy Goodness",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBVWUsfEvtz2hPmx_V0ikiS4v1gp6Z15-Lug-6AQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGjYyxfGU0_NfCLBcsuSWng",
+            "authorChannelId": {
+              "value": "UCGjYyxfGU0_NfCLBcsuSWng"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:46:24Z",
+            "updatedAt": "2021-02-25T03:46:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9b4SkjF5Mhd-E6_rfsuFFlQzcgY",
+      "id": "Ugy3NL7Flt701Nh8bep4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "r3-7o57jlc1AGNfVyRb-d-yge9c",
+          "id": "Ugy3NL7Flt701Nh8bep4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Maaaaan Riley AND Madison???? I need MOAR",
+            "textOriginal": "Maaaaan Riley AND Madison???? I need MOAR",
+            "authorDisplayName": "Luis Alberto Reyes Avilés",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT4NPbzmG6fLOFXulc1ctCW87-UMvxgrkhwlzuNVA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvflzavNxO2oeKyL_RsPFWA",
+            "authorChannelId": {
+              "value": "UCvflzavNxO2oeKyL_RsPFWA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2021-02-25T03:46:20Z",
+            "updatedAt": "2021-02-25T03:46:20Z"
           }
         },
         "canReply": true,

@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "otSLhWAxPsFaHRy2JzuBuyjmHZc",
-  "nextPageToken": "QURTSl9pM2tFWkJqZUdtWDZ1WHVfOTJwTVFCVTB1SEtuSUN0eXJPaTJGRFJuMWRmWVVRZHNPYXdUYjRab2t6d1pjWnFJU0dlMjdNODJ1UQ==",
+  "etag": "PdDszPClPDQ6Rj2VXyQIbZKrHSk",
+  "nextPageToken": "QURTSl9pMVBHQkM1WEU4VGl4SVJBRVh3cGxRNWZRSWFqTU5Fem91cVlxTzlIcUNCbWZuNzEwSlZnUHg2VHFMRlF6aG5WSmw5b0Y0WXgwWQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -585,24 +585,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "Z8jyfTlhMqPvkSXd1k9CMgnofE0",
+      "etag": "pPXEA76lZ4hQk8LS24FCJusnJqI",
       "id": "UgwqE9OV6-1SOTDqjuh4AaABAg",
       "snippet": {
         "videoId": "2zIKPKkgzm4",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "2DzgiGUzvDrgUoQuoFXWiMjBrew",
+          "etag": "QqnK2HYcTt5Lx0RUhp5-QxkN-K8",
           "id": "UgwqE9OV6-1SOTDqjuh4AaABAg",
           "snippet": {
             "videoId": "2zIKPKkgzm4",
             "textDisplay": "How is it possible for it to get even worse",
             "textOriginal": "How is it possible for it to get even worse",
-            "authorDisplayName": "Dylan Prothero",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQep5YzJQzhv31NlksY4jNFpa8iE8A7_0yq3Z5m=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCm91Kucc71kYm0Cfil2sF7Q",
-            "authorChannelId": {
-              "value": "UCm91Kucc71kYm0Cfil2sF7Q"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,

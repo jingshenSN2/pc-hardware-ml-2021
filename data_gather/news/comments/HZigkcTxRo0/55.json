@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "ZmTCwtDwu2joSEUMbz4lcdFR5Mw",
-  "nextPageToken": "QURTSl9pMFpBM01iT2VMREhVU0FfZU5xbE9UMlpEOG16ajhSWURfSW5MaXFQZTBGTHQzLU9YM3NkOEpqYXAySkxHWktlODdDR3JzS3U3TQ==",
+  "etag": "wQywTQ6eo1fjKx11EiwNolWbza0",
+  "nextPageToken": "QURTSl9pMUZpSzBRUFdlemU2ZmZId0tkN09WUHpnNHhyYnc3MzU1b3N4c3N4eWRlXzRaUnVvd2R2cy1qWmg5YWE1UnFZWTN0MmFlZVlfWQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "yccwyQWnu-BoqQ0MO8Ch-tcOGHA",
-      "id": "UgyKZ287Dv2b41K_iz14AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "JXf_3UcyUeL7s8OFYHaS7LjTTOE",
-          "id": "UgyKZ287Dv2b41K_iz14AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "2:00 funny because most news in Australia is all owned by the same over-influential guy",
-            "textOriginal": "2:00 funny because most news in Australia is all owned by the same over-influential guy",
-            "authorDisplayName": "Felix Wiseman",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ4a3cyEDmkWNVZAy0D4xkaMVMcFubSx4mieAlsOw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCmrCfuZauD0ak5NB3dxN3-w",
-            "authorChannelId": {
-              "value": "UCmrCfuZauD0ak5NB3dxN3-w"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 5,
-            "publishedAt": "2021-02-25T13:48:43Z",
-            "updatedAt": "2021-02-25T13:48:43Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "bUA6xFdcd1QAsa5V-BRIF4CrbLs",
@@ -329,13 +297,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "wh63VLIo1FW7Xap_XGtQA6Zz3Bc",
+      "etag": "vVzm-X-V_Hl2J2UOKaa6FRypDtA",
       "id": "UgyCLvIK8W9rLB8cotl4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "lIzomO_w2ELxw3cF-jcNWdzFdl4",
+          "etag": "foxl2U7Z8k6VApj1hY930cPsnH0",
           "id": "UgyCLvIK8W9rLB8cotl4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
@@ -349,7 +317,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 664,
+            "likeCount": 663,
             "publishedAt": "2021-02-25T13:45:03Z",
             "updatedAt": "2021-02-25T13:45:03Z"
           }
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T13:29:02Z",
             "updatedAt": "2021-02-25T13:29:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ns07aRA5NOd_Z50lJ2qskhqWZxA",
+      "id": "Ugwt2zkm-cKlFsINeEF4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fPdPXDzR3JlL5saR8tyRyWafIys",
+          "id": "Ugwt2zkm-cKlFsINeEF4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Yes Finally!",
+            "textOriginal": "Yes Finally!",
+            "authorDisplayName": "Mason",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPOiaPLwBqgKI2udxVfe_ydrgLCtXjHqF0lbhdPg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8RMO-U_1YXLvxb3NrEPHRQ",
+            "authorChannelId": {
+              "value": "UC8RMO-U_1YXLvxb3NrEPHRQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T13:28:24Z",
+            "updatedAt": "2021-02-25T13:28:24Z"
           }
         },
         "canReply": true,

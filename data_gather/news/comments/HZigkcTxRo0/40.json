@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "NRTVoclXtdmj0aRZAKD7eChYRLI",
-  "nextPageToken": "QURTSl9pMGROWjBoR194dWUtVmxLeWNuOVpybHRwc2ZVRlNONUlFamJONFlJNXh6VmtLN1l2Tkl2WjhvbGY3d2E0RzBsMnF5X3dGWklSVQ==",
+  "etag": "G_vvzuCD1UI8dkgaRODXGTBeeOQ",
+  "nextPageToken": "QURTSl9pMFBSQW9lUERQT0RLa1hZOWdiR1NPa3R2LVphMjhsMHg4Z3JzUTRHNmlnUGUzanRfNXB3cGVQTGlQM2Y4OVpodzM1eWdpTU5Naw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "pHDo_V5_hIBw9VlM2VtfndxHh4s",
-      "id": "UgxgmPQJgrPiOB3F_2h4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Af1wHIoF9ns7ykaaXbnVqfGpyq8",
-          "id": "UgxgmPQJgrPiOB3F_2h4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I've never seen a geekier girl than this one, impressive. You guys finally nailed it, she is right at home. The opposite of that bland blue-haired girl, \"Max\" I think.",
-            "textOriginal": "I've never seen a geekier girl than this one, impressive. You guys finally nailed it, she is right at home. The opposite of that bland blue-haired girl, \"Max\" I think.",
-            "authorDisplayName": "Waldiney Torres",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRj_HuaqdU8YHXRdbIN52gczrJeo643HacQsA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCrjGAtxbLW4YCCV8i0_3ePQ",
-            "authorChannelId": {
-              "value": "UCrjGAtxbLW4YCCV8i0_3ePQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T21:55:18Z",
-            "updatedAt": "2021-02-25T21:55:18Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "BAWoXf4JpfhYrGKB8Ne_DXpJIyg",
@@ -585,13 +553,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "15WCL6CngY013T-dz0sRuPKion0",
+      "etag": "W0xiWqnOPfxmtg5h4-EkmknZ-vI",
       "id": "UgyTOz8ZGQy2Itpwl6d4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "I3l_EDCT5-VZcjhTdTT1ihvynys",
+          "etag": "O1Jd5o4mYfFAD6RNP915wD72eQo",
           "id": "UgyTOz8ZGQy2Itpwl6d4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
@@ -605,7 +573,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 303,
+            "likeCount": 302,
             "publishedAt": "2021-02-25T21:42:31Z",
             "updatedAt": "2021-02-25T21:42:31Z"
           }
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T20:54:03Z",
             "updatedAt": "2021-02-25T20:54:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-2HYddl857yX-mnLjuaBmVMV3tQ",
+      "id": "UgzOaS9xoItJH7R6-l94AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lOCL2VrzQT1ccIoq8D1oM8eQ5ic",
+          "id": "UgzOaS9xoItJH7R6-l94AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "they finally hired madison",
+            "textOriginal": "they finally hired madison",
+            "authorDisplayName": "Lue64",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlvLrrHF88ruwTJtdSTs-KKaaV9kG4ZULPt43YRA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC74mLttDIqS2WMcvnibAnUQ",
+            "authorChannelId": {
+              "value": "UC74mLttDIqS2WMcvnibAnUQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T20:54:00Z",
+            "updatedAt": "2021-02-25T20:54:00Z"
           }
         },
         "canReply": true,

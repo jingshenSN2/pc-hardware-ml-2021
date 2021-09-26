@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "2JdLDNXta9U12yR-Tm_gfBXiwBU",
-  "nextPageToken": "QURTSl9pMW54eUVlZmlXRVBCQmZCdGg1bDI5WkJjOU5HQjlGTm1nRVV0ek91Qk1EQmRSNmkzZE9oWjI2NXFqbGZNWlpTdF9IREdmTEVlaw==",
+  "etag": "TJXPw2lmjSdJYE5gOQr8o892uYg",
+  "nextPageToken": "QURTSl9pMlNsM29UWDdiLWF0SFhZOTVQSzNyTGtpTFFNR0ltVmc5M0dzaS1QVU1Id2RnZDRMYkZtNHhvMkY0eFBqcXNWb0tqbGZ0OHh3OA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "04D6fElEEQf_nQczpmnwrKRiQ9A",
-      "id": "UgzdsmJZi6yoXRsuQNd4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "zG1NDwFKHLKersC2yD_loDOk1Ew",
-          "id": "UgzdsmJZi6yoXRsuQNd4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Linus built that PC for her. she work there now? what😂",
-            "textOriginal": "Linus built that PC for her. she work there now? what😂",
-            "authorDisplayName": "Chris Green",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQWVlc-ykkkp_R6x86pDvf5npoTrKWigH1hba9HeaQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCm09WgQkBaznomIEPBpta6Q",
-            "authorChannelId": {
-              "value": "UCm09WgQkBaznomIEPBpta6Q"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:54:40Z",
-            "updatedAt": "2021-02-25T03:54:40Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "bq9r48YfUtYpJ7_ruqQnwX0lmhA",
-      "id": "Ugx7UwSbuBe1xo6oOG14AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "2BofilSYHEIdEsYLJimshTbZHjg",
-          "id": "Ugx7UwSbuBe1xo6oOG14AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "She did awesome! hope she hosts again!",
-            "textOriginal": "She did awesome! hope she hosts again!",
-            "authorDisplayName": "Nikhil Patry",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSMXFxwrhU_FHoS2KD0294jmL9HoPV8gdAlXLLDiQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCTRfLD07R85JfOhL2wKsglw",
-            "authorChannelId": {
-              "value": "UCTRfLD07R85JfOhL2wKsglw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:54:39Z",
-            "updatedAt": "2021-02-25T03:54:39Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "8qyIzYaUmo_tOoLbrGKaHYMBGN4",
@@ -2409,38 +2345,6 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "QGA4G4evqsOJ56QR5HCnDA2O99Y",
-      "id": "UgyfWbM2oYgNLAl4-854AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "0QKMX5HaBn1ioHI1VU9yIm0gsW4",
-          "id": "UgyfWbM2oYgNLAl4-854AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Already hosting? Bro that’s unreal. Nice",
-            "textOriginal": "Already hosting? Bro that’s unreal. Nice",
-            "authorDisplayName": "J The Mortal",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTMGiPe6kpRQTGIl4t8U5KQLEA6NGoY0agUJUHg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC1BtLlS7OtU-OS114I5o92w",
-            "authorChannelId": {
-              "value": "UC1BtLlS7OtU-OS114I5o92w"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:51:42Z",
-            "updatedAt": "2021-02-25T03:51:42Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
       "etag": "YG6tFvQkBKppgwA70jfhCTH5QgM",
       "id": "UgxNZrGeSnqGsat-54d4AaABAg",
       "snippet": {
@@ -3200,6 +3104,102 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T03:50:43Z",
             "updatedAt": "2021-02-25T03:50:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uQXVsJgPEKkjYIDBD-P_t9PGiTQ",
+      "id": "UgwmA5wfvNMVfTdxTPx4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "set9oVN0EUaWXUp9r5TeUHZLpbA",
+          "id": "UgwmA5wfvNMVfTdxTPx4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "#Madisontechtips",
+            "textOriginal": "#Madisontechtips",
+            "authorDisplayName": "Joe Jackman",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ8HIEFo_Y7Xk96BzeZzkal5SWPGu_vmRm1-JLepw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCi2HVcVYMhRLuTnt-BJYyzQ",
+            "authorChannelId": {
+              "value": "UCi2HVcVYMhRLuTnt-BJYyzQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:50:42Z",
+            "updatedAt": "2021-02-25T03:50:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jiEj0oHQPuklCG6FNJHzSFXk_4M",
+      "id": "Ugxqd8ZlmNPHYa3TUYR4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dtj0GiFgpivAAv2SLu7HoIDcu80",
+          "id": "Ugxqd8ZlmNPHYa3TUYR4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "MADISON BB AAAAAAAAAAA-",
+            "textOriginal": "MADISON BB AAAAAAAAAAA-",
+            "authorDisplayName": "BloodOfTartaros",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3TiKTLRu2jjwUskLA31xCdWgtIJH5CH2coH-C=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHzPil1Z8Bay0rAT6UK6oHw",
+            "authorChannelId": {
+              "value": "UCHzPil1Z8Bay0rAT6UK6oHw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:50:40Z",
+            "updatedAt": "2021-02-25T03:50:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tprzudWVplTZ-rNsdIdNSyb7Awg",
+      "id": "UgwOblqyb0YowSMssNp4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kVxv6wkdnqbC0XbPmWqblQlX4hE",
+          "id": "UgwOblqyb0YowSMssNp4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "This is the first time I have watched the tech news TWICE. 😂",
+            "textOriginal": "This is the first time I have watched the tech news TWICE. 😂",
+            "authorDisplayName": "John John",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSfQjpbWQkvM0CEl3nH7qjPLPFZGYlHGUe9ozID=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkWoMpEnkzhDjdYdzWYdprA",
+            "authorChannelId": {
+              "value": "UCkWoMpEnkzhDjdYdzWYdprA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:50:34Z",
+            "updatedAt": "2021-02-25T03:51:05Z"
           }
         },
         "canReply": true,

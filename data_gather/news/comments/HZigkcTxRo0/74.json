@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "C49RvEJkXfqkfdQ0fIW5gFuw-sI",
-  "nextPageToken": "QURTSl9pMFdNeG9BWUQ3alU1Zy01cldkeE5wNERfYXhBNmxKSzh2RFF0d2gzTXoyckR1OW1qbE0zVUdUUEVmZVBDVG45TVA4cElwVlNZMA==",
+  "etag": "JCq39H9KnD4SMmYLKpZjxi3bHXc",
+  "nextPageToken": "QURTSl9pMUIyX2pnMFhxSjZ0M25oSm03alJENmxOeDlQekFiNUtreXBpZEo5N3hqZm03ZW1xQ3R5T1BKMDZycm0teE9ldFNWa2k1bDhRdw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "KB3i02pLx6owYpU9xciBfPydH_0",
-      "id": "Ugxr5WmGGTO7Guz6SXZ4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "tjWqW2pdnUtItFts_fwyc4Llg-A",
-          "id": "Ugxr5WmGGTO7Guz6SXZ4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I dreamed of her doing the tech news, hopefully i get to dream of myself getting rich 🤑",
-            "textOriginal": "I dreamed of her doing the tech news, hopefully i get to dream of myself getting rich 🤑",
-            "authorDisplayName": "WazzupB",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQhbPWKAyPfsZftr7jiAxx713WSWdTRoT9Pn_nORg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCVVT3bhvqO2Bk5Sj_d14Yaw",
-            "authorChannelId": {
-              "value": "UCVVT3bhvqO2Bk5Sj_d14Yaw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T08:35:57Z",
-            "updatedAt": "2021-02-25T08:35:57Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "-NuvU3-CploeWn0cdcsyrvs9lz4",
-      "id": "UgzLzbEg8FjHYcNnE3d4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "KjsYrFbGzHCCcreScZ9OMrgkTJU",
-          "id": "UgzLzbEg8FjHYcNnE3d4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "In my opinion Madison just outperformed all the other hosts. Looking forward to more episodes hosted by her.",
-            "textOriginal": "In my opinion Madison just outperformed all the other hosts. Looking forward to more episodes hosted by her.",
-            "authorDisplayName": "Jorge Urdaneta Aranzazu",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiBM_YhAO9onCIBLv3KLZq459P1u6DhBmsLIH87w=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC2lWkXQLofs1eta2dLqwdFA",
-            "authorChannelId": {
-              "value": "UC2lWkXQLofs1eta2dLqwdFA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T08:35:52Z",
-            "updatedAt": "2021-02-25T08:35:52Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "YjxqrSMlM45y-z6HooHbCCVLsDI",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T08:23:56Z",
             "updatedAt": "2021-02-25T08:24:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oScyXSbb8dLQAPoeG7v89QREUSI",
+      "id": "UgzyWbLDuOoeX7iBpTp4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q2ykGAc4Uc9ndFgukRFU0L-CbdI",
+          "id": "UgzyWbLDuOoeX7iBpTp4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "wtf",
+            "textOriginal": "wtf",
+            "authorDisplayName": "shoe",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ_gBYwpjH7iGhVnTzDD_Dt79d9XzAxcplqmqSU8A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7ZJJK62Ut1s6hd6Rbi8cdg",
+            "authorChannelId": {
+              "value": "UC7ZJJK62Ut1s6hd6Rbi8cdg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T08:23:50Z",
+            "updatedAt": "2021-02-25T08:23:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0D8e15UtaI-2c1xWpk_aR4Bgt8o",
+      "id": "UgwwPQbgPx-3dfXat7Z4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3X-2UOPBl_peE-IsWv4X0xGZNQk",
+          "id": "UgwwPQbgPx-3dfXat7Z4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Our Queen is back!",
+            "textOriginal": "Our Queen is back!",
+            "authorDisplayName": "AlexTenThousand",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTshnlMaGsfi5wLIEcexucvx0Vmbr7Go278hbnf=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDogi5QCqQ_R3LhZc4LEPmA",
+            "authorChannelId": {
+              "value": "UCDogi5QCqQ_R3LhZc4LEPmA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T08:23:42Z",
+            "updatedAt": "2021-02-25T08:23:42Z"
           }
         },
         "canReply": true,

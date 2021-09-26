@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "Amui88RO6PFMj4VccbfHWr7jxtQ",
-  "nextPageToken": "QURTSl9pMGFDWXJHZHlmdmpKdnZXWEVyLUpWZG5PWVI2NWZLeVFYM0dMQ0NSN1RHQ0wtVWdjYkpZUl9fVDZYTmlOaW1DMU5GUG9YMHAyWQ==",
+  "etag": "q_1GE1tMACu5dT6ZXgWX8yMQfxg",
+  "nextPageToken": "QURTSl9pM2NpTjBHVnFnNUhrTm9pcGprSlJGWTIySkVwRnVTeHR3VjBKZ0I1QVdZNVlGOWdwVDBDM1hTc0UzaV9senNibGdKX3RIRUFMYw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "-2HYddl857yX-mnLjuaBmVMV3tQ",
-      "id": "UgzOaS9xoItJH7R6-l94AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "lOCL2VrzQT1ccIoq8D1oM8eQ5ic",
-          "id": "UgzOaS9xoItJH7R6-l94AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "they finally hired madison",
-            "textOriginal": "they finally hired madison",
-            "authorDisplayName": "Lue64",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRlvLrrHF88ruwTJtdSTs-KKaaV9kG4ZULPt43YRA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC74mLttDIqS2WMcvnibAnUQ",
-            "authorChannelId": {
-              "value": "UC74mLttDIqS2WMcvnibAnUQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T20:54:00Z",
-            "updatedAt": "2021-02-25T20:54:00Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "NlEdPe2TZz0XmMYR4Y3hl0eNgh4",
@@ -3200,6 +3168,38 @@
             "likeCount": 1,
             "publishedAt": "2021-02-25T20:00:31Z",
             "updatedAt": "2021-02-25T20:00:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "K6wsp8Flxg5Cg6dqoF8JS_2uuU8",
+      "id": "UgwS8QImstJnFCliDtV4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QzPD3Y5V-int-q4qmTadrQpDrNc",
+          "id": "UgwS8QImstJnFCliDtV4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "It's finally happening! It's all coming together! Bird girl is here",
+            "textOriginal": "It's finally happening! It's all coming together! Bird girl is here",
+            "authorDisplayName": "mahairman",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEiQsC_sKYfehayJrYqgN_cRoZ4dwFNpKSanht=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdg8xSeZ2Tabb3ag9Q4GJIw",
+            "authorChannelId": {
+              "value": "UCdg8xSeZ2Tabb3ag9Q4GJIw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-02-25T20:00:22Z",
+            "updatedAt": "2021-02-25T20:00:22Z"
           }
         },
         "canReply": true,

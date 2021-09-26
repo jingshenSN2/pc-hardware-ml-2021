@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "AN2ZNxuV0mwZrfsgDxXI_cMmTVc",
-  "nextPageToken": "QURTSl9pM0c4QS1RblpXcFVpTHhrNHhYQ20wUGFmOEJlLXlNWFVHbnBuMFBBdHgwVERIRmV1N2tUU1hsWmZhZFJOYUhZc3E1OWpFbExYaw==",
+  "etag": "EcOE-TeIcynngk_mL4-URO4uWk0",
+  "nextPageToken": "QURTSl9pMnNSeGhCQWY3MERGZkRrSTRBNno5UjJad3JidDVPLXNtWmpkVjNCMnVOQUZPWGppa3RFWGhwTEtGNHZBMU5idk83OW03OUhqdw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "WC-awFJwKf6lhvFKTnSS1q0gEs0",
-      "id": "Ugytq8FS8V7oEANFQUJ4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "qrkCciQ-X5eS49H1v-rM2dMkzJ0",
-          "id": "Ugytq8FS8V7oEANFQUJ4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "Regardless, I can't see using a 3000 series for mining as a good move. The cost, the power consumption, competition with ASIC miners... I just don't see it having a great ROI.",
-            "textOriginal": "Regardless, I can't see using a 3000 series for mining as a good move. The cost, the power consumption, competition with ASIC miners... I just don't see it having a great ROI.",
-            "authorDisplayName": "The Game Bench",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ1yVL8_62bgl_snwl3q4MIkKPdSwr4TTFRDILHSw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCRtsB02133NK0VTIygA_pYQ",
-            "authorChannelId": {
-              "value": "UCRtsB02133NK0VTIygA_pYQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T18:22:54Z",
-            "updatedAt": "2020-11-28T18:22:54Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "8H90XMoLzid8jM-Yw6c_D7SmqjM",
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2020-11-28T15:24:48Z",
             "updatedAt": "2020-11-28T15:24:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mS8c2IV-wJ3WAsmWbv-ODB-qwX8",
+      "id": "UgwteC5ZI03lHnNCN1h4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qjIivLFKXv2qYg3yKtogvGaNh_4",
+          "id": "UgwteC5ZI03lHnNCN1h4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "Yea, fuck Nvida on this one",
+            "textOriginal": "Yea, fuck Nvida on this one",
+            "authorDisplayName": "BR",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQPtR4IWT-770sUdNqzyNcxQ0YSA10Wtb5gFP-QCw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcPAsOPQrzZ_VnC2KfwI4yA",
+            "authorChannelId": {
+              "value": "UCcPAsOPQrzZ_VnC2KfwI4yA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-28T15:24:01Z",
+            "updatedAt": "2020-11-28T15:24:01Z"
           }
         },
         "canReply": true,

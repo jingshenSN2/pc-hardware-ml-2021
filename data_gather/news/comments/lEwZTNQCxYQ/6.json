@@ -1,12 +1,172 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "1N0wj6_CowEbiMqa1UYrRAe95cE",
-  "nextPageToken": "QURTSl9pMGFOZVZ5c0QtS2lWUmpvSkxMaGFYaW95Y1NCWjVFQmQxZVZIeDZPdmxZNWkxTmdWbWpLclhnQm5RWTIwVnhWaXk0TU1uT3FEZw==",
+  "etag": "S3vDhMdNUKoEkmXUJHeZzw0FvDo",
+  "nextPageToken": "QURTSl9pMkNmUl9IUHdwNVhlMEg0Q2ZzUEh1d3FBNXZzeXdrZnFZeDU0Z1doVjRGdldibFl1T3NnY0hidVl1Y1ZwODdWalpmTDhYb2kzdw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JxQnS98R0cnqRXRodk0iHd9ItWU",
+      "id": "UgwSxf9pA65ETZayqLt4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8hmDgNwa4SrOG2rT2MxbyqdeUuk",
+          "id": "UgwSxf9pA65ETZayqLt4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Shimmy Shimmy.",
+            "textOriginal": "Shimmy Shimmy.",
+            "authorDisplayName": "Kewlzter TC",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ94ockUnTWDcF6DdFzJP8ZrFmQSA9b5KjBPhDE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-iGKekmOqCtY5US782wuUg",
+            "authorChannelId": {
+              "value": "UC-iGKekmOqCtY5US782wuUg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T07:47:00Z",
+            "updatedAt": "2021-09-14T07:47:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5gmnU1C-B3A4UYgLdAKSxzxCsAY",
+      "id": "UgxFdap99EMCdar0rmh4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XJzXOejWZTVa_SE3VktpWFsJZvY",
+          "id": "UgxFdap99EMCdar0rmh4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "edge is good you just have to change the default browser with google",
+            "textOriginal": "edge is good you just have to change the default browser with google",
+            "authorDisplayName": "THE_ Gost_Gamer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ18kzDTYoLY2g328bhbhoDgOJANjsVOM-SndPc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCR_Sds-nb_xoXBsDcaWb_Qg",
+            "authorChannelId": {
+              "value": "UCR_Sds-nb_xoXBsDcaWb_Qg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T07:45:43Z",
+            "updatedAt": "2021-09-14T07:45:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9FBTAqyKlxf6CN59Tj_lZSBZHHI",
+      "id": "UgxbT5OrfkmMm8pBswN4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5LvdIaavr6GxIbHXc4PzabPClFg",
+          "id": "UgxbT5OrfkmMm8pBswN4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Ya know, maybe Microsoft have just got me or maybe I’ve gone insane but the Chromium version of Edge isn’t actually that bad,…",
+            "textOriginal": "Ya know, maybe Microsoft have just got me or maybe I’ve gone insane but the Chromium version of Edge isn’t actually that bad,…",
+            "authorDisplayName": "Chris Clarke",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQi20yRcpE0QdYK7I3fO5X0UGAHMWprmnqTru7jyQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuiCJ5_Yzv8Ek7SUhyEN-Pw",
+            "authorChannelId": {
+              "value": "UCuiCJ5_Yzv8Ek7SUhyEN-Pw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T07:44:36Z",
+            "updatedAt": "2021-09-14T07:44:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SkcC6uprRubcVE_APk3LO1yCPV0",
+      "id": "UgySKl3jDg7M3w2Aw4p4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KcOJy7sC5tDoQ__moMUJNrnAIjU",
+          "id": "UgySKl3jDg7M3w2Aw4p4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Can confirm the Firefox default browser thing. I was expecting it to open default apps and get me to set it. But no, I just clicked Use as default browser in a Firefox popup and that was it! Good job Firefox!",
+            "textOriginal": "Can confirm the Firefox default browser thing. I was expecting it to open default apps and get me to set it. But no, I just clicked Use as default browser in a Firefox popup and that was it! Good job Firefox!",
+            "authorDisplayName": "Gabriel Bucur",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR4wkjdEUxxP_PbqLOlTSKtSYmYsqxqYMus9DuQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUn7d5Jr-iezbdfaQ0Jcx-w",
+            "authorChannelId": {
+              "value": "UCUn7d5Jr-iezbdfaQ0Jcx-w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-09-14T07:44:04Z",
+            "updatedAt": "2021-09-14T07:44:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ufewdYAeLKqfGTlk83JOUSTQA-8",
+      "id": "UgyNYX1w2Y1B6a71KLV4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gY1x7SdY1y6UgxOeZpgHUFdQNXo",
+          "id": "UgyNYX1w2Y1B6a71KLV4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "you don't know how painful it is to use chrome instead of edge because for some reason, edge signs me out of all the sites i've signed in, after closing the app. i've tried so many things, but got only pain and nothing else",
+            "textOriginal": "you don't know how painful it is to use chrome instead of edge because for some reason, edge signs me out of all the sites i've signed in, after closing the app. i've tried so many things, but got only pain and nothing else",
+            "authorDisplayName": "Zester",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/LARi7z4S-_BCzwp_mftOqnq-f3heI-LlgqVVu4Rr83SBQkTl2vEZhG8V-QBr_jtFS0QlL8xT=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCihqcpxWyaMw94Xej8bQoMw",
+            "authorChannelId": {
+              "value": "UCihqcpxWyaMw94Xej8bQoMw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T07:43:56Z",
+            "updatedAt": "2021-09-14T07:43:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "3tafzxcz3RA3jvx3LCwqU0Vrr44",
@@ -745,20 +905,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "0yfHJ0tZgcbzpoieDIwxhS9Na88",
+      "etag": "jocmwfR8hqOzWQC2aMb06VEz0Js",
       "id": "UgwbiTpiQhvMTNrvRq14AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "bdG4HixcCHpdsiL5HUXi7aPObkw",
+          "etag": "Oqeqx7Ycjt36wQskF08nV8izENU",
           "id": "UgwbiTpiQhvMTNrvRq14AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "Jake is lookin thicc af!",
             "textOriginal": "Jake is lookin thicc af!",
             "authorDisplayName": "Tucker Loftus",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRteSlWu-HY4TrGSk7FwV8J12UVQGryYGoamLuQLw4=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/sDaz7IWCrjZsZOIcwwmDc6EDMnmKeaGH2KBF-C4CCO9SZX_z7jvFwyFR-5_KFbOIO0hEnzLLJw=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCyRUpf1h0IjrxBaS2nYHl_Q",
             "authorChannelId": {
               "value": "UCyRUpf1h0IjrxBaS2nYHl_Q"
@@ -1001,19 +1161,19 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "h3KeaOopXH9Hv8_0zuBt-q3Rm0A",
+      "etag": "1mF-P171pSAabu6eyEh9Fw6bTVY",
       "id": "UgzfoGnpgr4_WEFBJPx4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "DxAlpbobHbn7Fjqcts_h_xMDggE",
+          "etag": "AonEXXzfbx8_4GHIOK3qOeysiRA",
           "id": "UgzfoGnpgr4_WEFBJPx4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "Love the FSM shirt Jake!",
             "textOriginal": "Love the FSM shirt Jake!",
-            "authorDisplayName": "Devin Watson",
+            "authorDisplayName": "NotApilot69",
             "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSPyhvPIymdjUtaWEzWmgMb8vy0ZsYjZNyTeA=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCy_8lafMdCh5r0OxYJjow0g",
             "authorChannelId": {
@@ -1929,13 +2089,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "f1shWsh9aylmeXkAGXhuXlrFomI",
+      "etag": "gnRi3fscSge3BosHKK6yMIjhe3k",
       "id": "UgzLP0hbiXWh4d4Z6Tt4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "3meJPYQN-wXoVG0tIA_LWSPZgKc",
+          "etag": "WlHkv2jqGhDUBnTNfrznlTr_mtA",
           "id": "UgzLP0hbiXWh4d4Z6Tt4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
@@ -1949,13 +2109,13 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 76,
+            "likeCount": 77,
             "publishedAt": "2021-09-14T06:32:25Z",
             "updatedAt": "2021-09-14T06:32:25Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 0,
+        "totalReplyCount": 1,
         "isPublic": true
       }
     },
@@ -3040,166 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-09-14T05:59:05Z",
             "updatedAt": "2021-09-14T05:59:05Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "euncFDhavRlQVGwMj_dTrvEONOM",
-      "id": "Ugy_f4kINns5uk2WnLh4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "-akaiMpTpdOWdCJbxAXp2oJv0S0",
-          "id": "Ugy_f4kINns5uk2WnLh4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Would someone mind please explain to me why Microsoft edge is bad? I get that it may have been due to a bad history, but currently it seems fine to me. It doesn't seem any slower or faster imo.",
-            "textOriginal": "Would someone mind please explain to me why Microsoft edge is bad? I get that it may have been due to a bad history, but currently it seems fine to me. It doesn't seem any slower or faster imo.",
-            "authorDisplayName": "Sam C",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQLUET8gcw6BFtnIb0t-mgUDOIUZAsT5qxY1w=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCTlIhoP29bcMVUO3fCXXvAg",
-            "authorChannelId": {
-              "value": "UCTlIhoP29bcMVUO3fCXXvAg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T05:56:59Z",
-            "updatedAt": "2021-09-14T05:56:59Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "rlDSZ2vRuTUST2-FY3idAUprJbs",
-      "id": "UgwC57EmJINi7zDJU8J4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "FEkp9jM52CpdIut3GPTyhRLj7Mw",
-          "id": "UgwC57EmJINi7zDJU8J4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "India banning VPN 😶",
-            "textOriginal": "India banning VPN 😶",
-            "authorDisplayName": "lockhrt999",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRHyUkOtM0cr7935hIlB_267Naq01xuL3xPunbhQA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCVGwIh2I_kMXyHTxQvG2QxA",
-            "authorChannelId": {
-              "value": "UCVGwIh2I_kMXyHTxQvG2QxA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T05:53:06Z",
-            "updatedAt": "2021-09-14T05:53:06Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "slfnCimAROnuZx2gQK-v49vcDoI",
-      "id": "UgwuN7jdy6nkpnDc5aJ4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "hXZVGrryXxx5DLMQ-S_vzFUJqeU",
-          "id": "UgwuN7jdy6nkpnDc5aJ4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "I admire the confidence to host while looking like hes really embraced the lazy-success-look in the stains on his shirt.",
-            "textOriginal": "I admire the confidence to host while looking like hes really embraced the lazy-success-look in the stains on his shirt.",
-            "authorDisplayName": "Ozzy Gee",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwPqCK-bVaeccRuDgRsN0SwbKzgN5IXK1vx1Oi8Q=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCHwasR3iCqcLT0boZaMHliQ",
-            "authorChannelId": {
-              "value": "UCHwasR3iCqcLT0boZaMHliQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 16,
-            "publishedAt": "2021-09-14T05:46:31Z",
-            "updatedAt": "2021-09-14T05:46:31Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "pRMGblqd-z95uQrbnfwiiyJ8DD8",
-      "id": "UgzWFne5doWQ8W2DcKx4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "0RVUhBipAJzVFw7iw_4U9BHnmHs",
-          "id": "UgzWFne5doWQ8W2DcKx4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Jake.... Bro... clean your dang shirt lol",
-            "textOriginal": "Jake.... Bro... clean your dang shirt lol",
-            "authorDisplayName": "Ryan Plieth",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRh-D83bXjo5eig9dtQsy-qulqNn8K4hXrJA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCj1g_fOrsCnhocqa1rv8CRg",
-            "authorChannelId": {
-              "value": "UCj1g_fOrsCnhocqa1rv8CRg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-09-14T05:44:13Z",
-            "updatedAt": "2021-09-14T05:44:13Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "Yzb9i6Z4yi8NFwg1CI1EgCvPZec",
-      "id": "Ugyk3DIObDGVcE4qz2Z4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "akgnNwWfV9PIZhPKxJuL5HBpiBI",
-          "id": "Ugyk3DIObDGVcE4qz2Z4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Finnegan Speed and Marine shirt? Nice.",
-            "textOriginal": "Finnegan Speed and Marine shirt? Nice.",
-            "authorDisplayName": "BoostAddict",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQ3fD2oCi_isxqnJ_YY8x6p-7eKiAy86GsDkuW=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCZfrqsjKpYIqTGeusxZl52g",
-            "authorChannelId": {
-              "value": "UCZfrqsjKpYIqTGeusxZl52g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-09-14T05:43:28Z",
-            "updatedAt": "2021-09-14T05:43:28Z"
           }
         },
         "canReply": true,

@@ -1,12 +1,44 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "Jrhr1A6ua_9msUvOOJFmoMPnNO4",
-  "nextPageToken": "QURTSl9pMTR4U21BaGZ5SzlfS3pDSldOa3BwRXc1SkhMYU9kX0N2S3FYV1NwRUFRN2Y0dXJfUUtwbVYtTEJfM01ZWmJXVTZyMS1aZ1ZETQ==",
+  "etag": "_uGHkQpkFbQ_RDCkbnk8rO-vdmM",
+  "nextPageToken": "QURTSl9pMzJ6UGF4enN3Rlh1RFZGY0JPaG16UVI5cnc0X3RPMTNfRm1ndndZSmZiUVJpT0E1cEFFT0FFdGNrZkkxSWpGYVpVZW1ZU0NSWQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Liioj_UFDRS7Cf2XebNXAJyM5YE",
+      "id": "Ugx-zVWje9v2xyzFMph4AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "I8dFJx7fb-c7akbAlTHlwbUoeas",
+          "id": "Ugx-zVWje9v2xyzFMph4AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "They don't lock people into steam. The alternatives just suck so bad they are unusable.",
+            "textOriginal": "They don't lock people into steam. The alternatives just suck so bad they are unusable.",
+            "authorDisplayName": "OutOfNameIdeas",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_SEr0lxkC9LHxfzguJYVqM-4OX9J42ZOG1SAKjqs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLlQ-gF2V59_FRsK9nlFnXQ",
+            "authorChannelId": {
+              "value": "UCLlQ-gF2V59_FRsK9nlFnXQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-23T07:23:40Z",
+            "updatedAt": "2021-09-23T07:23:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "u1SwTaaO9TMZgyUEYZXy9O7o0QU",
@@ -2025,20 +2057,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "9zMzqVWfpPipywJiDZSZIHdten8",
+      "etag": "6KxS3giF1zirTri0x5EPzKal2JQ",
       "id": "UgxK8_zeks6rQv1-1H54AaABAg",
       "snippet": {
         "videoId": "nl1tZx9knzA",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "hMD390dWjEbd3g7NAIN73DUnn1g",
+          "etag": "awexlqwbQi1YhJOi09OCEIH7xI0",
           "id": "UgxK8_zeks6rQv1-1H54AaABAg",
           "snippet": {
             "videoId": "nl1tZx9knzA",
             "textDisplay": "WHY ARE YOU SHOUTING SO MUCH, THIS IS A PAIN TO WATCH DAMN",
             "textOriginal": "WHY ARE YOU SHOUTING SO MUCH, THIS IS A PAIN TO WATCH DAMN",
             "authorDisplayName": "Fausto",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/4BQ8SjjLqR1ckGQQ728up2xQnaYNwYHPHCtd504DPv4WZhlK6kJdxcJ3V72yfhyha5lGAtfdDQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/FSh2nCZOLjwdwih-hTdP_V6kI8BaE95eXL52GFmO3izFdoSS3N2eKiPJjShLefUM39mTmWiv4g=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCuw8x_vxQoF09Ag4kLmIuag",
             "authorChannelId": {
               "value": "UCuw8x_vxQoF09Ag4kLmIuag"
@@ -3168,38 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-05-02T03:39:34Z",
             "updatedAt": "2021-05-02T03:39:34Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "YqLBeJlJlhmX89QpenGqZmer0yo",
-      "id": "UgyfivJ1AnH1hVbjX-x4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "v_BqETUK3b6UU1vLfcUSGR1vEZk",
-          "id": "UgyfivJ1AnH1hVbjX-x4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "I really wish that nvidia would stop trying to gimp the devices that they want people to buy.  They should be working to improve the performance, usability, and reliability for their products for whatever their customers want to use them for.  the workload should be completely up to the customer.  no company should have a \"limiter\" for what their hardware can do... this is just BS.",
-            "textOriginal": "I really wish that nvidia would stop trying to gimp the devices that they want people to buy.  They should be working to improve the performance, usability, and reliability for their products for whatever their customers want to use them for.  the workload should be completely up to the customer.  no company should have a \"limiter\" for what their hardware can do... this is just BS.",
-            "authorDisplayName": "Josh Hardin",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR03FgwJdtA2w_WxBZu4aa_4VhubkhGDp5h3O5Z5g=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCeltk2CihqkDqDbCLYBwdZg",
-            "authorChannelId": {
-              "value": "UCeltk2CihqkDqDbCLYBwdZg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-02T03:26:29Z",
-            "updatedAt": "2021-05-02T03:26:29Z"
           }
         },
         "canReply": true,

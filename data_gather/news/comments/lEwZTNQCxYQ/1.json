@@ -1,12 +1,172 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "Z0yvj-G6f_ftJEVGO2KiXk8WZF8",
-  "nextPageToken": "QURTSl9pMkh1Nkl4bVVjQ0lpOXpiV1R3NVZCaUVscWNwaG9NRmJPeW9QSndiYUktem9GSDZOdlB6TnNiV0tJVXRCVmNET1NrOHR2cmZXTQ==",
+  "etag": "GqqfqHo-3LeOokVu2k0ScvAvCpg",
+  "nextPageToken": "QURTSl9pMUR4WWFET0U2WFlydl9TWU1jVUJ1Y2VOSTBGQ3RuaU1ndHFwOUpBcC1mWWFBVU5iMDItb2FmN2NlVnRpS3ZnUktXTFhxMkl6VQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8tcO4vCxVmatNxE9q7NFaHAJMw0",
+      "id": "UgzEkHLW4HFBnp89-zx4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "R2AxPYK4Y0_pHHNAasMNr8LnYbM",
+          "id": "UgzEkHLW4HFBnp89-zx4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "i like windows 11 from what i have testet but some features i wish where still like Windows 10, but overall is good.",
+            "textOriginal": "i like windows 11 from what i have testet but some features i wish where still like Windows 10, but overall is good.",
+            "authorDisplayName": "Inukrieger",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRZZDeRjHMHOE86Z-iuDxg-OX9cmYxAbyZOhX2M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpWrugrNzK5oCGmPbkqVmTQ",
+            "authorChannelId": {
+              "value": "UCpWrugrNzK5oCGmPbkqVmTQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-25T23:59:41Z",
+            "updatedAt": "2021-09-25T23:59:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "p7f6H14v7b41K3l5WSCqdo-NxC4",
+      "id": "Ugx-yfCPaTWzHe2e7o14AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pmZijOxZ7dv0rOvlA5k6monN2mg",
+          "id": "Ugx-yfCPaTWzHe2e7o14AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Jake's cynicism makes him basically my spirit animal",
+            "textOriginal": "Jake's cynicism makes him basically my spirit animal",
+            "authorDisplayName": "Mechanized Walnut",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTNZtERQ1iv9IrY9vN1tq94HaaIZKN_Stz4Wm-C=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSZPF7uevY03GY9rFUTqDuA",
+            "authorChannelId": {
+              "value": "UCSZPF7uevY03GY9rFUTqDuA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-25T03:24:03Z",
+            "updatedAt": "2021-09-25T03:24:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wuGbhGlphR2e6w5BHHC11P6CqnI",
+      "id": "UgwS-0bX50AqIJB0nE14AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "onGlLGgcEKrVv5vGP4pQiV7KyCg",
+          "id": "UgwS-0bX50AqIJB0nE14AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "I’m still happy with my 2060 super.",
+            "textOriginal": "I’m still happy with my 2060 super.",
+            "authorDisplayName": "SnowDawg",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRnmVgUoP26Fiboq_McwPaJyGWRN6Bc782YbdHsm0aExbdrFH6PnkzsNuiWHCft=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNDAx56B04p-qSC_37Ca9XQ",
+            "authorChannelId": {
+              "value": "UCNDAx56B04p-qSC_37Ca9XQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-24T08:19:01Z",
+            "updatedAt": "2021-09-24T08:19:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "U3AgVhUW90AV_as6xGNZNbUwbo4",
+      "id": "UgyK5Hvz12P-KjcF-0p4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2VhnudYH5O6OnRwtSUfIQviWy1w",
+          "id": "UgyK5Hvz12P-KjcF-0p4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "299 or im not paying",
+            "textOriginal": "299 or im not paying",
+            "authorDisplayName": "Ryan Manning",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7ldsAm4H2uTbC72LMHNh7jgetmZOKpKjiz9Y2mg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXN5Uero3y7oAfOnHCOI2QA",
+            "authorChannelId": {
+              "value": "UCXN5Uero3y7oAfOnHCOI2QA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-23T21:39:38Z",
+            "updatedAt": "2021-09-23T21:39:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Q6iNImRu5E-ydkCefHEj2oDf-00",
+      "id": "UgxD88ypCCWBZDPUy9h4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZAuNxDz1h1mAZr31MLM8o8rQI0Q",
+          "id": "UgxD88ypCCWBZDPUy9h4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Bruh I wanted an RTX 2060 with 12GB VRAM bruh",
+            "textOriginal": "Bruh I wanted an RTX 2060 with 12GB VRAM bruh",
+            "authorDisplayName": "Dan _11",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEUq5Ftnc19lCG6MuAV_Jhymse_eTIlfeik_xaww=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCs74wPhmg0ktboVUxBSKVEQ",
+            "authorChannelId": {
+              "value": "UCs74wPhmg0ktboVUxBSKVEQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-23T02:45:42Z",
+            "updatedAt": "2021-09-23T02:45:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "lZo5hycdVBLbLqSICyVLsXQ5fQI",
@@ -841,20 +1001,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "Jt_WODEHgirWkha77ltmVksZGeI",
+      "etag": "KvZDoTmQGwDyA9K62hqvDIjJzqM",
       "id": "UgzL7ZOXAIl5F1s1yWB4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "D76HL99sdu0jlVu4iP9xo0bHOI4",
+          "etag": "9dr3ZNSKItP5_Gb4FZ5tl-U3Zy4",
           "id": "UgzL7ZOXAIl5F1s1yWB4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "This guy has fairly put the beef on hasn't he? All that lockdown binge eating....",
             "textOriginal": "This guy has fairly put the beef on hasn't he? All that lockdown binge eating....",
             "authorDisplayName": "Ciaran McGreevy",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsWJ147g1TegbFzoGmvXEk1iKI3_IV_48aTWJjvR4=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSywgOedBYbkfshJZNHws4hRIxSTjrMfG0JQsXyWLI=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCT-QNozUg0ddPabM_6WP2LQ",
             "authorChannelId": {
               "value": "UCT-QNozUg0ddPabM_6WP2LQ"
@@ -1929,20 +2089,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "J1KM4cfQyLed6MbcFY3A_6IWRAk",
+      "etag": "zniUASdtqknCNR8aZXzs45QC1Pk",
       "id": "Ugz2Y9nJ9bFHmdb6NPB4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Vw6EXFJ7KxlrPk9-M3n4OHkRsIk",
+          "etag": "q1MVQtlrVSgidD9NQ1vq18Zts7E",
           "id": "Ugz2Y9nJ9bFHmdb6NPB4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "I do not care about tech news, I am just excited about Jake doing tech news",
             "textOriginal": "I do not care about tech news, I am just excited about Jake doing tech news",
             "authorDisplayName": "Jankesjt",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTEr3ndbLBcTooVO_Ln331fZj0pUGbO15IRCOWQtw=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhLqVmXwP4Em_MiNueJKEGOzEhihcuXa9zYy2wgw=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCl9PT7K5iEXYt8oM3AjAmTw",
             "authorChannelId": {
               "value": "UCl9PT7K5iEXYt8oM3AjAmTw"
@@ -3040,166 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-09-15T18:33:34Z",
             "updatedAt": "2021-09-15T18:33:34Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "TK15qTgsKGnI5jpLI4vnb1g0xeg",
-      "id": "UgwznMBTyJpgbgwuaaR4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "I3GjS7i_g-GnN58gQCYwc_x7jks",
-          "id": "UgwznMBTyJpgbgwuaaR4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Would a clean t-shirt kill ya.",
-            "textOriginal": "Would a clean t-shirt kill ya.",
-            "authorDisplayName": "Rustolamite",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSd5W9U394xD8uUpqRzEMWiyMVgdzXtHIurQ4mH=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCSeLqo3imzaNvETOmnjnpbA",
-            "authorChannelId": {
-              "value": "UCSeLqo3imzaNvETOmnjnpbA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-09-15T18:21:35Z",
-            "updatedAt": "2021-09-15T18:21:35Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "iLGUmTquHWmuqaPE7rS55AIT9wU",
-      "id": "UgwfWKpd6ANCFA3KjN54AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "GwC9nTsp8zoBeTMrHs-PZpoVk5E",
-          "id": "UgwfWKpd6ANCFA3KjN54AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "ah yes \"RTS 2060\"",
-            "textOriginal": "ah yes \"RTS 2060\"",
-            "authorDisplayName": "Cherb",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/MBE5c2Juuk1NJp9Nsy2-wsfVt3So4zXcNCqgMn5X1URs96iY0PTJkBkrbD5xLGqSUw8Y6BSV=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCwvjJe7Qj_ISFLXl4tKDKPQ",
-            "authorChannelId": {
-              "value": "UCwvjJe7Qj_ISFLXl4tKDKPQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-15T18:12:19Z",
-            "updatedAt": "2021-09-15T18:12:19Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "U2YaQX3wZxxeCgkKfjfhg6QhVAs",
-      "id": "UgyaZ-poI_lHsnsW_GF4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "wML8P9kK2LfMW08bJnwn3m5_AUQ",
-          "id": "UgyaZ-poI_lHsnsW_GF4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "that 12gb 2060 is like a 26\" donked Honda pointless. Just give us freaking 2080's at MSRP!",
-            "textOriginal": "that 12gb 2060 is like a 26\" donked Honda pointless. Just give us freaking 2080's at MSRP!",
-            "authorDisplayName": "Eto Hige Gamer Culture",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmgLKvsMoLHVciYdFp6OaFHwytR5NlbCV1EnrA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCOdOmqYXQuUugz_-ttqcIUQ",
-            "authorChannelId": {
-              "value": "UCOdOmqYXQuUugz_-ttqcIUQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-15T18:10:32Z",
-            "updatedAt": "2021-09-15T18:10:32Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "G51YNU2XBQZagXxi75aBD1Cga6k",
-      "id": "Ugz5DaK22INUEAJ9h3h4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "uAh-zfIkFLvD-JD7lobojvcu_P4",
-          "id": "Ugz5DaK22INUEAJ9h3h4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Lol, at least put on clean shirt",
-            "textOriginal": "Lol, at least put on clean shirt",
-            "authorDisplayName": "Thomas V.",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTXh3I3A6dQo5eJpuNVV044-i4P2hAPAHg4hA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCGJOwWAwv_HPpp3igSrA4yw",
-            "authorChannelId": {
-              "value": "UCGJOwWAwv_HPpp3igSrA4yw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2021-09-15T17:24:51Z",
-            "updatedAt": "2021-09-15T17:24:51Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "BeDMPlWz4igNkyqLfyAGyf2kjjs",
-      "id": "UgzWEky8PBsVbact66p4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "1DasvkGjZ3R04r-nqM3KACmZt7c",
-          "id": "UgzWEky8PBsVbact66p4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "I mean if it's priced at 200$, I'll buy it.",
-            "textOriginal": "I mean if it's priced at 200$, I'll buy it.",
-            "authorDisplayName": "Normal Person",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTfD_BDFfJ5Ne2cfMyJzFuwLPec09d-ZgQutehisw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC6gfkXaMrR0XXmVKSOSf6iQ",
-            "authorChannelId": {
-              "value": "UC6gfkXaMrR0XXmVKSOSf6iQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-15T17:17:00Z",
-            "updatedAt": "2021-09-15T17:17:00Z"
           }
         },
         "canReply": true,

@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "o1OGHo1H6eN-H1BUDX1s4IkF3mw",
-  "nextPageToken": "QURTSl9pMnljU2ZQaXV0Tm9IdUs0YlRTTURZNHdPX1gtR2p0UDRJSzV0akZlR1NNeEpjUWJnZTc4anNtYnE2TFBUTEtuUXE4MFlJZ2xwUQ==",
+  "etag": "s4C3XR8HohkP5EKRjB1h5PAd8QU",
+  "nextPageToken": "QURTSl9pMWotcHJRcnZWTTFpcU44cVZWUFU0OWpPbDRXbURDR0FSUHdaQlVpX2txODhMamFTck5kSjByYVdsU3QyRnVJUnpjQjRTdXoxZw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "lRSBzqukL1EBuQEqCbLGJLtDmPU",
-      "id": "Ugzo7_QohjaATMmwytN4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "NMDy-lafWT4jycrdcEJODNPYFl4",
-          "id": "Ugzo7_QohjaATMmwytN4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "4:33 Sadly the UK will leave the EU  :(",
-            "textOriginal": "4:33 Sadly the UK will leave the EU  :(",
-            "authorDisplayName": "Abdullah Ahmed",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYwtImi4roisrbtkMFFlLL3SV2sBzd_pr3yyUmwA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCLKatjo-6IbZIdESv80I51A",
-            "authorChannelId": {
-              "value": "UCLKatjo-6IbZIdESv80I51A"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T06:58:13Z",
-            "updatedAt": "2020-11-28T06:58:13Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "_FrsFahUKm5fkOBZiPuDf33Pwz4",
@@ -1929,13 +1897,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "MamtIy7QpgtWNyJcSHc6eC5Ndls",
+      "etag": "tnj4dXvlUy8b3NdekKxTp6-7-t4",
       "id": "UgxkvSBQEXhr0wkAfA54AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "MBBXrUjGNVvUjocr7aOiGWkj4OY",
+          "etag": "-LqDsDlv8cCqCC2XacQyKGOpchI",
           "id": "UgxkvSBQEXhr0wkAfA54AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
@@ -1949,7 +1917,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 626,
+            "likeCount": 627,
             "publishedAt": "2020-11-28T06:19:56Z",
             "updatedAt": "2020-11-28T06:19:56Z"
           }
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2020-11-28T05:56:43Z",
             "updatedAt": "2020-11-28T05:56:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qfujduX60r9whuOonHLvanXrXrs",
+      "id": "UgxpymiMfxSeEW3DIOl4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BkzhDI0BZYv1xhWDrKd4iecH-XE",
+          "id": "UgxpymiMfxSeEW3DIOl4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "Let ne tell you a hint: gtx 1070 8gb us great value at around 200 bucks now",
+            "textOriginal": "Let ne tell you a hint: gtx 1070 8gb us great value at around 200 bucks now",
+            "authorDisplayName": "Amer Huba",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSTaClH6Tli_gSy3M6jfsrGBxjFSgkm_AfzrPDKDg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrz0J4vWUcBBGppFNHfun-g",
+            "authorChannelId": {
+              "value": "UCrz0J4vWUcBBGppFNHfun-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-28T05:56:27Z",
+            "updatedAt": "2020-11-28T05:56:27Z"
           }
         },
         "canReply": true,

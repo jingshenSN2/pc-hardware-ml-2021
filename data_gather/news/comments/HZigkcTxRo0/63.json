@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "DfT7XVXKUWsIAAg4BmCVkygsYJo",
-  "nextPageToken": "QURTSl9pMVZxVVUyV0V1NEhmMnM4c1NsMVJjdzgyTld2bjhpdmhRXzRrbHRJMjBDVzRhcDkzR1FtdmRHdllNOVd6ZW1nQTI3RVZ2SjBXMA==",
+  "etag": "0bOB91plFbt5kJH3VC1OUsjeKl4",
+  "nextPageToken": "QURTSl9pM3hYcGRQUldlNjQ0T29wS0dRQWxva2FqYk5VNGVQSE9SQTY3RGs3ZXRyXy1HcURaRFFCRGh6dFlmaUo1R3pPTFJYZTZ0czZGSQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "G9xW_G0G8K-247F_Sv4pIkzexOk",
-      "id": "Ugy08bc0iwbZQjmyL1B4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "unZQb94sxzbrHmAHgTmSGy7nzm0",
-          "id": "Ugy08bc0iwbZQjmyL1B4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Dude I was watching the thumbnail for like 2 minutes asking my self: Is that M'dog ? xD",
-            "textOriginal": "Dude I was watching the thumbnail for like 2 minutes asking my self: Is that M'dog ? xD",
-            "authorDisplayName": "Balaran",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSHSlUb4Csa28vHEgI7Z7pQ8KMy5YrR5PmFGfpCmA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCBpKGTJk6wUo30UuDWj407Q",
-            "authorChannelId": {
-              "value": "UCBpKGTJk6wUo30UuDWj407Q"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 107,
-            "publishedAt": "2021-02-25T11:27:48Z",
-            "updatedAt": "2021-02-25T11:27:48Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 3,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "etVDclQV2uwiXfoC0-1j8pFSdhs",
-      "id": "UgzMRIpd40nbLOjGPkJ4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "9J4viyar6yRY-tjYxll6p2oftyE",
-          "id": "UgzMRIpd40nbLOjGPkJ4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I’m a simple girl, I see Maddison, I click",
-            "textOriginal": "I’m a simple girl, I see Maddison, I click",
-            "authorDisplayName": "Huddlespith",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/LdrgaWnv7Ff7UelMkDZncXDRorAFoYq9JZAOrTYq6rHZzfZ_owYei8KqyB9SdHGtfgNFESmVykA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCxiE9fDJE2jlq1mNcl77iig",
-            "authorChannelId": {
-              "value": "UCxiE9fDJE2jlq1mNcl77iig"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T11:27:40Z",
-            "updatedAt": "2021-02-25T11:27:40Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "T4kkFYvY0NU9yEWf7YXBle_iFbQ",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T11:12:11Z",
             "updatedAt": "2021-02-25T11:12:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BjYDh377fIS5wTZFa_6W_tjvbco",
+      "id": "UgyOqnFfqZmV2sQ1h794AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WS6msJ9zFvPeoYTfcdO3NHbS5bU",
+          "id": "UgyOqnFfqZmV2sQ1h794AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Maybe dial down the joke part to one every 2-3 news, wasn't a big fan of this episode. Just felt more bad comedy than actual news.",
+            "textOriginal": "Maybe dial down the joke part to one every 2-3 news, wasn't a big fan of this episode. Just felt more bad comedy than actual news.",
+            "authorDisplayName": "lootmaster1337",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQASFbKcQTEWBpTN7mQJFF0e9uowaZc66gh_LkB0g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCL7EJyx9KRnsN_q97YDCqWg",
+            "authorChannelId": {
+              "value": "UCL7EJyx9KRnsN_q97YDCqWg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T11:11:57Z",
+            "updatedAt": "2021-02-25T11:11:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3Zyz0pxHykbjlVWba9idavsAYPQ",
+      "id": "UgywZS4Xjl1uZyPTnXl4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-B3uwf9Mo9LoUduKZfUhAilM5rM",
+          "id": "UgywZS4Xjl1uZyPTnXl4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "i like her in videos :)",
+            "textOriginal": "i like her in videos :)",
+            "authorDisplayName": "the5thrider5",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhRBOJ5qDP-yHkJve0nB3mm0Xr-QeC-7kg8g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLiAfWrHNtxKbqDLPzL6-Tw",
+            "authorChannelId": {
+              "value": "UCLiAfWrHNtxKbqDLPzL6-Tw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T11:11:52Z",
+            "updatedAt": "2021-02-25T11:11:52Z"
           }
         },
         "canReply": true,

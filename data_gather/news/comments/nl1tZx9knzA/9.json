@@ -1,75 +1,11 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "8wG3ZQbtEpx1c5QhAYZe4u7W1uM",
+  "etag": "FdaSetRCsVqb98BlMGian8iIGsg",
   "pageInfo": {
-    "totalResults": 44,
+    "totalResults": 42,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "8AxI-NqyuJ-Upwq9v9wKYfYFxfI",
-      "id": "Ugy-XaeZk204ciMx6Sl4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "dx9dzsq-2nYvcgTRaTKZ7v_9Ghs",
-          "id": "Ugy-XaeZk204ciMx6Sl4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "Nvidia's driver was completely hack proof; by any reasonable definition of hacking they were never hacked. People just used an official Nvidia driver to get around it completely. No hacking required!",
-            "textOriginal": "Nvidia's driver was completely hack proof; by any reasonable definition of hacking they were never hacked. People just used an official Nvidia driver to get around it completely. No hacking required!",
-            "authorDisplayName": "c0horst",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8BAWg9dSJO8xbVktNXWF5zkBVpMW9xlzDmneh0g=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UChg-UlZCDAqnb9unwKcdNTw",
-            "authorChannelId": {
-              "value": "UChg-UlZCDAqnb9unwKcdNTw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2021-05-01T01:04:45Z",
-            "updatedAt": "2021-05-01T01:04:45Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "c05RI9VtMMQR7W-5Ck9u0EzjqZY",
-      "id": "UgwT7Um_XUQyqpBtLCJ4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "l56jViGZyuu4JqIiRxiJD9OaKJE",
-          "id": "UgwT7Um_XUQyqpBtLCJ4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "J",
-            "textOriginal": "J",
-            "authorDisplayName": "Chicken Dynamite the suicide bomber",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSmmLms725HrPwTjRh6TR0R-kUNi1ZV1PyExg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCzwN45jSDGWtTfJTLEkkIgQ",
-            "authorChannelId": {
-              "value": "UCzwN45jSDGWtTfJTLEkkIgQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-01T01:04:45Z",
-            "updatedAt": "2021-05-01T01:04:45Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "jwhWrSFq91ZFC1I0g9SJmFX1aRM",
@@ -104,20 +40,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "VLWDWU9z5WyOxr7OCYfCMrxifx4",
+      "etag": "DGC3_orUB_POXomzZkO2C-T8nzg",
       "id": "UgzDwb4r-NLWCaQaZ4l4AaABAg",
       "snippet": {
         "videoId": "nl1tZx9knzA",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "WAY0caYWi1gjJnyGdE_o920wnl8",
+          "etag": "j_uDdo4lEgm8UDaLqRYL2_ZBb8g",
           "id": "UgzDwb4r-NLWCaQaZ4l4AaABAg",
           "snippet": {
             "videoId": "nl1tZx9knzA",
             "textDisplay": "pog",
             "textOriginal": "pog",
             "authorDisplayName": "DIGITAL",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQvXg9LUDPZqQIHzeMkstmF9EkeD5p-QW22lGQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/awqGG_VRKiKAY1GOz3P34YumYRnPJr2naOHhfzHmzRDcZuA0BHXG7hOvWVWayWoqGL6nigK8=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCH0RoTHhLQMBu51Gb0wrrZA",
             "authorChannelId": {
               "value": "UCH0RoTHhLQMBu51Gb0wrrZA"

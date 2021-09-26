@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "HxfcmIbU677hb5df3bJTlCdYACg",
-  "nextPageToken": "QURTSl9pMUUtRkZTZjIzNnB6cUJWWnd6dVVBeGlrSXVxdC1IYmVRZjZOTkt2UTkxVE1JZnNuT0NQZUFWcVVPbVBCQ2loNkF6Q1YyY01VVQ==",
+  "etag": "e67UDGiNqc9F7E-lc_7CeZNN6ms",
+  "nextPageToken": "QURTSl9pME1mRG5SaV9naFV1ckJkVC1SSHlwcWVIMUxsOXJET2R2TTdNMmhrM2Fpc2wtWnVhSXVrS1JUX0puRDhvOVdKbTBOb1dSUkd6SQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -73,13 +73,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "7i2WUafeS2rFEiGHkS4hbdEz0Qo",
+      "etag": "KBgGHq68G_1yPgXwOYomAZgOc44",
       "id": "UgzQBzSf-uGK-5_Jk-B4AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Gjy80tYJaPdjfcwwK5HCvBXtn_U",
+          "etag": "s6NxVKUZZ9fVVcXun2K2ptPf77k",
           "id": "UgzQBzSf-uGK-5_Jk-B4AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
@@ -93,7 +93,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 78,
+            "likeCount": 79,
             "publishedAt": "2021-08-22T18:17:20Z",
             "updatedAt": "2021-08-22T18:17:20Z"
           }
@@ -233,13 +233,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "DPwo8GnAaC2paXZm5l33l-Y3uIA",
+      "etag": "7_RNSk-q1b8xKUWncX5whg8HLDM",
       "id": "UgxFRAX1sJFa0zgZi714AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "fUWIziKZ2ag5IfVx0nzry2hQ6Wk",
+          "etag": "sPb1Uldj9uEdmoytgOX8QOrjV3s",
           "id": "UgxFRAX1sJFa0zgZi714AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
@@ -253,7 +253,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 56,
+            "likeCount": 57,
             "publishedAt": "2021-08-09T15:44:41Z",
             "updatedAt": "2021-08-09T15:44:41Z"
           }

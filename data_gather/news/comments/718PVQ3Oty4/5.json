@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "nQ1GVNj_OSFNC8rVeTEV7VPbTQ4",
-  "nextPageToken": "QURTSl9pMm40UDV1QTEtZFU1eVl3UVpBZkxBWEhrQ0s2Vm1acUNHZkZtRFlCY0dIZzl1YkZhZ3lSM0hpSXV2VkNWMHNtWHdQMWF1NlVQSQ==",
+  "etag": "hzQfq_y5C7MA0EW-lW9IvDPCRLQ",
+  "nextPageToken": "QURTSl9pMUp5eV9zLVBnVkxuOGFSYXRSQzRkeEw1UW5QTkRvLVlWVUdOWVduRFlmcWo0NDNSVjNtRVdEQy0wc2s4Qi1EX1RDcm04VktTdw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "8cN2GRGa2v-11sPGPtQUxYy2W44",
-      "id": "UgwHB5oX-8nV0nCRaIh4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "q8Qs0n-w3G2i6k44d4xaSR9S3-0",
-          "id": "UgwHB5oX-8nV0nCRaIh4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "4:38 you hear James dying in the background 😂😂",
-            "textOriginal": "4:38 you hear James dying in the background 😂😂",
-            "authorDisplayName": "Luke Fuller",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRApah7xusBNdEQhfQOj4dKYCUbROtE3I87IR4N0Q=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCFcCLXWTpEb8-SpO74WASlA",
-            "authorChannelId": {
-              "value": "UCFcCLXWTpEb8-SpO74WASlA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-03T05:49:53Z",
-            "updatedAt": "2021-06-03T05:49:53Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "mt9seB-zWaM-6qsfxsfgNH2btVY",
@@ -992,38 +960,6 @@
             "likeCount": 0,
             "publishedAt": "2021-06-03T05:05:29Z",
             "updatedAt": "2021-06-03T05:05:29Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "FT12VigdqGq-GbyWZ_P8f9xfbl4",
-      "id": "UgzTcSa_8eHMpu_3vnJ4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "3aIxdKqtkip2RcvAvBXgKFMTqx8",
-          "id": "UgzTcSa_8eHMpu_3vnJ4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "Ryzen epic.",
-            "textOriginal": "Ryzen epic.",
-            "authorDisplayName": "Epicly Casted",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRkySfA4BVMjD5VTXqrbMUA3fTvE4tAjtgQAAaG=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCPhYURtDIA7F9XitCy-9orA",
-            "authorChannelId": {
-              "value": "UCPhYURtDIA7F9XitCy-9orA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-06-03T05:05:19Z",
-            "updatedAt": "2021-06-03T05:05:19Z"
           }
         },
         "canReply": true,
@@ -3204,6 +3140,70 @@
         },
         "canReply": true,
         "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "g2j_iQWDrfwKIptjkzOX1HYyw78",
+      "id": "UgzycOVgoIvHO__PPX54AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "I3okUuZakKwoMahVnbOjuC44XSg",
+          "id": "UgzycOVgoIvHO__PPX54AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "Finally some almost-affordable Ryzen 5000-series chips.",
+            "textOriginal": "Finally some almost-affordable Ryzen 5000-series chips.",
+            "authorDisplayName": "Drew Naylor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhYYxCNlw0x480Nm0YAOIUYWieD2h00qfJIzGd=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIEyCGDqoo2rrfZVydaM-2A",
+            "authorChannelId": {
+              "value": "UCIEyCGDqoo2rrfZVydaM-2A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-03T04:00:33Z",
+            "updatedAt": "2021-06-03T04:00:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bsTEzDtBMp65rlMJ7BGd2zo0hZ8",
+      "id": "UgxYjMrwvGgPEoVZUEx4AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "l7_Sxp17yWJPvDaKOkHYevKaaao",
+          "id": "UgxYjMrwvGgPEoVZUEx4AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "They PAY you to do this!!!   ;)",
+            "textOriginal": "They PAY you to do this!!!   ;)",
+            "authorDisplayName": "Captante",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIfKmh7lwKPbfcf3doQReNcZ6EMKuWKD91UcgPPg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9J6qdj0pYpVKthQllQlQpw",
+            "authorChannelId": {
+              "value": "UC9J6qdj0pYpVKthQllQlQpw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-03T04:00:31Z",
+            "updatedAt": "2021-06-03T04:00:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
         "isPublic": true
       }
     }

@@ -1,12 +1,44 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "uMkAlL0oRDwcCIeyR3xK_qwY24Y",
-  "nextPageToken": "QURTSl9pMXFUZS1rMGFHamtNNG44cGpBQ2k5MUxia01EQ2JSbkhKN0tfbnFKcUtLaXVwZDlpTm4wRUc4YzVSanJPbFZZYW5QWjJCT2plWQ==",
+  "etag": "aTKmAi_AwyNznVcxscJizcbL3Ts",
+  "nextPageToken": "QURTSl9pMEVRZ3E4Rm5yT3EwUFZDTkZPYnozVV9hYU1jNXNWV1hpSFBwMzhTcmFjVjJoNFZnc1JpYkkwYmMtaXoxRWZvT0FOVnhNQTdJcw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9U0bVUQR1c4CfJ823NfWIYNaaXw",
+      "id": "UgwtFHMxDW2X_U0hw914AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "olFVRjo19sDQ0EiirtZmXabJR8U",
+          "id": "UgwtFHMxDW2X_U0hw914AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "can this guy articulate his words ? i cannot understand half of what he is saying with his dry mouth",
+            "textOriginal": "can this guy articulate his words ? i cannot understand half of what he is saying with his dry mouth",
+            "authorDisplayName": "Moi Juste",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTALded2bo2E1iQ4uv3fMd0OZr08PPInSBujw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3Io8_b_kGM8JpdTgkrtzJA",
+            "authorChannelId": {
+              "value": "UC3Io8_b_kGM8JpdTgkrtzJA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-05-01T10:34:03Z",
+            "updatedAt": "2021-05-01T10:34:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "8k6g6H7O0C9DDxzAGTF79QUiRoA",
@@ -1289,20 +1321,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "B_Bngz9fNJAXNsRpsiwR9z-2qhY",
+      "etag": "aOfs9BqsvbAFwv6MQQAR2t5Toxo",
       "id": "UgzkHXnF_9-IKUMhF5V4AaABAg",
       "snippet": {
         "videoId": "nl1tZx9knzA",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Jt4TRBBIUCKdsb3hH_ttzbUkiWM",
+          "etag": "qsIHmBgMr515ctlNELvBWV2CWnU",
           "id": "UgzkHXnF_9-IKUMhF5V4AaABAg",
           "snippet": {
             "videoId": "nl1tZx9knzA",
             "textDisplay": "\"EPIC fails\" 😂",
             "textOriginal": "\"EPIC fails\" 😂",
-            "authorDisplayName": "Ahmed Mo",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaSSyqhA3Y2T42c3aY2jtFfo4nICBs16sqdI_cCQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorDisplayName": "The Ghost Leader",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/N-4VhaYCM76LNMqJ5vfjJi6b6INQfOa_Y-JhaUsbEKzs9nQ8_K15eTUkTXqmszr4tD7gRifcmQ=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCi30M-XH9LE5xTE5PRjmBmw",
             "authorChannelId": {
               "value": "UCi30M-XH9LE5xTE5PRjmBmw"
@@ -1993,19 +2025,19 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "F9z_GUYfDkW17IoSfmIAEAnjuNk",
+      "etag": "jMNyr8P7r80cd_prwljOaxChaEA",
       "id": "Ugw03QbLI3PLujgVJ1J4AaABAg",
       "snippet": {
         "videoId": "nl1tZx9knzA",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "gXF6EqVTRa_SXcpBCy_heQiT4nA",
+          "etag": "MfUzAFdGO7F_2h2M2cysLEwJgGw",
           "id": "Ugw03QbLI3PLujgVJ1J4AaABAg",
           "snippet": {
             "videoId": "nl1tZx9knzA",
             "textDisplay": "Nvidia: we brought you an unhackable driver\nMiners: Fine, I make my own Driver, with blackjack and hookers",
             "textOriginal": "Nvidia: we brought you an unhackable driver\nMiners: Fine, I make my own Driver, with blackjack and hookers",
-            "authorDisplayName": "Blockschrott *",
+            "authorDisplayName": "Blockschrott",
             "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVpcVGqbsPJg6kql1-54yguLsVqYSBMqKSXGN5eg=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCkIfRZ-ZyyrtEC9oDL4WGVA",
             "authorChannelId": {
@@ -3168,38 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-05-01T07:23:57Z",
             "updatedAt": "2021-05-01T07:23:57Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "6-Tle56JL5VXuUSL1FmMp35wqQ4",
-      "id": "UgzsJSJLmg4W9Neiwsd4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "98bN_jRrXWfitVYdIeGZ_PlLRsg",
-          "id": "UgzsJSJLmg4W9Neiwsd4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "Haha, of course Riot is more concerned about toxicity than makes a balanced game. Fuck you Riot.",
-            "textOriginal": "Haha, of course Riot is more concerned about toxicity than makes a balanced game. Fuck you Riot.",
-            "authorDisplayName": "Ricky Mills",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbQie1zFoPEnH5J0fGmODKeWLrRl1XU4PwFD34=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCOBXYZl0sE3lY4vx7gi-35g",
-            "authorChannelId": {
-              "value": "UCOBXYZl0sE3lY4vx7gi-35g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-01T07:22:35Z",
-            "updatedAt": "2021-05-01T07:22:35Z"
           }
         },
         "canReply": true,

@@ -1,12 +1,44 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "enIvF9YTNEpflbp1bGbHzUxYWmM",
-  "nextPageToken": "QURTSl9pMmwxMmItVVo0YU9mSTNiT1Y1ZF9lVi1HY3Z0dUhJeU1WSkx5UlhiQ0x6aFQzOWtwaVduLVY3cktNektESXhWV2UxVHdHT3plSQ==",
+  "etag": "4YtFZna42Em2S9CHgvSbJfusJqU",
+  "nextPageToken": "QURTSl9pM0cwTmdJS2V5RnNoUmk3TDZXVVN0WmpXZ1VMSGYwcXJBV1JPLUxPQmtlQkU4RXBld2NvOG92ZkpRek9lUHVmdWZXOW9ZejVzWQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6-Tle56JL5VXuUSL1FmMp35wqQ4",
+      "id": "UgzsJSJLmg4W9Neiwsd4AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "98bN_jRrXWfitVYdIeGZ_PlLRsg",
+          "id": "UgzsJSJLmg4W9Neiwsd4AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "Haha, of course Riot is more concerned about toxicity than makes a balanced game. Fuck you Riot.",
+            "textOriginal": "Haha, of course Riot is more concerned about toxicity than makes a balanced game. Fuck you Riot.",
+            "authorDisplayName": "Ricky Mills",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbQie1zFoPEnH5J0fGmODKeWLrRl1XU4PwFD34=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOBXYZl0sE3lY4vx7gi-35g",
+            "authorChannelId": {
+              "value": "UCOBXYZl0sE3lY4vx7gi-35g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-05-01T07:22:35Z",
+            "updatedAt": "2021-05-01T07:22:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "qz1XFEvFXxWOYhBwklo5UzFtAns",
@@ -873,20 +905,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "GX3KevZrDH2COUQWD1NSmPZSOos",
+      "etag": "-S5pC9PO_hWghEdnkbWidghowSM",
       "id": "Ugx1VyHyYO9Lm0etMpV4AaABAg",
       "snippet": {
         "videoId": "nl1tZx9knzA",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "-J-sd48AxLD62D3hAtxV6YcwntA",
+          "etag": "nwoVR0LMOGmj1Ajmhq-fH7FdPA4",
           "id": "Ugx1VyHyYO9Lm0etMpV4AaABAg",
           "snippet": {
             "videoId": "nl1tZx9knzA",
             "textDisplay": "antitrust is the biggest bullshit...",
             "textOriginal": "antitrust is the biggest bullshit...",
             "authorDisplayName": "MasterZeroFX",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRVCz7SerU-0bED5HDKEbwS2pDR6zf8hYnCEFPv3w=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OcftdATEC35lLui0JEMeIeTu-7KXdF5Hd_ALKRYK9T9VBAtTunX9LXuv09_v9QA2ytnWAnJ4Jw=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCDJ5KkP6sAGoR4Dt1sv56_Q",
             "authorChannelId": {
               "value": "UCDJ5KkP6sAGoR4Dt1sv56_Q"
@@ -3168,38 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-05-01T04:35:02Z",
             "updatedAt": "2021-05-01T04:35:02Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "_8g8BtfuwSsuXAkEWa_koaDKfZk",
-      "id": "UgwhJlVv20W3gxHOahR4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "lG5YQNSxRhumcdM5Jivqradzp0Y",
-          "id": "UgwhJlVv20W3gxHOahR4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "5:29 i knew it.  watching installation videos makes me cringe how labor intensive it is.  he should abandon the solar tiles except for a new roof.",
-            "textOriginal": "5:29 i knew it.  watching installation videos makes me cringe how labor intensive it is.  he should abandon the solar tiles except for a new roof.",
-            "authorDisplayName": "zodiacfml",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTivgsc0GATIXSsRNWTwVV2M8gFBqqc5taRCg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCww-RHPfKP_9bhNPtzeNPKw",
-            "authorChannelId": {
-              "value": "UCww-RHPfKP_9bhNPtzeNPKw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-01T04:35:00Z",
-            "updatedAt": "2021-05-01T04:35:00Z"
           }
         },
         "canReply": true,

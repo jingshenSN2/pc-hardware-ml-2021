@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "fewkfaCFp6hKo_QBY4Ch8gzfrhI",
-  "nextPageToken": "QURTSl9pMmFjRFdCZDNUTzRhWTBrMDJ3UmZRakh6RGcxNS1lXzFkTHkwLW9GcU1UVjl2aHVvYmJndXRQdmFZQmFKVExQWkRubkpvREhOMA==",
+  "etag": "VTiZZkhAe7zLTRXVweRDpMJS_ws",
+  "nextPageToken": "QURTSl9pMkt0aDA5Q3N6OExPNFBGcjdNQXZRcW1DbnlHeDRORXlrYTZiOWVfQk5sdmgyUjFHMGlOdy1JNm85YTFoeWxhUC1VeDJQd2ZGUQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ngjDi1jQjSfuYEDtcbIuK6EKvjw",
-      "id": "UgzlFBJ-MzK2UoturHF4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "BoJ50ClTPJ1TGD8LcwP8LeW4F8E",
-          "id": "UgzlFBJ-MzK2UoturHF4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "Android apps on windows, so they are just bringing back project Astoria  that was in some preview versions of windows 10 mobile (alllowing some android aps to run on some windows phones and was the basis for windows subsystem for linux (windows kernel  with linux syscalls).",
-            "textOriginal": "Android apps on windows, so they are just bringing back project Astoria  that was in some preview versions of windows 10 mobile (alllowing some android aps to run on some windows phones and was the basis for windows subsystem for linux (windows kernel  with linux syscalls).",
-            "authorDisplayName": "MonochromeWench",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNKgUknDCC3MQ8KJ5G0LKuwXpKIoU8Weok8g=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCRDkkzTRkFvGYAs8wxSuyAQ",
-            "authorChannelId": {
-              "value": "UCRDkkzTRkFvGYAs8wxSuyAQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T13:09:05Z",
-            "updatedAt": "2020-11-28T13:09:05Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "iYB6oKnfNFsgWE5Y-REadsh1Oy4",
@@ -1545,20 +1513,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "0jdeiXS3vNDn-NzuWxY1LD8ev18",
+      "etag": "hs-3YCuGD9H4-yUNzVwRcsnxqQs",
       "id": "Ugxsi5QNH7Bv39eq_sd4AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "sFcfsTlySTH86zLi6I9A6nrz_MY",
+          "etag": "Gvd661REgbuo8s3v6cm_Vr0dTek",
           "id": "Ugxsi5QNH7Bv39eq_sd4AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
             "textDisplay": "Who wants windows on anything? Android is much better than windows.",
             "textOriginal": "Who wants windows on anything? Android is much better than windows.",
             "authorDisplayName": "Ganesh Karhale",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRtl44njjBdw5IkGgh4DQp8_xzh1KQaeGt_aMkhJw=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3SZomfdhiezKqXhcTbtmVoAQdU16L5koANcVqUQ=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UC18B7ibrxq9H1OWb630l8wA",
             "authorChannelId": {
               "value": "UC18B7ibrxq9H1OWb630l8wA"
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2020-11-28T11:07:02Z",
             "updatedAt": "2020-11-28T11:07:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Qzsf-z8QpMbIieAojo_rAuO0t60",
+      "id": "UgyOXdzcM6Q2VFQ8vDZ4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LVOX2OwYeHd86WJf7_DPxjUl2zI",
+          "id": "UgyOXdzcM6Q2VFQ8vDZ4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "At this point if I ever design a computing device with a screen I'm just gonna go ahead and install the shareware DOOM on it before ever sending it out, so people don't have to hack the things.",
+            "textOriginal": "At this point if I ever design a computing device with a screen I'm just gonna go ahead and install the shareware DOOM on it before ever sending it out, so people don't have to hack the things.",
+            "authorDisplayName": "Guerilla Grue Plays",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgu3jcZRX3ZSi_P3AOoTs5n-r3qa_sGSSV2C5d=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9Qmn4e5gxtpVKUmtPngnvg",
+            "authorChannelId": {
+              "value": "UC9Qmn4e5gxtpVKUmtPngnvg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-28T11:04:29Z",
+            "updatedAt": "2020-11-28T11:04:29Z"
           }
         },
         "canReply": true,

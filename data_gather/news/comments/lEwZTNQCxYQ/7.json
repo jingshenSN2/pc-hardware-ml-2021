@@ -1,12 +1,172 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "EiegUWdIwJCuaTvmul-JEN3S7ms",
-  "nextPageToken": "QURTSl9pM3EycmZnVU5iWGxSOUdYZWU0M2xYNWdnY2NNeUpxSUpLSy00TllaVkhUZUl6bm5RcVJmQmJudGZyUjdOT1lqd3dLOVhtNXpUNA==",
+  "etag": "q0oIn4hAQUNgRVNUZJPG5gaqAx0",
+  "nextPageToken": "QURTSl9pMXA2OFBTX0N1aXBxYVM3cUQ1WV8yMkxCOTY3M2hjYWowdU5vRXhrdkhOUVVHZHlDT1NZSWJ4MXNTMnMxbWYyYXNBaEJFb2NOaw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "euncFDhavRlQVGwMj_dTrvEONOM",
+      "id": "Ugy_f4kINns5uk2WnLh4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-akaiMpTpdOWdCJbxAXp2oJv0S0",
+          "id": "Ugy_f4kINns5uk2WnLh4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Would someone mind please explain to me why Microsoft edge is bad? I get that it may have been due to a bad history, but currently it seems fine to me. It doesn't seem any slower or faster imo.",
+            "textOriginal": "Would someone mind please explain to me why Microsoft edge is bad? I get that it may have been due to a bad history, but currently it seems fine to me. It doesn't seem any slower or faster imo.",
+            "authorDisplayName": "Sam C",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQLUET8gcw6BFtnIb0t-mgUDOIUZAsT5qxY1w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTlIhoP29bcMVUO3fCXXvAg",
+            "authorChannelId": {
+              "value": "UCTlIhoP29bcMVUO3fCXXvAg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T05:56:59Z",
+            "updatedAt": "2021-09-14T05:56:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rlDSZ2vRuTUST2-FY3idAUprJbs",
+      "id": "UgwC57EmJINi7zDJU8J4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FEkp9jM52CpdIut3GPTyhRLj7Mw",
+          "id": "UgwC57EmJINi7zDJU8J4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "India banning VPN 😶",
+            "textOriginal": "India banning VPN 😶",
+            "authorDisplayName": "lockhrt999",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRHyUkOtM0cr7935hIlB_267Naq01xuL3xPunbhQA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVGwIh2I_kMXyHTxQvG2QxA",
+            "authorChannelId": {
+              "value": "UCVGwIh2I_kMXyHTxQvG2QxA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T05:53:06Z",
+            "updatedAt": "2021-09-14T05:53:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "slfnCimAROnuZx2gQK-v49vcDoI",
+      "id": "UgwuN7jdy6nkpnDc5aJ4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hXZVGrryXxx5DLMQ-S_vzFUJqeU",
+          "id": "UgwuN7jdy6nkpnDc5aJ4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "I admire the confidence to host while looking like hes really embraced the lazy-success-look in the stains on his shirt.",
+            "textOriginal": "I admire the confidence to host while looking like hes really embraced the lazy-success-look in the stains on his shirt.",
+            "authorDisplayName": "Ozzy Gee",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwPqCK-bVaeccRuDgRsN0SwbKzgN5IXK1vx1Oi8Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHwasR3iCqcLT0boZaMHliQ",
+            "authorChannelId": {
+              "value": "UCHwasR3iCqcLT0boZaMHliQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 16,
+            "publishedAt": "2021-09-14T05:46:31Z",
+            "updatedAt": "2021-09-14T05:46:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pRMGblqd-z95uQrbnfwiiyJ8DD8",
+      "id": "UgzWFne5doWQ8W2DcKx4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0RVUhBipAJzVFw7iw_4U9BHnmHs",
+          "id": "UgzWFne5doWQ8W2DcKx4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Jake.... Bro... clean your dang shirt lol",
+            "textOriginal": "Jake.... Bro... clean your dang shirt lol",
+            "authorDisplayName": "Ryan Plieth",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRRh-D83bXjo5eig9dtQsy-qulqNn8K4hXrJA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCj1g_fOrsCnhocqa1rv8CRg",
+            "authorChannelId": {
+              "value": "UCj1g_fOrsCnhocqa1rv8CRg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-09-14T05:44:13Z",
+            "updatedAt": "2021-09-14T05:44:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Yzb9i6Z4yi8NFwg1CI1EgCvPZec",
+      "id": "Ugyk3DIObDGVcE4qz2Z4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "akgnNwWfV9PIZhPKxJuL5HBpiBI",
+          "id": "Ugyk3DIObDGVcE4qz2Z4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Finnegan Speed and Marine shirt? Nice.",
+            "textOriginal": "Finnegan Speed and Marine shirt? Nice.",
+            "authorDisplayName": "BoostAddict",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQQ3fD2oCi_isxqnJ_YY8x6p-7eKiAy86GsDkuW=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZfrqsjKpYIqTGeusxZl52g",
+            "authorChannelId": {
+              "value": "UCZfrqsjKpYIqTGeusxZl52g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-09-14T05:43:28Z",
+            "updatedAt": "2021-09-14T05:43:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "fLOUrC39IOZFsU5qCRx_n-LpX_E",
@@ -96,38 +256,6 @@
             "likeCount": 0,
             "publishedAt": "2021-09-14T05:38:02Z",
             "updatedAt": "2021-09-14T05:38:02Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "5488kVvGwSKCr_GiIfLqsdHkxB8",
-      "id": "UgwJhLtBIeNc4R2e1WJ4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "lDvYGTYGbQjZFXzXbNjXyuRTDAc",
-          "id": "UgwJhLtBIeNc4R2e1WJ4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "How about a clean t-shirt first?",
-            "textOriginal": "How about a clean t-shirt first?",
-            "authorDisplayName": "hardcopy",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZE2tuTiS971F6-7zooqb5wO15XEQ9620K5w=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC1CiFfL8GH9MvimggTJcf8w",
-            "authorChannelId": {
-              "value": "UC1CiFfL8GH9MvimggTJcf8w"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T05:36:53Z",
-            "updatedAt": "2021-09-14T05:36:53Z"
           }
         },
         "canReply": true,
@@ -3072,134 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-09-14T03:47:41Z",
             "updatedAt": "2021-09-14T03:47:41Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "56t5GKLU5DVdo5XUnEtSzrO3Lw4",
-      "id": "UgwxQ1KtyO8b28KVkMF4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "IZHf5sqYrpMID46gkUNwIWKzD_4",
-          "id": "UgwxQ1KtyO8b28KVkMF4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Only 15 more years until fusion power...",
-            "textOriginal": "Only 15 more years until fusion power...",
-            "authorDisplayName": "༒Gorm Auslander༒",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS7qGBoFUkLR7LN5YXsEjgvvUOHeitk6AOcJOOlGA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCBHduFhNT6cDTb3tNE4YB6Q",
-            "authorChannelId": {
-              "value": "UCBHduFhNT6cDTb3tNE4YB6Q"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T03:46:25Z",
-            "updatedAt": "2021-09-14T03:46:32Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "K69PtrPZ4L91PVcKiKZYpUBSqeo",
-      "id": "UgxgDbOMtJcZv5zPPnZ4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "G8p6HfQd1NtuSEuDqBVi_NPf37k",
-          "id": "UgxgDbOMtJcZv5zPPnZ4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "For the record, Edge is better.",
-            "textOriginal": "For the record, Edge is better.",
-            "authorDisplayName": "CYERON",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR6f5swP-0viQ60gM-egDDHB0KMUmxFAWln0QVp=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC5FR_l_3r-IZxZ4N39WslGg",
-            "authorChannelId": {
-              "value": "UC5FR_l_3r-IZxZ4N39WslGg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T03:45:15Z",
-            "updatedAt": "2021-09-14T03:45:15Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "yJzFmvB7sQ3yUvf4G8topn8KRr4",
-      "id": "UgzaEzuH-BmKReta15p4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "P5m5F_dXQ4C4c2hTubGiyZjLJ6o",
-          "id": "UgzaEzuH-BmKReta15p4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Edge clearly has more features .\nI can't understand why they hate Edge and other Microsoft products so much.",
-            "textOriginal": "Edge clearly has more features .\nI can't understand why they hate Edge and other Microsoft products so much.",
-            "authorDisplayName": "Aromal V K",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuyl1v6ktLvUQAicffYvmHp4GxBAkH74T52XPI=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCxyvcvUZbe9UsuhgQHnbTxQ",
-            "authorChannelId": {
-              "value": "UCxyvcvUZbe9UsuhgQHnbTxQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T03:44:34Z",
-            "updatedAt": "2021-09-14T03:44:34Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 5,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "XsoB7Uq2009-Fxqcg_bAOIMMo5M",
-      "id": "UgwwmiXhk3XDSnr4jkV4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "_X8gV-NKLyqhr6oE9_ONSTRk6F4",
-          "id": "UgwwmiXhk3XDSnr4jkV4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "I do not understand VIDIA point of view. there is a CHIP SHORTAGE  to fix it put MORE CHIPS got a old out of date 2060  that only got 6GB GDDR6 then ad more CHIPS to make it 12GB the match dose not work  like 4+4+12",
-            "textOriginal": "I do not understand VIDIA point of view. there is a CHIP SHORTAGE  to fix it put MORE CHIPS got a old out of date 2060  that only got 6GB GDDR6 then ad more CHIPS to make it 12GB the match dose not work  like 4+4+12",
-            "authorDisplayName": "Zzzz Zzz",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSbVcBx15441C7Dxrn9Vtj3Zv4cEKGHYcgbvQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCwtwHsiLDtwgSnS1dQ_yHjQ",
-            "authorChannelId": {
-              "value": "UCwtwHsiLDtwgSnS1dQ_yHjQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-09-14T03:44:31Z",
-            "updatedAt": "2021-09-14T03:45:53Z"
           }
         },
         "canReply": true,

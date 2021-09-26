@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "kxKKfxcQuQciKBn00D-wE_WVb30",
-  "nextPageToken": "QURTSl9pMFo0dzBrZFU5RnNya2pEdjRURkZJLUJFRld3Ukk5eVVaZGNIU0ZoMEJ6V01kY0EzZmJSWTNCRzlXVDc1ZXBIc3p5b3dmRHJKUQ==",
+  "etag": "qpECbrMlOQEtEpnPRgaMCx9sHRg",
+  "nextPageToken": "QURTSl9pMHQwLUIyZkhnMENjMUptSXpqUy1WdnF5LTFwNm9zVVNfVU9tMFgtZDRjNHFhSGVUU3UyNE5CZ0djVjVIeUlCLXVKOXA1RmV1bw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "F-BJvQA772ipxitzIsZCAG3jzUM",
-      "id": "UgxVjL-TwVzt3CduHFZ4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "s10bOaeDD1V0GGTBUpU_lqu1xlQ",
-          "id": "UgxVjL-TwVzt3CduHFZ4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "Ir brings a whole new meaning to downloading ram",
-            "textOriginal": "Ir brings a whole new meaning to downloading ram",
-            "authorDisplayName": "Yak",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSOH3wILk9DjWRx7r9qFsp174Gl5ZnSSAqNU7xEkg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCj3SO-qohZqsWm1Q-3nhqvw",
-            "authorChannelId": {
-              "value": "UCj3SO-qohZqsWm1Q-3nhqvw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T04:31:34Z",
-            "updatedAt": "2020-11-28T04:31:34Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "QLtB0Nk3V2cKa6VImIvIEJAFjLM",
@@ -3200,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2020-11-28T04:04:28Z",
             "updatedAt": "2020-11-28T04:04:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OY3lZn8PsEyXRyGZNm4B0kSVfc4",
+      "id": "UgxBlFswg4q_rBb6ssV4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "x0WNFvJLLD9DbiuaXMF_6BmcH5s",
+          "id": "UgxBlFswg4q_rBb6ssV4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "Ah that means old war burns again. Grab your pitchforks bois we have miners to burn!!",
+            "textOriginal": "Ah that means old war burns again. Grab your pitchforks bois we have miners to burn!!",
+            "authorDisplayName": "VladiSSius",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvhVfOL1S-nKXiNxA-w5V1N6XxI5caQWZm5pEukA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcEwoO03WY2GZzIOLEgKUfw",
+            "authorChannelId": {
+              "value": "UCcEwoO03WY2GZzIOLEgKUfw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-28T04:04:09Z",
+            "updatedAt": "2020-11-28T04:04:09Z"
           }
         },
         "canReply": true,

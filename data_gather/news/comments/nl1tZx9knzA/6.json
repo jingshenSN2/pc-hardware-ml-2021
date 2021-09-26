@@ -1,12 +1,44 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "BJYCJPzYHNtl0oaddlicK-HcUD4",
-  "nextPageToken": "QURTSl9pMXpqV3Uzb04zQ0pueVVTZjNBY2ppRmNreWk5N1lLekJhQ1JXWHhMdXdnSXQyWTg5UTduY004d3dwNTUyYVdpRU4xNUloWExBaw==",
+  "etag": "KPkF087Y1ZY7WK4eLRxAH5bldH0",
+  "nextPageToken": "QURTSl9pMzJiUU9IVFk3aXYtU0xZbTc0bGtzdEgzcXN2Vk4teFo2TWlENkdzT3VZN29vYUtYQnIzRGszdWcxRTJabGtkNTEwbm44aGQzTQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_8g8BtfuwSsuXAkEWa_koaDKfZk",
+      "id": "UgwhJlVv20W3gxHOahR4AaABAg",
+      "snippet": {
+        "videoId": "nl1tZx9knzA",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lG5YQNSxRhumcdM5Jivqradzp0Y",
+          "id": "UgwhJlVv20W3gxHOahR4AaABAg",
+          "snippet": {
+            "videoId": "nl1tZx9knzA",
+            "textDisplay": "5:29 i knew it.  watching installation videos makes me cringe how labor intensive it is.  he should abandon the solar tiles except for a new roof.",
+            "textOriginal": "5:29 i knew it.  watching installation videos makes me cringe how labor intensive it is.  he should abandon the solar tiles except for a new roof.",
+            "authorDisplayName": "zodiacfml",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTivgsc0GATIXSsRNWTwVV2M8gFBqqc5taRCg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCww-RHPfKP_9bhNPtzeNPKw",
+            "authorChannelId": {
+              "value": "UCww-RHPfKP_9bhNPtzeNPKw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-05-01T04:35:00Z",
+            "updatedAt": "2021-05-01T04:35:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "98QktbiJgx2XwfXq7hOsNdeDcug",
@@ -1664,38 +1696,6 @@
             "likeCount": 0,
             "publishedAt": "2021-05-01T03:35:48Z",
             "updatedAt": "2021-05-01T03:35:48Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "X3aLC_MudwZMxocSPBrln8VZ7-U",
-      "id": "UgxUIAgKQtLMAmx4-NR4AaABAg",
-      "snippet": {
-        "videoId": "nl1tZx9knzA",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "6I2o_W5owAQfJSoKFa6grpGRvTs",
-          "id": "UgxUIAgKQtLMAmx4-NR4AaABAg",
-          "snippet": {
-            "videoId": "nl1tZx9knzA",
-            "textDisplay": "Those Segways are so good I do t even skip over them",
-            "textOriginal": "Those Segways are so good I do t even skip over them",
-            "authorDisplayName": "Drake Adams",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVllGry3Wg4TbxLrrsIO_b_mfVyPbsw5_zKfYLxQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UClGfEvtSoDgs71NOGQB0AYg",
-            "authorChannelId": {
-              "value": "UClGfEvtSoDgs71NOGQB0AYg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-05-01T03:35:45Z",
-            "updatedAt": "2021-05-01T03:35:45Z"
           }
         },
         "canReply": true,

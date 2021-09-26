@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "Y2bg53iZ1W7f3DrFEZBdfuCufGE",
-  "nextPageToken": "QURTSl9pMnhqXzJCdGxfcnpON3NmN2tFOVFQU1ZVNm56cXY4c0dwZk5Dd2lIMnk4b0xIcTVhbmxrTF8xVy1WRFZ4MXo0cURNZmNPWWxNUQ==",
+  "etag": "YMjj0ujMb2-Vu_SuTWuifJwQihI",
+  "nextPageToken": "QURTSl9pME0xemJKWVoybTdBQXkyT0RBcEllX2o3LUlJcU5rOTJpNHdPYmtId3dsX1VtZmQ4UkRTWnJmSGU5dDVyNFJuT3JIdzRxRGdsZw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "0SLJIubDYdu_-HAylMxZSyn5bpU",
-      "id": "UgznSTANNyCShvU0Wnx4AaABAg",
-      "snippet": {
-        "videoId": "BjRcNFgNo-g",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "PVXAHjD1NJcmWsICrRPZEn9vOrk",
-          "id": "UgznSTANNyCShvU0Wnx4AaABAg",
-          "snippet": {
-            "videoId": "BjRcNFgNo-g",
-            "textDisplay": "December 30, 2014 lol.\n(In the add for PDF thingy.)",
-            "textOriginal": "December 30, 2014 lol.\n(In the add for PDF thingy.)",
-            "authorDisplayName": "Pepijn dM",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSoI_WkjiYDUGH50fPHuGEjdDku8dn0sMjq1g=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCDS8ipgEa6lV_MWGK4P29wQ",
-            "authorChannelId": {
-              "value": "UCDS8ipgEa6lV_MWGK4P29wQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-28T08:18:11Z",
-            "updatedAt": "2020-11-28T08:18:11Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "wv-zaE0-MilBkA8x40Vd03J7DoI",
@@ -937,20 +905,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "G9mht0RL6PdOlwWeB_G3YsL_tBE",
+      "etag": "98XibODR15w2AolAVnmDGWU94ZQ",
       "id": "UgwsMe2Q9vOXkSqE_Ip4AaABAg",
       "snippet": {
         "videoId": "BjRcNFgNo-g",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "PEIASpyUr3txh7ZDShvc_G1uTts",
+          "etag": "vV1YYuZI7XgcUJtWfpGWTXBYp68",
           "id": "UgwsMe2Q9vOXkSqE_Ip4AaABAg",
           "snippet": {
             "videoId": "BjRcNFgNo-g",
             "textDisplay": "I thought mining with 3090 only gives you 2$/day\nthey LIED.",
             "textOriginal": "I thought mining with 3090 only gives you 2$/day\nthey LIED.",
             "authorDisplayName": "Abdurrahman Çetinkaya",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTZjDA2jfX8KQnVElrYDW7jg0yHcfDb3wTAqkaT5w=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/GSa0Kbn-LejrERD1QlVfXLVBSzyNHVqSyuzf92ZOSOhVtGK_ivSCZYFS_QiTXbQ5rnn2hbPFHA=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCJYNIdUBsPiuLj8Fx70uWLw",
             "authorChannelId": {
               "value": "UCJYNIdUBsPiuLj8Fx70uWLw"
@@ -3194,6 +3162,38 @@
             "authorChannelUrl": "http://www.youtube.com/channel/UC7_crcEkpDRo5BWg5eGm5yA",
             "authorChannelId": {
               "value": "UC7_crcEkpDRo5BWg5eGm5yA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-11-28T06:58:13Z",
+            "updatedAt": "2020-11-28T06:58:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lRSBzqukL1EBuQEqCbLGJLtDmPU",
+      "id": "Ugzo7_QohjaATMmwytN4AaABAg",
+      "snippet": {
+        "videoId": "BjRcNFgNo-g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NMDy-lafWT4jycrdcEJODNPYFl4",
+          "id": "Ugzo7_QohjaATMmwytN4AaABAg",
+          "snippet": {
+            "videoId": "BjRcNFgNo-g",
+            "textDisplay": "4:33 Sadly the UK will leave the EU  :(",
+            "textOriginal": "4:33 Sadly the UK will leave the EU  :(",
+            "authorDisplayName": "Abdullah Ahmed",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTYwtImi4roisrbtkMFFlLL3SV2sBzd_pr3yyUmwA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLKatjo-6IbZIdESv80I51A",
+            "authorChannelId": {
+              "value": "UCLKatjo-6IbZIdESv80I51A"
             },
             "canRate": true,
             "viewerRating": "none",

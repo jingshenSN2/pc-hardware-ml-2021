@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "gNNS7vZFbQW-2bTX5hiqi6djRKA",
-  "nextPageToken": "QURTSl9pMVRTZ1llWVBaQzhiNXpwaWpoT1BFdDFQNThia3ppbXA0eUN3cTV2TVhFRnptMTN5SlEzaEFfbmtvdXBSY0FINTgyWXJWSURHRQ==",
+  "etag": "Nb6P1YgfaWFVLtQYq3jJV2lD9jQ",
+  "nextPageToken": "QURTSl9pM2laM0MtQTlSeHZSNFpMZlEwN3pBODFpZ1drMERQVHR5dEdRN1o4a213R3lUb2tQU0U1M1ZkQXZtR01TY2syY3M0V200TmNqZw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "E5Yo6PTu_69rQTHCZH3uz-A0850",
-      "id": "UgydmUSP-j5pLEy4eC94AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "395BXuYEcwq47IcvAC3U-ouJKpo",
-          "id": "UgydmUSP-j5pLEy4eC94AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Riley and Madison combo actually works really damn well... damn. I think we've finally broken LTT 😂",
-            "textOriginal": "Riley and Madison combo actually works really damn well... damn. I think we've finally broken LTT 😂",
-            "authorDisplayName": "Mark Hannelly",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYdEm6mReU3Ht0hLom3fUp4gC0R26EoR6AHL8puC4=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCNynBFja9RnGCjn1qg0nZUQ",
-            "authorChannelId": {
-              "value": "UCNynBFja9RnGCjn1qg0nZUQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T05:15:39Z",
-            "updatedAt": "2021-02-25T05:15:39Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "PaImYrlqA3zj-jR_PCwkIxFxJHE",
-      "id": "UgwQalQFjce99r8zW-h4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "EFUeCyEyblM5dCRoaN2WkA7XD5U",
-          "id": "UgwQalQFjce99r8zW-h4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Wow still can't believe how easy it is to look like a tech enthusiast",
-            "textOriginal": "Wow still can't believe how easy it is to look like a tech enthusiast",
-            "authorDisplayName": "SAI TEJA",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBY7_1jE7uDkVb12xiVsKqh_XJYo2s6yv3U2f5tQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCmFrNtBppTQ3Ia8gCVgGjVQ",
-            "authorChannelId": {
-              "value": "UCmFrNtBppTQ3Ia8gCVgGjVQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T05:15:38Z",
-            "updatedAt": "2021-02-25T05:15:38Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "5Rua4k7eu168EANx-RERaef2K5k",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T05:08:26Z",
             "updatedAt": "2021-02-25T05:08:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vBNxTUkSc33pWid7qPXzAeX4ZRs",
+      "id": "UgwzpJ_pFNnr1ATfeIt4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "B07jXZBjwwckGPyNAi91f9VZIdM",
+          "id": "UgwzpJ_pFNnr1ATfeIt4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Not bad new girl",
+            "textOriginal": "Not bad new girl",
+            "authorDisplayName": "First Name",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRsJv3MZ1KvnKslyAW3Rk2QM5yKeklLfGdsL5DSfg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgEVfjJjSAwq3SIcrovMAvA",
+            "authorChannelId": {
+              "value": "UCgEVfjJjSAwq3SIcrovMAvA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T05:08:25Z",
+            "updatedAt": "2021-02-25T05:08:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Cnaf_IoxhXwdq76ueh-GpFgaCxY",
+      "id": "UgyVlqa6gKWdKQSkU7t4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0GNxTyjjJadPOj58Nn6fJUv0C7A",
+          "id": "UgyVlqa6gKWdKQSkU7t4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "you tellin' me she's not related to linus???",
+            "textOriginal": "you tellin' me she's not related to linus???",
+            "authorDisplayName": "Mauricio Young",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVCuApiteHdcadvZw-LFJ4fPuenbgfXvCJspyJgw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSokDalfU1KUJmDJnt2CpwA",
+            "authorChannelId": {
+              "value": "UCSokDalfU1KUJmDJnt2CpwA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T05:08:23Z",
+            "updatedAt": "2021-02-25T05:08:23Z"
           }
         },
         "canReply": true,

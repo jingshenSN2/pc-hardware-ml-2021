@@ -1,12 +1,172 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "7UaO-oA9PliNh9ae1KNwNt8WrbE",
-  "nextPageToken": "QURTSl9pMllVREZfejk0T0wzYjVCZ3F5Nk1lUE84aHFUZTFERFNoaUw5TUp4ZTF4V1ljbXA2OGxaSXpGWEx1NTJlR0tyUk5vdHVqTW5NZw==",
+  "etag": "KiQDTSsuLts3_wtxTFc3xB51JgY",
+  "nextPageToken": "QURTSl9pMGl0eFJtSmZ5VGNvY3Nqa0xwLTgyVkg4dm5zWVNjMERSVTRjR3pBbk14eDc4VWt4M3VoOEI5dWZ4cXNxdmxnVkY0OUdrQm1LRQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "87zsN6jFeqZte6batcB-R6LHK2I",
+      "id": "UgzhP-8L8wbbyp_j0dh4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "r5dNRoQrynKBrW1YGNmRgk00Kp0",
+          "id": "UgzhP-8L8wbbyp_j0dh4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "I use Edge to read PDF files. Besides that, it's good for installing Chrome and Firefox.",
+            "textOriginal": "I use Edge to read PDF files. Besides that, it's good for installing Chrome and Firefox.",
+            "authorDisplayName": "Francisco Chavez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT5ZB5ab_WEQqMYY4W9J9zXfuAeB-nEZgYd3Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCevjuX8P5fBQKwR4UmHuUgA",
+            "authorChannelId": {
+              "value": "UCevjuX8P5fBQKwR4UmHuUgA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T21:52:51Z",
+            "updatedAt": "2021-09-14T21:52:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "t_HnLQ3OCMgF4I1ojxGMg5pnfgM",
+      "id": "UgxC6wl9ENCBgofyMOx4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EfFtwwfh5ASOcKwsP7IzB64K9oU",
+          "id": "UgxC6wl9ENCBgofyMOx4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "If you used edge you'd realize that they already implemented the tab sleep mode like on windows 11 months ago. I think you may have to enable it using edge://flags but it's been there the whole time. Quit trying to use Chrome or Firefox come join us in the 2021 where these issues were resolved back in 2020.",
+            "textOriginal": "If you used edge you'd realize that they already implemented the tab sleep mode like on windows 11 months ago. I think you may have to enable it using edge://flags but it's been there the whole time. Quit trying to use Chrome or Firefox come join us in the 2021 where these issues were resolved back in 2020.",
+            "authorDisplayName": "j l",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ43K3fEpMNGSeCntQ0-s0jfiZ6dq8CJfGM54mKKA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpGsMp8t7JW_B1ZdXqEEtnA",
+            "authorChannelId": {
+              "value": "UCpGsMp8t7JW_B1ZdXqEEtnA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T21:50:04Z",
+            "updatedAt": "2021-09-14T21:50:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NIKMF5NU6VMPa6qLsJqr78b0Wik",
+      "id": "UgxZ9ImeRutzhcXIKqJ4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-v5mJYNa6pRrfcMdF3RgWNZDKuU",
+          "id": "UgxZ9ImeRutzhcXIKqJ4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "at least put on a clean t shirt if you're hosting! smh",
+            "textOriginal": "at least put on a clean t shirt if you're hosting! smh",
+            "authorDisplayName": "Yazan Laktineh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkl8ZJEaYVoendXy58SGL1aN1-dG9nFr7N8A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxXSNO4YcDgJnKwWG8VXu7w",
+            "authorChannelId": {
+              "value": "UCxXSNO4YcDgJnKwWG8VXu7w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T21:39:13Z",
+            "updatedAt": "2021-09-14T21:39:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ol7M4nNmGZDtrQU32YyfJWeeb4E",
+      "id": "Ugzb0GdS9mi1lvOdouN4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0V8_RosdKesrxwb2fzPrk4JEV80",
+          "id": "Ugzb0GdS9mi1lvOdouN4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Will Windows anti-malware sleep too or atleast not use 100% cpu and destroy the battery life of my ultrabook?",
+            "textOriginal": "Will Windows anti-malware sleep too or atleast not use 100% cpu and destroy the battery life of my ultrabook?",
+            "authorDisplayName": "Rider0fBuffalo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQjOVnL-CmJC12zhzH2JG71i6_7kv8dj7ZJOQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOQlwKMhwT4bnZLuP886u5w",
+            "authorChannelId": {
+              "value": "UCOQlwKMhwT4bnZLuP886u5w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T21:32:59Z",
+            "updatedAt": "2021-09-14T21:32:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9oF-GySe9CMjw1-HC9ai15Uw5w8",
+      "id": "UgzGDwjMVva9AtJUycp4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BMmUfMHQwj1e41Haj8saE366Nhw",
+          "id": "UgzGDwjMVva9AtJUycp4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Dang new 2060 ???? What about the new 3090sti or what its called I heard rumors about it or something",
+            "textOriginal": "Dang new 2060 ???? What about the new 3090sti or what its called I heard rumors about it or something",
+            "authorDisplayName": "Spaceface gaming",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQVd76nMxNXEKEG-IdJZgBSRSGK1HenTSRYpmkIug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2U9tFFbt_GH8-wZ4KObl9g",
+            "authorChannelId": {
+              "value": "UC2U9tFFbt_GH8-wZ4KObl9g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-09-14T21:10:15Z",
+            "updatedAt": "2021-09-14T21:10:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "QzKXEuYGb9nX9ZumhJ7zoE5O-do",
@@ -2409,19 +2569,19 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "8tTlpF702Yxrs-CPXOkpUDPXZNg",
+      "etag": "T50wa89mMRuEIXXr7yMxesMqC0k",
       "id": "UgyeoNf3dc87YJJrK2V4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "iVTcjV-lWm_fJAaX0PIqpbfVYW8",
+          "etag": "-uHwqpgsmlDI4NqM_aZ2Rnu2vro",
           "id": "UgyeoNf3dc87YJJrK2V4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "They can release a GTX 1080 and sell them for $600 no problem.",
             "textOriginal": "They can release a GTX 1080 and sell them for $600 no problem.",
-            "authorDisplayName": "Fuenteesy",
+            "authorDisplayName": "Joel Fuentes",
             "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTTt3ofh9vXgNqIWys7u2PUnP2979B0gZnkpgmJ2Q=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UC_B_yNnnLym64NS6cFbojfQ",
             "authorChannelId": {
@@ -3040,166 +3200,6 @@
             "likeCount": 0,
             "publishedAt": "2021-09-14T14:47:48Z",
             "updatedAt": "2021-09-14T14:50:43Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "EzM7iE0XOAzjZ_GwfrD9kaaIEoQ",
-      "id": "Ugwt8NwK9Wat3SaU5AF4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "08gp_0OXBuD4MJgnk7O4fsL8mQY",
-          "id": "Ugwt8NwK9Wat3SaU5AF4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Yea, Jake need to eat less and exercise. Doesn't look healthy..",
-            "textOriginal": "Yea, Jake need to eat less and exercise. Doesn't look healthy..",
-            "authorDisplayName": "Wadde",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSi_lxcGFMjnOVV8QqbX48SRy0f2hdyEcYHvqht7A=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCqOsqRhbHChdb2xUypqyHJw",
-            "authorChannelId": {
-              "value": "UCqOsqRhbHChdb2xUypqyHJw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T14:46:41Z",
-            "updatedAt": "2021-09-14T14:46:41Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "LCyZ9JeNjEvWaIOvuTG59vEyI3I",
-      "id": "UgxkVjgTfFwjkbA0Vu14AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "taSU6p_00JoKJY84yEKv9-Z81Ak",
-          "id": "UgxkVjgTfFwjkbA0Vu14AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Is that a Finnegan Speed and Marine shirt???",
-            "textOriginal": "Is that a Finnegan Speed and Marine shirt???",
-            "authorDisplayName": "Grant Wadley",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTVCcWk6JsK6JjWtJ9ARKo1ItAM-0Vm1sPTf-Vu=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCce0fk3gb3jbqcaQmZtnGrg",
-            "authorChannelId": {
-              "value": "UCce0fk3gb3jbqcaQmZtnGrg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T14:45:30Z",
-            "updatedAt": "2021-09-14T14:45:30Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "5x9RZvz_pSxoy0-TZI_oLrwoJPU",
-      "id": "UgzBe0cMFYFSmaArETV4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "mM-GH3FLLPScYfIKF-rAQ_wC3Kk",
-          "id": "UgzBe0cMFYFSmaArETV4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Silliest tech news yet. I still loved it though 😂",
-            "textOriginal": "Silliest tech news yet. I still loved it though 😂",
-            "authorDisplayName": "Robert Williams",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSK9mz6lFxdxbvSLHnE9Yr51dWqC1xkUJBaiRRCcw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC1aYfNgkj4g5MC_h0RsJTDA",
-            "authorChannelId": {
-              "value": "UC1aYfNgkj4g5MC_h0RsJTDA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T14:44:55Z",
-            "updatedAt": "2021-09-14T14:44:55Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "srBo9Uy5FHd-w14LqJYrM1Vch7Q",
-      "id": "UgxSxrcyDwiWD4yTO2N4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Lycd6CHCie32t0wQ246SzTJ4e6Q",
-          "id": "UgxSxrcyDwiWD4yTO2N4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "not sure if I should concentrate and listen to TechNews or dance, when watching Jake",
-            "textOriginal": "not sure if I should concentrate and listen to TechNews or dance, when watching Jake",
-            "authorDisplayName": "JUMOWA GAMES",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQwb6rmYZNL2iG_la48Aq2x-FzcSqriTWk-YYkTGQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCl1zWt2rLV8lh089rR_28Rg",
-            "authorChannelId": {
-              "value": "UCl1zWt2rLV8lh089rR_28Rg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T14:43:22Z",
-            "updatedAt": "2021-09-14T14:43:22Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ZmMOuCLNjg5l0oBg5NYaQu7P2Z0",
-      "id": "UgyUncJISbX7ZGvfNWh4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "OhvR4qc52qEOMmxzaJ8VAPhRL4M",
-          "id": "UgyUncJISbX7ZGvfNWh4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Please stop being so elitist over hardware, you don't need the latest cards and 8gb is all you would every need, 4gb is decent, and one 1gb is minimum (Linux + Some light desktop enviorment)",
-            "textOriginal": "Please stop being so elitist over hardware, you don't need the latest cards and 8gb is all you would every need, 4gb is decent, and one 1gb is minimum (Linux + Some light desktop enviorment)",
-            "authorDisplayName": "That Guy",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTetK5cs90GTgIWgOjxJNX3Lx5BL-q6HbXH9X2VCQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCMIIt4rEffrp79Q3az4GCiQ",
-            "authorChannelId": {
-              "value": "UCMIIt4rEffrp79Q3az4GCiQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T14:43:03Z",
-            "updatedAt": "2021-09-14T14:43:03Z"
           }
         },
         "canReply": true,

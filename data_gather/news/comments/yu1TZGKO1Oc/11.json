@@ -1,0 +1,522 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "beF1VDn6W1mNxaLqrYKgWNLeuYY",
+  "pageInfo": {
+    "totalResults": 16,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rGYPnIMvDfaQWhAsn30qLBnh12g",
+      "id": "UgxGztWH7ufc41YTBPF4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "48VFeP4DWt0SneaGsoHqi1Gg2sg",
+          "id": "UgxGztWH7ufc41YTBPF4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "Epic",
+            "textOriginal": "Epic",
+            "authorDisplayName": "Jezzari McMillan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT-8VmT3rkQmljYFqOKH0JLuYFg2HhhvuolwPhF1L4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4P31LrBbv9Qrtklt0KWhWw",
+            "authorChannelId": {
+              "value": "UC4P31LrBbv9Qrtklt0KWhWw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:33Z",
+            "updatedAt": "2020-10-27T01:14:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DjDe7FzyayHbSak0CRhIThNj7EE",
+      "id": "UgwNmqu5oqct2Ahv-eN4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xfd0lDNRNOovRFYmEGFd4RtMhK8",
+          "id": "UgwNmqu5oqct2Ahv-eN4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "hi",
+            "textOriginal": "hi",
+            "authorDisplayName": "Chronic smiley",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQOCV51ev68OOUrnXQbXcc6GbuZc25mLV8CuLNsBQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCW8Et2Yfnt-bN8RRAgIlydQ",
+            "authorChannelId": {
+              "value": "UCW8Et2Yfnt-bN8RRAgIlydQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:32Z",
+            "updatedAt": "2020-10-27T01:14:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UhLtizNJtugJChms-ZRJ4yHk9zE",
+      "id": "UgzSWaI9tEaTxTvsAul4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sVv2jjHXaZmQaKz4yJEEM4bsIAs",
+          "id": "UgzSWaI9tEaTxTvsAul4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "First!",
+            "textOriginal": "First!",
+            "authorDisplayName": "Jared Wilson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTRnBL-DyxXiIRuzovVs6bs6HfnzTrsyhuywA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCV9dkO5_hQxOaKjSxOadZUA",
+            "authorChannelId": {
+              "value": "UCV9dkO5_hQxOaKjSxOadZUA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:31Z",
+            "updatedAt": "2020-10-27T01:21:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yrNSW70E7ccWuB_sjMmqAHZxW9o",
+      "id": "Ugwz476UMB4W11qwCeB4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "yYop2FjIccCvzCc9GEnGPe0abvs",
+          "id": "Ugwz476UMB4W11qwCeB4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "First",
+            "textOriginal": "First",
+            "authorDisplayName": "simtpal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS9Io_GbSB7TDMhDxvhiWDAOgHFhSPGdQz9M8saSA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-LrcWC0k8koiQKOqU5UPVQ",
+            "authorChannelId": {
+              "value": "UC-LrcWC0k8koiQKOqU5UPVQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:30Z",
+            "updatedAt": "2020-10-27T01:14:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WCVMSg33DjKT0BLHP95Lkf4ZNTk",
+      "id": "Ugy4jAYXpeHHPhsRRKJ4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tc4Y9OCqKEp86zcqZB1jyd1PQvI",
+          "id": "Ugy4jAYXpeHHPhsRRKJ4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "First",
+            "textOriginal": "First",
+            "authorDisplayName": "N D",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6NwKc7wjmTvvxRWGDVGV5FSY88kAkDTN6bQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnfFzarOm6veAnv48x3Yrtg",
+            "authorChannelId": {
+              "value": "UCnfFzarOm6veAnv48x3Yrtg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:30Z",
+            "updatedAt": "2020-10-27T01:14:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3_jWmKIu_PvQGePgyj244-q1xts",
+      "id": "UgymA2zdM_1pegNUjVV4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XdXm9u9IYRPDxEZfkIlSGTPSUAs",
+          "id": "UgymA2zdM_1pegNUjVV4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "Oh wow",
+            "textOriginal": "Oh wow",
+            "authorDisplayName": "Cesar Alfredo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQF2mPlCbdCLGYrboZkAw8mwK8IwkcCulvad7vE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXStufZ8Dw2S0y41dWy6unA",
+            "authorChannelId": {
+              "value": "UCXStufZ8Dw2S0y41dWy6unA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:30Z",
+            "updatedAt": "2020-10-27T01:14:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "i6cnopU8YPqVRIlwRBN296mVq14",
+      "id": "Ugxi79J5U0mQJmotZ-94AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mqGv15b4KUo00UMg2Q28zxasMvI",
+          "id": "Ugxi79J5U0mQJmotZ-94AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "First",
+            "textOriginal": "First",
+            "authorDisplayName": "Nathaniel Burroughs",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQsRS1B_AC9faAj1kLm8s5hlxIUSdT5Xy5Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkKeIfKGQGL9nUPqUOTQlSA",
+            "authorChannelId": {
+              "value": "UCkKeIfKGQGL9nUPqUOTQlSA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:29Z",
+            "updatedAt": "2020-10-27T01:14:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VxOImcQzZH2ycQikGypaGHwxCJ4",
+      "id": "UgyNSOJ9HP0C8oTTLGV4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nV89p3LFzyxNiIgVW1XMte4GTIU",
+          "id": "UgyNSOJ9HP0C8oTTLGV4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "It has been 166 days since Talk Linked. Talk Linked when???",
+            "textOriginal": "It has been 166 days since Talk Linked. Talk Linked when???",
+            "authorDisplayName": "Jared Komoroski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRVtxiunPqHA2Y_elM2L-p2qE0L0jTbGrDWHAM0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuSKNCzmesqNThrLMRrPDlw",
+            "authorChannelId": {
+              "value": "UCuSKNCzmesqNThrLMRrPDlw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 263,
+            "publishedAt": "2020-10-27T01:14:28Z",
+            "updatedAt": "2020-10-27T01:14:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RVMljAoJ4GWVkc8jcur-B6pZSvw",
+      "id": "UgyovragWxcP2M1R2nl4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wL-2vylPrYa8MgifbDBTWDV4q4U",
+          "id": "UgyovragWxcP2M1R2nl4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "first",
+            "textOriginal": "first",
+            "authorDisplayName": "Turkey",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTAJebR-odJvxMjlfvWILWsYFZSB18D5Qe_1Br6oA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9HEqURU17B8RQ4hDQLq4UQ",
+            "authorChannelId": {
+              "value": "UC9HEqURU17B8RQ4hDQLq4UQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:25Z",
+            "updatedAt": "2020-10-27T01:14:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WXLyTTc8GA6Y9lZp36rFuMVawgE",
+      "id": "UgySU-hH3_BQClYbq994AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7ur1A9CMWzhHByrfOrV6QeB-izA",
+          "id": "UgySU-hH3_BQClYbq994AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "first",
+            "textOriginal": "first",
+            "authorDisplayName": "Critical",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQCRDJZMQwQ0IYlvBphaY-OucqbqmCLW9Ykd89n=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJDdZalZ-WVUWHT6bLsbFvQ",
+            "authorChannelId": {
+              "value": "UCJDdZalZ-WVUWHT6bLsbFvQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:25Z",
+            "updatedAt": "2020-10-27T01:14:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1DA8iznfmQWI8ztagkR9hwBt4lc",
+      "id": "Ugyl2eBbtOcsWAqFOJ54AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1nue11Ug781XU_kCJ-h1LPjnHEs",
+          "id": "Ugyl2eBbtOcsWAqFOJ54AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "Yes",
+            "textOriginal": "Yes",
+            "authorDisplayName": "Luke Glover",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS6pYNBPQyN9mKweXRQsp4EVGCJtSdOwIvDd6XLmg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZisUVoSEQnpjTRukGSb8-Q",
+            "authorChannelId": {
+              "value": "UCZisUVoSEQnpjTRukGSb8-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:25Z",
+            "updatedAt": "2020-10-27T01:14:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hFcK7rkjZCQRQIJdGAh3RXVxwT4",
+      "id": "Ugzl6sE7PXhQJwTUCgp4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "a3Vomi7etOwVj_UcwR2x0yYfYqM",
+          "id": "Ugzl6sE7PXhQJwTUCgp4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "Yes",
+            "textOriginal": "Yes",
+            "authorDisplayName": "TheDragonfriday",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT_VAXs9u-4sKNN7DBQr9MDvsLxu1B1v9U4Cda1Rw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiwGYH-U6mf3SSshJgSuiBQ",
+            "authorChannelId": {
+              "value": "UCiwGYH-U6mf3SSshJgSuiBQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:24Z",
+            "updatedAt": "2020-10-27T01:14:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EWnQW2sYq2fUmlXY6XQByUMir_A",
+      "id": "Ugya8-4OQANkade8fP14AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sbw-PWW4tx9yYQjrdXpoW1NfSPk",
+          "id": "Ugya8-4OQANkade8fP14AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "Omfg I think I'm first",
+            "textOriginal": "Omfg I think I'm first",
+            "authorDisplayName": "Random person",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgg9G65hmLeBcFzXZzG-vpSXjgZK818AIPY8dEXA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1WSLUm8qUuRfysVXVvwGaQ",
+            "authorChannelId": {
+              "value": "UC1WSLUm8qUuRfysVXVvwGaQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:24Z",
+            "updatedAt": "2020-10-27T01:14:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iawPmr88kz72ieDVARNMmbx39Jo",
+      "id": "UgzNVHgp2OwN3R-GuLx4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JAbnbPr1nzG4RbHodgHQreYpY9I",
+          "id": "UgzNVHgp2OwN3R-GuLx4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "Yes",
+            "textOriginal": "Yes",
+            "authorDisplayName": "Nicefisher",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRcsYshSVSQJXdLZgCrY-pZd2YLJ6z_jTLxW8Wfbg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6qXjr7-2g93eMhGGEESZuA",
+            "authorChannelId": {
+              "value": "UC6qXjr7-2g93eMhGGEESZuA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:23Z",
+            "updatedAt": "2020-10-27T01:14:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cPA2uESfeddUjVKILh3lZYKCzow",
+      "id": "UgzhSK-2l4LqD8KpI4x4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Faw_lz9y67-GjCe1JynwZozh-Mg",
+          "id": "UgzhSK-2l4LqD8KpI4x4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "hello",
+            "textOriginal": "hello",
+            "authorDisplayName": "GalactaK",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLToyTPYEkkDV05BZ1EU30y3cQsvtiiEnrvP-8PPQw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiUaHvossOxcD0eYVP8C-Yw",
+            "authorChannelId": {
+              "value": "UCiUaHvossOxcD0eYVP8C-Yw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-10-27T01:14:22Z",
+            "updatedAt": "2020-10-27T01:14:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KB63UVjFnttqd0UN5V3ch0BBwEE",
+      "id": "UgwrvCZWmHbdQvHPQct4AaABAg",
+      "snippet": {
+        "videoId": "yu1TZGKO1Oc",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6919DRVsSJqm-HQlCx8oRBDPksE",
+          "id": "UgwrvCZWmHbdQvHPQct4AaABAg",
+          "snippet": {
+            "videoId": "yu1TZGKO1Oc",
+            "textDisplay": "no",
+            "textOriginal": "no",
+            "authorDisplayName": "Blame David",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRJaX_p1imUVj1AcZQ3Ntt_VOpwJE150B7dC4g_=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSJOq0_iD4lpvbBxnrSZeTg",
+            "authorChannelId": {
+              "value": "UCSJOq0_iD4lpvbBxnrSZeTg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2020-10-27T01:14:21Z",
+            "updatedAt": "2020-10-27T01:14:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    }
+  ]
+}

@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "Plc_-R1g0pumXJU7QdsQ4hK5nKw",
-  "nextPageToken": "QURTSl9pMU1YdXZhMGJSS2RnX1Q4Yk5ha2FZYzZsS3Rxa0FZck1oRHgwNXVnV0cybGR3blRZY3oyVUp0X0YyQmdzX2ZQX2s1UW1Pa3RyUQ==",
+  "etag": "0LORxqH--SQMlm4gUpvTeNU4OBk",
+  "nextPageToken": "QURTSl9pMlJ1eEhDOVdaSEI3RFFYajV2cUdGOHJmT1JXdVB1N0VUeUZGTjlCYnV6eFd6Q25CQ3JWNXU1STBUNmxoc2xSWUl5cVhEeXlMWQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "Z1ig-jrk_9EJ9xy2bMKhpKnf-7Y",
-      "id": "UgwTpO4mXf9GumiWYmt4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "9lZnpy07R3VY5XAohpsR5APiUiw",
-          "id": "UgwTpO4mXf9GumiWYmt4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "Yeah we need a better way to house ROMs...",
-            "textOriginal": "Yeah we need a better way to house ROMs...",
-            "authorDisplayName": "Not Pinhead",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHbe3ScWfhJLsvk95rgagnG6zXm9gqhKfV5G6OyQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCWrEa9CBzbqitvn8WZNmszQ",
-            "authorChannelId": {
-              "value": "UCWrEa9CBzbqitvn8WZNmszQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-03T02:45:33Z",
-            "updatedAt": "2021-06-03T02:45:33Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ZFVzrI0BrssuwhBRnPapUnSNJZU",
-      "id": "Ugza2BXJjonWb0EZ0VB4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Mw1JXmt2WKL75TFZ_mdSZe3AlY0",
-          "id": "Ugza2BXJjonWb0EZ0VB4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "As I'm watching this I'm in line at best buy for the 3080TI",
-            "textOriginal": "As I'm watching this I'm in line at best buy for the 3080TI",
-            "authorDisplayName": "Sam Mecham",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYSKDce7Vhj4B7suLsWAK68wOgwYJMj83_QMKbdA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCUIjB1WnELRZhYoTGDtv1Ig",
-            "authorChannelId": {
-              "value": "UCUIjB1WnELRZhYoTGDtv1Ig"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-06-03T02:45:10Z",
-            "updatedAt": "2021-06-03T02:45:10Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "-mF0jfhFgwuD9y90MY153_xJXYw",
@@ -2409,13 +2345,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "vlJjJRSqGna3CDWikeLzWaCu3BY",
+      "etag": "S6DqaJ3TNZnDTD6nr3B-ucDvqtc",
       "id": "UgwXYovytHA5NOI0XfB4AaABAg",
       "snippet": {
         "videoId": "718PVQ3Oty4",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "8Pgfzk5E_T8Y3S5qKXicw01uNgM",
+          "etag": "NO9ammVSwEnncVwHDvtRJLiWpFw",
           "id": "UgwXYovytHA5NOI0XfB4AaABAg",
           "snippet": {
             "videoId": "718PVQ3Oty4",
@@ -2429,7 +2365,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 960,
+            "likeCount": 959,
             "publishedAt": "2021-06-03T02:21:56Z",
             "updatedAt": "2021-06-03T02:21:56Z"
           }
@@ -3200,6 +3136,70 @@
             "likeCount": 22,
             "publishedAt": "2021-06-03T02:16:06Z",
             "updatedAt": "2021-06-03T02:16:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nT1E8YBFGgTKh10p1kFOfeOemvM",
+      "id": "UgwtsU9QNMdq6wq8avR4AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "28ptm8s6DgQPELflt9GIs2ovv9o",
+          "id": "UgwtsU9QNMdq6wq8avR4AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "I'm surprised that they didn't mention sam",
+            "textOriginal": "I'm surprised that they didn't mention sam",
+            "authorDisplayName": "SohnOvO",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRVpretjP53VoN-rU1lNmIJ7_tMN0o-2v3Ut9sG-w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_40ymINxmAk-s0TCrJ4CqA",
+            "authorChannelId": {
+              "value": "UC_40ymINxmAk-s0TCrJ4CqA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-03T02:15:36Z",
+            "updatedAt": "2021-06-03T02:15:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gKhFGnorXIEqX7EiI-vuqwUQIpI",
+      "id": "Ugz-7C7LCM84GJJeo794AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "npkUCsTj33Hzsa1mWISZsT5jXk0",
+          "id": "Ugz-7C7LCM84GJJeo794AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "Dislike for the cringe",
+            "textOriginal": "Dislike for the cringe",
+            "authorDisplayName": "Javier",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuSmoGCZjnTM81j5SZX-8c0nLCU68tApZkI3_N=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5mKAL-lmnyYkW_A03cZG1g",
+            "authorChannelId": {
+              "value": "UC5mKAL-lmnyYkW_A03cZG1g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-03T02:15:20Z",
+            "updatedAt": "2021-06-03T02:15:20Z"
           }
         },
         "canReply": true,

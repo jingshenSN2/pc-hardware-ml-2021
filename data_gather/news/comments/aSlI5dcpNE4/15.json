@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "_Hjvx2iLM70nNXxJLJAjwGKZNK8",
-  "nextPageToken": "QURTSl9pMEdXRHBWa3hDMzJ1WVNpTjVVR1VUMlNLcDhSZlFGekFYTVFNVjBGTy01S0ZrRXJzOWlsQ1A2RHQ0Z1dpdlh0aDB4TGV1RS1OUG52ZEI2WTVpLTctOUpGbk0=",
+  "etag": "_NX-uQnidfibaO0QsvMpljG1K3U",
+  "nextPageToken": "QURTSl9pMnpnVEo1WVVxRnRYeE1pNUFqZTdBNXNzX0JHX210Y21OT0hvNmgwaGczRjNQZC1Sa2htRjJETkJTb0U1NTRuTjh6RWJaRVNIMVNaQ0xrYVVGSFMxdkZXWmc=",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -1033,20 +1033,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "vc7UTL5kKhFsXFYtyHe14khF5RI",
+      "etag": "8Qj0Sv8aj4v5N8BsLKpHTYNQw8Q",
       "id": "UgwXR83DWjLywwPsHch4AaABAg",
       "snippet": {
         "videoId": "aSlI5dcpNE4",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Q3vZMvQffJzfkW_IoZ0pxDO0qRE",
+          "etag": "NU9BOXx8gADJxkVY2_OyPVn0MjU",
           "id": "UgwXR83DWjLywwPsHch4AaABAg",
           "snippet": {
             "videoId": "aSlI5dcpNE4",
             "textDisplay": "\" *Gygabytes* \"",
             "textOriginal": "\" *Gygabytes* \"",
             "authorDisplayName": "iKlaxy",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/A2rmMS50nCmoJbVOLyYce_S5n00QR068gLG8WXakCcoJmj5Qk7joYHYnKdJxpz5R3YEG_w1Z=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Fx_nS2cpeOlna1cX5sVd6dOcm1Xw6abF-CuzhoSQhMTZs43MBm4R-ysy4UiOPdIPN1Uv3Mg_YQ=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCFnNihAYyuoJ33F69zXbnvA",
             "authorChannelId": {
               "value": "UCFnNihAYyuoJ33F69zXbnvA"
@@ -1193,13 +1193,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "rrYSTTG-nzHbL16E12HecHWw_nU",
+      "etag": "hHjlryvKmZyErr1nBWWhQxGOifU",
       "id": "UgzCvuKsRETQhfn38b94AaABAg",
       "snippet": {
         "videoId": "aSlI5dcpNE4",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "1aWdcAVcerxHQUI2PTGD8AWIqDY",
+          "etag": "hZ_q-e5aUOM1c7ZQp7W5WjcFLX0",
           "id": "UgzCvuKsRETQhfn38b94AaABAg",
           "snippet": {
             "videoId": "aSlI5dcpNE4",
@@ -1213,7 +1213,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 1848,
+            "likeCount": 1847,
             "publishedAt": "2021-02-20T03:06:06Z",
             "updatedAt": "2021-02-20T03:06:06Z"
           }
@@ -1897,24 +1897,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "BPFB0rTNUE9LjHl6I-orGk1M8FU",
+      "etag": "XgSX6lBeYTHvWQjkZp153IXOuCA",
       "id": "UgxUNw66yyv17Jos9Dd4AaABAg",
       "snippet": {
         "videoId": "aSlI5dcpNE4",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "GlWvNK6f_sXu3EV2LPgIHfjznNc",
+          "etag": "8p11pCpj8G67JfmGEB32fMiCG68",
           "id": "UgxUNw66yyv17Jos9Dd4AaABAg",
           "snippet": {
             "videoId": "aSlI5dcpNE4",
             "textDisplay": "wait why does it say 1 view",
             "textOriginal": "wait why does it say 1 view",
-            "authorDisplayName": "Mickey Briggs",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTFt_4lAKRTeWvO1WH6kNCYV-FLMeRPjyDC=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCxX7Jq1Cb0TtG9zD_zJLFGQ",
-            "authorChannelId": {
-              "value": "UCxX7Jq1Cb0TtG9zD_zJLFGQ"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,

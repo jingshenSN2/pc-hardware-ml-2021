@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "ylPK2wefKuy2E3cV6C2KHpylbC8",
-  "nextPageToken": "QURTSl9pM0xyMlQ1UUZSQVUzVEtSSklUam5EaXEwazFtdzY1anY1cGlhTWRkTUJyV09kak1KdHhMWnZyQ1Q2MEJYSGNQQnF0TE5YdVZnYw==",
+  "etag": "SdAnp9Y0D7_AWQ1PLHDWHYy4Mlg",
+  "nextPageToken": "QURTSl9pMmZuMFZUb2pPbU5xR2owYktqWVZPTGpXNTVmbDBMTmVMeWFQa0tFY19FRGhyWlFtNDdhSmZUWFFiQVRZUEh4M0F4b21Gcnprcw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "py9Ir5v25NVrHEM3INWyEyvNp-w",
-      "id": "UgyDiBYlMmHXl4FyQxt4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "MifuKGfv5GegafarSzgkE3CJj4M",
-          "id": "UgyDiBYlMmHXl4FyQxt4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Ive been trying to buy a 3060 ti",
-            "textOriginal": "Ive been trying to buy a 3060 ti",
-            "authorDisplayName": "Tobster",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT6dyqfuLxNojZoYGcZQQ3dfKrJkav0xubOg7vEAg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCpa3GHuJisd690zUWklh_iw",
-            "authorChannelId": {
-              "value": "UCpa3GHuJisd690zUWklh_iw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T06:08:47Z",
-            "updatedAt": "2021-02-25T06:08:47Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "GrFg7Qz1Vn4D-8BrCMxSsxGJGiE",
-      "id": "Ugw-wa9ch4Bf5nrpGUR4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "nJIKw8hD8awq7XiTUaDNsDF-gaQ",
-          "id": "Ugw-wa9ch4Bf5nrpGUR4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "She's Riley's sister or something?",
-            "textOriginal": "She's Riley's sister or something?",
-            "authorDisplayName": "Moses Onyango",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTJCNGwvPaOlIygZxgysdFKwtK_Fi1d-TScFNjj2Ug=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCuLtBWqW4ywr4DJRkWmYOAw",
-            "authorChannelId": {
-              "value": "UCuLtBWqW4ywr4DJRkWmYOAw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T06:08:40Z",
-            "updatedAt": "2021-02-25T06:08:40Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "-l6eNaqR1bsqKV7K8aJM043z9no",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T06:00:40Z",
             "updatedAt": "2021-02-25T06:00:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5EEboR36lz8j1skR8SngKTM0Hmg",
+      "id": "Ugw4BI2roTOLDL0m0Vx4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3SqNMniD7_pcGVbt3sWFa9fvNaY",
+          "id": "Ugw4BI2roTOLDL0m0Vx4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Favorite linus staff.... anthony, madison, byan the electrician...the other guys .....................linus.......................dead last,  that guy that wear glases, the douch looking one....",
+            "textOriginal": "Favorite linus staff.... anthony, madison, byan the electrician...the other guys .....................linus.......................dead last,  that guy that wear glases, the douch looking one....",
+            "authorDisplayName": "funnystylegomez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR7d_XMsLmW3kLiERQaLP-GMkovVFEsvZIUTA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCR4d6e_PoBk_68v4xuOqy2g",
+            "authorChannelId": {
+              "value": "UCR4d6e_PoBk_68v4xuOqy2g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T06:00:35Z",
+            "updatedAt": "2021-02-25T06:00:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oQSd_oAZLQhtKcGTKbBEJX7yRVc",
+      "id": "Ugy-nYEYFreqWug3NnB4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "b3Lb-LDkMDYf4VKQb2LV6ycGMd0",
+          "id": "Ugy-nYEYFreqWug3NnB4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Let's get rid of this background yelling demeaning her video. It is super annoying and not at all funny.  I could not even finish the video.",
+            "textOriginal": "Let's get rid of this background yelling demeaning her video. It is super annoying and not at all funny.  I could not even finish the video.",
+            "authorDisplayName": "MrIbbitson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR19es7W9_s9mdrJ7QgEPk1XR1SUDchf4UTg0Q_=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnfniXvYwmKh5CkCW0ekq9Q",
+            "authorChannelId": {
+              "value": "UCnfniXvYwmKh5CkCW0ekq9Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T06:00:31Z",
+            "updatedAt": "2021-02-25T06:00:31Z"
           }
         },
         "canReply": true,

@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "S17NpW4eAJbCw_rLWY1L0-ij05I",
-  "nextPageToken": "QURTSl9pMUNhQnlmeElSX2k0Zm1aRGRabU50UG5ZdFBCMENod0pJajI1N203U3VreDNRVVBYMklIOUdHX0xYdWlfcjNjVVZxTmQ3Skl4MA==",
+  "etag": "mqrlNPvPuekZS15MF6Vd6JFPmRo",
+  "nextPageToken": "QURTSl9pMnM2UVFER2dZS3N5bTd6SWpIY0Nyd1hhRVFMa0pXMi16WnJ1T3dHX3R2TkstWWJjeUtvdWEwUlU4VXhCUmpsMHlIN3NtNnF6Yw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -608,35 +608,6 @@
             "likeCount": 0,
             "publishedAt": "2021-06-06T15:25:25Z",
             "updatedAt": "2021-06-06T15:25:25Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "so4D480Xc0ktSKWfJcai68mtCfM",
-      "id": "UgyOURpIdhnUIn7jxXJ4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "rhq1SDtVNw8hyIRtZGE-JW7jy7A",
-          "id": "UgyOURpIdhnUIn7jxXJ4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "THe respect I haev for AMD by letting NVIDIA graphics cards use FSR",
-            "textOriginal": "THe respect I haev for AMD by letting NVIDIA graphics cards use FSR",
-            "authorDisplayName": "",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
-            "authorChannelUrl": "",
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-06T12:37:50Z",
-            "updatedAt": "2021-06-06T12:37:50Z"
           }
         },
         "canReply": true,
@@ -2758,19 +2729,19 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "2YyTK2j85R0jTT-F8cMv4KFy3w4",
+      "etag": "NJSYuW7Dc5JhnOghEv_deVbaUX4",
       "id": "Ugw6QgSoNZJmT_8sQeJ4AaABAg",
       "snippet": {
         "videoId": "718PVQ3Oty4",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "FGvYH-tv1PkpSKKfbjA8vge05Oc",
+          "etag": "TuO26i5jq0HcNZGIX9tk0bvfUw4",
           "id": "Ugw6QgSoNZJmT_8sQeJ4AaABAg",
           "snippet": {
             "videoId": "718PVQ3Oty4",
             "textDisplay": "i wonder will there be meat horders in america?",
             "textOriginal": "i wonder will there be meat horders in america?",
-            "authorDisplayName": "Jazari",
+            "authorDisplayName": "Jani Jaakola",
             "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSdfe6-kJbN2ieWCn3gU85OCXh8WnwEAtCmsw=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UC7-tpOYGz7x9HnLDKSFfu1A",
             "authorChannelId": {
@@ -3197,6 +3168,38 @@
             "likeCount": 0,
             "publishedAt": "2021-06-04T03:02:42Z",
             "updatedAt": "2021-06-04T03:02:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pYs-vQDkd_727OMpe6PneMp-1pw",
+      "id": "Ugw7c_nOrhfdHvF0aOF4AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Yp2mkB5QJO3NsOeiJQ7WYZReEWA",
+          "id": "Ugw7c_nOrhfdHvF0aOF4AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "What are they thinking? they arent, they are just drooling at the $$$ they get to suck off of idiots with too much money.",
+            "textOriginal": "What are they thinking? they arent, they are just drooling at the $$$ they get to suck off of idiots with too much money.",
+            "authorDisplayName": "Rusty Blader",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQcFiQZSckcIMotXya0XH4VhSui3RW-jsf86VuCA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCl5oIXn-G_ifMUm5ryYCkvA",
+            "authorChannelId": {
+              "value": "UCl5oIXn-G_ifMUm5ryYCkvA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-04T02:37:15Z",
+            "updatedAt": "2021-06-04T02:37:15Z"
           }
         },
         "canReply": true,

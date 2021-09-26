@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "y9hODk7kh_8VeC-Ow0mDPWleNKE",
-  "nextPageToken": "QURTSl9pMUd5SGZQY1B3WllmWVVoMVVYRzVyU2k1R0RPYUd1ME1RYTJWc05DeFRyTnJDU1EtNVA4MVpRM0dRUDBzempkXzQtbmwtem9wZw==",
+  "etag": "ov-te1JraVQCd-wWcOvYfxKDDn8",
+  "nextPageToken": "QURTSl9pMHNaN28zRWJKQ2N1WS1LTVk4ZVg5dHYwWGY2dUphblhROFZNOTZLWk0wTUxacmRJdE5UQkJBNnhvNXBIeUtucTJTYWdBZmVCSQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "T5ylDss8xmWa0XciEC8vbVPODek",
-      "id": "UgxgkZ2pcJyTtU6aCDB4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "2t62yVcJTjOUiFg5DNaO7QlKdjw",
-          "id": "UgxgkZ2pcJyTtU6aCDB4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "This episode is on fire 🔥",
-            "textOriginal": "This episode is on fire 🔥",
-            "authorDisplayName": "Will Abule",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/-EbeUw-VV1NfjxkegkI4edKEddxRcMZUVKcx0thP14LXk7NynTXPjiPzYI5b6DbyO4na0VjlEg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCL9yDp8zZfRxFfK5FRl8gWw",
-            "authorChannelId": {
-              "value": "UCL9yDp8zZfRxFfK5FRl8gWw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T10:22:52Z",
-            "updatedAt": "2021-02-25T10:22:52Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "NuY4v1av6VVxY24zDIGwn68OqoM",
-      "id": "UgxMYnCL5OBfNTyRcbt4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "qOrs2R1aM7zygpw7w9Yr0l09skk",
-          "id": "UgxMYnCL5OBfNTyRcbt4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "HyPer X  so it should be HPX",
-            "textOriginal": "HyPer X  so it should be HPX",
-            "authorDisplayName": "Sin Stalker",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLF2dxm_35cOiS5WBMqEimvGuSS6PD100CIQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCCHJXRG553gz51pwT0Sno9g",
-            "authorChannelId": {
-              "value": "UCCHJXRG553gz51pwT0Sno9g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T10:22:51Z",
-            "updatedAt": "2021-02-25T10:23:03Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "Z-3id_2nYrGJFCJrzX249qEsz2s",
@@ -3204,6 +3140,70 @@
         },
         "canReply": true,
         "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cGcfxKp-KSWdAKNuoCg38kPaiKs",
+      "id": "UgyBQU-36ucYvH3sk8d4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gQJaCBYjepbFtO_oMwtNVLMTplc",
+          "id": "UgyBQU-36ucYvH3sk8d4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "so from earlier experience, i think i know how this works...\nbeeing a young unknowing brat gets you a job at a huge mediagroup.\nTho other people working hard to get good jobs.\ni am not hating madison, she is new to the game and should be given a chance, but...\nme beeing 20 and having a job, just saying, I dont quite get how this is a thing",
+            "textOriginal": "so from earlier experience, i think i know how this works...\nbeeing a young unknowing brat gets you a job at a huge mediagroup.\nTho other people working hard to get good jobs.\ni am not hating madison, she is new to the game and should be given a chance, but...\nme beeing 20 and having a job, just saying, I dont quite get how this is a thing",
+            "authorDisplayName": "Replay_HD",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRBYGWSGIh6TjN08jifkfwx3NDNdAfA6AVO8FIZ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCL0aGi4vntB9OOSVgKfIRNQ",
+            "authorChannelId": {
+              "value": "UCL0aGi4vntB9OOSVgKfIRNQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-02-25T10:05:55Z",
+            "updatedAt": "2021-02-25T10:05:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "INT5f5e7qFd2lpDDFhKXpI-ep4s",
+      "id": "UgzTTWZb22sKvwqCAEd4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4J8-j9Rc0J5VOALDJ7rxyMXq8GE",
+          "id": "UgzTTWZb22sKvwqCAEd4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Remind me, what is her primary job at LMG?",
+            "textOriginal": "Remind me, what is her primary job at LMG?",
+            "authorDisplayName": "G W",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSXabZwlaEiEm6LEfO_30OjZ-tn6K9VOSrVOyhcXQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-LB0IrRrg0yvMiiKWM_u5A",
+            "authorChannelId": {
+              "value": "UC-LB0IrRrg0yvMiiKWM_u5A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T10:05:54Z",
+            "updatedAt": "2021-02-25T10:05:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
         "isPublic": true
       }
     }

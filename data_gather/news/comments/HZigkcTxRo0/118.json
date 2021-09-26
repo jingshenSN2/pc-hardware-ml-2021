@@ -1,140 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "XXepwMuDPP7Y0INyN5lYudqOj9o",
-  "nextPageToken": "QURTSl9pMGo5OHkyN1NhelQxMGE1UDVDWGkzRHpPWENyQ0o4bnBkMVhmMjVHbWZSQjFRNGlxdHF0b0t0QXlXeG5ob2Frck1wRGkzWWQzYw==",
+  "etag": "OpwDT6jm72lgwOq4C6KFvSUij-4",
+  "nextPageToken": "QURTSl9pM251QnJ6U3BnSmNqQW1QNGRLR2FmWXNOWElXdFVoOFZJYWd6Z0dxaXd2Qk5VSHVhbWwySFJ0OVhzT3FOQVVjZjg3NlJEWTlnNA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "MQxps-CvkhBaLCFZ66bp49sVzNM",
-      "id": "Ugz9t51TsN3xVowwRUZ4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "hgQdA9RRB_fA178tRzDtfJanXaI",
-          "id": "Ugz9t51TsN3xVowwRUZ4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "Keep Madison and Riley they'll be a great combo on tech linked!",
-            "textOriginal": "Keep Madison and Riley they'll be a great combo on tech linked!",
-            "authorDisplayName": "ImSimplyPhil",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/gcmCi9JXHi_vhuXwBYizsDRWnDYOHxCa7HTDD9jWC7i9SVh8ADM3ZFAm19QgkbHiS6QMGA7r9d8=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC4GCxMYnWj_hlvSFtGe4ApA",
-            "authorChannelId": {
-              "value": "UC4GCxMYnWj_hlvSFtGe4ApA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:24:20Z",
-            "updatedAt": "2021-02-25T03:24:36Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "wbj5segpCxjyRmN2Apwz7D6TSzw",
-      "id": "UgxlX2jDA_eJFNUNWb14AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "per1YwKV12_Tkzj5PJgOsV_zFxQ",
-          "id": "UgxlX2jDA_eJFNUNWb14AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "yeah maide in duh house",
-            "textOriginal": "yeah maide in duh house",
-            "authorDisplayName": "Guy Gendell",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR2D1x6Ubx4bq8Fe3xziBIpfHXFYd7GysVaVRp3Qg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCw_NwpXDOb--IZIZe7YDdpw",
-            "authorChannelId": {
-              "value": "UCw_NwpXDOb--IZIZe7YDdpw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:24:19Z",
-            "updatedAt": "2021-02-25T03:24:19Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "Sn9C8R1MkQUbFuuk_60R6W5o5QU",
-      "id": "Ugzu89FRMx-0lIJYMC94AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "-FHApPaKO9yQnwXc7mk9hp3qD-w",
-          "id": "Ugzu89FRMx-0lIJYMC94AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "🥳 more Madison on technews PLEASE!!",
-            "textOriginal": "🥳 more Madison on technews PLEASE!!",
-            "authorDisplayName": "Stan Prinsloo",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQXfS6foEPuYaKWfXK0sOc5WAzKZ6lKiLhdWMW0Kg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC5ZGTNjzG25I1nfD8m76MWw",
-            "authorChannelId": {
-              "value": "UC5ZGTNjzG25I1nfD8m76MWw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:24:13Z",
-            "updatedAt": "2021-02-25T03:24:13Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "mhwP2YvvAqzogRtiEA7naLqWolA",
-      "id": "UgzUwc2UgwtR7QaVZtZ4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "eiptdZCkHt0Fb-4_9a55eMCvIcs",
-          "id": "UgzUwc2UgwtR7QaVZtZ4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "comments are 99% madison and 1% the actual news lmfao",
-            "textOriginal": "comments are 99% madison and 1% the actual news lmfao",
-            "authorDisplayName": "John Tupas",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQpURUl7WSiC6Y0d4gXVHnR3tU7XsptaH3UHSYIhQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCq9A3VHNRidB9S7-eNY7Mmg",
-            "authorChannelId": {
-              "value": "UCq9A3VHNRidB9S7-eNY7Mmg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T03:24:10Z",
-            "updatedAt": "2021-02-25T03:24:10Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "f7naMzesXje3UU7XgSztGzvnGUw",
@@ -1001,24 +873,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "3X4-d53fz7rz7Db5ZbD_8UdMQHY",
+      "etag": "JkjxFdcg3ecNYTfiCP1l_W2H3oU",
       "id": "UgwQtPwC3MGFNnaVLHl4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "BXFZi1YQ_MzFM09ZqeCiQkNfY-E",
+          "etag": "EmOIVWgr6vL2K7rWv7GFOiDVQm0",
           "id": "UgwQtPwC3MGFNnaVLHl4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
             "textDisplay": "Madison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTips",
             "textOriginal": "Madison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTipsMadison taking over, This is what we want! #MadisonTechTips",
-            "authorDisplayName": "Henry Harris",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTgEzm_G0QIg1en3oWnMVPDxKy6D0DlfrsZXQ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCukrA5Pzkwwd4ruBOCzX0bA",
-            "authorChannelId": {
-              "value": "UCukrA5Pzkwwd4ruBOCzX0bA"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,
@@ -3200,6 +3069,134 @@
             "likeCount": 0,
             "publishedAt": "2021-02-25T03:21:44Z",
             "updatedAt": "2021-02-25T03:21:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W9KTLU8bOsgPFZmxcxjQPpK65ew",
+      "id": "Ugw5Cv7g1CH2_NZo_cF4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WwmrW_OAT13KkhmGNYQsnq5SgAE",
+          "id": "Ugw5Cv7g1CH2_NZo_cF4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Get Madison on Carpool Critics next.",
+            "textOriginal": "Get Madison on Carpool Critics next.",
+            "authorDisplayName": "dhruvi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS0uaumXgxMRdlKS3veRUVlroQtuzAU9hPC3J8qfQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3M3GCIHcNnqbUZ0eQX4yag",
+            "authorChannelId": {
+              "value": "UC3M3GCIHcNnqbUZ0eQX4yag"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:21:43Z",
+            "updatedAt": "2021-02-25T03:21:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8ntgE-VeMklh8uhjUtfH9xGYjpY",
+      "id": "UgwV4jZRra06RvtbyL54AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1v-w-pibaRAs2V_IBsC7j0H7zis",
+          "id": "UgwV4jZRra06RvtbyL54AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Linus looks beautiful when he shaves his beard and puts makeup on.",
+            "textOriginal": "Linus looks beautiful when he shaves his beard and puts makeup on.",
+            "authorDisplayName": "smmmokin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSVBns6K64xHEg_YwraSK01vwO-Vc93bX3SZUsAxg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCULfEvjO3o_PtDAAozN4PGw",
+            "authorChannelId": {
+              "value": "UCULfEvjO3o_PtDAAozN4PGw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 865,
+            "publishedAt": "2021-02-25T03:21:37Z",
+            "updatedAt": "2021-02-25T03:21:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IoEFNvT-1ALlgSJ7jsGzf1ICON8",
+      "id": "UgwlDHn96DQcmdGi_E94AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KnyeiGEw_EY1y81ttG32wZAgqLI",
+          "id": "UgwlDHn96DQcmdGi_E94AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Is she the one from the ROG rig reboot thingy, where everyone and their mothers yelled in the comments for her to get hired?\nGlad it worked!",
+            "textOriginal": "Is she the one from the ROG rig reboot thingy, where everyone and their mothers yelled in the comments for her to get hired?\nGlad it worked!",
+            "authorDisplayName": "Tanis W.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSijJvRKMed10SuCEvocBdD14Zev_sOlzYlEoiKU14=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3mA2tTEBNpj8dwbWkVnimw",
+            "authorChannelId": {
+              "value": "UC3mA2tTEBNpj8dwbWkVnimw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 83,
+            "publishedAt": "2021-02-25T03:21:34Z",
+            "updatedAt": "2021-02-25T03:21:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bICPv__DLb3PSS7awOqdrUjgiT8",
+      "id": "Ugw_KXmw-nB_mUFeNBh4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ecz3mIWmXeMULB_Aoyc2BcGEH9w",
+          "id": "Ugw_KXmw-nB_mUFeNBh4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "It's Madison Media Group now.",
+            "textOriginal": "It's Madison Media Group now.",
+            "authorDisplayName": "W X V A",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3pikgcGeGVwfjN8_sbbvsfTcQtXbM9bmcZQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMZ0IUT9_td27k8CoeBynKQ",
+            "authorChannelId": {
+              "value": "UCMZ0IUT9_td27k8CoeBynKQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T03:21:34Z",
+            "updatedAt": "2021-02-25T03:21:34Z"
           }
         },
         "canReply": true,

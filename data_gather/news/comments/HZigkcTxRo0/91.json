@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "vvQs_LaULaNSzlAdlC5iXOsugGg",
-  "nextPageToken": "QURTSl9pMUxPVG5EYVZJRmpGYXg5N3hTX2tWTXRVT0s4TERsdzg5cVp4WGVNS29YZG5SclloVGRJWkJWbTJOUGZaczNDVDYzc3hFZzRXRQ==",
+  "etag": "tBfdKTTssZv9heAI91uvB-0uJbc",
+  "nextPageToken": "QURTSl9pMlY4Smt0dnJVXy1QWnQ1SHhfNVE5S2ItQU1zZUdqVVl3QXFmMUVpcGZNZ3A3cE5hRzBQM2dpTkt1WXJEN2t0M3ljWmRuS0M0QQ==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "JiaBvyBRjIEURdbBkN71oso97bY",
-      "id": "Ugxd_8OAOYm2L8QCcD94AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "x7FUkjxgxy6vtnV0IAOPE_LxaDs",
-          "id": "Ugxd_8OAOYm2L8QCcD94AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "What happened to Linus geez",
-            "textOriginal": "What happened to Linus geez",
-            "authorDisplayName": "MomBuy Gfuel",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzjDJlpiDPce6NKqhS1AMxoZBTJRi-TSmh6AUpuA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCvqmesuCI_NZoDtlM-Xcn0g",
-            "authorChannelId": {
-              "value": "UCvqmesuCI_NZoDtlM-Xcn0g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T05:44:34Z",
-            "updatedAt": "2021-02-25T05:44:34Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ObQ7hipODxL6lFpnH5NGeBqH7rg",
-      "id": "UgykUmSbb7iEWzsUhtN4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Rr33cBVDYw61PbAeMcMCrRva6Y4",
-          "id": "UgykUmSbb7iEWzsUhtN4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "New host's great!",
-            "textOriginal": "New host's great!",
-            "authorDisplayName": "aprofondir",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/P6obPkbTu5KURGLEQSx9jp1e4zPqK78uHwqKbAGFefdSWEccK19xrxKnSzqRpYxInxb3xgmrrGM=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCF6Q4BsxtfwSUxwGNVhvC9w",
-            "authorChannelId": {
-              "value": "UCF6Q4BsxtfwSUxwGNVhvC9w"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T05:44:33Z",
-            "updatedAt": "2021-02-25T05:44:33Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "KcbGQQQrH36SOS6IKj4p-bC07lw",
@@ -3200,6 +3136,70 @@
             "likeCount": 7,
             "publishedAt": "2021-02-25T05:37:12Z",
             "updatedAt": "2021-02-25T05:37:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AfV1-vxk5E93Qz3pLnUjF35jmsw",
+      "id": "UgxL6t5nelktGyQp6Rp4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lbD8p1i33WBZYPRtvdKHWzJsibQ",
+          "id": "UgxL6t5nelktGyQp6Rp4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Yeah, I haven’t been to the frys electronics here in Az in forever but I remember it being stupid massive and really weird looking",
+            "textOriginal": "Yeah, I haven’t been to the frys electronics here in Az in forever but I remember it being stupid massive and really weird looking",
+            "authorDisplayName": "Saber",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSV3ptqzqSYPIo_t8cmX0rw5sXkFD-5R12TkCdQCA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPTjqjSomIZjAZsK_Rsv77g",
+            "authorChannelId": {
+              "value": "UCPTjqjSomIZjAZsK_Rsv77g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T05:37:05Z",
+            "updatedAt": "2021-02-25T05:37:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5H9-12QWqD0JSE3P5s-icx7dJNI",
+      "id": "UgxUXiBkxB-vjmBkuGB4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dhErASrhX6YZ_7jkoRZU4mcFVw4",
+          "id": "UgxUXiBkxB-vjmBkuGB4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Madison being hired is a triumph comparable to the Snyder Cut.",
+            "textOriginal": "Madison being hired is a triumph comparable to the Snyder Cut.",
+            "authorDisplayName": "enorma29",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSUPL0HClN15WDNO5L6VN1lgWV0sfJzHz9rJhtS=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCc8PAIIYR9mOoohxBdkyg6Q",
+            "authorChannelId": {
+              "value": "UCc8PAIIYR9mOoohxBdkyg6Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-02-25T05:36:46Z",
+            "updatedAt": "2021-02-25T05:36:46Z"
           }
         },
         "canReply": true,

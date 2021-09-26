@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "J2JD5dBManf0G6L9zL7KCoFuUe0",
-  "nextPageToken": "QURTSl9pMlU1RjMwOWdNYTdFeWtVOVhnVFJkVkRQb1lxQl9nLTV5TGkzZDJ0ZmhERl9QMFB5Uy0wTnhydDlldVRqWmtWNXJjRi1iTnpCWQ==",
+  "etag": "gizRD0ed0bXhQxwJ7x6FS_X6ZB0",
+  "nextPageToken": "QURTSl9pMXdjVmtRM2pDTUpQbHdHdnBITzByb2hnUnhmOWRRWXNNRzRwOVBSeU0yR3R2MW1VMDRPTTVQS1htQXZKNXRXOGNiU0ozREIxYw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
@@ -1609,24 +1609,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "5_hXwqrLuHQFgdBwuko0qftnG3E",
+      "etag": "Tq6_V6CtNDjYNPjd1myJ1IK4Be8",
       "id": "Ugxg3Mb3jFUyStMr8_x4AaABAg",
       "snippet": {
         "videoId": "HZigkcTxRo0",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "mbyrCKNHk8b9ftqoVa7MGzYinM0",
+          "etag": "puw2L9I60Yp14OK0b6eN5eDwVtA",
           "id": "Ugxg3Mb3jFUyStMr8_x4AaABAg",
           "snippet": {
             "videoId": "HZigkcTxRo0",
             "textDisplay": "HyhperX",
             "textOriginal": "HyhperX",
-            "authorDisplayName": "Jona Van Enk",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTLPbYaWdd1iKCFDw4HguahEGczPQs3je9e6eW1=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCAbWWYupk4pf9IVADS8XvBg",
-            "authorChannelId": {
-              "value": "UCAbWWYupk4pf9IVADS8XvBg"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,

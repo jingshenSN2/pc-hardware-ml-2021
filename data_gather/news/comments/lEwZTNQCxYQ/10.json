@@ -1,12 +1,140 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "sTQgcoi-x8CKfckx5pytMTxd3ao",
-  "nextPageToken": "QURTSl9pMFY1Slg5cmoxa2gwUm5QVFpscXVKTXo2c2VHT3k1aU9KUHFWc2hPY19oQjhUMXVDYTFaRDBjNkptSGRIbUFZRVhndURLTnIzOA==",
+  "etag": "YFQsPlw_4m85kfZUbHcOalcPPOA",
+  "nextPageToken": "QURTSl9pMmxrZUd2bmE4YWdaM05FWFZZQVdONDJHdTBGaENVSjVoQ2VvR1RPTmR0YXJKd2p2SGZmdTd1Tm5hT1ZXM0NEc24wUmpsV3EyNA==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rQMPjccQzSjj13vs3WYR970RGc0",
+      "id": "UgyfMQx4uXiIZfeJKH14AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JxCwFtzHC24Boaf70EvYh21bVVo",
+          "id": "UgyfMQx4uXiIZfeJKH14AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "to be fair, edge is pretty usuable and nice to use. im more of a firefox user myself because container tabs are a godsend, but still edge is quite neat",
+            "textOriginal": "to be fair, edge is pretty usuable and nice to use. im more of a firefox user myself because container tabs are a godsend, but still edge is quite neat",
+            "authorDisplayName": "mineland",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkbXEgLSITxczAx0FkN8Wt-kj3m2UQV08CXanqeg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXJ8JpPBvp6yoIytnb-SygA",
+            "authorChannelId": {
+              "value": "UCXJ8JpPBvp6yoIytnb-SygA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-09-14T01:50:11Z",
+            "updatedAt": "2021-09-14T01:50:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "d0Dk15TWVmaUaWzFEYKXvYjx8CU",
+      "id": "UgxmH2FpnMna5WooLw54AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eMEEeyeXbFB03F_wCOU41w7lNgI",
+          "id": "UgxmH2FpnMna5WooLw54AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "This dude is hilarious, and I also cought up with tech news. What a nice day",
+            "textOriginal": "This dude is hilarious, and I also cought up with tech news. What a nice day",
+            "authorDisplayName": "Cristobal Contreras",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQfeYvqIsKNN8FECImO65KBEskmiiZcmxLHgjKkXFw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCD-W4B0RnEAViLlQQQLK_Qw",
+            "authorChannelId": {
+              "value": "UCD-W4B0RnEAViLlQQQLK_Qw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T01:49:19Z",
+            "updatedAt": "2021-09-14T01:49:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "2sCuefWg3aSaNwOXLYGoSI1vNxY",
+      "id": "Ugy6sVdzXKW7wm9o-754AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kJvEtYAX-0hOOQbX-Ui1HqLSlss",
+          "id": "Ugy6sVdzXKW7wm9o-754AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "When are you releaseing the water cooled ps5",
+            "textOriginal": "When are you releaseing the water cooled ps5",
+            "authorDisplayName": "Kaveesha Ranasinghe",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdOhFcTWtAFuz6nNBjfEkDX-pw-Ot9RkiDJ_R4Mw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnoD_hMxoYevnIzYaJpa4UA",
+            "authorChannelId": {
+              "value": "UCnoD_hMxoYevnIzYaJpa4UA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T01:49:12Z",
+            "updatedAt": "2021-09-14T01:49:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "F6J1NdgTg_O_8RK-y9N8UMqj6Hs",
+      "id": "UgxGbJepVoW-EceHoBN4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "58TeQcH4oT4aod6O-fsytJzy0nU",
+          "id": "UgxGbJepVoW-EceHoBN4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Love the Finnegan speed and marine garage shirt",
+            "textOriginal": "Love the Finnegan speed and marine garage shirt",
+            "authorDisplayName": "Denis Naumov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTS3guybUyXF513aZj6YzgfH9aUPof2syKaVg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjPxhYR8y66BNpVKzPckICQ",
+            "authorChannelId": {
+              "value": "UCjPxhYR8y66BNpVKzPckICQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2021-09-14T01:48:32Z",
+            "updatedAt": "2021-09-14T01:48:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "JZRSiOBq_RvnsPQlBfAY4W65y9U",
@@ -841,24 +969,21 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "yifI1xSWw0KN_YOMg9Rn7jzhXFg",
+      "etag": "w8BHN22468wwVRVywbnSOhWnjTw",
       "id": "Ugy_48cpu3QEgQ6Nzph4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "m6HNiVy0Vmy9AJkBV8l5Lgkssu8",
+          "etag": "U4yjc3ADnuYwy5XO7g1q0Rp4fTU",
           "id": "Ugy_48cpu3QEgQ6Nzph4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "We do want this tech news.",
             "textOriginal": "We do want this tech news.",
-            "authorDisplayName": "Aaron Speedy",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/aRlAqNvkcZgvFRw66XKceE7wV5OVMrLbSvN5jm0nTbBfyIXoFtPLUi7_XeSkspq62JE3tWkJ=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC-4cjHmos6vY4SElJGJJiuw",
-            "authorChannelId": {
-              "value": "UC-4cjHmos6vY4SElJGJJiuw"
-            },
+            "authorDisplayName": "",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/default-user=s48",
+            "authorChannelUrl": "",
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,
@@ -969,20 +1094,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "3hEliojq52XYkMcnggH0HbxOAjs",
+      "etag": "w7zq8vHaV00T0P6bf0sUSz10zCQ",
       "id": "Ugyk5UZZT9lk8bewb_R4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "yvczsrig6LMQ3tep4yy9q0pMKOk",
+          "etag": "w-lc8LPFW73LhswH1v0_1s2WoYY",
           "id": "Ugyk5UZZT9lk8bewb_R4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "Bring it",
             "textOriginal": "Bring it",
             "authorDisplayName": "Kyle Flanders",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRU5JWNMOJnJIPkDS_Al2RldkT9uqJsQpdaXVg9-6k=s48-c-k-c0x00ffffff-no-rj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/hZ6fIu0FseG7OxM4c8RMLFVhCoOah8Wr62vwd6VpSnqX352TLY27UguRScFicX1EwpChJ0SSvko=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCmnx-hiQljypjkp5x9jM13w",
             "authorChannelId": {
               "value": "UCmnx-hiQljypjkp5x9jM13w"
@@ -3076,134 +3201,6 @@
         },
         "canReply": true,
         "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ZjGwREnW7J4b1LY6_WxMGmtAK0c",
-      "id": "UgwpwV4tMiqPk7oSmQh4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "2eeaZ85N3GspoOQ7oOfDsWbBMqU",
-          "id": "UgwpwV4tMiqPk7oSmQh4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "i use edge. i watched this video in edge.\nhonestly, since it started using chromium it isn't that bad",
-            "textOriginal": "i use edge. i watched this video in edge.\nhonestly, since it started using chromium it isn't that bad",
-            "authorDisplayName": "tavin l",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRl15bKR7MAxLOQ00XKyvzULMvHhZo81uEaxXDDQA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCdswvVrvdZ9n_O89QLZY5Cg",
-            "authorChannelId": {
-              "value": "UCdswvVrvdZ9n_O89QLZY5Cg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 6,
-            "publishedAt": "2021-09-14T01:13:19Z",
-            "updatedAt": "2021-09-14T01:14:57Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 4,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "OxiHrWXbWf01z-c4lZlA2QSOn2I",
-      "id": "UgyF54o6N02vTdkK2N54AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "6tF9CM6pXXdWK6VSn1dETaIQZ1U",
-          "id": "UgyF54o6N02vTdkK2N54AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Ah yes, a terabyte of storage for\n\n...now let's see here\n\n10 times cost of manufacturing at minimum\n\nGood job apple, keeping up the scalping",
-            "textOriginal": "Ah yes, a terabyte of storage for\n\n...now let's see here\n\n10 times cost of manufacturing at minimum\n\nGood job apple, keeping up the scalping",
-            "authorDisplayName": "Generic Scottish Channel",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS1ClutEhhz3uwsCo05NvbFYFbDGcRqp1z1wztH=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCmPibvUfWVSNyRxgnbt3IcA",
-            "authorChannelId": {
-              "value": "UCmPibvUfWVSNyRxgnbt3IcA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 42,
-            "publishedAt": "2021-09-14T01:13:07Z",
-            "updatedAt": "2021-09-14T01:13:07Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 11,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "EwkGRTj2-7CebUHp5QXKVUm4ums",
-      "id": "UgyAarzqIsOOvtElp8V4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "9j6Xb7MCKWT_2UhH6wqGucG8mzw",
-          "id": "UgyAarzqIsOOvtElp8V4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "That’s too much RAM. Could result in a RAM emergency.",
-            "textOriginal": "That’s too much RAM. Could result in a RAM emergency.",
-            "authorDisplayName": "Jyotirmay Gupta",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRjWZpuxXN5AWSRVt9yudYi8HkmrqrtPGTffJ9irg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCheHCXMrjzMw7sKUAcZw3Lg",
-            "authorChannelId": {
-              "value": "UCheHCXMrjzMw7sKUAcZw3Lg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 90,
-            "publishedAt": "2021-09-14T01:12:51Z",
-            "updatedAt": "2021-09-14T01:12:51Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 14,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "5Qsy6PxeWWFVK-V4s4vF7jFXd6E",
-      "id": "Ugzao77KsjKR8q6JUMt4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "rKFxshklxOFtlEd6uIo2-GmlWgI",
-          "id": "Ugzao77KsjKR8q6JUMt4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "But really the new Microsoft edge with chromium is pretty fantastic especially in the workplace.",
-            "textOriginal": "But really the new Microsoft edge with chromium is pretty fantastic especially in the workplace.",
-            "authorDisplayName": "D B",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRS3JgYrgcpHEaVkLLfD7KXj-j7dFinY8TDT25L0g=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCZDQegSiLibintiyzgysOjA",
-            "authorChannelId": {
-              "value": "UCZDQegSiLibintiyzgysOjA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T01:12:37Z",
-            "updatedAt": "2021-09-14T01:12:37Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
         "isPublic": true
       }
     }

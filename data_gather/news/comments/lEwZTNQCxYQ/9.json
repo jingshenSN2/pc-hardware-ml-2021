@@ -1,12 +1,140 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "Rv3VbjrOqUgFdpXYUol4C6BjXOA",
-  "nextPageToken": "QURTSl9pM1VPU1VtSmtCeHdzYXRtUTVZSnhSRzJqQWZueDYtZ1M2alpxTnp4TkNxc3c4ZzZCa01wQkVLdl9YMDRrbXNJUFB2ZEdUUlV1aw==",
+  "etag": "cn37M1WpRZfgVscQuAPho-9HHj8",
+  "nextPageToken": "QURTSl9pMGZ4RWRwYXZrelBCYWZoWUh1eHBLSkVYWmRlLV9GUlltTXFvbl82YmR5ZjFYQXVpajE0QmlYdDQ1ei1vcTNoTUo0WURoUUU1Zw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qrSeJnd58F4OhwjWit9MQVbG4ls",
+      "id": "UgxARjvGioPBA7RCX7h4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GRcahbldG91CFH4hLunHpg4IA_s",
+          "id": "UgxARjvGioPBA7RCX7h4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "I can’t wait to upgrade from my RTX2070. I don’t like it. Not fantastic for 2K resolution AAA gaming.",
+            "textOriginal": "I can’t wait to upgrade from my RTX2070. I don’t like it. Not fantastic for 2K resolution AAA gaming.",
+            "authorDisplayName": "Cristian Moore",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSz6P7BXTroIwIX2P7y3vo7M8d20qkN_VmFrxRL8g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPAO8ibIB7pn2zI66iAA0Yg",
+            "authorChannelId": {
+              "value": "UCPAO8ibIB7pn2zI66iAA0Yg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T02:36:22Z",
+            "updatedAt": "2021-09-14T02:36:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "x5udF9T7iajlTwEmlNMSc3_tnV0",
+      "id": "UgwKCgS2OTtwdSbej154AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RzuS8-FHrJYd_OmGKoADIAM-sSk",
+          "id": "UgwKCgS2OTtwdSbej154AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "I want it, sorry lmg.",
+            "textOriginal": "I want it, sorry lmg.",
+            "authorDisplayName": "Joee Becht",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRbpEh0lbS7Ajip7bUk48uHksLIMLq4-m04diBIUw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFp9IM_sWbtkLIfUW9Od32g",
+            "authorChannelId": {
+              "value": "UCFp9IM_sWbtkLIfUW9Od32g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T02:36:02Z",
+            "updatedAt": "2021-09-14T02:36:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YXBIw0pIhJtrgcCSf_jRYLhvLQA",
+      "id": "UgzRa1X4OoyecjKf4jt4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q1IUN6IOR5P8xNbNTGSP1glMSiw",
+          "id": "UgzRa1X4OoyecjKf4jt4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "Finnegan speed and marine shirt Jake?",
+            "textOriginal": "Finnegan speed and marine shirt Jake?",
+            "authorDisplayName": "Rodney Solar-Circuits",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQiMduhFL_lV4TsHM7aVoydv9qk4XIZX464cHDUyQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyJwQZ-TNlprrdJUYs2ckDg",
+            "authorChannelId": {
+              "value": "UCyJwQZ-TNlprrdJUYs2ckDg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T02:34:45Z",
+            "updatedAt": "2021-09-14T02:34:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CyAz4VGvWVWlgMlErlOoNLRnxm8",
+      "id": "UgzTe-1IXaiqO0oIBIR4AaABAg",
+      "snippet": {
+        "videoId": "lEwZTNQCxYQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "m35nR_K0osDiJBuvpz5cu_-CpgA",
+          "id": "UgzTe-1IXaiqO0oIBIR4AaABAg",
+          "snippet": {
+            "videoId": "lEwZTNQCxYQ",
+            "textDisplay": "An iphone will have more space than a ps5",
+            "textOriginal": "An iphone will have more space than a ps5",
+            "authorDisplayName": "Dark_Night",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_MCOF0mwYixHwW-MdOoTBK5bacxehR3IIdOggew=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpB4uUexpNa0okMBtkyeVzQ",
+            "authorChannelId": {
+              "value": "UCpB4uUexpNa0okMBtkyeVzQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-09-14T02:33:56Z",
+            "updatedAt": "2021-09-14T02:33:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
     {
       "kind": "youtube#commentThread",
       "etag": "TF7g3aWCxH37ASDRyXQxOBzs47E",
@@ -1385,13 +1513,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "1eVbUgD_7kEJHK1rUpeAuf5VqlE",
+      "etag": "IgpwOBnmS_8NCAKB3xcZWjGWVIE",
       "id": "UgwSI-joyPMnEqNOr0h4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "PKe7U_6R9ZrNO0J7s8eyv9GJLRQ",
+          "etag": "YVEd9Kur4ouwSyScSMfunyCeHcs",
           "id": "UgwSI-joyPMnEqNOr0h4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
@@ -1405,7 +1533,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 250,
+            "likeCount": 254,
             "publishedAt": "2021-09-14T02:13:36Z",
             "updatedAt": "2021-09-14T02:13:36Z"
           }
@@ -1961,20 +2089,20 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "MvcH-xjPSyuq5z8H0Whs3vaUpaY",
+      "etag": "wFh_wsEkfna-Zv5HO5sdixzgEHY",
       "id": "UgzpBNiesst1j2XlPlh4AaABAg",
       "snippet": {
         "videoId": "lEwZTNQCxYQ",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "l6OpMwczdHFIUVrwViNfaMC5HxY",
+          "etag": "Mj1vjV2ZKXJkzXzsHpMy5O1fdEA",
           "id": "UgzpBNiesst1j2XlPlh4AaABAg",
           "snippet": {
             "videoId": "lEwZTNQCxYQ",
             "textDisplay": "Does anybody even know what a quick bit is? \n\nHow are they different from the stories at the front end of the show?",
             "textOriginal": "Does anybody even know what a quick bit is? \n\nHow are they different from the stories at the front end of the show?",
-            "authorDisplayName": "Newsers Anonymous",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/L-ibSuZksxwlvMDbwXolGDgJgenoZuKMhyMNJdvbiTwRfm3NTwbHIbmShc8up9VRX0iazNcnLQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorDisplayName": "I don't want the internet",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/yJkIwTIF9hFTR0S09VKnKNr4G4b3lvQjp0uyzv0ILEdXKTSZCXFdqjQNkVKoHJ37b1SGKyAd=s48-c-k-c0x00ffffff-no-rj",
             "authorChannelUrl": "http://www.youtube.com/channel/UCVYMIyTPwL2157B8yjwxXnw",
             "authorChannelId": {
               "value": "UCVYMIyTPwL2157B8yjwxXnw"
@@ -3072,134 +3200,6 @@
             "likeCount": 1,
             "publishedAt": "2021-09-14T01:50:18Z",
             "updatedAt": "2021-09-14T01:50:18Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "rQMPjccQzSjj13vs3WYR970RGc0",
-      "id": "UgyfMQx4uXiIZfeJKH14AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "JxCwFtzHC24Boaf70EvYh21bVVo",
-          "id": "UgyfMQx4uXiIZfeJKH14AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "to be fair, edge is pretty usuable and nice to use. im more of a firefox user myself because container tabs are a godsend, but still edge is quite neat",
-            "textOriginal": "to be fair, edge is pretty usuable and nice to use. im more of a firefox user myself because container tabs are a godsend, but still edge is quite neat",
-            "authorDisplayName": "mineland",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTkbXEgLSITxczAx0FkN8Wt-kj3m2UQV08CXanqeg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCXJ8JpPBvp6yoIytnb-SygA",
-            "authorChannelId": {
-              "value": "UCXJ8JpPBvp6yoIytnb-SygA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-09-14T01:50:11Z",
-            "updatedAt": "2021-09-14T01:50:11Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 3,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "d0Dk15TWVmaUaWzFEYKXvYjx8CU",
-      "id": "UgxmH2FpnMna5WooLw54AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "eMEEeyeXbFB03F_wCOU41w7lNgI",
-          "id": "UgxmH2FpnMna5WooLw54AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "This dude is hilarious, and I also cought up with tech news. What a nice day",
-            "textOriginal": "This dude is hilarious, and I also cought up with tech news. What a nice day",
-            "authorDisplayName": "Cristobal Contreras",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQfeYvqIsKNN8FECImO65KBEskmiiZcmxLHgjKkXFw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCD-W4B0RnEAViLlQQQLK_Qw",
-            "authorChannelId": {
-              "value": "UCD-W4B0RnEAViLlQQQLK_Qw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T01:49:19Z",
-            "updatedAt": "2021-09-14T01:49:19Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 3,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "2sCuefWg3aSaNwOXLYGoSI1vNxY",
-      "id": "Ugy6sVdzXKW7wm9o-754AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "kJvEtYAX-0hOOQbX-Ui1HqLSlss",
-          "id": "Ugy6sVdzXKW7wm9o-754AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "When are you releaseing the water cooled ps5",
-            "textOriginal": "When are you releaseing the water cooled ps5",
-            "authorDisplayName": "Kaveesha Ranasinghe",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTdOhFcTWtAFuz6nNBjfEkDX-pw-Ot9RkiDJ_R4Mw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCnoD_hMxoYevnIzYaJpa4UA",
-            "authorChannelId": {
-              "value": "UCnoD_hMxoYevnIzYaJpa4UA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-09-14T01:49:12Z",
-            "updatedAt": "2021-09-14T01:49:12Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "F6J1NdgTg_O_8RK-y9N8UMqj6Hs",
-      "id": "UgxGbJepVoW-EceHoBN4AaABAg",
-      "snippet": {
-        "videoId": "lEwZTNQCxYQ",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "58TeQcH4oT4aod6O-fsytJzy0nU",
-          "id": "UgxGbJepVoW-EceHoBN4AaABAg",
-          "snippet": {
-            "videoId": "lEwZTNQCxYQ",
-            "textDisplay": "Love the Finnegan speed and marine garage shirt",
-            "textOriginal": "Love the Finnegan speed and marine garage shirt",
-            "authorDisplayName": "Denis Naumov",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTS3guybUyXF513aZj6YzgfH9aUPof2syKaVg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCjPxhYR8y66BNpVKzPckICQ",
-            "authorChannelId": {
-              "value": "UCjPxhYR8y66BNpVKzPckICQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 3,
-            "publishedAt": "2021-09-14T01:48:32Z",
-            "updatedAt": "2021-09-14T01:48:32Z"
           }
         },
         "canReply": true,

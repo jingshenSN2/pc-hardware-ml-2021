@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "lxZPr-9w9Fqj1lIWUuN8w10Sf6M",
-  "nextPageToken": "QURTSl9pMGZIRmRqektSQTA0Q1BXaEpvSkRZRERZQkF4dnJHR2RrTFRvZTlnSWhhUlo1T2YtTGZtQmZPd3NXcFhzTnpCZEU0WF9sQ2d1aw==",
+  "etag": "PkRWSEAkvrGfiygSzxHdcJ02n5A",
+  "nextPageToken": "QURTSl9pMUd5TUQxVkdHQ3BUaWlUZlE4LXZQOXJIX1VZS2lSZ1g0SWJIR0Jua1RWcVE4bVRMYkFOU3BkZEtWWVFuUHFidkFQMm9admp2aw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "lUdAgVcnnkfVHzYKRiTdaMwMcwQ",
-      "id": "UgyNLsxJdxLjesyhknN4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "625pQLYRVOZC56MNmu4DKBQj9Ws",
-          "id": "UgyNLsxJdxLjesyhknN4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "I have anime and god on my side...😂😂😂😂😂😂",
-            "textOriginal": "I have anime and god on my side...😂😂😂😂😂😂",
-            "authorDisplayName": "Blakkstar",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTApp4TbKdKAguz2m8f1QHz99jMr52p3q_lFw=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCajRcQwd58oIwJbtpVttNaA",
-            "authorChannelId": {
-              "value": "UCajRcQwd58oIwJbtpVttNaA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T06:54:46Z",
-            "updatedAt": "2021-02-25T06:54:46Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "8jRcEfYKwd3gb1jyszmue6Nvw8g",
-      "id": "UgwiE1jDKEjOD_TR79N4AaABAg",
-      "snippet": {
-        "videoId": "HZigkcTxRo0",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "wdAp_JC4NNhg1wZrzXAJk3BQ0Ls",
-          "id": "UgwiE1jDKEjOD_TR79N4AaABAg",
-          "snippet": {
-            "videoId": "HZigkcTxRo0",
-            "textDisplay": "She will fit in just fine. She rants and raves just all the other kids on this show???? Kindergarten.... Yup",
-            "textOriginal": "She will fit in just fine. She rants and raves just all the other kids on this show???? Kindergarten.... Yup",
-            "authorDisplayName": "Rupert Ocampo",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQRSv6NLcQl2SJhtCEbTlopj5TbH7FlFNSwMG5-7Q=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCEUzUpM5W1W4wKAGqrjD5vg",
-            "authorChannelId": {
-              "value": "UCEUzUpM5W1W4wKAGqrjD5vg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-25T06:54:45Z",
-            "updatedAt": "2021-02-25T06:54:45Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "bGuBuP-rOWPaDSXEifGx2c1VMDo",
@@ -3200,6 +3136,70 @@
             "likeCount": 1,
             "publishedAt": "2021-02-25T06:45:26Z",
             "updatedAt": "2021-02-25T06:45:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QkwUZQIi8Hs0PnpBVhUvKXO8svc",
+      "id": "UgyE3ZSi0aF2H8If0bB4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YjBA97Lm8lvdAKkF_xgpwBTMS1Y",
+          "id": "UgyE3ZSi0aF2H8If0bB4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "you're doing it w... right :-)",
+            "textOriginal": "you're doing it w... right :-)",
+            "authorDisplayName": "Wojciech Zdziński",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSaCiFiHeJ-IPm0zG0DJBcb3yDD8apdsLNKvOjd=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnZ6wrsWsYBfvijIYVOu3lA",
+            "authorChannelId": {
+              "value": "UCnZ6wrsWsYBfvijIYVOu3lA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T06:45:24Z",
+            "updatedAt": "2021-02-25T06:45:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xEJtAjiiwvHKt8ByW87_UGzI9i0",
+      "id": "Ugw3jSE5rczaPFXxNFR4AaABAg",
+      "snippet": {
+        "videoId": "HZigkcTxRo0",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "y4hlomK-psIUYZygChX_Q_UqQ_Q",
+          "id": "Ugw3jSE5rczaPFXxNFR4AaABAg",
+          "snippet": {
+            "videoId": "HZigkcTxRo0",
+            "textDisplay": "Like everyone else, I too think Madison is like a natural as a host.",
+            "textOriginal": "Like everyone else, I too think Madison is like a natural as a host.",
+            "authorDisplayName": "F3nya",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQdOkHhiWa-ODvgYhXmUl7FR3XoT-eCTvzfFDhk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCb86LTqWDObDDL5CVQsZf1A",
+            "authorChannelId": {
+              "value": "UCb86LTqWDObDDL5CVQsZf1A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T06:45:23Z",
+            "updatedAt": "2021-02-25T06:45:23Z"
           }
         },
         "canReply": true,

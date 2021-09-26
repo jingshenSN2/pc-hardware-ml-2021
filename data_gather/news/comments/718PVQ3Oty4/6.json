@@ -1,76 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "sZMEsRdVxknKMw7_KyXlRy5I-cA",
-  "nextPageToken": "QURTSl9pM21samplaHBPbkdYem5oUngwdFJZRFBTb09YNWFuVzZoMm9scmV1d1ZtWGowZ1M2RDdteGp4aVp6SnNzYnVKZDZJVUhRNWlhdw==",
+  "etag": "1Sp-HXLWTUdc5H8-Qa15YgWO3CQ",
+  "nextPageToken": "QURTSl9pM3dnbC1EUG5UNGtmdlFaN3Vod2xHdGplNENJLXN3Mi1KaHEyME1rSHA2djBSWWhwWUxiTk9TUWwyQV9LeHVZa0lId0d5TXdVYw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "g2j_iQWDrfwKIptjkzOX1HYyw78",
-      "id": "UgzycOVgoIvHO__PPX54AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "I3okUuZakKwoMahVnbOjuC44XSg",
-          "id": "UgzycOVgoIvHO__PPX54AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "Finally some almost-affordable Ryzen 5000-series chips.",
-            "textOriginal": "Finally some almost-affordable Ryzen 5000-series chips.",
-            "authorDisplayName": "Drew Naylor",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRhYYxCNlw0x480Nm0YAOIUYWieD2h00qfJIzGd=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCIEyCGDqoo2rrfZVydaM-2A",
-            "authorChannelId": {
-              "value": "UCIEyCGDqoo2rrfZVydaM-2A"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-03T04:00:33Z",
-            "updatedAt": "2021-06-03T04:00:33Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "bsTEzDtBMp65rlMJ7BGd2zo0hZ8",
-      "id": "UgxYjMrwvGgPEoVZUEx4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "l7_Sxp17yWJPvDaKOkHYevKaaao",
-          "id": "UgxYjMrwvGgPEoVZUEx4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "They PAY you to do this!!!   ;)",
-            "textOriginal": "They PAY you to do this!!!   ;)",
-            "authorDisplayName": "Captante",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRIfKmh7lwKPbfcf3doQReNcZ6EMKuWKD91UcgPPg=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC9J6qdj0pYpVKthQllQlQpw",
-            "authorChannelId": {
-              "value": "UC9J6qdj0pYpVKthQllQlQpw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-03T04:00:31Z",
-            "updatedAt": "2021-06-03T04:00:31Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "2fYJFM7tyAytSpqCRzTjGUfonpA",
@@ -3200,6 +3136,70 @@
             "likeCount": 0,
             "publishedAt": "2021-06-03T02:45:40Z",
             "updatedAt": "2021-06-03T02:45:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Z1ig-jrk_9EJ9xy2bMKhpKnf-7Y",
+      "id": "UgwTpO4mXf9GumiWYmt4AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9lZnpy07R3VY5XAohpsR5APiUiw",
+          "id": "UgwTpO4mXf9GumiWYmt4AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "Yeah we need a better way to house ROMs...",
+            "textOriginal": "Yeah we need a better way to house ROMs...",
+            "authorDisplayName": "Not Pinhead",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHbe3ScWfhJLsvk95rgagnG6zXm9gqhKfV5G6OyQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWrEa9CBzbqitvn8WZNmszQ",
+            "authorChannelId": {
+              "value": "UCWrEa9CBzbqitvn8WZNmszQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-03T02:45:33Z",
+            "updatedAt": "2021-06-03T02:45:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ZFVzrI0BrssuwhBRnPapUnSNJZU",
+      "id": "Ugza2BXJjonWb0EZ0VB4AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Mw1JXmt2WKL75TFZ_mdSZe3AlY0",
+          "id": "Ugza2BXJjonWb0EZ0VB4AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "As I'm watching this I'm in line at best buy for the 3080TI",
+            "textOriginal": "As I'm watching this I'm in line at best buy for the 3080TI",
+            "authorDisplayName": "Sam Mecham",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYSKDce7Vhj4B7suLsWAK68wOgwYJMj83_QMKbdA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUIjB1WnELRZhYoTGDtv1Ig",
+            "authorChannelId": {
+              "value": "UCUIjB1WnELRZhYoTGDtv1Ig"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-03T02:45:10Z",
+            "updatedAt": "2021-06-03T02:45:10Z"
           }
         },
         "canReply": true,

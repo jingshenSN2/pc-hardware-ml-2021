@@ -1,44 +1,12 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "9PEhAmlqNauAy2XEw56DK-pTkAE",
-  "nextPageToken": "QURTSl9pMVFxLTBKMFlXSzlEblAxeGVCTzl0UU16VFpERUNFa0hrN1R3S2lqQlE2VGxWYzlOVEZ1UC1reWdSWUZ1YTdZSkdJemZYczVSYw==",
+  "etag": "-byQpr1zyp3kk34cxETcjOquOiA",
+  "nextPageToken": "QURTSl9pMTNVR3VWVWI0NTAtcVBLdEljYXpPcXEwUm03cnhVN3BRM3EwMTZxb0lJYzk0ZnhtMk5Wd2dqQldKaUZWRmxqUXpxR041SEdScw==",
   "pageInfo": {
     "totalResults": 100,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "pYs-vQDkd_727OMpe6PneMp-1pw",
-      "id": "Ugw7c_nOrhfdHvF0aOF4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Yp2mkB5QJO3NsOeiJQ7WYZReEWA",
-          "id": "Ugw7c_nOrhfdHvF0aOF4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "What are they thinking? they arent, they are just drooling at the $$$ they get to suck off of idiots with too much money.",
-            "textOriginal": "What are they thinking? they arent, they are just drooling at the $$$ they get to suck off of idiots with too much money.",
-            "authorDisplayName": "Rusty Blader",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRQcFiQZSckcIMotXya0XH4VhSui3RW-jsf86VuCA=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCl5oIXn-G_ifMUm5ryYCkvA",
-            "authorChannelId": {
-              "value": "UCl5oIXn-G_ifMUm5ryYCkvA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-04T02:37:15Z",
-            "updatedAt": "2021-06-04T02:37:15Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "UJZLQA4QvumNj8I8wzLKU_Ro8HA",
@@ -3200,6 +3168,38 @@
             "likeCount": 1,
             "publishedAt": "2021-06-03T15:02:02Z",
             "updatedAt": "2021-06-03T15:02:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1I8D3OOTE6ArXENUVuD0MC2KH50",
+      "id": "UgyWnx1Y3dDZylcdvUF4AaABAg",
+      "snippet": {
+        "videoId": "718PVQ3Oty4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5kJGeI7GtmxpSk06RA8tTLSx0tw",
+          "id": "UgyWnx1Y3dDZylcdvUF4AaABAg",
+          "snippet": {
+            "videoId": "718PVQ3Oty4",
+            "textDisplay": "Why does Riley have a tomagochi in his hand?",
+            "textOriginal": "Why does Riley have a tomagochi in his hand?",
+            "authorDisplayName": "Ryan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSODxqWr_Mdd0f_SH2dIjQ4dGv-Lg1FVq2psQy9S38=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUDL8GrIxfj1tI7v6xNAFWw",
+            "authorChannelId": {
+              "value": "UCUDL8GrIxfj1tI7v6xNAFWw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-03T15:00:43Z",
+            "updatedAt": "2021-06-03T15:00:43Z"
           }
         },
         "canReply": true,

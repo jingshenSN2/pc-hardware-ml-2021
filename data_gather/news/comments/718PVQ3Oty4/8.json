@@ -1,75 +1,11 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "og2it6Qs5LEzJT7-rQSOX5tc_1Q",
+  "etag": "tX1YpNVT6risY3Teg_Uuvq35VoM",
   "pageInfo": {
-    "totalResults": 84,
+    "totalResults": 82,
     "resultsPerPage": 100
   },
   "items": [
-    {
-      "kind": "youtube#commentThread",
-      "etag": "nT1E8YBFGgTKh10p1kFOfeOemvM",
-      "id": "UgwtsU9QNMdq6wq8avR4AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "28ptm8s6DgQPELflt9GIs2ovv9o",
-          "id": "UgwtsU9QNMdq6wq8avR4AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "I'm surprised that they didn't mention sam",
-            "textOriginal": "I'm surprised that they didn't mention sam",
-            "authorDisplayName": "SohnOvO",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRVpretjP53VoN-rU1lNmIJ7_tMN0o-2v3Ut9sG-w=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC_40ymINxmAk-s0TCrJ4CqA",
-            "authorChannelId": {
-              "value": "UC_40ymINxmAk-s0TCrJ4CqA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-03T02:15:36Z",
-            "updatedAt": "2021-06-03T02:15:36Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "gKhFGnorXIEqX7EiI-vuqwUQIpI",
-      "id": "Ugz-7C7LCM84GJJeo794AaABAg",
-      "snippet": {
-        "videoId": "718PVQ3Oty4",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "npkUCsTj33Hzsa1mWISZsT5jXk0",
-          "id": "Ugz-7C7LCM84GJJeo794AaABAg",
-          "snippet": {
-            "videoId": "718PVQ3Oty4",
-            "textDisplay": "Dislike for the cringe",
-            "textOriginal": "Dislike for the cringe",
-            "authorDisplayName": "Javier",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuSmoGCZjnTM81j5SZX-8c0nLCU68tApZkI3_N=s48-c-k-c0x00ffffff-no-rj",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC5mKAL-lmnyYkW_A03cZG1g",
-            "authorChannelId": {
-              "value": "UC5mKAL-lmnyYkW_A03cZG1g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-06-03T02:15:20Z",
-            "updatedAt": "2021-06-03T02:15:20Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
     {
       "kind": "youtube#commentThread",
       "etag": "ft6JV5_6t_2K5ov-hbmeHTGDsr8",

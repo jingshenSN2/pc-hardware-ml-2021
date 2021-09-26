@@ -5,7 +5,7 @@ import pandas as pd
 video_list = []
 
 for i in range(1, 11):
-    with open(f'../../data_gather/news/comments/channel_videos_info-{i}.json', 'rb') as f:
+    with open(f'../../data_gather/news/channel/channel_videos_info-{i}.json', 'rb') as f:
         video_info_json = json.load(f)['items']
     for video in video_info_json:
         snippet = video['snippet']
