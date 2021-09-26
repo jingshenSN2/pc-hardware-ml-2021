@@ -18,14 +18,13 @@ for i in range(1, 11):
 
 video_df = pd.DataFrame(video_list)
 for idx, row in video_df.iterrows():
-    desc = row['description']
-    segment = desc.split('\n')
-    for idx, content in enumerate(segment):
+    segment = row['description'].split('\n')
+    for i, content in enumerate(segment):
         # clean some promotion description
         if str(content).startswith('FOLLOW US ELSEWHERE'):
-            segment = segment[:idx]
+            segment = segment[:i]
             break
-    row['description'] = ' '.join(segment)
+    video_df['description'].values[idx] = ' '.join(segment)
 
 video_df.to_csv('../../data/channel_videos.csv', index=False)
 
