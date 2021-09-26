@@ -15,10 +15,11 @@ p + geom_line() +
   
 ggsave("../eda/crypto/chia_price.png")
 
+chia$market.cap = chia$market.cap / 1e6
 p = ggplot(data=chia, aes(x=Date, y=market.cap))
 p + geom_line() +
   theme_calc() +
-  labs(x = "Year 2021", y = 'Market Capacity(USD)', title = "Historical Market Capacity of Chia Network")
+  labs(x = "Year 2021", y = 'Market Capacity(million USD)', title = "Historical Market Capacity of Chia Network")
 
 ggsave("../eda/crypto/chia_makcap.png")
 
