@@ -26,7 +26,8 @@ for file in file_list:
             published_at = datetime.datetime.strptime(snippet['publishedAt'], "%Y-%m-%dT%H:%M:%SZ").date()
             published_week = published_at - datetime.timedelta(days=published_at.weekday())
             text = snippet['textOriginal'].replace('\n', ' ').encode("ascii", "ignore").decode()
-            if text == '':
+            if len(text) < 20 or len(text.split(' ')) < 5:
+                # we only use comments that have over 20 characters and 5 words
                 continue
             comment_dict = {'video_id': snippet['videoId'], 'text': text,
                             'like': snippet['likeCount'], 'published_at': published_at,
