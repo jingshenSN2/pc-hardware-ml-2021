@@ -62,9 +62,9 @@ def update_barplot(data):
 
 
 fig = plt.figure(figsize=(20, 10))
-ani = animation.FuncAnimation(fig, update_wordcloud, frames=wordcloud_list, interval=4000, repeat_delay=2000)
+ani = animation.FuncAnimation(fig, update_wordcloud, frames=wordcloud_list, interval=3000)
 ani.save('comments_wordcloud.gif', writer='pillow')
 
 fig = plt.figure(figsize=(20, 10))
-ani = animation.FuncAnimation(fig, update_barplot, frames=wordcloud_list, interval=4000, repeat_delay=2000)
+ani = animation.FuncAnimation(fig, update_barplot, frames=wordcloud_list, interval=3000)
 ani.save('comments_barplot.gif', writer='pillow')
