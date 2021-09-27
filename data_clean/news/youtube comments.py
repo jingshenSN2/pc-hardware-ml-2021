@@ -37,17 +37,18 @@ for file in file_list:
 comment_df = pd.DataFrame(comment_list)
 comment_df.to_csv('../../data/comments.csv', index=False)
 
-comment_df['published_at'] = pd.to_datetime(comment_df['published_at'])
-comment_df_by_date = comment_df.set_index('published_at')
-
 # sample to be labeled manually
-sample = comment_df_by_date.loc['2021-09-14'].reset_index()['text'].to_frame()
+sample = comment_df['text'].sample(n=1000, random_state=501).reset_index(drop=True).to_frame()
 sample.insert(0, 'LABEL', value=[0] * len(sample))
 for idx, row in sample.iterrows():
     text = row['text'].lower()
     for keyword in ['gpu', 'nvidia', 'amd', 'graphic', '2060', '12g', 'rtx', '00xt', '3050', '3060', '3070', '3080', 'gtx', 'crpyto', 'vram', 'litecoin', '1080']:
         if keyword in text:
             sample['LABEL'].values[idx] = 1
+            break
+    for keyword in ['cpu']:
+        if keyword in text:
+            sample['LABEL'].values[idx] = 0
             break
 
 sample.to_csv('../../data_clean/news/comment_sample_prelabeled.csv', index=False)
