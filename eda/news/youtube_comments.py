@@ -1,5 +1,5 @@
 import pandas as pd
-from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt, animation
 from wordcloud import WordCloud, STOPWORDS
 
 comments_df = pd.read_csv('../../data/comments_labeled.csv')
@@ -34,17 +34,37 @@ for ym in ym_comments:
 # extra_stopwords = ['nvidia', 'amd', 'gpu', 'gpus', 'card', 'cards', 'graphic', 'will']
 # STOPWORDS.update(extra_stopwords)
 
+wordcloud_list = []
+
 for ym in ym_comment_texts:
     max_words = 20
     wc = WordCloud(width=1600, height=800, stopwords=STOPWORDS, max_words=max_words, background_color='white', include_numbers=True).generate_from_text(ym_comment_texts[ym])
-    plt.figure(figsize=(20, 10))
+    wordcloud_list.append((ym, wc))
+
+
+def update_wordcloud(data):
+    ym, wc = data
+    plt.cla()
     plt.imshow(wc)
     plt.axis("off")
-    plt.savefig(f'comments/wordcloud/{ym}.png', bbox_inches='tight')
-    plt.close()
-    plt.figure(figsize=(20, 10))
+    plt.title(f'Word cloud of comments from {ym}', fontsize=32)
+    plt.tight_layout()
+
+
+def update_barplot(data):
+    ym, wc = data
+    plt.cla()
     plt.barh(range(max_words), [wc.words_[w] for w in wc.words_][::-1])
-    plt.yticks([x for x in range(max_words)], list(wc.words_.keys())[::-1])
-    plt.title(f'Top {max_words} words in comments from {ym}')
-    plt.savefig(f'comments/bar/{ym}.png', bbox_inches='tight')
-    plt.close()
+    plt.yticks([x for x in range(max_words)], list(wc.words_.keys())[::-1], fontsize=32)
+    plt.xlabel('Frequency', fontsize=32)
+    plt.title(f'Top {max_words} words in comments from {ym}', fontsize=32)
+    plt.tight_layout()
+
+
+fig = plt.figure(figsize=(20, 10))
+ani = animation.FuncAnimation(fig, update_wordcloud, frames=wordcloud_list, interval=4000, repeat_delay=2000)
+ani.save('comments_wordcloud.gif', writer='pillow')
+
+fig = plt.figure(figsize=(20, 10))
+ani = animation.FuncAnimation(fig, update_barplot, frames=wordcloud_list, interval=4000, repeat_delay=2000)
+ani.save('comments_barplot.gif', writer='pillow')
