@@ -1,6 +1,6 @@
 import datetime
 import json
-
+import re
 import pandas as pd
 video_list = []
 
@@ -24,7 +24,10 @@ for idx, row in video_df.iterrows():
         if str(content).startswith('FOLLOW US ELSEWHERE'):
             segment = segment[:i]
             break
-    video_df['description'].values[idx] = ' '.join(segment)
+    text = ' '.join(segment)
+    text = re.sub(r"[\t\n\r\*\.\@\,\-\/\>\<\=\$\'\|\+\`\(\)]", ' ', text)
+    text = re.sub(r"\s+", ' ', text)
+    video_df['description'].values[idx] = text
 
 video_df.to_csv('../../data/channel_videos.csv', index=False)
 

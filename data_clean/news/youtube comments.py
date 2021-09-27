@@ -1,6 +1,8 @@
 import datetime
 import os
 import json
+import re
+
 from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
 
@@ -26,6 +28,9 @@ for file in file_list:
             published_at = datetime.datetime.strptime(snippet['publishedAt'], "%Y-%m-%dT%H:%M:%SZ").date()
             published_week = published_at - datetime.timedelta(days=published_at.weekday())
             text = snippet['textOriginal'].replace('\n', ' ').encode("ascii", "ignore").decode()
+            text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_]", ' ', text)
+            text = re.sub(r"\s+", ' ', text)
+            text = re.sub(r"\.+", '.', text)
             if len(text) < 20 or len(text.split(' ')) < 5:
                 # we only use comments that have over 20 characters and 5 words
                 continue
@@ -38,15 +43,15 @@ comment_df = pd.DataFrame(comment_list)
 comment_df.to_csv('../../data/comments.csv', index=False)
 
 # sample to be labeled manually
-sample = comment_df['text'].sample(n=1000, random_state=501).reset_index(drop=True).to_frame()
+sample = comment_df['text'].sample(n=2000, random_state=501).reset_index(drop=True).to_frame()
 sample.insert(0, 'LABEL', value=[0] * len(sample))
 for idx, row in sample.iterrows():
     text = row['text'].lower()
-    for keyword in ['gpu', 'nvidia', 'amd', 'graphic', '2060', '12g', 'rtx', '00xt', '3050', '3060', '3070', '3080', 'gtx', 'crpyto', 'vram', 'litecoin', '1080']:
+    for keyword in ['gpu', 'nvidia', 'amd', 'graphic', 'card', '980', '2060', '2070', '2080','12g', 'rtx', '00xt', '3050', '3060', '3070', '3080', '3090', 'gtx', 'crpyto', 'vram', 'litecoin', '1080']:
         if keyword in text:
             sample['LABEL'].values[idx] = 1
             break
-    for keyword in ['cpu']:
+    for keyword in ['cpu', 'processor']:
         if keyword in text:
             sample['LABEL'].values[idx] = 0
             break
