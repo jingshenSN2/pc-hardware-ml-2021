@@ -27,18 +27,22 @@ corpus
 
 corpus = tm_map(corpus, tolower)
 corpus = tm_map(corpus, stemDocument)
-corpus = tm_map(corpus, removePunctuation)
 for (j in seq(corpus)) {
   corpus[[j]] <- gsub("gpus", "gpu", corpus[[j]])
   corpus[[j]] <- gsub("cpus", "cpu", corpus[[j]])
   corpus[[j]] <- gsub("bought", "buy", corpus[[j]])
+  # remove time
+  corpus[[j]] <- gsub("\\d+:\\d+", " ", corpus[[j]])
   # add space between number and alphabet
   corpus[[j]] <- gsub("([0-9]+)([a-z]+)", "\\1 \\2", corpus[[j]])
   corpus[[j]] <- gsub("([a-z]+)([0-9]+)", "\\1 \\2", corpus[[j]])
 }
 corpus = tm_map(corpus, removeWords, stopwords("english"))
 corpus = tm_map(corpus, removeWords, c("actual", "becaus", "can", "cant", 
-                                       "dont", "will",  "even", "just", "one"))
+                                       "dont", "will",  "even", "just", 
+                                       "one", "gonna", "still", 
+                                       "gpu", "cpu", "card", "graphic",
+                                       "ryzen"))
 corpus = tm_map(corpus, stripWhitespace)
 
 # declare top words data frame
@@ -50,14 +54,19 @@ top_by_ym = data.frame(ym = character(),
 
 # calculate freq of top 20 words each month
 for (i in 1:nrow(comments_by_month)) {
-  top20 = freq_terms(corpus[i], top = 20, extend = FALSE,
-                     at.least = 3, digit.remove = FALSE)
+  strp = strip(corpus[[i]])
+  words = unlist(strsplit(strp, " "))
+  words = words[nchar(words)>=3]
+  words = table(words) %>% as.data.frame() %>% arrange(desc(Freq))
+  top20 = words[1:20,]
   colnames(top20) = c('keyword', 'freq')
   top20$freq = top20$freq / top20$freq[1]
   top20$ym = comments_by_month$ym[i]
   top20$rank = 1:length(top20$ym)
   top_by_ym = rbind(top_by_ym, top20)
 }
+
+View(top_by_ym)
 
 # plot by gganimate
 staticplot <- ggplot(top_by_ym, aes(rank,
@@ -96,3 +105,32 @@ anim <- staticplot + transition_states(ym, transition_length = 1, state_length =
 animate(anim, nrow(comments_by_month) * 20, fps = 20, 
         width = 1200, height = 1000,
         renderer = gifski_renderer("../eda/news/barplot.gif"))
+
+# declare top words data frame
+top_by_ym_number = data.frame(ym = character(),
+                       keyword = character(),
+                       freq = numeric(), 
+                       rank = integer(),
+                       stringsAsFactors=FALSE)
+
+for (j in seq(corpus)) {
+  corpus[[j]] <- gsub("[a-z]+", " ", corpus[[j]])
+}
+corpus = tm_map(corpus, stripWhitespace)
+
+
+# calculate freq of top 20 words each month
+for (i in 1:nrow(comments_by_month)) {
+  strp = strip(corpus[[i]], digit.remove = FALSE)
+  words = unlist(strsplit(strp, " "))
+  words = words[nchar(words)>=3 & nchar(words)<=4]
+  words = table(words) %>% as.data.frame() %>% arrange(desc(Freq))
+  top = words[1:5,]
+  colnames(top) = c('keyword', 'freq')
+  top$freq = top$freq / top$freq[1]
+  top$ym = comments_by_month$ym[i]
+  top$rank = 1:length(top$ym)
+  top_by_ym_number = rbind(top_by_ym_number, top)
+}
+
+View(top_by_ym_number)
