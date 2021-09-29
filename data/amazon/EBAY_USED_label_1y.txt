@@ -1,36 +1,25 @@
-cpu Intel core i9-10920X
-cpu Intel core i9-10900X
 cpu Intel core i9-9980XE
-cpu Intel core i9-9940X
 cpu Intel core i9-9920X
 cpu Intel core i9-9900X
 cpu Intel core i9-9820X
 cpu Intel core i9-9900KS
 cpu Intel core i9-9900K
-cpu Intel core i9-9900KF
 cpu Intel core i9-9900
 cpu Intel core i7-9700K
-cpu Intel core i7-9700KF
 cpu Intel core i7-9700
 cpu Intel core i7-9700F
 cpu Intel core i7-8086K
-cpu Intel core i7-8700K
 cpu Intel core i7-8700
-cpu Intel core i7-7700K
 cpu Intel core i7-7700
 cpu Intel core i5-9600KF
-cpu Intel core i5-9600
 cpu Intel core i5-9500
 cpu Intel core i5-9400
 cpu Intel core i5-9400F
 cpu Intel core i5-8500
 cpu Intel core i5-8400
-cpu Intel core i3-9100
 cpu Intel core i3-9100F
-cpu Intel core i3-8350K
 cpu Intel core i3-8300
 cpu Intel core i3-8100
-cpu AMD ryzen threadripper 3990X
 cpu AMD ryzen threadripper 3970X
 cpu AMD ryzen threadripper 3960X
 cpu AMD ryzen threadripper 2990WX
@@ -45,9 +34,7 @@ cpu AMD ryzen 7 3800X
 cpu AMD ryzen 7 3700X
 cpu AMD ryzen 5 3600X
 cpu AMD ryzen 7 2700X
-cpu AMD ryzen 7 2700
 cpu AMD ryzen 5 2600X
-cpu AMD ryzen 5 2600
 cpu AMD ryzen 5 3400G
 cpu AMD ryzen 3 3200G
 gpu MSI NVIDIA Geforce GTX 1660
@@ -60,7 +47,6 @@ gpu MSI NVIDIA Geforce RTX 2060
 gpu MSI NVIDIA Geforce RTX 2060
 gpu MSI NVIDIA Geforce RTX 2060 Super
 gpu MSI NVIDIA Geforce RTX 2070
-gpu MSI NVIDIA Geforce RTX 2070
 gpu MSI NVIDIA Geforce RTX 2070 Super
 gpu MSI NVIDIA Geforce RTX 2080
 gpu MSI NVIDIA Geforce RTX 2080 Super
@@ -69,24 +55,14 @@ gpu MSI NVIDIA Geforce RTX 2080 Ti
 gpu MSI AMD Radeon RX 580
 gpu MSI AMD Radeon RX 580
 gpu MSI AMD Radeon RX 5500 XT
-gpu MSI AMD Radeon RX 5500 XT
-gpu MSI AMD Radeon RX 5600 XT
-gpu MSI AMD Radeon RX 5600 XT
 gpu MSI AMD Radeon RX 5700 XT
 gpu EVGA NVIDIA Geforce GTX 1050 ti
 gpu EVGA NVIDIA Geforce GTX 1060
-gpu MSI NVIDIA Geforce GTX 1060
 gpu EVGA NVIDIA Geforce GTX 1660
-gpu EVGA NVIDIA Geforce GTX 1660 Super
-gpu EVGA NVIDIA Geforce GTX 1660 Ti
-gpu EVGA NVIDIA Geforce RTX 2060
-gpu EVGA NVIDIA Geforce RTX 2060
-gpu EVGA NVIDIA Geforce RTX 2060 Super
 gpu EVGA NVIDIA Geforce RTX 2060 Super
 gpu EVGA NVIDIA Geforce RTX 2070
 gpu EVGA NVIDIA Geforce RTX 2070 Super
 gpu EVGA NVIDIA Geforce RTX 2080
-gpu EVGA NVIDIA Geforce RTX 2080
 gpu EVGA NVIDIA Geforce RTX 2080 Super
 gpu EVGA NVIDIA Geforce RTX 2080 Super
 gpu EVGA NVIDIA Geforce RTX 2080 Ti
@@ -95,47 +71,26 @@ gpu EVGA NVIDIA Geforce RTX 2080 Ti
 gpu ASUS NVIDIA Geforce GTX 1050 Ti
 gpu ASUS NVIDIA Geforce GTX 1050 Ti
 gpu ASUS NVIDIA Geforce GTX 1050 Ti
-gpu ASUS NVIDIA Geforce GTX 1650 Super
-gpu ASUS NVIDIA Geforce GTX 1650 Super
-gpu ASUS NVIDIA Geforce GTX 1660
 gpu ASUS NVIDIA Geforce GTX 1660 Super
 gpu ASUS NVIDIA Geforce GTX 1660 Super
-gpu ASUS NVIDIA Geforce GTX 1660 Super
-gpu ASUS NVIDIA Geforce RTX 2060
 gpu ASUS NVIDIA Geforce RTX 2060
 gpu ASUS NVIDIA Geforce RTX 2070
-gpu ASUS NVIDIA Geforce RTX 2070 Super
 gpu ASUS NVIDIA Geforce RTX 2070 Super
 gpu ASUS NVIDIA Geforce RTX 2080
 gpu ASUS NVIDIA Geforce RTX 2080 Super
 gpu ASUS NVIDIA Geforce RTX 2080 Ti
-gpu ASUS AMD Radeon RX 570
 gpu ASUS AMD Radeon RX 580
-gpu ASUS AMD Radeon RX 580
-gpu ASUS AMD Radeon RX 5500 XT
-gpu ASUS AMD Radeon RX 5500 XT
-gpu ASUS AMD Radeon RX 5600 XT
 gpu XFX AMD Radeon RX 570
 gpu XFX AMD Radeon RX 580
-gpu XFX AMD Radeon RX 5500 XT
-gpu XFX AMD Radeon RX 5700 XT
-gpu Sapphire Technology AMD Radeon RX 570
 gpu Sapphire Technology AMD Radeon RX 570
 gpu Sapphire Technology AMD Radeon RX 570
 gpu Sapphire Technology AMD Radeon RX 580
 gpu Sapphire Technology AMD Radeon RX 580
-gpu Sapphire Technology AMD Radeon RX 580
-gpu Sapphire Technology AMD Radeon RX 5500 XT
-gpu Sapphire Technology AMD Radeon RX 5500 XT
-gpu Sapphire Technology AMD Radeon RX 5600 XT
-gpu Sapphire Technology AMD Radeon RX 5700 XT
 gpu Sapphire Technology AMD Radeon RX 5700 XT
 gpu Gigabyte NVIDIA Geforce GTX 1030
 gpu Gigabyte NVIDIA Geforce GTX 1050 Ti
 gpu Gigabyte NVIDIA Geforce GTX 1050 Ti
-gpu Gigabyte NVIDIA Geforce GTX 1050 Ti
 gpu Gigabyte NVIDIA Geforce GTX 1650
-gpu Gigabyte NVIDIA Geforce GTX 1660
 gpu Gigabyte NVIDIA Geforce GTX 1660 Ti
 gpu Gigabyte NVIDIA Geforce RTX 2060
 gpu Gigabyte NVIDIA Geforce RTX 2070 Super
@@ -143,68 +98,25 @@ gpu Gigabyte NVIDIA Geforce RTX 2070 Super
 gpu Gigabyte NVIDIA Geforce RTX 2080 Super
 gpu Gigabyte NVIDIA Geforce RTX 2080 Ti
 gpu Gigabyte AMD Radeon RX 570
-gpu Gigabyte AMD Radeon RX 580
-gpu Gigabyte AMD Radeon RX 5500 XT
-gpu Gigabyte AMD Radeon RX 5600 XT
-gpu Gigabyte AMD Radeon RX 5700 XT
 gpu Gigabyte AMD Radeon RX 5700 XT
 gpu ZOTAC NVIDIA Geforce GTX 1030
-gpu ZOTAC NVIDIA Geforce GTX 1050 ti
+gpu ZOTAC NVIDIA Geforce GTX 1060
 gpu ZOTAC NVIDIA Geforce GTX 1650
-gpu ZOTAC NVIDIA Geforce GTX 1650 Super
-gpu ZOTAC NVIDIA Geforce GTX 1660
 gpu ZOTAC NVIDIA Geforce GTX 1660
 gpu ZOTAC NVIDIA Geforce GTX 1660 Super
-gpu ZOTAC NVIDIA Geforce GTX 1660 Ti
-gpu ZOTAC NVIDIA Geforce RTX 2060
-gpu ZOTAC NVIDIA Geforce RTX 2060 Super
-gpu ZOTAC NVIDIA Geforce RTX 2070
-gpu ZOTAC NVIDIA Geforce RTX 2070 Super
-gpu ZOTAC NVIDIA Geforce RTX 2080
-gpu ZOTAC NVIDIA Geforce RTX 2080 Super
-drive ADATA su800 sata 128gb
-drive ADATA su800 sata 512gb
 drive ADATA su800 sata 1tb
 drive ADATA su800 sata 2tb
-drive ADATA su635 sata 256gb
-drive ADATA su635 sata 512gb
-drive ADATA su635 sata 1tb
-drive ADATA su800 m2 256gb
-drive ADATA su800 m2 512gb
 drive ADATA su800 m2 1tb
-drive ADATA su650 m2 128gb
-drive ADATA su650 m2 256gb
-drive XPG sx8200 pro nvme 256gb
-drive XPG sx8200 pro nvme 512gb
 drive XPG sx8200 pro nvme 1tb
-drive XPG sx8200 pro nvme 2tb
-drive XPG sx6000 pro nvme 256gb
-drive XPG sx6000 pro nvme 512gb
-drive XPG sx6000 pro nvme 1tb
-drive XPG sx6000 lite nvme 512gb
 drive Crucial mx500 sata 256gb
-drive Crucial mx500 sata 512gb
 drive Crucial mx500 sata 1tb
 drive Crucial mx500 sata 2tb
-drive Crucial bx500 sata 256gb
-drive Crucial bx500 sata 512gb
-drive Crucial bx500 sata 1tb
-drive Crucial bx500 sata 2tb
-drive Kingston kc600 sata 256gb
-drive Kingston kc600 sata 512gb
-drive Kingston kc600 sata 1tb
 drive Kingston q500 sata 128gb
-drive Kingston q500 sata 256gb
-drive Kingston q500 sata 512gb
-drive Kingston q500 sata 1tb
-drive Kingston a400 sata 128gb
 drive Kingston a400 sata 256gb
 drive Kingston a400 sata 512gb
 drive Kingston a400 sata 1tb
-drive Kingston a400 sata 2tb
 drive Kingston a400 m2 128gb
 drive Kingston a400 m2 256gb
-drive Kingston a400 m2 512gb
 drive Kingston a2000 nvme 256gb
 drive Kingston a2000 nvme 512gb
 drive Kingston a2000 nvme 1tb
@@ -214,7 +126,6 @@ drive SAMSUNG 860 pro sata 1tb
 drive SAMSUNG 860 pro sata 2tb
 drive SAMSUNG 860 pro sata 4tb
 drive SAMSUNG 860 qvo sata 1tb
-drive SAMSUNG 860 evo sata 256gb
 drive SAMSUNG 860 evo sata 512gb
 drive SAMSUNG 860 evo sata 2tb
 drive SAMSUNG 860 evo sata 4tb
@@ -227,11 +138,8 @@ drive SAMSUNG 970 pro nvme 1tb
 drive SAMSUNG 970 evo plus nvme 256gb
 drive SAMSUNG 970 evo plus nvme 512gb
 drive SAMSUNG 970 evo plus nvme 1tb
-drive SAMSUNG 970 evo plus nvme 2tb
 drive SAMSUNG 970 evo nvme 512gb
 drive SAMSUNG 970 evo nvme 2tb
-drive SanDisk ssd plus sata 256gb
-drive SanDisk ssd plus sata 512gb
 drive SanDisk ssd plus sata 1tb
 drive SanDisk ssd plus sata 2tb
 drive SanDisk ultra 3d nand sata 256gb
@@ -239,37 +147,18 @@ drive SanDisk ultra 3d nand sata 512gb
 drive SanDisk ultra 3d nand sata 1tb
 drive SanDisk ultra 3d nand sata 2tb
 drive SanDisk ultra 3d nand sata 4tb
-drive Seagate barracuda 120 sata 256gb
-drive Seagate barracuda 120 sata 512gb
-drive Seagate barracuda 120 sata 1tb
-drive Seagate barracuda 120 sata 2tb
-drive Seagate firecuda 520 nvme 512gb
-drive Seagate firecuda 520 nvme 1tb
-drive Seagate firecuda 520 nvme 2tb
-drive Seagate firecuda 510 nvme 512gb
-drive Seagate firecuda 510 nvme 1tb
 drive Seagate firecuda 510 nvme 2tb
-drive Seagate barracuda 510 nvme 256gb
 drive Seagate barracuda 510 nvme 512gb
-drive Seagate barracuda 510 nvme 1tb
-drive SK hynix gold s31 sata 256gb
 drive SK hynix gold s31 sata 512gb
 drive SK hynix gold s31 sata 1tb
-drive Western Digital wd red sata 512gb
-drive Western Digital wd red sata 1tb
 drive Western Digital wd red sata 2tb
-drive Western Digital wd red sata 4tb
+drive Western Digital wd blue sata 256gb
 drive Western Digital wd blue sata 512gb
 drive Western Digital wd blue sata 1tb
 drive Western Digital wd blue sata 2tb
 drive Western Digital wd blue sata 4tb
-drive Western Digital wd green sata 128gb
 drive Western Digital wd green sata 256gb
-drive Western Digital wd green sata 512gb
 drive Western Digital wd green sata 1tb
-drive Western Digital wd red m2 512gb
-drive Western Digital wd red m2 1tb
-drive Western Digital wd red m2 2tb
 drive Western Digital wd blue m2 256gb
 drive Western Digital wd blue m2 512gb
 drive Western Digital wd blue m2 1tb
@@ -278,77 +167,36 @@ drive WD_BLACK sn750 nvme 256gb
 drive WD_BLACK sn750 nvme 512gb
 drive WD_BLACK sn750 nvme 1tb
 drive WD_BLACK sn750 nvme 2tb
-drive Western Digital sn550 nvme 256gb
 drive Western Digital sn550 nvme 512gb
-drive Western Digital sn550 nvme 1tb
 drive Seagate barracuda 35 1tb
 drive Seagate barracuda 35 2tb
 drive Seagate barracuda 35 6tb
 drive Seagate barracuda 35 8tb
 drive Seagate barracuda 25 1tb
-drive Seagate barracuda 25 2tb
 drive Seagate firecuda 35 2tb
-drive Seagate firecuda 25 500gb
-drive Seagate firecuda 25 1tb
-drive Seagate firecuda 25 2tb
-drive Seagate ironwolf 35 4tb
-drive Seagate ironwolf 35 12tb
-drive Seagate skyhawk 35 2tb
-drive Seagate skyhawk 35 4tb
-drive Seagate skyhawk 35 6tb
-drive Seagate skyhawk 35 8tb
-drive Toshiba x300 35 4tb
+drive Seagate ironwolf pro 35 16tb
 drive Toshiba x300 35 5tb
 drive Toshiba x300 35 6tb
 drive Toshiba x300 35 8tb
-drive Toshiba p300 35 500gb
 drive Toshiba p300 35 2tb
-drive Toshiba p300 35 3tb
-drive Toshiba l200 25 500gb
 drive Toshiba l200 25 2tb
 drive Toshiba n300 35 4tb
-drive Toshiba n300 35 6tb
-drive Toshiba n300 35 8tb
-drive Toshiba s300 35 4tb
-drive Toshiba s300 35 5tb
 drive Western Digital wd blue 35 2tb
-drive Western Digital wd blue 35 6tb
-drive Western Digital wd blue 25 500gb
 drive Western Digital wd blue 25 1tb
 drive Western Digital wd blue 25 2tb
-drive Western Digital wd red 35 2tb
-drive Western Digital wd red 35 3tb
-drive Western Digital wd red 35 4tb
 drive Western Digital wd red 35 6tb
-drive Western Digital wd red plus 35 2tb
-drive Western Digital wd red plus 35 3tb
-drive Western Digital wd red plus 35 6tb
 drive Western Digital wd red plus 35 8tb
-drive Western Digital wd red plus 35 10tb
-drive Western Digital wd red plus 35 12tb
 drive Western Digital wd red plus 35 14tb
 drive Western Digital wd red pro 35 4tb
-drive Western Digital wd red pro 35 6tb
 drive Western Digital wd red pro 35 8tb
-drive Western Digital wd red pro 35 10tb
-drive Western Digital wd red pro 35 12tb
-drive Western Digital wd red pro 35 14tb
 drive Western Digital wd purple 35 1tb
-drive Western Digital wd purple 35 2tb
-drive Western Digital wd purple 35 3tb
 drive Western Digital wd purple 35 4tb
 drive Western Digital wd purple 35 6tb
 drive Western Digital wd purple 35 8tb
 drive Western Digital wd purple 35 12tb
-drive WD_BLACK wd black 35 500gb
 drive WD_BLACK wd black 35 2tb
 drive WD_BLACK wd black 35 4tb
-drive WD_BLACK wd black 35 6tb
-drive Western Digital wd gold 35 1tb
 drive Western Digital wd gold 35 2tb
 drive Western Digital wd gold 35 4tb
-drive Western Digital wd gold 35 6tb
 drive Western Digital wd gold 35 8tb
-drive Western Digital wd gold 35 10tb
 drive Western Digital wd gold 35 12tb
-drive Western Digital wd gold 35 14tb
