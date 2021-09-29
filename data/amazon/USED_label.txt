@@ -6,8 +6,6 @@ cpu Intel core i9-9940X
 cpu Intel core i9-9920X
 cpu Intel core i9-9900X
 cpu Intel core i9-9820X
-cpu Intel core i9-11900K
-cpu Intel core i9-11900
 cpu Intel core i9-10900K
 cpu Intel core i9-10900K
 cpu Intel core i9-10900KF
@@ -19,9 +17,6 @@ cpu Intel core i9-9900K
 cpu Intel core i9-9900K
 cpu Intel core i9-9900KF
 cpu Intel core i9-9900
-cpu Intel core i7-11700K
-cpu Intel core i7-11700KF
-cpu Intel core i7-11700F
 cpu Intel core i7-10700K
 cpu Intel core i7-10700KF
 cpu Intel core i7-10700
@@ -35,9 +30,6 @@ cpu Intel core i7-8700K
 cpu Intel core i7-8700
 cpu Intel core i7-7700K
 cpu Intel core i7-7700
-cpu Intel core i5-11500
-cpu Intel core i5-11400
-cpu Intel core i5-11400F
 cpu Intel core i5-10600K
 cpu Intel core i5-10600KF
 cpu Intel core i5-10600
@@ -72,7 +64,6 @@ cpu AMD ryzen 9 5950X
 cpu AMD ryzen 9 5900X
 cpu AMD ryzen 7 5800X
 cpu AMD ryzen 5 5600X
-cpu AMD ryzen 7 5700G
 cpu AMD ryzen 9 3950X
 cpu AMD ryzen 9 3900XT
 cpu AMD ryzen 9 3900X
@@ -112,15 +103,8 @@ gpu MSI NVIDIA Geforce RTX 2080
 gpu MSI NVIDIA Geforce RTX 2080 Super
 gpu MSI NVIDIA Geforce RTX 2080 Super
 gpu MSI NVIDIA Geforce RTX 2080 Ti
-gpu MSI NVIDIA Geforce RTX 3060
-gpu MSI NVIDIA Geforce RTX 3060
 gpu MSI NVIDIA Geforce RTX 3070
 gpu MSI NVIDIA Geforce RTX 3070
-gpu MSI NVIDIA Geforce RTX 3070
-gpu MSI NVIDIA Geforce RTX 3070 Ti
-gpu MSI NVIDIA Geforce RTX 3070 Ti
-gpu MSI NVIDIA Geforce RTX 3080
-gpu MSI NVIDIA Geforce RTX 3080 Ti
 gpu MSI NVIDIA Geforce RTX 3090
 gpu MSI AMD Radeon RX 580
 gpu MSI AMD Radeon RX 580
@@ -130,10 +114,7 @@ gpu MSI AMD Radeon RX 5600 XT
 gpu MSI AMD Radeon RX 5600 XT
 gpu MSI AMD Radeon RX 5600 XT
 gpu MSI AMD Radeon RX 5700 XT
-gpu MSI AMD Radeon RX 6700 XT
-gpu MSI AMD Radeon RX 6800
 gpu MSI AMD Radeon RX 6800 XT
-gpu MSI AMD Radeon RX 6900 XT
 gpu EVGA NVIDIA Geforce GTX 960
 gpu EVGA NVIDIA Geforce GTX 1050 ti
 gpu EVGA NVIDIA Geforce GTX 1060
@@ -156,9 +137,6 @@ gpu EVGA NVIDIA Geforce RTX 2080 Super
 gpu EVGA NVIDIA Geforce RTX 2080 Ti
 gpu EVGA NVIDIA Geforce RTX 2080 Ti
 gpu EVGA NVIDIA Geforce RTX 2080 Ti
-gpu EVGA NVIDIA Geforce RTX 3060
-gpu EVGA NVIDIA Geforce RTX 3070 Ti
-gpu EVGA NVIDIA Geforce RTX 3080 Ti
 gpu EVGA NVIDIA Geforce RTX 3090
 gpu EVGA NVIDIA Geforce RTX 3090
 gpu ASUS NVIDIA Geforce GTX 1050 Ti
@@ -179,11 +157,8 @@ gpu ASUS NVIDIA Geforce RTX 2080
 gpu ASUS NVIDIA Geforce RTX 2080
 gpu ASUS NVIDIA Geforce RTX 2080 Super
 gpu ASUS NVIDIA Geforce RTX 2080 Ti
-gpu ASUS NVIDIA Geforce RTX 3060
-gpu ASUS NVIDIA Geforce RTX 3060
 gpu ASUS NVIDIA Geforce RTX 3070
 gpu ASUS NVIDIA Geforce RTX 3070
-gpu ASUS NVIDIA Geforce RTX 3070 Ti
 gpu ASUS NVIDIA Geforce RTX 3080
 gpu ASUS NVIDIA Geforce RTX 3080
 gpu ASUS NVIDIA Geforce RTX 3090
@@ -195,10 +170,7 @@ gpu ASUS AMD Radeon RX 5500 XT
 gpu ASUS AMD Radeon RX 5500 XT
 gpu ASUS AMD Radeon RX 5600 XT
 gpu ASUS AMD Radeon RX 5700 XT
-gpu ASUS AMD Radeon RX 6700 XT
-gpu ASUS AMD Radeon RX 6700 XT
 gpu ASUS AMD Radeon RX 6800
-gpu ASUS AMD Radeon RX 6900 XT
 gpu ASUS AMD Radeon RX 6900 XT
 gpu XFX AMD Radeon RX 570
 gpu XFX AMD Radeon RX 580
@@ -206,11 +178,8 @@ gpu XFX AMD Radeon RX 5500 XT
 gpu XFX AMD Radeon RX 5600 XT
 gpu XFX AMD Radeon RX 5700 XT
 gpu XFX AMD Radeon RX 5700 XT
-gpu XFX AMD Radeon RX 6700 XT
 gpu XFX AMD Radeon RX 6800
 gpu XFX AMD Radeon RX 6800 XT
-gpu XFX AMD Radeon RX 6800 XT
-gpu XFX AMD Radeon RX 6900 XT
 gpu XFX AMD Radeon RX 6900 XT
 gpu Sapphire Technology AMD Radeon RX 570
 gpu Sapphire Technology AMD Radeon RX 570
@@ -226,10 +195,7 @@ gpu Sapphire Technology AMD Radeon RX 5600 XT
 gpu Sapphire Technology AMD Radeon RX 5700 XT
 gpu Sapphire Technology AMD Radeon RX 5700 XT
 gpu Sapphire Technology AMD Radeon RX 5700 XT
-gpu Sapphire Technology AMD Radeon RX 6700 XT
-gpu Sapphire Technology AMD Radeon RX 6700 XT
 gpu Sapphire Technology AMD Radeon RX 6800
-gpu Sapphire Technology AMD Radeon RX 6800 XT
 gpu Sapphire Technology AMD Radeon RX 6900 XT
 gpu Gigabyte NVIDIA Geforce GTX 1030
 gpu Gigabyte NVIDIA Geforce GTX 1050 Ti
@@ -245,11 +211,6 @@ gpu Gigabyte NVIDIA Geforce RTX 2070 Super
 gpu Gigabyte NVIDIA Geforce RTX 2070 Super
 gpu Gigabyte NVIDIA Geforce RTX 2080 Super
 gpu Gigabyte NVIDIA Geforce RTX 2080 Ti
-gpu Gigabyte NVIDIA Geforce RTX 3060
-gpu Gigabyte NVIDIA Geforce RTX 3060
-gpu Giga Byte NVIDIA Geforce RTX 3070
-gpu Gigabyte NVIDIA Geforce RTX 3080 Ti
-gpu Gigabyte NVIDIA Geforce RTX 3090
 gpu Gigabyte NVIDIA Geforce RTX 3090
 gpu Gigabyte NVIDIA Geforce RTX 3090
 gpu Gigabyte AMD Radeon RX 570
@@ -259,8 +220,6 @@ gpu Gigabyte AMD Radeon RX 5500 XT
 gpu Gigabyte AMD Radeon RX 5600 XT
 gpu Gigabyte AMD Radeon RX 5700 XT
 gpu Gigabyte AMD Radeon RX 5700 XT
-gpu Gigabyte AMD Radeon RX 6700 XT
-gpu Gigabyte AMD Radeon RX 6800
 gpu Gigabyte AMD Radeon RX 6800 XT
 gpu ZOTAC NVIDIA Geforce GTX 1030
 gpu ZOTAC NVIDIA Geforce GTX 1050 ti
@@ -287,11 +246,6 @@ gpu ZOTAC NVIDIA Geforce RTX 2080 Super
 gpu ZOTAC NVIDIA Geforce RTX 2080 Super
 gpu ZOTAC NVIDIA Geforce RTX 2080 Ti
 gpu ZOTAC NVIDIA Geforce RTX 2080 Ti
-gpu ZOTAC NVIDIA Geforce RTX 3060
-gpu ZOTAC NVIDIA Geforce RTX 3070
-gpu ZOTAC NVIDIA Geforce RTX 3070 Ti
-gpu ZOTAC NVIDIA Geforce RTX 3080 Ti
-gpu ZOTAC NVIDIA Geforce RTX 3090
 drive ADATA su800 sata 128gb
 drive ADATA su800 sata 512gb
 drive ADATA su800 sata 1tb
@@ -325,7 +279,6 @@ drive Crucial bx500 sata 256gb
 drive Crucial bx500 sata 512gb
 drive Crucial bx500 sata 1tb
 drive Crucial bx500 sata 2tb
-drive Crucial p5 nvme 256gb
 drive Crucial p5 nvme 512gb
 drive Crucial p5 nvme 1tb
 drive Crucial p5 nvme 2tb
@@ -357,11 +310,6 @@ drive SAMSUNG 870 qvo sata 1tb
 drive SAMSUNG 870 qvo sata 2tb
 drive SAMSUNG 870 qvo sata 4tb
 drive SAMSUNG 870 qvo sata 8tb
-drive SAMSUNG 870 evo sata 256gb
-drive SAMSUNG 870 evo sata 512gb
-drive SAMSUNG 870 evo sata 1tb
-drive SAMSUNG 870 evo sata 2tb
-drive SAMSUNG 870 evo sata 4tb
 drive SAMSUNG 860 pro sata 256gb
 drive SAMSUNG 860 pro sata 512gb
 drive SAMSUNG 860 pro sata 1tb
@@ -380,10 +328,6 @@ drive SAMSUNG 860 evo m2 2tb
 drive SAMSUNG 980 pro nvme 256gb
 drive SAMSUNG 980 pro nvme 512gb
 drive SAMSUNG 980 pro nvme 1tb
-drive SAMSUNG 980 pro nvme 2tb
-drive SAMSUNG 980 nvme 256gb
-drive SAMSUNG 980 nvme 512gb
-drive SAMSUNG 980 nvme 1tb
 drive SAMSUNG 970 pro nvme 512gb
 drive SAMSUNG 970 pro nvme 1tb
 drive SAMSUNG 970 evo plus nvme 256gb
@@ -460,7 +404,6 @@ drive WD_BLACK sn750 nvme 256gb
 drive WD_BLACK sn750 nvme 512gb
 drive WD_BLACK sn750 nvme 1tb
 drive WD_BLACK sn750 nvme 2tb
-drive WD_BLACK sn750 nvme 4tb
 drive Western Digital sn550 nvme 256gb
 drive Western Digital sn550 nvme 512gb
 drive Western Digital sn550 nvme 1tb
@@ -522,7 +465,6 @@ drive Toshiba s300 35 4tb
 drive Toshiba s300 35 5tb
 drive Toshiba s300 35 8tb
 drive Western Digital wd blue 35 2tb
-drive Western Digital wd blue 35 3tb
 drive Western Digital wd blue 35 4tb
 drive Western Digital wd blue 35 6tb
 drive Western Digital wd blue 25 500gb
@@ -534,7 +476,6 @@ drive Western Digital wd red 35 4tb
 drive Western Digital wd red 35 6tb
 drive Western Digital wd red plus 35 2tb
 drive Western Digital wd red plus 35 3tb
-drive Western Digital wd red plus 35 4tb
 drive Western Digital wd red plus 35 6tb
 drive Western Digital wd red plus 35 8tb
 drive Western Digital wd red plus 35 10tb
