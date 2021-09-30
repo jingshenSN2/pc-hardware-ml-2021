@@ -29,6 +29,7 @@ cpu AMD ryzen threadripper 2990WX
 cpu AMD ryzen threadripper 2970WX
 cpu AMD ryzen threadripper 2950X
 cpu AMD ryzen threadripper 2920X
+cpu AMD ryzen threadripper 1950X
 cpu AMD ryzen threadripper 1920X
 cpu AMD ryzen 9 3900X
 cpu AMD ryzen 7 3800X
@@ -57,7 +58,6 @@ gpu MSI AMD Radeon RX 580
 gpu EVGA NVIDIA Geforce GTX 960
 gpu MSI NVIDIA Geforce GTX 1060
 gpu EVGA NVIDIA Geforce GTX 1660
-gpu EVGA NVIDIA Geforce RTX 2060
 gpu EVGA NVIDIA Geforce RTX 2060 Super
 gpu EVGA NVIDIA Geforce RTX 2060 Super
 gpu EVGA NVIDIA Geforce RTX 2070
@@ -96,11 +96,9 @@ gpu Gigabyte NVIDIA Geforce RTX 2070
 gpu Gigabyte NVIDIA Geforce RTX 2070 Super
 gpu Gigabyte NVIDIA Geforce RTX 2070 Super
 gpu Gigabyte NVIDIA Geforce RTX 2080 Ti
-gpu Gigabyte AMD Radeon RX 5700 XT
 gpu ZOTAC NVIDIA Geforce GTX 1650
 gpu ZOTAC NVIDIA Geforce GTX 1660
 gpu ZOTAC NVIDIA Geforce GTX 1660 Ti
-gpu ZOTAC NVIDIA Geforce RTX 2060
 gpu ZOTAC NVIDIA Geforce RTX 2070
 gpu ZOTAC NVIDIA Geforce RTX 2080 Ti
 drive ADATA su800 sata 2tb
@@ -164,13 +162,12 @@ drive SanDisk ssd plus sata 1tb
 drive Seagate firecuda 510 nvme 1tb
 drive Seagate firecuda 510 nvme 2tb
 drive SK hynix gold s31 sata 256gb
-drive SK hynix gold s31 sata 512gb
-drive SK hynix gold s31 sata 1tb
 drive Western Digital wd blue sata 4tb
 drive Western Digital wd green sata 128gb
 drive Western Digital wd green sata 256gb
 drive Western Digital wd green sata 512gb
 drive Western Digital wd green sata 1tb
+drive Western Digital wd blue m2 2tb
 drive WD_BLACK sn750 nvme 256gb
 drive WD_BLACK sn750 nvme 512gb
 drive WD_BLACK sn750 nvme 1tb
@@ -220,4 +217,3 @@ drive Western Digital wd purple 35 8tb
 drive Western Digital wd purple 35 12tb
 drive WD_BLACK wd black 35 4tb
 drive WD_BLACK wd black 35 6tb
-drive Western Digital wd gold 35 4tb

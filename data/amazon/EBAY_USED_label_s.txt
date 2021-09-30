@@ -4,21 +4,17 @@ cpu AMD ryzen 5 2600
 gpu MSI NVIDIA Geforce RTX 2070
 gpu ASUS NVIDIA Geforce GTX 1660
 gpu ASUS AMD Radeon RX 570
-gpu ASUS AMD Radeon RX 580
-gpu XFX AMD Radeon RX 5700 XT
 gpu Sapphire Technology AMD Radeon RX 570
 gpu ZOTAC NVIDIA Geforce GTX 1660 Ti
 gpu ZOTAC NVIDIA Geforce RTX 2070
-gpu ZOTAC NVIDIA Geforce RTX 2070
+gpu ZOTAC NVIDIA Geforce RTX 2080
 gpu ZOTAC NVIDIA Geforce RTX 2080 Super
 drive XPG sx8200 pro nvme 2tb
 drive XPG sx6000 pro nvme 1tb
 drive XPG sx6000 lite nvme 512gb
-drive Crucial bx500 sata 512gb
-drive Kingston q500 sata 512gb
 drive Kingston q500 sata 1tb
 drive Kingston a400 sata 2tb
-drive SAMSUNG 860 evo sata 1tb
+drive Kingston a400 m2 512gb
 drive SAMSUNG 970 evo nvme 1tb
 drive Seagate firecuda 520 nvme 512gb
 drive Seagate firecuda 510 nvme 512gb
@@ -27,8 +23,13 @@ drive SK hynix gold s31 sata 256gb
 drive Western Digital sn550 nvme 256gb
 drive Western Digital sn550 nvme 1tb
 drive Seagate barracuda 35 4tb
+drive Seagate firecuda 25 500gb
+drive Seagate ironwolf 35 4tb
+drive Seagate skyhawk 35 4tb
 drive Seagate skyhawk 35 6tb
+drive Seagate skyhawk 35 8tb
 drive Toshiba n300 35 6tb
 drive Toshiba s300 35 4tb
+drive Western Digital wd red plus 35 10tb
 drive WD_BLACK wd black 35 6tb
 drive Western Digital wd gold 35 14tb

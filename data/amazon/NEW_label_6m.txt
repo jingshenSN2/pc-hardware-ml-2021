@@ -1,4 +1,5 @@
 cpu Intel core i9-10900K
+cpu Intel core i5-10600KF
 cpu Intel core i3-10100F
 cpu AMD ryzen 9 5950X
 cpu AMD ryzen 9 5900X
@@ -8,6 +9,7 @@ gpu MSI NVIDIA Geforce RTX 3060
 gpu MSI NVIDIA Geforce RTX 3060
 gpu MSI NVIDIA Geforce RTX 3070
 gpu MSI NVIDIA Geforce RTX 3070
+gpu MSI NVIDIA Geforce RTX 3090
 gpu MSI AMD Radeon RX 6800
 gpu MSI AMD Radeon RX 6800 XT
 gpu EVGA NVIDIA Geforce RTX 3060
@@ -30,7 +32,6 @@ gpu XFX AMD Radeon RX 6800 XT
 gpu XFX AMD Radeon RX 6900 XT
 gpu XFX AMD Radeon RX 6900 XT
 gpu Sapphire Technology AMD Radeon RX 570
-gpu Sapphire Technology AMD Radeon RX 570
 gpu Sapphire Technology AMD Radeon RX 6800
 gpu Sapphire Technology AMD Radeon RX 6800 XT
 gpu Sapphire Technology AMD Radeon RX 6900 XT
@@ -40,13 +41,14 @@ gpu Gigabyte NVIDIA Geforce RTX 3060
 gpu Gigabyte NVIDIA Geforce RTX 3090
 gpu Gigabyte NVIDIA Geforce RTX 3090
 gpu Gigabyte NVIDIA Geforce RTX 3090
+gpu Gigabyte AMD Radeon RX 5700 XT
 gpu Gigabyte AMD Radeon RX 6800
-gpu Gigabyte AMD Radeon RX 6800 XT
 gpu ZOTAC NVIDIA Geforce RTX 2080
 gpu ZOTAC NVIDIA Geforce RTX 2080 Super
 gpu ZOTAC NVIDIA Geforce RTX 3060
 gpu ZOTAC NVIDIA Geforce RTX 3070
 drive ADATA su720 sata 2tb
+drive Crucial p2 nvme 1tb
 drive Crucial p2 nvme 2tb
 drive Kingston q500 sata 2tb
 drive SAMSUNG 870 evo sata 256gb
@@ -70,6 +72,7 @@ drive WD_BLACK sn850 nvme 1tb
 drive WD_BLACK sn850 nvme 2tb
 drive WD_BLACK sn750 nvme 4tb
 drive Western Digital sn550 nvme 2tb
+drive Seagate ironwolf pro 35 18tb
 drive Western Digital wd red plus 35 4tb
 drive Western Digital wd red pro 35 16tb
 drive Western Digital wd red pro 35 18tb

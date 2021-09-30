@@ -13,7 +13,6 @@ cpu Intel core i7-10700KF
 cpu Intel core i7-10700
 cpu Intel core i7-10700F
 cpu Intel core i5-10600K
-cpu Intel core i5-10600KF
 cpu Intel core i5-10600
 cpu Intel core i5-10500
 cpu Intel core i5-10400
@@ -40,7 +39,6 @@ gpu MSI NVIDIA Geforce RTX 2070
 gpu MSI NVIDIA Geforce RTX 2070 Super
 gpu MSI NVIDIA Geforce RTX 2080 Super
 gpu MSI NVIDIA Geforce RTX 2080 Super
-gpu MSI NVIDIA Geforce RTX 3090
 gpu MSI AMD Radeon RX 5500 XT
 gpu MSI AMD Radeon RX 5500 XT
 gpu MSI AMD Radeon RX 5600 XT
@@ -51,6 +49,7 @@ gpu EVGA NVIDIA Geforce GTX 1650
 gpu EVGA NVIDIA Geforce GTX 1650
 gpu EVGA NVIDIA Geforce GTX 1660 Super
 gpu EVGA NVIDIA Geforce GTX 1660 Ti
+gpu EVGA NVIDIA Geforce RTX 2060
 gpu EVGA NVIDIA Geforce RTX 2060
 gpu EVGA NVIDIA Geforce RTX 2070 Super
 gpu ASUS NVIDIA Geforce GTX 1650 Super
@@ -85,6 +84,7 @@ gpu ZOTAC NVIDIA Geforce GTX 1650 Super
 gpu ZOTAC NVIDIA Geforce GTX 1660
 gpu ZOTAC NVIDIA Geforce GTX 1660
 gpu ZOTAC NVIDIA Geforce GTX 1660 Super
+gpu ZOTAC NVIDIA Geforce RTX 2060
 gpu ZOTAC NVIDIA Geforce RTX 2060 Super
 gpu ZOTAC NVIDIA Geforce RTX 2070
 gpu ZOTAC NVIDIA Geforce RTX 2070 Super
@@ -107,7 +107,6 @@ drive Crucial p5 nvme 1tb
 drive Crucial p5 nvme 2tb
 drive Crucial p2 nvme 256gb
 drive Crucial p2 nvme 512gb
-drive Crucial p2 nvme 1tb
 drive Kingston kc600 sata 256gb
 drive Kingston kc600 sata 512gb
 drive Kingston kc600 sata 1tb
@@ -141,6 +140,8 @@ drive Seagate firecuda 510 nvme 512gb
 drive Seagate barracuda 510 nvme 256gb
 drive Seagate barracuda 510 nvme 512gb
 drive Seagate barracuda 510 nvme 1tb
+drive SK hynix gold s31 sata 512gb
+drive SK hynix gold s31 sata 1tb
 drive SK hynix gold p31 nvme 512gb
 drive SK hynix gold p31 nvme 1tb
 drive Western Digital wd gold sata 1tb
@@ -166,7 +167,6 @@ drive Seagate ironwolf pro 35 4tb
 drive Seagate ironwolf pro 35 8tb
 drive Seagate ironwolf pro 35 10tb
 drive Seagate ironwolf pro 35 12tb
-drive Seagate ironwolf pro 35 18tb
 drive Seagate skyhawk ai 35 10tb
 drive Seagate skyhawk ai 35 12tb
 drive Seagate skyhawk ai 35 16tb
@@ -180,6 +180,7 @@ drive Western Digital wd red pro 35 14tb
 drive Western Digital wd purple 35 10tb
 drive Western Digital wd purple 35 14tb
 drive WD_BLACK wd black 35 8tb
+drive Western Digital wd gold 35 4tb
 drive Western Digital wd gold 35 6tb
 drive Western Digital wd gold 35 8tb
 drive Western Digital wd gold 35 10tb
