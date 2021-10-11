@@ -1,0 +1,243 @@
+---
+title: "Crypto & Commodity"
+author: "Jingsong, GAO"
+date: "2021/10/10"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dendextend)
+library(dplyr)
+library(data.table)
+library(dtwclust)
+library(ggdendro)
+library(gplots)
+library(ggplot2)
+library(ggthemes)
+library(ggthemr)
+library(gridExtra)
+library(tidyr)
+library(tibble)
+```
+
+## 1. Preparation
+
+Load Crypto price data.
+```{r}
+crypto = read.csv("../data/coin_metrics/PriceUSD.csv")
+crypto$date = as.Date(crypto$date)
+crypto = crypto[(nrow(crypto)-719):nrow(crypto),]
+str(crypto)
+```
+
+Normalize all prices.
+```{r}
+for (i in 2:length(colnames(crypto))) {
+  crypto[i] = crypto[i] / max(crypto[i])
+}
+row.names(crypto) <- crypto$date
+crypto[1] <- NULL
+head(crypto)
+```
+
+Transpose the data frame.
+```{r}
+crypto_ts = transpose(crypto)
+row.names(crypto_ts) = colnames(crypto)
+```
+
+
+Load Commodity price data.
+```{r}
+commodity = read.csv("../data/commodity.csv")
+commodity$Date = as.Date(commodity$Date)
+commodity = commodity[(nrow(commodity)-719):nrow(commodity),]
+str(commodity)
+```
+
+Normalize all prices.
+```{r}
+for (i in 2:length(colnames(commodity))) {
+  commodity[i] = commodity[i] / max(commodity[i])
+}
+row.names(commodity) <- commodity$date
+commodity[1] <- NULL
+head(commodity)
+```
+
+Transpose the data frame.
+```{r}
+commodity_ts = transpose(commodity)
+row.names(commodity_ts) = colnames(commodity)
+```
+
+
+Load Amazon products.
+```{r}
+amazon = read.csv("../data/amazon/NEW_eqts_2y.txt", header = F, sep = " ")
+amazon_label = read.csv("../data/amazon/NEW_label_2y.txt", header = F)$V1
+```
+
+
+Normalize all prices.
+```{r}
+for (i in 1:length(amazon[,1])) {
+  amazon[i,] = amazon[i,] / max(amazon[i,])
+}
+```
+
+
+## 2. KMeans clustering
+We train the KMeans clustering models with $k = 4:10$. Then we evaluate the models.
+```{r}
+km1 = tsclust(amazon, type = "partitional", k = 4L:10L, 
+              distance = "dtw_basic", centroid = "pam", 
+              seed = 511L)
+names(km1) = paste0("k_", 4L:10L)
+sapply(km1, cvi, type = "internal")
+```
+The majority result from these evaluation factors suggest that $k=5$ is the best number of clusters.
+
+```{r}
+kmeans = tsclust(amazon, type = "partitional", k = 5L, 
+              distance = "dtw_basic", centroid = "pam", 
+              seed = 511L)
+```
+
+```{r}
+gpc = plot(kmeans, plot=FALSE)
+gpc + 
+  ylim(0,1) +
+  labs(x="Time", y="Normalized Price")
+ggsave("picture/r_2y_kmeans5.png")
+```
+
+Show cluster table.
+```{r}
+cluster_result = data.frame(label=tstrsplit(amazon_label, split=" ")[[1]], cluster=kmeans@cluster)
+result_table = aggregate(rep(1,nrow(cluster_result)), by=list(cluster=cluster_result$cluster ,label=cluster_result$label), FUN=length)
+
+result_table
+```
+
+
+## 3. Cluster Crypto data
+Use the trained model to predict all crypto data.
+```{r}
+crypto_labels = predict(kmeans, newdata = crypto_ts)
+crypto_labels
+```
+
+```{r}
+p.crypto = crypto %>%
+  mutate(index = 1:720) %>%
+  gather(key=type_col, value=value, -index) %>%
+  ggplot(aes(x=index, y = value)) +
+  geom_line() +
+  facet_wrap(~type_col, ncol = 1, strip.position="right") + 
+  guides(color="none") + 
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+        strip.text.y = element_text(angle = 0),
+        strip.background = element_blank(),
+        panel.spacing.y = unit(0,"line")) +
+  labs(x="Time", y="Price")
+ggsave("picture/crypto.png", p.crypto, height=6, width=5)
+```
+
+
+## 4. Cluster Commodity data
+Use the trained model to predict all commodity data.
+```{r}
+commodity_label = predict(kmeans, newdata = commodity_ts)
+print(commodity_label)
+commodity_label = data.frame(clst = commodity_label, type_col=colnames(commodity))
+```
+
+```{r}
+p.comm = commodity %>%
+  mutate(index = 1:720) %>%
+  gather(key=type_col, value=value, -index) %>%
+  full_join(., commodity_label, by = "type_col") %>%
+  ggplot(aes(x=index, y = value, colour=factor(clst))) +
+  geom_line() + 
+  scale_colour_brewer(palette = "Set1") +
+  facet_wrap(~type_col, ncol = 1, strip.position="right") +
+  guides(color="none") + 
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+        strip.text.y = element_text(angle = 0),
+        strip.background = element_blank(),
+        panel.spacing.y = unit(0,"line")) +
+  labs(x="Time", y="Price")
+ggsave("picture/commodity.png", p.comm, height=5, width=5)
+```
+
+## 5. Hierarchical clustering
+Then we use hierarchical clustering.
+```{r}
+ts_amazon = amazon %>%
+  transpose(.) %>%
+  rename_all(funs(c(paste(cluster_result$label,.,sep="_"))))
+
+hc1 = tsclust(t(ts_amazon), type = "h", k = 5L, 
+              distance = "dtw_basic", centroid = shape_extraction,
+              seed = 511L)
+```
+
+```{r}
+hclus <- cutree(hc1, k = 2) %>%
+  as.data.frame(.) %>%
+  rename(.,cluster_group = .) %>%
+  rownames_to_column("type_col")
+```
+
+
+```{r}
+
+#p1 = hcdata %>%
+#  ggdendrogram(., rotate=TRUE, leaf_labels=FALSE)
+
+den = as.dendrogram(hc1) %>%
+  set("branches_k_color", k=5)
+label = sapply(labels(den), function(x) unlist(strsplit(x, "_"))[1])
+bars = sapply(label, function(x) {
+  if (x == "gpu") return("red")
+  if (x == "cpu") return("gold")
+  if (x == "drive") return("blue")
+})
+png(file="picture/amazon_dend.png", width=36, height=9, units="in", res=600)
+par(mar = c(10,2,1,1))
+plot(den)
+colored_bars(colors = bars, dend = den, sort_by_labels_order = FALSE, rowLabels = "Product Name")
+dev.off()
+```
+
+
+```{r}
+hcdata = dendro_data(hc1)
+names_order = hcdata$labels$label
+p2 = ts_amazon %>%
+  mutate(index = 1:720) %>%
+  gather(key=type_col, value=value, -index) %>%
+  full_join(., hclus, by = "type_col") %>%
+  mutate(type_col = factor(type_col, levels = rev(as.character(names_order)))) %>% 
+  ggplot(aes(x=index, y = value, colour = factor(cluster_group))) +
+  geom_line() +
+  facet_wrap(~type_col, ncol = 1, strip.position="right") + 
+  scale_colour_brewer(palette = "Set1") +
+  guides(color="none") + 
+  theme(axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+        strip.text.y = element_text(angle = 0),
+        strip.background = element_blank(),
+        panel.spacing.y = unit(0,"line"))
+ggsave("picture/amazon_ts.png", p2, height=48, width=2)
+```
+
+
+
