@@ -58,7 +58,7 @@ sample = comment_df
 sample.insert(0, 'LABEL', value=[0] * len(sample))
 for idx, row in sample.iterrows():
     text = row['text'].lower()
-    for keyword in ['gpu', 'nvidia', 'amd', 'graphic', 'card', 'rtx', 'gtx']:
+    for keyword in ['gpu', 'nvidia', 'graphic', 'rtx', 'gtx', 'radeon']:
         if keyword in text:
             sample['LABEL'].values[idx] = 1
             break
