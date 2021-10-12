@@ -14,6 +14,7 @@ library(dendextend)
 library(dplyr)
 library(data.table)
 library(dtwclust)
+library(factoextra)
 library(ggdendro)
 library(gplots)
 library(ggplot2)
@@ -237,6 +238,68 @@ p2 = ts_amazon %>%
         strip.background = element_blank(),
         panel.spacing.y = unit(0,"line"))
 ggsave("picture/amazon_ts.png", p2, height=48, width=2)
+```
+
+Compute distances.
+```{r}
+dist.eu = dist(t(ts_amazon), method = "euclidean")
+dist.man = dist(t(ts_amazon), method = "manhattan")
+hc = tsclust(t(ts_amazon), type = "h", k = 5L, 
+              distance = "dtw_basic", centroid = shape_extraction,
+              seed = 511L)
+dist.dtw = dist(hc@distmat)
+
+cosine.sim = function(X) {
+    X = as.matrix(X)
+    sim = X / sqrt(rowSums(X * X))
+    return(dist(sim %*% t(sim)))
+}
+dist.cos = cosine.sim(t(ts_amazon))
+```
+
+
+```{r}
+gdist.eu = fviz_dist(dist.eu,
+                     order=F,
+                     gradient = list(low = "red", mid = "white", high = "blue")) +
+    theme_economist_white() +
+    theme(
+        title = element_text(size = 20),
+        axis.text.y = element_text(size = 6),
+        axis.text.x = element_blank(),
+        panel.grid.minor.x = element_blank()
+    ) +
+    labs(title = "Visualization of Euclidean Distances")
+ggsave(gdist.eu, filename = "picture/r_dist_eu.png",
+       device = "png", height = 20, width = 20, dpi = 300)
+
+gdist.dtw = fviz_dist(dist.dtw, 
+                      order=F, 
+                      gradient = list(low = "red", mid = "white", high = "blue")) +
+    theme_economist_white() +
+    theme(
+        title = element_text(size = 20),
+        axis.text.y = element_text(size = 6),
+        axis.text.x = element_blank(),
+        panel.grid.minor.x = element_blank()
+    ) +
+    labs(title = "Visualization of Dynamic Time Warping Distances")
+ggsave(gdist.dtw, filename = "picture/r_dist_dtw.png",
+       device = "png", height = 20, width = 20, dpi = 300)
+
+gdist.cos = fviz_dist(dist.cos,
+                      order=F,
+                      gradient = list(low = "red", mid = "white", high = "blue")) +
+    theme_economist_white() +
+    theme(
+        title = element_text(size = 20),
+        axis.text.y = element_text(size = 6),
+        axis.text.x = element_blank(),
+        panel.grid.minor.x = element_blank()
+    ) +
+    labs(title = "Visualization of Cosine Similarity")
+ggsave(gdist.cos, filename = "picture/r_dist_cos.png",
+       device = "png", height = 20, width = 20, dpi = 300)
 ```
 
 
