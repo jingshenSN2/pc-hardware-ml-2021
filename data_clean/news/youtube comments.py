@@ -54,7 +54,7 @@ comment_df = pd.DataFrame(comment_list)
 comment_df.to_csv('../../data/comments.csv', index=False)
 
 # sample to be labeled manually
-sample = comment_df['text'].sample(n=2000, random_state=501).reset_index(drop=True).to_frame()
+sample = comment_df
 sample.insert(0, 'LABEL', value=[0] * len(sample))
 for idx, row in sample.iterrows():
     text = row['text'].lower()
@@ -62,21 +62,21 @@ for idx, row in sample.iterrows():
         if keyword in text:
             sample['LABEL'].values[idx] = 1
             break
-    for keyword in ['cpu', 'processor', 'ryzen', 'intel', 'core', 'i7', 'i9']:
+    for keyword in ['cpu', 'processor', 'ryzen', 'intel', 'cor', 'i7', 'i9']:
         if keyword in text:
             if sample['LABEL'].values[idx] == 0:
                 sample['LABEL'].values[idx] = 2
             else:
                 sample['LABEL'].values[idx] = -1
             break
-    for keyword in ['iphone', 'android', 'apple', 'xiaomi', 'huawei', 'samsung']:
+    for keyword in ['iphon', 'android', 'appl', 'xiaomi', 'huawei', 'samsung']:
         if keyword in text:
             if sample['LABEL'].values[idx] == 0:
                 sample['LABEL'].values[idx] = 3
             else:
                 sample['LABEL'].values[idx] = -1
             break
-    for keyword in ['google', 'facebook', 'microsoft', 'amazon', 'twitter']:
+    for keyword in ['googl', 'facebook', 'microsoft', 'amazon', 'twitter']:
         if keyword in text:
             if sample['LABEL'].values[idx] == 0:
                 sample['LABEL'].values[idx] = 4
@@ -84,4 +84,5 @@ for idx, row in sample.iterrows():
                 sample['LABEL'].values[idx] = -1
             break
 
-sample.to_csv('../../data_clean/news/comment_sample_prelabeled.csv', index=False)
+sample.to_csv('../../data/comments_labeled.csv', index=False)
+print(sample['LABEL'].value_counts())
