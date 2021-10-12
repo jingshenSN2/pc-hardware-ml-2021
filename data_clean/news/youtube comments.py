@@ -2,8 +2,8 @@ import datetime
 import os
 import json
 import re
+import string
 
-from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
 
 walk = os.walk('../../data_gather/news/comments')
@@ -18,6 +18,15 @@ for path, dir_list, filename_list in walk:
 
 comment_list = []
 
+from nltk.corpus import stopwords          # module for stop words that come with NLTK
+from nltk.stem import PorterStemmer        # module for stemming
+from nltk.tokenize import TweetTokenizer  # module for tokenizing strings
+
+tokenizer = TweetTokenizer(preserve_case=False, strip_handles=True, reduce_len=True)
+stopwords_english = stopwords.words('english')
+stemmer = PorterStemmer()
+extra_stopwords = {'linus', 'riley', 'anthony', 'techlinked'}
+
 # convert json to csv
 for file in file_list:
     print(f'Parsing {file}...')
@@ -31,10 +40,12 @@ for file in file_list:
             text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_]", ' ', text)
             text = re.sub(r"\s+", ' ', text)
             text = re.sub(r"\.+", '.', text)
-            if len(text) < 20 or len(text.split(' ')) < 5:
-                # we only use comments that have over 20 characters and 5 words
-                continue
-            comment_dict = {'video_id': snippet['videoId'], 'text': text,
+            token = tokenizer.tokenize(text)
+            cleaned = []
+            for word in token:
+                if word not in extra_stopwords and word not in stopwords_english and word not in string.punctuation:
+                    cleaned.append(stemmer.stem(word))
+            comment_dict = {'video_id': snippet['videoId'], 'text': ' '.join(cleaned),
                             'like': snippet['likeCount'], 'published_at': published_at,
                             'published_week': published_week}
             comment_list.append(comment_dict)
@@ -47,13 +58,30 @@ sample = comment_df['text'].sample(n=2000, random_state=501).reset_index(drop=Tr
 sample.insert(0, 'LABEL', value=[0] * len(sample))
 for idx, row in sample.iterrows():
     text = row['text'].lower()
-    for keyword in ['gpu', 'nvidia', 'amd', 'graphic', 'card', '980', '2060', '2070', '2080','12g', 'rtx', '00xt', '3050', '3060', '3070', '3080', '3090', 'gtx', 'crpyto', 'vram', 'litecoin', '1080']:
+    for keyword in ['gpu', 'nvidia', 'amd', 'graphic', 'card', 'rtx', 'gtx']:
         if keyword in text:
             sample['LABEL'].values[idx] = 1
             break
-    for keyword in ['cpu', 'processor']:
+    for keyword in ['cpu', 'processor', 'ryzen', 'intel', 'core', 'i7', 'i9']:
         if keyword in text:
-            sample['LABEL'].values[idx] = 0
+            if sample['LABEL'].values[idx] == 0:
+                sample['LABEL'].values[idx] = 2
+            else:
+                sample['LABEL'].values[idx] = -1
+            break
+    for keyword in ['iphone', 'android', 'apple', 'xiaomi', 'huawei', 'samsung']:
+        if keyword in text:
+            if sample['LABEL'].values[idx] == 0:
+                sample['LABEL'].values[idx] = 3
+            else:
+                sample['LABEL'].values[idx] = -1
+            break
+    for keyword in ['google', 'facebook', 'microsoft', 'amazon', 'twitter']:
+        if keyword in text:
+            if sample['LABEL'].values[idx] == 0:
+                sample['LABEL'].values[idx] = 4
+            else:
+                sample['LABEL'].values[idx] = -1
             break
 
 sample.to_csv('../../data_clean/news/comment_sample_prelabeled.csv', index=False)
