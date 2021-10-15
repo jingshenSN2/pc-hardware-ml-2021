@@ -29,7 +29,8 @@ for file in file_list:
             text = snippet['textOriginal'].replace('\n', ' ').encode("ascii", "ignore").decode()
             text = re.sub(r"\d+:\d+", ' ', text)
             text = re.sub(r"\d+.\d+", ' ', text)
-            text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_\;\.\:\\\%\[\]]", ' ', text)
+            text = re.sub(r"at&t", 'atnt', text)
+            text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_\;\.\:\\\%\[\]\^\~\&\#\{\}]", ' ', text)
             text = re.sub(r"\s+", ' ', text)
             comment_dict = {'video_id': snippet['videoId'], 'text': text.lower(),
                             'like': snippet['likeCount'], 'published_at': published_at,
