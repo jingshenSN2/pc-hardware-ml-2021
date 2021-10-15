@@ -31,7 +31,7 @@ for file in file_list:
             text = re.sub(r"(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]", ' url ', text)
             text = re.sub(r'(.)\1{2,}', r'\1\1', text)  # a risky replace?
             text = re.sub(r"\d+:\d+", ' ', text)
-            text = re.sub(r"\d+.\d+", ' ', text)
+            text = re.sub(r"\d+\.\d+", ' ', text)
             text = re.sub(r"(\d+)([a-z]+)", r'\1 \2', text)
             text = re.sub(r"at&t", 'atnt', text)
             text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_\;\.\:\\\%\[\]\^\~\&\#\{\}]", ' ', text)
