@@ -2,7 +2,6 @@ import datetime
 import os
 import json
 import re
-import string
 
 import pandas as pd
 
@@ -18,15 +17,6 @@ for path, dir_list, filename_list in walk:
 
 comment_list = []
 
-from nltk.corpus import stopwords          # module for stop words that come with NLTK
-from nltk.stem import PorterStemmer        # module for stemming
-from nltk.tokenize import TweetTokenizer  # module for tokenizing strings
-
-tokenizer = TweetTokenizer(preserve_case=False, strip_handles=True, reduce_len=True)
-stopwords_english = stopwords.words('english')
-stemmer = PorterStemmer()
-extra_stopwords = {'linus', 'riley', 'anthony', 'techlinked'}
-
 # convert json to csv
 for file in file_list:
     print(f'Parsing {file}...')
@@ -37,15 +27,11 @@ for file in file_list:
             published_at = datetime.datetime.strptime(snippet['publishedAt'], "%Y-%m-%dT%H:%M:%SZ").date()
             published_week = published_at - datetime.timedelta(days=published_at.weekday())
             text = snippet['textOriginal'].replace('\n', ' ').encode("ascii", "ignore").decode()
-            text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_]", ' ', text)
+            text = re.sub(r"\d+:\d+", ' ', text)
+            text = re.sub(r"\d+.\d+", ' ', text)
+            text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_\;\.\:\\\%\[\]]", ' ', text)
             text = re.sub(r"\s+", ' ', text)
-            text = re.sub(r"\.+", '.', text)
-            token = tokenizer.tokenize(text)
-            cleaned = []
-            for word in token:
-                if word not in extra_stopwords and word not in stopwords_english and word not in string.punctuation:
-                    cleaned.append(stemmer.stem(word))
-            comment_dict = {'video_id': snippet['videoId'], 'text': ' '.join(cleaned),
+            comment_dict = {'video_id': snippet['videoId'], 'text': text.lower(),
                             'like': snippet['likeCount'], 'published_at': published_at,
                             'published_week': published_week}
             comment_list.append(comment_dict)
