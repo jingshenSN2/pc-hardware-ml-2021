@@ -27,8 +27,12 @@ for file in file_list:
             published_at = datetime.datetime.strptime(snippet['publishedAt'], "%Y-%m-%dT%H:%M:%SZ").date()
             published_week = published_at - datetime.timedelta(days=published_at.weekday())
             text = snippet['textOriginal'].replace('\n', ' ').encode("ascii", "ignore").decode()
+            text = ' ' + text + ' '
+            text = re.sub(r"(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]", ' url ', text)
+            text = re.sub(r'(.)\1{2,}', r'\1\1', text)  # a risky replace?
             text = re.sub(r"\d+:\d+", ' ', text)
             text = re.sub(r"\d+.\d+", ' ', text)
+            text = re.sub(r"(\d+)([a-z]+)", r'\1 \2', text)
             text = re.sub(r"at&t", 'atnt', text)
             text = re.sub(r"[\t\n\r\*\@\,\-\/\>\<\=\$\|\+\`\(\)\"\!\?\_\;\.\:\\\%\[\]\^\~\&\#\{\}]", ' ', text)
             text = re.sub(r"\s+", ' ', text)
