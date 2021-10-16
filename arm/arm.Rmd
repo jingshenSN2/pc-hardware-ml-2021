@@ -1,0 +1,27 @@
+---
+title: "Youtube Comments ARM"
+author: "Jingsong, GAO"
+date: "2021/10/15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Set up
+```{r}
+library(arules)
+```
+
+## Data
+```{r warning=FALSE}
+dat = read.transactions("../data/transaction.txt", format = "basket", sep=",")
+```
+
+## Apriori
+```{r}
+rules = apriori(dat, parameter = list(supp = 100/120000, conf = 0.9, target = "rules"))
+inspect(rules)
+```
+
