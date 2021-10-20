@@ -193,7 +193,7 @@ vis.cpu = sankeyNetwork(Links = edges_d3, Nodes = nodes_d3,
               Source = "from", Target = "to",
               NodeID = "label", Value = "value",
               colourScale = JS("d3.scaleOrdinal(d3.schemeCategory10);"),
-              fontSize = 24, fontFamily = "Roboto Condensed")
+              fontSize = 16, fontFamily = "Roboto Condensed")
 saveNetwork(vis.cpu, "vis/Sankey.html", selfcontained = TRUE)
 ```
 
