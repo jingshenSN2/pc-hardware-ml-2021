@@ -19,9 +19,83 @@ library(arules)
 dat = read.transactions("../data/transaction.txt", format = "basket", sep=",")
 ```
 
-## Apriori
+## Apriori 2
 ```{r}
-rules = apriori(dat, parameter = list(supp = 100/120000, conf = 0.9, target = "rules"))
-inspect(rules)
+rules2 = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, target = "rules", minlen=2, maxlen=2))
+```
+
+```{r}
+write.csv(DATAFRAME(rules2), "arules2.csv")
+write.csv(DATAFRAME(head(rules2, by = "support", n = 15)), "arules2_sup_top15.csv")
+write.csv(DATAFRAME(head(rules2, by = "confidence", n = 15)), "arules2_conf_top15.csv")
+write.csv(DATAFRAME(head(rules2, by = "lift", n = 15)), "arules2_lift_top15.csv")
+```
+
+```{r}
+rules3 = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, target = "rules", minlen=3))
+```
+
+```{r}
+write.csv(DATAFRAME(rules3), "arules3.csv")
+write.csv(DATAFRAME(head(rules3, by = "support", n = 15)), "arules3_sup_top15.csv")
+write.csv(DATAFRAME(head(rules3, by = "confidence", n = 15)), "arules3_conf_top15.csv")
+write.csv(DATAFRAME(head(rules3, by = "lift", n = 15)), "arules3_lift_top15.csv")
+```
+
+## Frequent Item
+
+```{r}
+freqitem2 = eclat(dat, parameter = list(supp = 20/120000, minlen=2, maxlen=2))
+```
+```{r}
+write.csv(DATAFRAME(freqitem2), "freqitem2.csv")
+write.csv(DATAFRAME(head(freqitem2, by = "support", n = 15)), "freqitem2_sup_top15.csv")
+```
+
+```{r}
+freqitem3 = eclat(dat, parameter = list(supp = 20/120000, minlen=3))
+```
+
+```{r}
+write.csv(DATAFRAME(freqitem3), "freqitem3.csv")
+write.csv(DATAFRAME(head(freqitem3, by = "support", n = 15)), "freqitem3_sup_top15.csv")
+```
+
+## Special Apriori
+```{r}
+rules.all = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2))
+gpu = c("nvidia", "gpu", "rtx", "gtx", "radeon")
+rules.gpu = subset(rules.all, subset = lhs %in% gpu | rhs %in% gpu)
+write.csv(DATAFRAME(rules.gpu), "arules_gpu.csv")
+```
+```{r}
+gpu = c("nvidia", "graphic", "gpu", "rtx", "gtx", "radeon")
+rules.gpu = subset(rules.all, subset = lhs %in% gpu | rhs %in% gpu)
+write.csv(DATAFRAME(rules.gpu), "arules_gpu.csv")
+```
+
+```{r}
+cpu = c("cpu", "processor", "ryzen", "intel", "core", "i5", "i7", "i9")
+rules.cpu = subset(rules.all, subset = lhs %in% cpu | rhs %in% cpu)
+write.csv(DATAFRAME(rules.cpu), "arules_cpu.csv")
+```
+
+
+```{r}
+phone = c("iphone", "android", "xiaomi", "huawei", "samsung")
+rules.phone = subset(rules.all, subset = lhs %in% phone | rhs %in% phone)
+write.csv(DATAFRAME(rules.phone), "arules_phone.csv")
+```
+
+```{r}
+company = c("apple", "facebook", "google", "microsoft", "youtube")
+rules.company = subset(rules.all, subset = lhs %in% company | rhs %in% company)
+write.csv(DATAFRAME(rules.company), "arules_company.csv")
+```
+
+```{r}
+other = c(gpu, cpu, phone, company)
+rules.other = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(none = other))
+write.csv(DATAFRAME(rules.other), "arules_other.csv")
 ```
 
