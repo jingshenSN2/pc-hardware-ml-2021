@@ -10,8 +10,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Set up
-```{r}
+```{r, message=FALSE}
 library(arules)
+library(arulesViz)
+library(dplyr)
+library(igraph)
+library(networkD3)
+library(visNetwork)
+library(tidyverse)
 ```
 
 ## Data
@@ -75,7 +81,7 @@ write.csv(DATAFRAME(rules.gpu), "arules_gpu.csv")
 ```
 
 ```{r}
-cpu = c("cpu", "processor", "ryzen", "intel", "core", "i5", "i7", "i9")
+cpu = c("cpu", "processor", "ryzen", "core", "i5", "i7", "i9")
 rules.cpu = subset(rules.all, subset = lhs %in% cpu | rhs %in% cpu)
 write.csv(DATAFRAME(rules.cpu), "arules_cpu.csv")
 ```
@@ -94,8 +100,107 @@ write.csv(DATAFRAME(rules.company), "arules_company.csv")
 ```
 
 ```{r}
+host = c("linus", "riley")
+rules.host = subset(rules.all, subset = lhs %in% host | rhs %in% host)
+write.csv(DATAFRAME(rules.host), "arules_host.csv")
+```
+
+```{r}
 other = c(gpu, cpu, phone, company)
 rules.other = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(none = other))
 write.csv(DATAFRAME(rules.other), "arules_other.csv")
 ```
+
+```{r}
+gen_nodes_n_edges = function(my.rules, degree_threshold=20) {
+    df_rules = DATAFRAME(my.rules) %>%
+      rowid_to_column("rules") %>%
+      mutate(rules = paste("Rules", rules), RHS = str_remove_all(string = RHS, pattern = "[{}]"))
+    df_items = df_rules %>%
+      mutate(LHS = str_remove_all(string = LHS, pattern = "[{}]")) %>%
+      separate(col = LHS, into = c(paste0("item_", 1:3)), sep = ",") %>%
+      pivot_longer(cols = c(item_1, item_2, item_3), names_to = "antecedent", values_to = "item") %>%
+      select(rules, antecedent, item, RHS, everything()) %>%
+      filter(is.na(item) == FALSE)
+    nodes = data.frame(name = unique(c(df_items$item, df_items$RHS, df_items$rules))) %>%
+      rowid_to_column("id") %>%
+      mutate(group = ifelse(str_detect(name, "Rules"), "A", "B"),
+             label = name,
+             value = c(rep(NA, n_distinct(c(df_items$item, df_items$RHS))), df_rules$lift),
+             support = c(rep(NA, n_distinct(c(df_items$item, df_items$RHS))), df_rules$support),
+             confidence = c(rep(NA, n_distinct(c(df_items$item, df_items$RHS))),df_rules$confidence),
+             shape = ifelse(group == "A", "circle", "box"),
+             color = ifelse(group == "A", "lightblue", "lightgreen"),
+             title = ifelse(test = group == "A", yes = paste(name, "<br> Lift:", round(value, 2), "<br> Confidence:", round(confidence, 2), "<br> Support:", round(support, 2)), no = as.character(name)))
+    
+    edges = data.frame(from = df_items$item, to = df_items$rules) %>%
+        bind_rows(data.frame(from = df_rules$rules, to = df_rules$RHS)) %>%
+        left_join(nodes, by = c(from = "name")) %>% select(id, to) %>%
+        rename(from = id) %>% left_join(nodes, by = c(to = "name")) %>%
+        select(from, id) %>%
+        rename(to = id) %>%
+        mutate(color = ifelse(to <= degree_threshold, "red", "green"))
+    return(list(nodes = nodes, edges = edges))
+}
+```
+
+## igraph
+```{r}
+vis.company = plot(rules.company, method = "graph", control = list(verbose = FALSE),
+     measure = "lift", shading = "confidence", engine = "htmlwidget")
+htmlwidgets::saveWidget(vis.company, "vis/igraph.html", selfcontained = TRUE)
+```
+
+
+
+## networkD3
+```{r}
+graph.gpu = gen_nodes_n_edges(rules.gpu, degree_threshold = 10)
+edges_d3 = mutate(graph.gpu$edges, from = from - 1, to = to - 1) %>%
+  mutate(value = 1)
+nodes_d3 = mutate(graph.gpu$nodes, id = id - 1)
+vis.gpu = forceNetwork(Links = edges_d3, Nodes = nodes_d3, Source = "from",
+             Target = "to", NodeID = "label", Group = "group",
+             Value = "value", arrows = T, Nodesize = "value",
+             colourScale = JS("d3.scaleOrdinal(d3.schemeCategory10);"),
+             linkColour = edges_d3$color, opacity = 0.8,
+             fontSize = 24, fontFamily = "Roboto Condensed",
+             zoom = TRUE)
+saveNetwork(vis.gpu, "vis/networkD3.html", selfcontained = TRUE)
+```
+
+## VisNetwork
+```{r}
+graph.host = gen_nodes_n_edges(rules.host, degree_threshold=10)
+vis.host = visNetwork(nodes = graph.host$nodes, edges = graph.host$edges, height = "500px", width = "100%") %>%
+    visEdges(arrows = "to") %>%
+    visOptions(highlightNearest = T) %>%
+    visInteraction(tooltipStyle = "position: fixed; visibility: hidden; 
+                   padding: 5px; white-space: nowrap;
+                   font-size: 18px; color: black;
+                   background-color: white; border-color: orange")
+visSave(vis.host, "vis/VisNetwork.html", selfcontained = TRUE, background = "white")
+```
+
+
+## Sankey
+```{r}
+graph.cpu = gen_nodes_n_edges(rules.cpu, degree_threshold=10)
+nodes_d3 <- mutate(graph.cpu$nodes, id = id - 1)
+edges_d3 <- mutate(graph.cpu$edges, from = from - 1, to = to - 1) %>%
+    mutate(value = 1)
+vis.cpu = sankeyNetwork(Links = edges_d3, Nodes = nodes_d3,
+              Source = "from", Target = "to",
+              NodeID = "label", Value = "value",
+              colourScale = JS("d3.scaleOrdinal(d3.schemeCategory10);"),
+              fontSize = 24, fontFamily = "Roboto Condensed")
+saveNetwork(vis.cpu, "vis/Sankey.html", selfcontained = TRUE)
+```
+
+
+
+
+
+
+
 
