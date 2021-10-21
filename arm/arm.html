@@ -203,14 +203,14 @@ library(tidyverse)</code></pre>
 ## Absolute minimum support count: 21 
 ## 
 ## set item appearances ...[0 item(s)] done [0.00s].
-## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.39s].
+## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.35s].
 ## sorting and recoding items ... [4230 item(s)] done [0.01s].
-## creating transaction tree ... done [0.05s].
+## creating transaction tree ... done [0.04s].
 ## checking subsets of size 1 2</code></pre>
 <pre><code>## Warning in apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, target
 ## = &quot;rules&quot;, : Mining stopped (maxlen reached). Only patterns up to a length of 2
 ## returned!</code></pre>
-<pre><code>##  done [0.07s].
+<pre><code>##  done [0.06s].
 ## writing ... [264 rule(s)] done [0.02s].
 ## creating S4 object  ... done [0.02s].</code></pre>
 <pre class="r"><code>write.csv(DATAFRAME(rules2), &quot;arules2.csv&quot;)
@@ -233,10 +233,10 @@ write.csv(DATAFRAME(head(rules2, by = &quot;lift&quot;, n = 15)), &quot;arules2_
 ## Absolute minimum support count: 21 
 ## 
 ## set item appearances ...[0 item(s)] done [0.00s].
-## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.50s].
+## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.35s].
 ## sorting and recoding items ... [4230 item(s)] done [0.01s].
-## creating transaction tree ... done [0.05s].
-## checking subsets of size 1 2 3 4 5 done [0.23s].
+## creating transaction tree ... done [0.04s].
+## checking subsets of size 1 2 3 4 5 done [0.19s].
 ## writing ... [2144 rule(s)] done [0.00s].
 ## creating S4 object  ... done [0.02s].</code></pre>
 <pre class="r"><code>write.csv(DATAFRAME(rules3), &quot;arules3.csv&quot;)
@@ -260,10 +260,10 @@ write.csv(DATAFRAME(head(rules3, by = &quot;lift&quot;, n = 15)), &quot;arules3_
 ## Absolute minimum support count: 21 
 ## 
 ## create itemset ... 
-## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.39s].
+## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.34s].
 ## sorting and recoding items ... [4230 item(s)] done [0.01s].
 ## creating sparse bit matrix ... [4230 row(s), 129180 column(s)] done [0.01s].
-## writing  ... [25629 set(s)] done [4.89s].
+## writing  ... [25629 set(s)] done [4.64s].
 ## Creating S4 object  ... done [0.00s].</code></pre>
 <pre class="r"><code>write.csv(DATAFRAME(freqitem2), &quot;freqitem2.csv&quot;)
 write.csv(DATAFRAME(head(freqitem2, by = &quot;support&quot;, n = 15)), &quot;freqitem2_sup_top15.csv&quot;)</code></pre>
@@ -281,10 +281,10 @@ write.csv(DATAFRAME(head(freqitem2, by = &quot;support&quot;, n = 15)), &quot;fr
 ## Absolute minimum support count: 21 
 ## 
 ## create itemset ... 
-## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.37s].
+## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.35s].
 ## sorting and recoding items ... [4230 item(s)] done [0.01s].
 ## creating sparse bit matrix ... [4230 row(s), 129180 column(s)] done [0.01s].
-## writing  ... [10890 set(s)] done [4.98s].
+## writing  ... [10890 set(s)] done [4.79s].
 ## Creating S4 object  ... done [0.00s].</code></pre>
 <pre class="r"><code>write.csv(DATAFRAME(freqitem3), &quot;freqitem3.csv&quot;)
 write.csv(DATAFRAME(head(freqitem3, by = &quot;support&quot;, n = 15)), &quot;freqitem3_sup_top15.csv&quot;)</code></pre>
@@ -307,7 +307,7 @@ write.csv(DATAFRAME(head(freqitem3, by = &quot;support&quot;, n = 15)), &quot;fr
 ## Absolute minimum support count: 21 
 ## 
 ## set item appearances ...[0 item(s)] done [0.00s].
-## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.38s].
+## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.36s].
 ## sorting and recoding items ... [4230 item(s)] done [0.01s].
 ## creating transaction tree ... done [0.04s].
 ## checking subsets of size 1 2 3 4 5 done [0.20s].
@@ -316,22 +316,22 @@ write.csv(DATAFRAME(head(freqitem3, by = &quot;support&quot;, n = 15)), &quot;fr
 <pre class="r"><code>gpu = c(&quot;nvidia&quot;, &quot;graphic&quot;, &quot;gpu&quot;, &quot;rtx&quot;, &quot;gtx&quot;, &quot;radeon&quot;)
 rules.gpu = subset(rules.all, subset = lhs %in% gpu | rhs %in% gpu)
 write.csv(DATAFRAME(rules.gpu), &quot;arules_gpu.csv&quot;)
-write.csv(head(DATAFRAME(rules.gpu), by = &quot;support&quot;, n = 15) , &quot;arules_gpu_top15.csv&quot;)</code></pre>
+write.csv(DATAFRAME(head(rules.gpu, by = &quot;support&quot;, n = 15)) , &quot;arules_gpu_top15.csv&quot;)</code></pre>
 <pre class="r"><code>cpu = c(&quot;cpu&quot;, &quot;processor&quot;, &quot;ryzen&quot;, &quot;core&quot;, &quot;i5&quot;, &quot;i7&quot;, &quot;i9&quot;)
 rules.cpu = subset(rules.all, subset = lhs %in% cpu | rhs %in% cpu)
 write.csv(DATAFRAME(rules.cpu), &quot;arules_cpu.csv&quot;)
-write.csv(head(DATAFRAME(rules.cpu), by = &quot;support&quot;, n = 15) , &quot;arules_cpu_top15.csv&quot;)</code></pre>
+write.csv(DATAFRAME(head(rules.cpu, by = &quot;support&quot;, n = 15)) , &quot;arules_cpu_top15.csv&quot;)</code></pre>
 <pre class="r"><code>phone = c(&quot;iphone&quot;, &quot;android&quot;, &quot;xiaomi&quot;, &quot;huawei&quot;, &quot;samsung&quot;)
 rules.phone = subset(rules.all, subset = lhs %in% phone | rhs %in% phone)
 write.csv(DATAFRAME(rules.phone), &quot;arules_phone.csv&quot;)</code></pre>
 <pre class="r"><code>company = c(&quot;apple&quot;, &quot;facebook&quot;, &quot;google&quot;, &quot;microsoft&quot;, &quot;youtube&quot;)
 rules.company = subset(rules.all, subset = lhs %in% company | rhs %in% company)
 write.csv(DATAFRAME(rules.company), &quot;arules_company.csv&quot;)
-write.csv(head(DATAFRAME(rules.company), by = &quot;support&quot;, n = 15) , &quot;arules_company_top15.csv&quot;)</code></pre>
+write.csv(DATAFRAME(head(rules.company, by = &quot;support&quot;, n = 15)) , &quot;arules_company_top15.csv&quot;)</code></pre>
 <pre class="r"><code>host = c(&quot;linus&quot;, &quot;riley&quot;)
 rules.host = subset(rules.all, subset = lhs %in% host | rhs %in% host)
 write.csv(DATAFRAME(rules.host), &quot;arules_host.csv&quot;)
-write.csv(head(DATAFRAME(rules.host), by = &quot;support&quot;, n = 15) , &quot;arules_host_top15.csv&quot;)</code></pre>
+write.csv(DATAFRAME(head(rules.host, by = &quot;support&quot;, n = 15)) , &quot;arules_host_top15.csv&quot;)</code></pre>
 <pre class="r"><code>other = c(gpu, cpu, phone, company)
 rules.other = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(none = other))</code></pre>
 <pre><code>## Apriori
@@ -349,7 +349,7 @@ rules.other = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen
 ## Absolute minimum support count: 21 
 ## 
 ## set item appearances ...[23 item(s)] done [0.00s].
-## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.39s].
+## set transactions ...[41662 item(s), 129180 transaction(s)] done [0.36s].
 ## sorting and recoding items ... [4207 item(s)] done [0.01s].
 ## creating transaction tree ... done [0.04s].
 ## checking subsets of size 1 2 3 4 5 done [0.19s].
