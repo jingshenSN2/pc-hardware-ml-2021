@@ -113,8 +113,8 @@ write.csv(DATAFRAME(rules.other), "arules_other.csv")
 ```
 
 ```{r}
-gen_nodes_n_edges = function(my.rules, degree_threshold=20) {
-    df_rules = DATAFRAME(my.rules) %>%
+gen_nodes_n_edges = function(my.rules, degree_threshold=20, max_rules=100) {
+    df_rules = DATAFRAME(head(my.rules, by="support", min(length(my.rules), max_rules))) %>%
       rowid_to_column("rules") %>%
       mutate(rules = paste("Rules", rules), RHS = str_remove_all(string = RHS, pattern = "[{}]"))
     df_items = df_rules %>%
@@ -186,15 +186,14 @@ visSave(vis.host, "vis/VisNetwork.html", selfcontained = TRUE, background = "whi
 
 ## Sankey
 ```{r}
+rules.cpu = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(rhs = c("intel", "amd")))
 graph.cpu = gen_nodes_n_edges(rules.cpu, degree_threshold=10)
-nodes_d3 <- mutate(graph.cpu$nodes, id = id - 1)
-edges_d3 <- mutate(graph.cpu$edges, from = from - 1, to = to - 1) %>%
+nodes_d3 = mutate(graph.cpu$nodes, id = id - 1)
+edges_d3 = mutate(graph.cpu$edges, from = from - 1, to = to - 1) %>%
     mutate(value = 1)
 vis.cpu = sankeyNetwork(Links = edges_d3, Nodes = nodes_d3,
               Source = "from", Target = "to",
-              NodeID = "label", Value = "value",
-              colourScale = JS("d3.scaleOrdinal(d3.schemeCategory10);"),
-              fontSize = 16, fontFamily = "Roboto Condensed")
+              NodeID = "label", Value = "value")
 saveNetwork(vis.cpu, "vis/Sankey.html", selfcontained = TRUE)
 ```
 
