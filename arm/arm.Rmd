@@ -113,16 +113,19 @@ write.csv(DATAFRAME(rules.other), "arules_other.csv")
 ```
 
 ```{r}
-gen_nodes_n_edges = function(my.rules, degree_threshold=20, max_rules=100) {
+gen_nodes_n_edges = function(my.rules, degree_threshold=20, max_rules=150) {
+  # generate dataframe from rules
     df_rules = DATAFRAME(head(my.rules, by="support", min(length(my.rules), max_rules))) %>%
       rowid_to_column("rules") %>%
       mutate(rules = paste("Rules", rules), RHS = str_remove_all(string = RHS, pattern = "[{}]"))
+ # generate items dataframe
     df_items = df_rules %>%
       mutate(LHS = str_remove_all(string = LHS, pattern = "[{}]")) %>%
       separate(col = LHS, into = c(paste0("item_", 1:3)), sep = ",") %>%
       pivot_longer(cols = c(item_1, item_2, item_3), names_to = "antecedent", values_to = "item") %>%
       select(rules, antecedent, item, RHS, everything()) %>%
       filter(is.na(item) == FALSE)
+  # generate nodes dataframe
     nodes = data.frame(name = unique(c(df_items$item, df_items$RHS, df_items$rules))) %>%
       rowid_to_column("id") %>%
       mutate(group = ifelse(str_detect(name, "Rules"), "A", "B"),
@@ -133,7 +136,7 @@ gen_nodes_n_edges = function(my.rules, degree_threshold=20, max_rules=100) {
              shape = ifelse(group == "A", "circle", "box"),
              color = ifelse(group == "A", "lightblue", "lightgreen"),
              title = ifelse(test = group == "A", yes = paste(name, "<br> Lift:", round(value, 2), "<br> Confidence:", round(confidence, 2), "<br> Support:", round(support, 2)), no = as.character(name)))
-    
+  # generate edges dataframe
     edges = data.frame(from = df_items$item, to = df_items$rules) %>%
         bind_rows(data.frame(from = df_rules$rules, to = df_rules$RHS)) %>%
         left_join(nodes, by = c(from = "name")) %>% select(id, to) %>%
@@ -187,14 +190,14 @@ visSave(vis.host, "vis/VisNetwork.html", selfcontained = TRUE, background = "whi
 ## Sankey
 ```{r}
 rules.cpu = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(rhs = c("intel", "amd")))
-graph.cpu = gen_nodes_n_edges(rules.cpu, degree_threshold=10)
+graph.cpu = gen_nodes_n_edges(rules.cpu, degree_threshold=10, max_rules = 20)
 nodes_d3 = mutate(graph.cpu$nodes, id = id - 1)
-edges_d3 = mutate(graph.cpu$edges, from = from - 1, to = to - 1) %>%
-    mutate(value = 1)
+edges_d3 = mutate(graph.cpu$edges, from = from - 1, to = to - 1) %>% mutate(value = 1)
 vis.cpu = sankeyNetwork(Links = edges_d3, Nodes = nodes_d3,
               Source = "from", Target = "to",
               NodeID = "label", Value = "value")
-saveNetwork(vis.cpu, "vis/Sankey.html", selfcontained = TRUE)
+vis.cpu
+htmlwidgets::saveWidget(vis.cpu, "vis/Sankey.html", selfcontained = TRUE)
 ```
 
 
