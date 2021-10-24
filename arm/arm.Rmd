@@ -73,14 +73,16 @@ rules.all = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2
 ```
 ```{r}
 gpu = c("nvidia", "graphic", "gpu", "rtx", "gtx", "radeon")
-rules.gpu = subset(rules.all, subset = lhs %in% gpu | rhs %in% gpu)
+rules.gpu = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(none = c("cpu", "cpus")))
+rules.gpu = subset(rules.gpu, subset = lhs %in% gpu | rhs %in% gpu)
 write.csv(DATAFRAME(rules.gpu), "arules_gpu.csv")
 write.csv(DATAFRAME(head(rules.gpu, by = "support", n = 15)) , "arules_gpu_top15.csv")
 ```
 
 ```{r}
 cpu = c("cpu", "processor", "ryzen", "core", "i5", "i7", "i9")
-rules.cpu = subset(rules.all, subset = lhs %in% cpu | rhs %in% cpu)
+rules.cpu = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(none = c("gpu", "gpus", "nvidia")))
+rules.cpu = subset(rules.cpu, subset = lhs %in% cpu | rhs %in% cpu)
 write.csv(DATAFRAME(rules.cpu), "arules_cpu.csv")
 write.csv(DATAFRAME(head(rules.cpu, by = "support", n = 15)) , "arules_cpu_top15.csv")
 ```
@@ -189,7 +191,7 @@ visSave(vis.host, "vis/VisNetwork.html", selfcontained = TRUE, background = "whi
 
 ## Sankey
 ```{r}
-rules.cpu = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(rhs = c("intel", "amd")))
+rules.cpu = apriori(dat, parameter = list(supp = 20/120000, conf = 0.5, minlen=2),  appearance = list(none = c("gpu", "gpus", "nvidia"), rhs = c("intel", "amd")))
 graph.cpu = gen_nodes_n_edges(rules.cpu, degree_threshold=10, max_rules = 20)
 nodes_d3 = mutate(graph.cpu$nodes, id = id - 1)
 edges_d3 = mutate(graph.cpu$edges, from = from - 1, to = to - 1) %>% mutate(value = 1)
