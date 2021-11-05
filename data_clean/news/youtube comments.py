@@ -49,31 +49,49 @@ sample = comment_df
 sample.insert(0, 'LABEL', value=[0] * len(sample))
 for idx, row in sample.iterrows():
     text = row['text'].lower()
-    for keyword in ['gpu', 'nvidia', 'graphic', 'rtx', 'gtx', 'radeon']:
+    for keyword in ['gpu', 'nvidia', 'graphic', 'rtx', 'gtx', 'radeon', 'card']:
         if keyword in text:
             sample['LABEL'].values[idx] = 1
             break
-    for keyword in ['cpu', 'processor', 'ryzen', 'intel', 'cor', 'i7', 'i9']:
+    for keyword in ['cpu', 'processor', 'ryzen', 'intel', 'core', 'x86']:
         if keyword in text:
             if sample['LABEL'].values[idx] == 0:
                 sample['LABEL'].values[idx] = 2
             else:
                 sample['LABEL'].values[idx] = -1
             break
-    for keyword in ['iphon', 'android', 'appl', 'xiaomi', 'huawei', 'samsung']:
+    for keyword in ['phone', 'apple', 'samsung', 'huawei', 'xiaomi']:
         if keyword in text:
             if sample['LABEL'].values[idx] == 0:
                 sample['LABEL'].values[idx] = 3
             else:
                 sample['LABEL'].values[idx] = -1
             break
-    for keyword in ['googl', 'facebook', 'microsoft', 'amazon', 'twitter']:
+    for keyword in ['google', 'facebook', 'microsoft', 'amazon', 'youtube', 'tiktok', 'bytedance']:
         if keyword in text:
             if sample['LABEL'].values[idx] == 0:
                 sample['LABEL'].values[idx] = 4
             else:
                 sample['LABEL'].values[idx] = -1
             break
+    for keyword in ['linus', 'riley', 'tech', 'news', 'tips', 'pulseway', 'der8auer', 'bauer']:
+        if keyword in text:
+            if sample['LABEL'].values[idx] == 0:
+                sample['LABEL'].values[idx] = 5
+            else:
+                sample['LABEL'].values[idx] = -1
+            break
+
+label_names = {
+    0: 'None',
+    1: 'GPU',
+    2: 'CPU',
+    3: 'Phone',
+    4: 'TechCompany',
+    5: 'Channel',
+    -1: 'MoreThanOneClass'
+}
+
 
 sample.to_csv('../../data/comments_labeled.csv', index=False)
 print(sample['LABEL'].value_counts())

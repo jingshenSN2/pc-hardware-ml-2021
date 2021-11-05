@@ -1,0 +1,69 @@
+---
+title: "DecisionTree"
+author: "Jingsong, GAO"
+date: "2021/11/2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(rpart)
+library(rpart.plot)
+library(vip)
+library(rattle)
+library(tidyverse)
+library(ggthemes)
+```
+
+
+```{r}
+dat = read.csv("ts.csv")
+dat = dat %>% drop_na()
+str(dat)
+```
+
+```{r}
+dat$Gen10Down = factor(dat$Gen10Down)
+dat$Zen3Down  = factor(dat$Zen3Down )
+dat$brand     = factor(dat$brand    )
+```
+
+
+```{r}
+fit.data = dat[1:13]
+```
+
+```{r}
+table(fit.data$brand)
+```
+
+```{r}
+ctrl = rpart.control(minsplit = 2, minbucket = 2,
+                     cp = 0.01, maxdepth = 4)
+fit = rpart(data = fit.data, brand ~ X2020.03 + X2020.04 + X2020.05 + X2020.06 + X2020.07 + Zen3Down, control = ctrl)
+png("dt_ts_zen3.png", width=1100, height=900)
+fancyRpartPlot(fit)
+dev.off()
+pred = predict(fit, type="class")
+table(pred)
+```
+
+```{r}
+fit = rpart(data = fit.data, brand ~ X2020.08 + X2020.09 + X2020.10 + X2020.11 + X2020.12 + Gen10Down, control = ctrl)
+png("dt_ts_gen10.png", width=1100, height=900)
+fancyRpartPlot(fit)
+dev.off()
+pred = predict(fit, type="class")
+table(pred)
+```
+```{r}
+fit = rpart(data = fit.data, brand ~ ., control = ctrl)
+png("dt_ts_all.png", width=1100, height=900)
+fancyRpartPlot(fit)
+dev.off()
+pred = predict(fit, type="class")
+table(pred)
+```
