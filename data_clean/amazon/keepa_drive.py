@@ -7,7 +7,8 @@ from data_gather.api_key import *
 db = sqlite3.connect('../../data/amazon.db')
 cur = db.cursor()
 today = int(time.time())
-cur.execute(f"INSERT OR REPLACE INTO last_update (catagory, last_update_timestamp) VALUES ('gpu', {today})")
+cur.execute(f"INSERT OR REPLACE INTO last_update (catagory, last_update_timestamp) VALUES ('drive', {today})")
+
 
 def get_drive(manufacturer, drive_type, sub_type, model_name, ASIN_dict):
     """
@@ -22,6 +23,7 @@ def get_drive(manufacturer, drive_type, sub_type, model_name, ASIN_dict):
         # print(f'Requesting ssd information of manufacturer: {manufacturer}, type: {drive_type}, sub_type: {sub_type}, product: {product}, capacity: {capacity}, ASIN: {ASIN}')
         # url = f'https://api.keepa.com/product?key={keepa_access_key}&domain=1&asin={ASIN}&history=1&buybox=1'
         # req = requests.get(url)
+        print(f'Inserting {drive_type}/{manufacturer}/{sub_type}-{model_name}-{capacity}-{ASIN}')
         with open(f'../../data_gather/amazon/{drive_type}/{manufacturer}/{sub_type}-{model_name}-{capacity}-{ASIN}.json', 'rb') as f:
             json_file = json.load(f)
             product = json_file['products'][0]
