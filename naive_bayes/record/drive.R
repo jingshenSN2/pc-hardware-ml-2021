@@ -16,8 +16,8 @@ y.train <- train$CHIA_IMPACT
 table(y.train)
 # y.test <- test$CHIA_IMPACT
 
-X.train <- train %>% select(-CHIA_IMPACT)
-X.test <- test %>% select(-CHIA_IMPACT)
+X.train <- train %>% select(-c(CHIA_IMPACT, asin, product))
+X.test <- test %>% select(-c(CHIA_IMPACT, asin, product))
 
 
 nb.model <- naiveBayes(X.train, y.train)
@@ -35,7 +35,8 @@ ggsave("nb_train.png", height = 6, width = 6)
 
 ggsave("nb_test.png", height = 6, width = 6)
 
-test$CHIA_IMPACT = y.pred.nb
+test$CHIA_IMPACT = predict(nb.model, X.test)
+table(test$CHIA_IMPACT)
 # CHIA_IMPACT
 # 0   1 
 # 81 175 
@@ -117,3 +118,15 @@ with(test, chisq.test(CHIA_IMPACT, drive_subtype))
 # 
 # data:  CHIA_IMPACT and drive_subtype
 # X-squared = 28.91, df = 4, p-value = 8.155e-06
+
+X.train$brand <- factor(X.train$brand)
+X.train$drive_type <- factor(X.train$drive_type)
+X.train$drive_subtype <- factor(X.train$drive_subtype)
+X.train$capacity <- factor(X.train$capacity)
+
+Grid <- data.frame(usekernel=TRUE,laplace = 1,adjust=1)
+mdl <- train(X.train, factor(y.train), method="naive_bayes",
+             trControl=trainControl(method="none"),
+             tuneGrid=Grid)
+
+varImp(mdl)
